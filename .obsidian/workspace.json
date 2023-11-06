@@ -18,8 +18,93 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "958bb23d3750c8e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legal Ownership Structures.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5fdda3d981705b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public company.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd0d217e6192d123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private Company.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e0ba79f5a556e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partnership.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d36f758d34b61d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sole Trader.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "638095d25e890c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SWOT Analysis.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1a4a261493c965bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Planning.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -86,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Types.md",
+                "file": "Strategic Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Types.md",
+                "file": "Strategic Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Types.md"
+                "file": "Strategic Planning.md"
               }
             }
           },
@@ -146,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Business Types.md"
+                "file": "Strategic Planning.md"
               }
             }
           }
@@ -169,14 +254,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3ffe682e8f5f782",
+  "active": "1a4a261493c965bd",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Strategic Planning.md",
+    "SWOT Analysis.md",
+    "Sole Trader.md",
+    "Partnership.md",
+    "Private Company.md",
+    "Business Types.md",
+    "Legal Ownership Structures.md",
+    "Public company.md",
+    "Untitled 5.md",
     "Thermal Equilibrium.md",
     "Calorimetry.md",
     "README.md",
     "Physics",
     "Black Hole.md",
-    "Business Types.md",
     "Acceleration.md",
     "Boo Radley.md",
     "Excalidraw/Kinetic Particle Model LIQUIDS.md",
@@ -189,15 +283,6 @@
     "SI Units.md",
     "Mass.md",
     "Gravitational Potential Energy.md",
-    "Reactivity.md",
-    "Electrostatic Force.md",
-    "Electron.md",
-    "Subatomic Particle.md",
-    "Proton.md",
-    "Neutron.md",
-    "Nucleus.md",
-    "Matter.md",
-    "The Atomic Model.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw"

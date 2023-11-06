@@ -11,7 +11,7 @@ Strategies to improve profit include
 
 Example: Coffee shop sells coffee and serves it. They provide the product of coffee and the service of having someone make it for you. 
 
-### Not for Profit Businesses (NFP)
+### *Not* for Profit Businesses (NFP)
 Does not profit or benefit from operating. Formed to provide goods and services or fund a concern. Benefits a community
 
 Can still make a profit but profit cannot be distributed to owners or anyone else associated with the business
