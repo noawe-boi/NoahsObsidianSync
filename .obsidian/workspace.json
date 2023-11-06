@@ -98,7 +98,7 @@
               "type": "markdown",
               "state": {
                 "file": "Strategic Planning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -256,12 +256,12 @@
   },
   "active": "1a4a261493c965bd",
   "lastOpenFiles": [
-    "Untitled 4.md",
-    "Strategic Planning.md",
     "SWOT Analysis.md",
-    "Sole Trader.md",
-    "Partnership.md",
     "Private Company.md",
+    "Partnership.md",
+    "Sole Trader.md",
+    "Strategic Planning.md",
+    "Untitled 4.md",
     "Business Types.md",
     "Legal Ownership Structures.md",
     "Public company.md",
