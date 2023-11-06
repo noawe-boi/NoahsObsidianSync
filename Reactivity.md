@@ -1,0 +1,2 @@
+#chem 
+How readily a substance reacts with other substances. During a chemical reaction, reactive bonds are broken and product bonds are form. The potential energy changes associated with these processes determine whether the reaction is factorable and can  influence the rate in which the chemical reaction occurs 

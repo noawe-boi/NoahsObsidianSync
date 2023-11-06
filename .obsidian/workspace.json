@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "fe2e40e469ebae2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8976c2d39528957c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "619b4e5660bd8a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceleration.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed28afdd345adca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4937e9a7f10e4178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e8fdd2224cdc75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65843fbb0ab63956",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae095e00f2d876bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25cdaef8f5a3a274",
+    "type": "split",
+    "children": [
+      {
+        "id": "a022dfc02882dd37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ffe682e8f5f782",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Acceleration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba8d7c5ab42dcae4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Acceleration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff2af5483776c9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "785ae84c2804b639",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Acceleration.md"
+              }
+            }
+          },
+          {
+            "id": "5d1c41294afb977e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "ffb8d3b618b625b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Acceleration.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "619b4e5660bd8a9e",
+  "lastOpenFiles": [
+    "Boo Radley.md",
+    "Excalidraw/Kinetic Particle Model LIQUIDS.md",
+    "Excalidraw/Physics Example Review 2.6.6.md",
+    "Excalidraw/Scientific Notation Example 5.md",
+    "Excalidraw/Kinetic Particle Model GASSES.md",
+    "Excalidraw/Kinetic Particle Model SOLIDS.md",
+    "Excalidraw/Bared Spiral Illustrated.md",
+    "Excalidraw/Chapter 2.1 Review Questions Drawing.md",
+    "SI Units.md",
+    "Mass.md",
+    "Gravitational Potential Energy.md",
+    "Reactivity.md",
+    "Electrostatic Force.md",
+    "Electron.md",
+    "Subatomic Particle.md",
+    "Proton.md",
+    "Neutron.md",
+    "Nucleus.md",
+    "Matter.md",
+    "The Atomic Model.md",
+    "Melting Point.md",
+    "Business Types.md",
+    "Calorimetry.md",
+    "Untitled 3.md",
+    "Excalidraw/Physics Example 2.6.1.md",
+    "Conservation of Energy.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}
