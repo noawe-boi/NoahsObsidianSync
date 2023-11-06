@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Black Hole.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "437082482e498f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceleration.md"
+                "file": "readme.md"
               }
             }
           },
@@ -145,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Acceleration.md"
+                "file": "readme.md"
               }
             }
           }
@@ -169,8 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "619b4e5660bd8a9e",
+  "active": "437082482e498f20",
   "lastOpenFiles": [
+    "Black Hole.md",
+    "readme.md",
+    "Business Types.md",
+    "Acceleration.md",
     "Boo Radley.md",
     "Excalidraw/Kinetic Particle Model LIQUIDS.md",
     "Excalidraw/Physics Example Review 2.6.6.md",
@@ -192,11 +209,7 @@
     "Matter.md",
     "The Atomic Model.md",
     "Melting Point.md",
-    "Business Types.md",
     "Calorimetry.md",
-    "Untitled 3.md",
-    "Excalidraw/Physics Example 2.6.1.md",
-    "Conservation of Energy.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw"
