@@ -10,7 +10,7 @@ i.e. How a business intends to compete and survive in the marketplace in the lon
 
 - "where does the business want to be"
 - Identify strategic issues to be addressed
-- Analyze the situation with SWOT analysis
+- Analyze the situation with [[SWOT Analysis]]
 
 
 
