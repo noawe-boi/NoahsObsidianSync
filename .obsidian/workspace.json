@@ -8,127 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2747358bc9795c7b",
+            "id": "b8627657c370e01f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Types.md",
+                "file": "Work.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "958bb23d3750c8e8",
+            "id": "d339570311580095",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b351ef97728d92b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legal Ownership Structures.md",
+                "file": "Waves.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "5fdda3d981705b8d",
+            "id": "163f6b04ec203cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public company.md",
+                "file": "Displacement Time Graph.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "bd0d217e6192d123",
+            "id": "c3ab7970ce1310fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Private Company.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/Displacement Time Graph.md"
               }
             }
           },
           {
-            "id": "7e0ba79f5a556e8a",
+            "id": "c1bf259818c0cf1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Partnership.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/Continuious Wave.excalidraw.md"
               }
             }
           },
           {
-            "id": "d36f758d34b61d17",
+            "id": "001ca7b661f5ecec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sole Trader.md",
+                "file": "Pulse.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "638095d25e890c04",
+            "id": "83c5bc8ba1a745c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWOT Analysis.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "1a4a261493c965bd",
+            "id": "dfd8cfcc4005cc76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategic Planning.md",
+                "file": "9.1 Describing a wave.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "225e3ce3eefc8c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "External Environment.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "975696785308b6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internal Environment.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "external",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -195,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strategic Planning.md",
+                "file": "Displacement Time Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strategic Planning.md",
+                "file": "Displacement Time Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strategic Planning.md"
+                "file": "Displacement Time Graph.md"
               }
             }
           },
@@ -255,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Strategic Planning.md"
+                "file": "Displacement Time Graph.md"
               }
             }
           }
@@ -279,35 +255,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a4a261493c965bd",
+  "active": "163f6b04ec203cf8",
   "lastOpenFiles": [
-    "External Environment.md",
-    "Strategic Planning.md",
-    "SWOT Analysis.md",
-    "Internal Environment.md",
-    "Untitled 6.md",
-    "Sole Trader.md",
-    "Public company.md",
-    "Private Company.md",
-    "Partnership.md",
-    "Untitled 4.md",
-    "Business Types.md",
-    "Legal Ownership Structures.md",
-    "Untitled 5.md",
-    "Thermal Equilibrium.md",
+    "Waves.md",
+    "Displacement Time Graph.md",
+    "Excalidraw/Displacement Time Graph.md",
+    "Pulse.md",
+    "Mechanical Waves.md",
+    "Excalidraw/Pulse.excalidraw.md",
+    "Excalidraw/Continuious Wave.excalidraw.md",
+    "9.1 Describing a wave.md",
+    "Energy Efficiency.md",
+    "The Specific Heat of Zinc.md",
+    "Excalidraw/Physics 2.7 Examples.md",
+    "Work.md",
+    "Excalidraw/Physics 2.7 Review.md",
+    "Mechanical Work and Efficiency.md",
     "Calorimetry.md",
-    "README.md",
+    "Excalidraw/Physics Chapter 2.6 Review.md",
+    "SWOT Analysis.md",
+    "Sole Trader.md",
+    "Partnership.md",
+    "Private Company.md",
+    "Public company.md",
+    "Legal Ownership Structures.md",
+    "External Environment.md",
+    "Excalidraw/Physics Example 2.6.1.md",
+    "Strategic Planning.md",
+    "Excalidraw/Drawing 2023-11-07 10.03.17.excalidraw.md",
     "Physics",
-    "Black Hole.md",
-    "Acceleration.md",
-    "Boo Radley.md",
-    "Excalidraw/Kinetic Particle Model LIQUIDS.md",
-    "Excalidraw/Physics Example Review 2.6.6.md",
-    "Excalidraw/Scientific Notation Example 5.md",
-    "Excalidraw/Kinetic Particle Model GASSES.md",
-    "Excalidraw/Kinetic Particle Model SOLIDS.md",
-    "Excalidraw/Bared Spiral Illustrated.md",
-    "Excalidraw/Chapter 2.1 Review Questions Drawing.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw"
