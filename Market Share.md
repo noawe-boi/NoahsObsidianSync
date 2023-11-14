@@ -1,0 +1,1 @@
+The percentage of the industry that a business controls
