@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "4140dfa585d323e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Longitudinal Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6954d496cc94eab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "b3550cf7ee263d3c",
             "type": "leaf",
             "state": {
@@ -54,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Waves.md",
+                "file": "Longitudinal Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Waves.md",
+                "file": "Longitudinal Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Waves.md"
+                "file": "Longitudinal Waves.md"
               }
             }
           },
@@ -181,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Types of Waves.md"
+                "file": "Longitudinal Waves.md"
               }
             }
           }
@@ -205,8 +227,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d021403d8b6e5941",
+  "active": "4140dfa585d323e9",
   "lastOpenFiles": [
+    "Pasted image 20231114121806.png",
+    "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
+    "Longitudinal Waves.md",
     "Transverse Waves.md",
     "Types of Waves.md",
     "Excalidraw/Transverse Wave.md",
@@ -231,9 +256,6 @@
     "Excalidraw/Physics 2.7 Examples.md",
     "Work.md",
     "Excalidraw/Physics 2.7 Review.md",
-    "Mechanical Work and Efficiency.md",
-    "Calorimetry.md",
-    "Excalidraw/Physics Chapter 2.6 Review.md",
     "Physics",
     "Untitled 1.canvas",
     "Untitled.canvas",
