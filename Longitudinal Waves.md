@@ -1,3 +1,4 @@
+#physics 
 ### Properties
 - Motion is parallel with the direction of the flow of energy  
 - Matter compresses when it holds energy 
@@ -5,6 +6,5 @@
 
 **e.g.** Soundwaves
 
+![[Excalidraw/Longitudinal waves]]
 
-
-![[Pasted image 20231114121806.png]]

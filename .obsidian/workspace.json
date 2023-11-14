@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "de8a206d66711485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torsional Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4140dfa585d323e9",
             "type": "leaf",
             "state": {
@@ -44,12 +56,12 @@
             }
           },
           {
-            "id": "d6954d496cc94eab",
+            "id": "38bd557da98408a1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md"
+                "file": "Excalidraw/Longitudinal waves.md"
               }
             }
           },
@@ -66,17 +78,41 @@
             }
           },
           {
-            "id": "183415ef53c20d4a",
+            "id": "1b782b8db3a7b632",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Transverse Wave.md"
+                "file": "Excalidraw/Wavefronts and Rays Diagrams.md"
+              }
+            }
+          },
+          {
+            "id": "e5f9abb7b583096a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wavefronts and Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "032ae632400fc072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seismic Waves.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -143,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Longitudinal Waves.md",
+                "file": "Seismic Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Longitudinal Waves.md",
+                "file": "Seismic Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Longitudinal Waves.md"
+                "file": "Seismic Waves.md"
               }
             }
           },
@@ -203,7 +239,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Longitudinal Waves.md"
+                "file": "Seismic Waves.md"
               }
             }
           }
@@ -227,18 +263,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4140dfa585d323e9",
+  "active": "032ae632400fc072",
   "lastOpenFiles": [
-    "Pasted image 20231114121806.png",
-    "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
-    "Longitudinal Waves.md",
+    "9.1 Describing a wave.md",
+    "Seismic Waves.md",
+    "Wavefronts and Waves.md",
+    "Excalidraw/Wavefronts and Rays Diagrams.md",
     "Transverse Waves.md",
-    "Types of Waves.md",
     "Excalidraw/Transverse Wave.md",
+    "Excalidraw/Longitudinal waves.md",
+    "Longitudinal Waves.md",
+    "Torsional Waves.md",
+    "Types of Waves.md",
+    "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
+    "Pasted Image 20231114122224_732.png",
+    "Pasted image 20231114121806.png",
     "Employment.md",
     "Societal wants and needs.md",
     "Growth.md",
-    "9.1 Describing a wave.md",
     "Business Goals.md",
     "Market Share.md",
     "Profitability.md",
@@ -252,10 +294,6 @@
     "Mechanical Waves.md",
     "Excalidraw/Pulse.excalidraw.md",
     "Energy Efficiency.md",
-    "The Specific Heat of Zinc.md",
-    "Excalidraw/Physics 2.7 Examples.md",
-    "Work.md",
-    "Excalidraw/Physics 2.7 Review.md",
     "Physics",
     "Untitled 1.canvas",
     "Untitled.canvas",
