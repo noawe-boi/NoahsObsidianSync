@@ -8,14 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31b52f9922073283",
+            "id": "089ff1d90a2eddaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.1 Describing a wave.md",
+                "file": "9.3 Reflection.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fad47f9472a6eb18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Light to heavy transverse wave.md"
+              }
+            }
+          },
+          {
+            "id": "63819d379d4f02e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Heavy to light transverse wave.md"
+              }
+            }
+          },
+          {
+            "id": "6e8666cc518d4f60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Transverse Reflection DIagram.md"
+              }
+            }
+          },
+          {
+            "id": "7fa938fde17233a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Transverse reflection loose end.md"
               }
             }
           },
@@ -111,8 +151,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seismic Waves.md",
+                "file": "9.3 Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seismic Waves.md",
+                "file": "9.3 Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seismic Waves.md"
+                "file": "9.3 Reflection.md"
               }
             }
           },
@@ -239,7 +278,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Seismic Waves.md"
+                "file": "9.3 Reflection.md"
               }
             }
           }
@@ -263,18 +302,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "032ae632400fc072",
+  "active": "089ff1d90a2eddaf",
   "lastOpenFiles": [
-    "9.1 Describing a wave.md",
-    "Seismic Waves.md",
+    "Excalidraw/Heavy to light transverse wave.md",
+    "Excalidraw/Light to heavy transverse wave.md",
+    "9.3 Reflection.md",
+    "Excalidraw/Transverse reflection loose end.md",
+    "Excalidraw/Transverse Reflection DIagram.md",
     "Wavefronts and Waves.md",
+    "Types of Waves.md",
+    "Seismic Waves.md",
     "Excalidraw/Wavefronts and Rays Diagrams.md",
     "Transverse Waves.md",
-    "Excalidraw/Transverse Wave.md",
     "Excalidraw/Longitudinal waves.md",
     "Longitudinal Waves.md",
+    "9.1 Describing a wave.md",
+    "Excalidraw/Transverse Wave.md",
     "Torsional Waves.md",
-    "Types of Waves.md",
     "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
@@ -289,11 +333,6 @@
     "Excalidraw/Continuious Wave.excalidraw.md",
     "Excalidraw/9.1 Worked Examples.md",
     "Excalidraw/Displacement Time Graph.md",
-    "Displacement Time Graph.md",
-    "Waves.md",
-    "Mechanical Waves.md",
-    "Excalidraw/Pulse.excalidraw.md",
-    "Energy Efficiency.md",
     "Physics",
     "Untitled 1.canvas",
     "Untitled.canvas",
