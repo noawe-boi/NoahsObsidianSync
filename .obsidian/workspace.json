@@ -8,150 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "089ff1d90a2eddaf",
+            "id": "34c7e9c2db42023f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.3 Reflection.md",
+                "file": "9.4 Refraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fad47f9472a6eb18",
+            "id": "52e43606cd05c791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Huygens Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "033574c6ca94eb49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4367be05899351e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Light to heavy transverse wave.md"
-              }
-            }
-          },
-          {
-            "id": "63819d379d4f02e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Heavy to light transverse wave.md"
-              }
-            }
-          },
-          {
-            "id": "6e8666cc518d4f60",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Transverse Reflection DIagram.md"
-              }
-            }
-          },
-          {
-            "id": "7fa938fde17233a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Transverse reflection loose end.md"
-              }
-            }
-          },
-          {
-            "id": "d021403d8b6e5941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de8a206d66711485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Torsional Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4140dfa585d323e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Longitudinal Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38bd557da98408a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Longitudinal waves.md"
-              }
-            }
-          },
-          {
-            "id": "b3550cf7ee263d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transverse Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b782b8db3a7b632",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Wavefronts and Rays Diagrams.md"
-              }
-            }
-          },
-          {
-            "id": "e5f9abb7b583096a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wavefronts and Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "032ae632400fc072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seismic Waves.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-11-20 09.27.26.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -218,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.3 Reflection.md",
+                "file": "Refraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.3 Reflection.md",
+                "file": "Refraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.3 Reflection.md"
+                "file": "Refraction.md"
               }
             }
           },
@@ -278,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "9.3 Reflection.md"
+                "file": "Refraction.md"
               }
             }
           }
@@ -302,16 +206,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "089ff1d90a2eddaf",
+  "active": "033574c6ca94eb49",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-20 09.27.26.excalidraw.md",
+    "Refraction.md",
+    "Huygens Principle.md",
+    "Excalidraw/Huygens Principle Diagram.md",
+    "9.4 Refraction.md",
+    "9.3 Reflection.md",
+    "Reflected wave fronts.md",
+    "Excalidraw/mr ace mirror diagram.md",
+    "Mirrors.md",
+    "Excalidraw/Reflected wave fronts diagram.md",
+    "Seismic Waves.md",
+    "Excalidraw/Kinetic Particle Model GASSES.md",
+    "Pulse.md",
     "Excalidraw/Heavy to light transverse wave.md",
     "Excalidraw/Light to heavy transverse wave.md",
-    "9.3 Reflection.md",
     "Excalidraw/Transverse reflection loose end.md",
     "Excalidraw/Transverse Reflection DIagram.md",
     "Wavefronts and Waves.md",
     "Types of Waves.md",
-    "Seismic Waves.md",
     "Excalidraw/Wavefronts and Rays Diagrams.md",
     "Transverse Waves.md",
     "Excalidraw/Longitudinal waves.md",
@@ -319,20 +234,9 @@
     "9.1 Describing a wave.md",
     "Excalidraw/Transverse Wave.md",
     "Torsional Waves.md",
-    "Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
-    "Employment.md",
-    "Societal wants and needs.md",
-    "Growth.md",
-    "Business Goals.md",
-    "Market Share.md",
-    "Profitability.md",
     "Physics 9.1 Describing a wave.canvas",
-    "Pulse.md",
-    "Excalidraw/Continuious Wave.excalidraw.md",
-    "Excalidraw/9.1 Worked Examples.md",
-    "Excalidraw/Displacement Time Graph.md",
     "Physics",
     "Untitled 1.canvas",
     "Untitled.canvas",
