@@ -6,9 +6,9 @@ Refraction is the change in direction of a wave as it travels from one material 
 - Refraction is a change in the direction of light
 - Caused by change in speed (v) when it passes from one medium to another
 - Light rays that enter a new medium perfectly perpendicular to its surface will NOT refract
-
+	- More spread wavefronts mean higher speed. 
 #### Refraction of light Diagram + Rules
-![[Drawing 2023-11-20 09.27.26.excalidraw]]
+![[Refraction diagram 2]]
 If:
 - V1 > V2
 then
