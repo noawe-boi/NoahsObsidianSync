@@ -8,79 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34c7e9c2db42023f",
+            "id": "a6a531bcfba2e814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.4 Refraction.md",
+                "file": "Diffraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "066303ba8384b967",
+            "id": "9b27fa225ffdd197",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/mr ace mirror diagram.md"
+              }
+            }
+          },
+          {
+            "id": "ca4ca03881308ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.1 Describing a wave.md",
+                "file": "Chapter 9 Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b197333d25ebd58",
+            "id": "399f67981a858b0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Seismic Waves.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Chapter 9 Review Wave Drawing.md"
               }
             }
           },
           {
-            "id": "bbbe5bf34e84dd4b",
+            "id": "f798ae096510c0ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Wavefronts and Waves.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/mr ace mirror diagram.md"
               }
             }
           },
           {
-            "id": "9b7955eced69e83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbba64cfa49ccf41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Displacement Time Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5065240c8ad85765",
+            "id": "7e7f7a4bef0a66c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,63 +72,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ecf7e9fb494569f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanical Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012d2da8379990f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d107d8b8a86b109",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "52e43606cd05c791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Huygens Principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4367be05899351e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Refraction diagram 2.md"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,8 +103,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physics",
-                "matchingCase": false,
+                "query": "mr ace",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -213,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Displacement Time Graph.md",
+                "file": "Chapter 9 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Displacement Time Graph.md",
+                "file": "Chapter 9 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Displacement Time Graph.md"
+                "file": "Chapter 9 Review.md"
               }
             }
           },
@@ -273,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Displacement Time Graph.md"
+                "file": "Chapter 9 Review.md"
               }
             }
           }
@@ -297,34 +225,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbba64cfa49ccf41",
+  "active": "ca4ca03881308ea0",
   "lastOpenFiles": [
-    "Types of Waves.md",
-    "Wavefronts and Waves.md",
+    "Diffraction.md",
+    "Excalidraw/mr ace mirror diagram.md",
+    "Chapter 9 Review.md",
     "Seismic Waves.md",
-    "9.1 Describing a wave.md",
+    "Excalidraw/Chapter 9 Review Wave Drawing.md",
+    "9.3 Reflection.md",
+    "Pulse.md",
+    "Excalidraw/Pulse.excalidraw.md",
+    "9.5 Diffraction.md",
+    "Excalidraw/Drawing 2024-01-22 12.07.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 12.07.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 12.07.41.excalidraw.md",
+    "Excalidraw/Diffraction example.md",
+    "9.4 Refraction.md",
+    "Excalidraw/Refraction diagram 2.md",
+    "Huygens Principle.md",
     "Waves.md",
     "Mechanical Waves.md",
-    "Pulse.md",
     "Displacement Time Graph.md",
+    "Types of Waves.md",
+    "Wavefronts and Waves.md",
+    "9.1 Describing a wave.md",
     "Refraction.md",
-    "9.4 Refraction.md",
-    "Huygens Principle.md",
-    "Excalidraw/Refraction diagram 2.md",
     "Excalidraw/Huygens Principle Diagram.md",
-    "9.3 Reflection.md",
     "Reflected wave fronts.md",
-    "Excalidraw/mr ace mirror diagram.md",
     "Mirrors.md",
-    "Excalidraw/Reflected wave fronts diagram.md",
-    "Excalidraw/Kinetic Particle Model GASSES.md",
-    "Excalidraw/Heavy to light transverse wave.md",
-    "Excalidraw/Light to heavy transverse wave.md",
-    "Excalidraw/Transverse reflection loose end.md",
-    "Excalidraw/Transverse Reflection DIagram.md",
-    "Excalidraw/Wavefronts and Rays Diagrams.md",
-    "Transverse Waves.md",
-    "Excalidraw/Longitudinal waves.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
