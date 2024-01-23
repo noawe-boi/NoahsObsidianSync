@@ -11,6 +11,6 @@
 - Simple decision making
 - Often single authority makes decision/gives commands
 
-``
+
 
 
