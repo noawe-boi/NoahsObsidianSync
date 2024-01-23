@@ -8,73 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6a531bcfba2e814",
+            "id": "58f9e2ce75838edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffraction.md",
+                "file": "Business Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b27fa225ffdd197",
+            "id": "7e60107f6b214e04",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "ca4ca03881308ea0",
+            "id": "20284dff31f95e3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 9 Review.md",
+                "file": "External Environment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "399f67981a858b0d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Chapter 9 Review Wave Drawing.md"
-              }
-            }
-          },
-          {
-            "id": "f798ae096510c0ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md"
-              }
-            }
-          },
-          {
-            "id": "7e7f7a4bef0a66c3",
+            "id": "858c17e027cd03b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulse.md",
+                "file": "SWOT Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c60a0aa7f569db",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-23 11.30.18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "65bda8abf9687f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizational Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f352937b4838c9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hierarchy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ba7eef8579e8498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business-Organizational  structures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -103,8 +127,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mr ace",
-                "matchingCase": true,
+                "query": "organization",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 9 Review.md",
+                "file": "Business-Organizational  structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 9 Review.md",
+                "file": "Business-Organizational  structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 9 Review.md"
+                "file": "Business-Organizational  structures.md"
               }
             }
           },
@@ -191,7 +215,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -201,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chapter 9 Review.md"
+                "file": "Business-Organizational  structures.md"
               }
             }
           }
@@ -225,8 +251,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca4ca03881308ea0",
+  "active": "5ba7eef8579e8498",
   "lastOpenFiles": [
+    "Hierarchy.md",
+    "Business-Organizational  structures.md",
+    "Organizational Design.md",
+    "Excalidraw/Drawing 2024-01-23 11.30.18.excalidraw.md",
+    "SWOT Analysis.md",
+    "Private Company.md",
+    "Business Types.md",
+    "Excalidraw/Drawing 2024-01-23 11.17.51.excalidraw.md",
+    "External Environment.md",
+    "Partnership.md",
+    "Business 23-01-2024.md",
     "Diffraction.md",
     "Excalidraw/mr ace mirror diagram.md",
     "Chapter 9 Review.md",
@@ -242,17 +279,6 @@
     "Excalidraw/Diffraction example.md",
     "9.4 Refraction.md",
     "Excalidraw/Refraction diagram 2.md",
-    "Huygens Principle.md",
-    "Waves.md",
-    "Mechanical Waves.md",
-    "Displacement Time Graph.md",
-    "Types of Waves.md",
-    "Wavefronts and Waves.md",
-    "9.1 Describing a wave.md",
-    "Refraction.md",
-    "Excalidraw/Huygens Principle Diagram.md",
-    "Reflected wave fronts.md",
-    "Mirrors.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
