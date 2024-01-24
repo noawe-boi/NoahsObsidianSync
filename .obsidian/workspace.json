@@ -4,89 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90a147fdf199abbc",
+        "id": "8d0ab806eca680d3",
         "type": "tabs",
         "children": [
           {
-            "id": "58f9e2ce75838edd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e60107f6b214e04",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "20284dff31f95e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "External Environment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "858c17e027cd03b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SWOT Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66c60a0aa7f569db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 11.30.18.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "65bda8abf9687f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizational Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f352937b4838c9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hierarchy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ba7eef8579e8498",
+            "id": "725301d8ab7d5086",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,9 +18,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f723242abfdbbf5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Delish Dishes Case Study.md"
+              }
+            }
+          },
+          {
+            "id": "9f51adb8779e6317",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -149,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -165,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business-Organizational  structures.md",
+                "file": "Excalidraw/Delish Dishes Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business-Organizational  structures.md",
+                "file": "Excalidraw/Delish Dishes Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business-Organizational  structures.md"
+                "file": "Excalidraw/Delish Dishes Case Study.md"
               }
             }
           },
@@ -227,11 +168,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Business-Organizational  structures.md"
+                "file": "Excalidraw/Delish Dishes Case Study.md"
               }
             }
+          },
+          {
+            "id": "5222ebf41e3b20fa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -251,34 +201,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ba7eef8579e8498",
+  "active": "1f723242abfdbbf5",
   "lastOpenFiles": [
-    "Hierarchy.md",
     "Business-Organizational  structures.md",
     "Organizational Design.md",
+    "Excalidraw/Delish Dishes Case Study.md",
+    "Excalidraw/Standing waves diagram.md",
+    "9.7 Standing Wave.md",
+    "Interference.md",
+    "Excalidraw/9.6 Review.md",
+    "9.6 Review.md",
+    "9.6 interference and superposition.md",
+    "Chapter 9 Review.md",
+    "Excalidraw/Destructive Interference.md",
+    "Excalidraw/Iterference from 2 point sources.md",
+    "Excalidraw/Worlded Example 9.6.3.md",
+    "Worked Example 9.6.3.md",
+    "Excalidraw/Constructive Interference.md",
+    "Hierarchy.md",
     "Excalidraw/Drawing 2024-01-23 11.30.18.excalidraw.md",
     "SWOT Analysis.md",
-    "Private Company.md",
-    "Business Types.md",
-    "Excalidraw/Drawing 2024-01-23 11.17.51.excalidraw.md",
     "External Environment.md",
+    "Business Types.md",
+    "Private Company.md",
+    "Excalidraw/Drawing 2024-01-23 11.17.51.excalidraw.md",
     "Partnership.md",
     "Business 23-01-2024.md",
     "Diffraction.md",
     "Excalidraw/mr ace mirror diagram.md",
-    "Chapter 9 Review.md",
-    "Seismic Waves.md",
-    "Excalidraw/Chapter 9 Review Wave Drawing.md",
-    "9.3 Reflection.md",
-    "Pulse.md",
-    "Excalidraw/Pulse.excalidraw.md",
-    "9.5 Diffraction.md",
-    "Excalidraw/Drawing 2024-01-22 12.07.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-22 12.07.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-22 12.07.41.excalidraw.md",
-    "Excalidraw/Diffraction example.md",
-    "9.4 Refraction.md",
-    "Excalidraw/Refraction diagram 2.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",

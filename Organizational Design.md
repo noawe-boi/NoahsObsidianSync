@@ -1,6 +1,7 @@
 #business 
 "Big picture" that describes a business
-
+also includes
+[[Business-Organizational  structures]]
 ### Things that must be considered
 - what is the purpose of the business (e.g. Profit, Provide a service)
 - What environment will the business operate in (e.g. digitally)
@@ -15,4 +16,6 @@
 - Achieves better outcomes
 - Promotes growth of the business
 - Creates committed and hard working employees. 
-### 
+
+
+![[Delish Dishes Case Study]]
