@@ -16,87 +16,41 @@
             }
           },
           {
-            "id": "fe7b4a35b02bf4ca",
+            "id": "5805aec5ea158eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.7 Standing Wave.md",
+                "file": "Chapter 9 Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bec581aebdb900a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3f418ba199d432b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.7 Standing Wave.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c0707eba87f5873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b78fe92b5cc40644",
+            "id": "9f6013bffe97de10",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Worked example 9.7.2.md"
+                "file": "Excalidraw/chapter 9 review, question 13.md"
               }
             }
           },
           {
-            "id": "14ba4206601b2d53",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/woodwind resonance.md"
-              }
-            }
-          },
-          {
-            "id": "8cfc0f1aedbb0df8",
+            "id": "151eb099c5990e5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.6 interference and superposition.md",
+                "file": "Refraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#physics",
+                "query": "towards",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -163,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.7 Standing Wave.md",
+                "file": "Excalidraw/chapter 9 review, question 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.7 Standing Wave.md",
+                "file": "Excalidraw/chapter 9 review, question 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.7 Standing Wave.md"
+                "file": "Excalidraw/chapter 9 review, question 13.md"
               }
             }
           },
@@ -225,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "9.7 Standing Wave.md"
+                "file": "Excalidraw/chapter 9 review, question 13.md"
               }
             }
           },
@@ -258,12 +212,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3f418ba199d432b",
+  "active": "9f6013bffe97de10",
   "lastOpenFiles": [
-    "Excalidraw/Worked example 9.7.2.md",
+    "Refraction.md",
+    "Excalidraw/chapter 9 review, question 13.md",
+    "Excalidraw/Refraction diagram 2.md",
+    "Excalidraw/Reflected wave fronts diagram.md",
+    "Chapter 9 Review.md",
     "Untitled 8.md",
-    "9.7 Standing Wave.md",
     "Excalidraw/woodwind resonance.md",
+    "Excalidraw/Worked example 9.7.2.md",
+    "9.7 Standing Wave.md",
     "Untitled 7.md",
     "9.6 interference and superposition.md",
     "Excalidraw/Delish Dishes Case Study.md",
@@ -273,7 +232,6 @@
     "Interference.md",
     "Excalidraw/9.6 Review.md",
     "9.6 Review.md",
-    "Chapter 9 Review.md",
     "Excalidraw/Destructive Interference.md",
     "Excalidraw/Iterference from 2 point sources.md",
     "Excalidraw/Worlded Example 9.6.3.md",
@@ -282,10 +240,6 @@
     "Hierarchy.md",
     "Excalidraw/Drawing 2024-01-23 11.30.18.excalidraw.md",
     "SWOT Analysis.md",
-    "External Environment.md",
-    "Business Types.md",
-    "Private Company.md",
-    "Excalidraw/Drawing 2024-01-23 11.17.51.excalidraw.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",

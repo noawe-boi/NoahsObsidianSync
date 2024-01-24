@@ -15,6 +15,5 @@ then
 - Lambda1 > Lambda 2
 
 #### Summary
-When a wave transfers to a **slower** medium, the wave refracts 
-(*bends*) **towards** the normal.
+When a wave transfers to a **slower** medium, the wave refracts (*bends*) **towards** the normal.
 When a Wave transfers to a **faster** medium, the wave refracts (*bends*) **away** from the normal

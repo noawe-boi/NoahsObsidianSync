@@ -11,3 +11,8 @@
 8.  ![[Chapter 9 Review Wave Drawing]]
 9. The frequency is 0.5hz, the amplitude is 10cm, t = 2
 10. A = 5, W-L = 40cm`
+11.  A. The majority of the sunlight is transmitted through the window. reflected around the room and slowly absorbed by each surface it hits every time it bounces. 
+	B.  the majority of the sunlight is transmitted through the window, reflects off surfaces in the room and is then transmitted out of the window again and into my eyes. 
+	C. some of the light is absorbed by the window when it hits. 
+12. when the light wave that are reflected of the persons body travel towards the mirror, they travel the distance between the person in the mirror. the wave are then reflected and must travel that same distance back into the persons eyes. this makes the image behind the mirror appear to be double the distance away than they really are from the mirror. 
+13. ![[chapter 9 review, question 13]]
