@@ -2,5 +2,7 @@
   "accentColor": "",
   "baseFontSize": 27,
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "cssTheme": "Tokyo Night"
 }
