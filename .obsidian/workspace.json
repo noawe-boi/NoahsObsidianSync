@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "9.7",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "dd155841571c0792",
