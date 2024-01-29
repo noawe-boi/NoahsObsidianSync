@@ -21,5 +21,6 @@
 
 ##### Total Deuctive interference 
 - When Path difference = (n+(1/2)) x Lambda
+-  where **n** represents the number of **complete wavelengths** the second wave needs to be **delayed** compared to the first wave.
  
 
