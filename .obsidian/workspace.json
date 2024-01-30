@@ -16,12 +16,46 @@
             }
           },
           {
-            "id": "62fc5879817a7494",
+            "id": "b04a40a89cf65a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.2 Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2fd70d65a48bd97",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Business 3.4 Questions.md"
+                "file": "Excalidraw/Example 10.2.2.md"
+              }
+            }
+          },
+          {
+            "id": "4014f8bd5edf98e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Example 10.2.1.md"
+              }
+            }
+          },
+          {
+            "id": "b3f8da288ae88905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.7 Standing Wave.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -55,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organ",
+                "query": "standing",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Business 3.4 Questions.md",
+                "file": "10.2 Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Business 3.4 Questions.md",
+                "file": "10.2 Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Business 3.4 Questions.md"
+                "file": "10.2 Strings.md"
               }
             }
           },
@@ -155,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Business 3.4 Questions.md"
+                "file": "10.2 Strings.md"
               }
             }
           },
@@ -172,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +221,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62fc5879817a7494",
+  "active": "b04a40a89cf65a77",
   "lastOpenFiles": [
+    "Excalidraw/Example 10.2.2.md",
+    "10.2 Strings.md",
+    "Excalidraw/Physics Example 10.2.1.md",
+    "9.7 Standing Wave.md",
     "Excalidraw/Business 3.4 Questions.md",
     "elements of organizational culture.md",
     "Leadership and Management Roles.md",
@@ -212,10 +249,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/chapter 9 review, question 13.md",
     "Excalidraw/Drawing 2024-01-04 00.47.43.excalidraw.md",
-    "Excalidraw/Chapter 9.6 Review.md",
-    "Excalidraw/9.7 Review.md",
-    "Refraction.md",
-    "Excalidraw/Refraction diagram 2.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
