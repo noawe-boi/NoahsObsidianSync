@@ -16,14 +16,12 @@
             }
           },
           {
-            "id": "b04a40a89cf65a77",
+            "id": "77de170c5d2b67de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "10.2 Strings.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Physics Example 10.2.3.md"
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.2 Strings.md",
+                "file": "Excalidraw/Physics Example 10.2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.2 Strings.md",
+                "file": "Excalidraw/Physics Example 10.2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.2 Strings.md"
+                "file": "Excalidraw/Physics Example 10.2.3.md"
               }
             }
           },
@@ -189,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10.2 Strings.md"
+                "file": "Excalidraw/Physics Example 10.2.3.md"
               }
             }
           },
@@ -221,10 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b04a40a89cf65a77",
+  "active": "77de170c5d2b67de",
   "lastOpenFiles": [
-    "Excalidraw/Example 10.2.2.md",
     "10.2 Strings.md",
+    "Excalidraw/Physics Example 10.2.3.md",
+    "Excalidraw/Example 10.2.2.md",
     "Excalidraw/Physics Example 10.2.1.md",
     "9.7 Standing Wave.md",
     "Excalidraw/Business 3.4 Questions.md",
@@ -248,7 +247,6 @@
     "Excalidraw/Longitudinal waves.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/chapter 9 review, question 13.md",
-    "Excalidraw/Drawing 2024-01-04 00.47.43.excalidraw.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
