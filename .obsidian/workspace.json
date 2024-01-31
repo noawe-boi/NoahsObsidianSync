@@ -16,42 +16,12 @@
             }
           },
           {
-            "id": "77de170c5d2b67de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Example 10.2.3.md"
-              }
-            }
-          },
-          {
-            "id": "d2fd70d65a48bd97",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Example 10.2.2.md"
-              }
-            }
-          },
-          {
-            "id": "4014f8bd5edf98e4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Example 10.2.1.md"
-              }
-            }
-          },
-          {
-            "id": "b3f8da288ae88905",
+            "id": "9bcc4fc568743914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.7 Standing Wave.md",
+                "file": "10.3 Pipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +47,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -87,12 +57,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "standing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -125,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Example 10.2.3.md",
+                "file": "10.3 Pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Example 10.2.3.md",
+                "file": "10.3 Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics Example 10.2.3.md"
+                "file": "10.3 Pipes.md"
               }
             }
           },
@@ -187,7 +157,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics Example 10.2.3.md"
+                "file": "10.3 Pipes.md"
               }
             }
           },
@@ -200,11 +170,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +190,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77de170c5d2b67de",
+  "active": "9bcc4fc568743914",
   "lastOpenFiles": [
+    "Excalidraw/Pipe with close end Third Harmonic.md",
+    "10.3 Pipes.md",
+    "Excalidraw/Pipe with close end Fundamental Harmonic.md",
+    "Excalidraw/Open Ends Second Harmonic.md",
+    "Excalidraw/Open Ends Third Harmonic.md",
+    "Excalidraw/Drawing 2024-02-01 09.18.51.excalidraw.md",
+    "Excalidraw/Open Pipe Fundamental Harmonic.md",
+    "leadership and management traits.md",
+    "Organizational Culture.md",
+    "Leadership and Management Roles.md",
+    "Developing Organizational Structure.md",
+    "Leadership and management styles.md",
+    "Untitled 9.md",
+    "Excalidraw/Physics 10.2 Review.md",
     "10.2 Strings.md",
     "Excalidraw/Physics Example 10.2.3.md",
     "Excalidraw/Example 10.2.2.md",
@@ -228,25 +213,11 @@
     "9.7 Standing Wave.md",
     "Excalidraw/Business 3.4 Questions.md",
     "elements of organizational culture.md",
-    "Leadership and Management Roles.md",
     "9.1 Describing a wave.md",
     "Waves.md",
     "Wavefronts and Waves.md",
     "Mechanical Waves.md",
     "Displacement Time Graph.md",
-    "Energy Efficiency.md",
-    "Organizational Culture.md",
-    "Organizational Design.md",
-    "Business-Organizational  structures.md",
-    "Entrepreneur vs Intrapreneur.md",
-    "Developing Organizational Structure.md",
-    "10.1 Sound.md",
-    "Excalidraw/physics 10.1 review.md",
-    "Excalidraw/longitunindal transverse wave.md",
-    "Excalidraw/physics example 10.1.1.md",
-    "Excalidraw/Longitudinal waves.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/chapter 9 review, question 13.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
