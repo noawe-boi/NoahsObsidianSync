@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1d9d89342ed724d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/10.3 Worked Examples Physics.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.3 Pipes.md",
+                "file": "Excalidraw/10.3 Worked Examples Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.3 Pipes.md",
+                "file": "Excalidraw/10.3 Worked Examples Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.3 Pipes.md"
+                "file": "Excalidraw/10.3 Worked Examples Physics.md"
               }
             }
           },
@@ -157,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "10.3 Pipes.md"
+                "file": "Excalidraw/10.3 Worked Examples Physics.md"
               }
             }
           },
@@ -190,10 +200,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bcc4fc568743914",
+  "active": "e1d9d89342ed724d",
   "lastOpenFiles": [
-    "Excalidraw/Pipe with close end Third Harmonic.md",
     "10.3 Pipes.md",
+    "Excalidraw/10.3 Worked Examples Physics.md",
+    "Excalidraw/Pipe with close end Third Harmonic.md",
     "Excalidraw/Pipe with close end Fundamental Harmonic.md",
     "Excalidraw/Open Ends Second Harmonic.md",
     "Excalidraw/Open Ends Third Harmonic.md",
@@ -217,7 +228,6 @@
     "Waves.md",
     "Wavefronts and Waves.md",
     "Mechanical Waves.md",
-    "Displacement Time Graph.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
