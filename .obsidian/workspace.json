@@ -16,6 +16,16 @@
             }
           },
           {
+            "id": "3d8eb7fd76b29afa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Busness Chapter 3 Review.md"
+              }
+            }
+          },
+          {
             "id": "9bcc4fc568743914",
             "type": "leaf",
             "state": {
@@ -28,17 +38,55 @@
             }
           },
           {
-            "id": "e1d9d89342ed724d",
+            "id": "ddc845b02088fdc9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/10.3 Worked Examples Physics.md"
+                "file": "Leadership and management styles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af3302d6c8965fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public company.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b74770d638647b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business-Organizational  structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe6001f6ad2b42a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developing Organizational Structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#business",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/10.3 Worked Examples Physics.md",
+                "file": "Excalidraw/Busness Chapter 3 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/10.3 Worked Examples Physics.md",
+                "file": "Excalidraw/Busness Chapter 3 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/10.3 Worked Examples Physics.md"
+                "file": "Excalidraw/Busness Chapter 3 Review.md"
               }
             }
           },
@@ -167,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/10.3 Worked Examples Physics.md"
+                "file": "Excalidraw/Busness Chapter 3 Review.md"
               }
             }
           },
@@ -200,9 +248,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1d9d89342ed724d",
+  "active": "3d8eb7fd76b29afa",
   "lastOpenFiles": [
+    "Business-Organizational  structures.md",
+    "Excalidraw/Busness Chapter 3 Review.md",
     "10.3 Pipes.md",
+    "Leadership and management styles.md",
+    "Public company.md",
+    "Developing Organizational Structure.md",
     "Excalidraw/10.3 Worked Examples Physics.md",
     "Excalidraw/Pipe with close end Third Harmonic.md",
     "Excalidraw/Pipe with close end Fundamental Harmonic.md",
@@ -213,8 +266,6 @@
     "leadership and management traits.md",
     "Organizational Culture.md",
     "Leadership and Management Roles.md",
-    "Developing Organizational Structure.md",
-    "Leadership and management styles.md",
     "Untitled 9.md",
     "Excalidraw/Physics 10.2 Review.md",
     "10.2 Strings.md",
@@ -225,9 +276,6 @@
     "Excalidraw/Business 3.4 Questions.md",
     "elements of organizational culture.md",
     "9.1 Describing a wave.md",
-    "Waves.md",
-    "Wavefronts and Waves.md",
-    "Mechanical Waves.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",

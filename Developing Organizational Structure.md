@@ -1,6 +1,3 @@
-
-
-
 #business 
 Start with purpose
 why does the business exist and what should it do 
