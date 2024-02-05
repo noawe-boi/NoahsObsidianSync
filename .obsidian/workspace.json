@@ -16,77 +16,41 @@
             }
           },
           {
-            "id": "3d8eb7fd76b29afa",
+            "id": "e3d83976ce863d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resonance and natural frequency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ee65a48e109ba60",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Busness Chapter 3 Review.md"
+                "file": "Excalidraw/Physics chapter 10 Review.md"
               }
             }
           },
           {
-            "id": "9bcc4fc568743914",
+            "id": "d53b755feb02c710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.3 Pipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddc845b02088fdc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership and management styles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af3302d6c8965fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public company.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b74770d638647b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business-Organizational  structures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe6001f6ad2b42a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developing Organizational Structure.md",
+                "file": "10.2 Strings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#business",
+                "query": "#physi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -153,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Busness Chapter 3 Review.md",
+                "file": "Excalidraw/Physics chapter 10 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Busness Chapter 3 Review.md",
+                "file": "Excalidraw/Physics chapter 10 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Busness Chapter 3 Review.md"
+                "file": "Excalidraw/Physics chapter 10 Review.md"
               }
             }
           },
@@ -215,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Busness Chapter 3 Review.md"
+                "file": "Excalidraw/Physics chapter 10 Review.md"
               }
             }
           },
@@ -248,11 +212,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d8eb7fd76b29afa",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
-    "Business-Organizational  structures.md",
+    "10.2 Strings.md",
+    "Excalidraw/Physics chapter 10 Review.md",
+    "Resonance and natural frequency.md",
     "Excalidraw/Busness Chapter 3 Review.md",
     "10.3 Pipes.md",
+    "Business-Organizational  structures.md",
     "Leadership and management styles.md",
     "Public company.md",
     "Developing Organizational Structure.md",
@@ -268,14 +235,11 @@
     "Leadership and Management Roles.md",
     "Untitled 9.md",
     "Excalidraw/Physics 10.2 Review.md",
-    "10.2 Strings.md",
     "Excalidraw/Physics Example 10.2.3.md",
     "Excalidraw/Example 10.2.2.md",
     "Excalidraw/Physics Example 10.2.1.md",
     "9.7 Standing Wave.md",
     "Excalidraw/Business 3.4 Questions.md",
-    "elements of organizational culture.md",
-    "9.1 Describing a wave.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
