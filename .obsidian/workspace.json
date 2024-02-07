@@ -16,36 +16,24 @@
             }
           },
           {
-            "id": "e3d83976ce863d74",
+            "id": "6324e5c112bb32f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resonance and natural frequency.md",
+                "file": "10.3 Pipes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ee65a48e109ba60",
+            "id": "8b0fa733081125a7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics chapter 10 Review.md"
-              }
-            }
-          },
-          {
-            "id": "d53b755feb02c710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.2 Strings.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Physics Calculating the speed of sound.md"
               }
             }
           }
@@ -79,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#physi",
-                "matchingCase": false,
+                "query": "open ends",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics chapter 10 Review.md",
+                "file": "Excalidraw/Physics Calculating the speed of sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics chapter 10 Review.md",
+                "file": "Excalidraw/Physics Calculating the speed of sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics chapter 10 Review.md"
+                "file": "Excalidraw/Physics Calculating the speed of sound.md"
               }
             }
           },
@@ -179,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics chapter 10 Review.md"
+                "file": "Excalidraw/Physics Calculating the speed of sound.md"
               }
             }
           },
@@ -212,16 +200,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "8b0fa733081125a7",
   "lastOpenFiles": [
+    "10.3 Pipes.md",
+    "Excalidraw/Physics Calculating the speed of sound.md",
+    "Strategic Planning.md",
+    "SWOT Analysis.md",
+    "Leadership and Management Roles.md",
+    "Public company.md",
+    "Resonance and natural frequency.md",
     "10.2 Strings.md",
     "Excalidraw/Physics chapter 10 Review.md",
-    "Resonance and natural frequency.md",
     "Excalidraw/Busness Chapter 3 Review.md",
-    "10.3 Pipes.md",
     "Business-Organizational  structures.md",
     "Leadership and management styles.md",
-    "Public company.md",
     "Developing Organizational Structure.md",
     "Excalidraw/10.3 Worked Examples Physics.md",
     "Excalidraw/Pipe with close end Third Harmonic.md",
@@ -232,14 +224,10 @@
     "Excalidraw/Open Pipe Fundamental Harmonic.md",
     "leadership and management traits.md",
     "Organizational Culture.md",
-    "Leadership and Management Roles.md",
     "Untitled 9.md",
     "Excalidraw/Physics 10.2 Review.md",
     "Excalidraw/Physics Example 10.2.3.md",
     "Excalidraw/Example 10.2.2.md",
-    "Excalidraw/Physics Example 10.2.1.md",
-    "9.7 Standing Wave.md",
-    "Excalidraw/Business 3.4 Questions.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
