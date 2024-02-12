@@ -16,24 +16,22 @@
             }
           },
           {
-            "id": "6324e5c112bb32f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.3 Pipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0fa733081125a7",
+            "id": "9c70df6693400f89",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics Calculating the speed of sound.md"
+                "file": "Excalidraw/Physics Example 10.2.3.md"
+              }
+            }
+          },
+          {
+            "id": "eef2586c87c03f4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics chapter 10 Review.md"
               }
             }
           }
@@ -57,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -67,8 +65,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open ends",
-                "matchingCase": true,
+                "query": "physics 10",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Calculating the speed of sound.md",
+                "file": "Excalidraw/Physics chapter 10 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Calculating the speed of sound.md",
+                "file": "Excalidraw/Physics chapter 10 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics Calculating the speed of sound.md"
+                "file": "Excalidraw/Physics chapter 10 Review.md"
               }
             }
           },
@@ -167,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics Calculating the speed of sound.md"
+                "file": "Excalidraw/Physics chapter 10 Review.md"
               }
             }
           },
@@ -180,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,34 +198,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b0fa733081125a7",
+  "active": "eef2586c87c03f4c",
   "lastOpenFiles": [
-    "10.3 Pipes.md",
-    "Excalidraw/Physics Calculating the speed of sound.md",
-    "Strategic Planning.md",
-    "SWOT Analysis.md",
-    "Leadership and Management Roles.md",
-    "Public company.md",
+    "Excalidraw/Physics Example 10.2.3.md",
+    "Excalidraw/physics 10.1 review.md",
+    "leadership and management traits.md",
+    "elements of organizational culture.md",
+    "Untitled 9.md",
     "Resonance and natural frequency.md",
-    "10.2 Strings.md",
-    "Excalidraw/Physics chapter 10 Review.md",
-    "Excalidraw/Busness Chapter 3 Review.md",
-    "Business-Organizational  structures.md",
+    "Organizational Culture.md",
     "Leadership and management styles.md",
-    "Developing Organizational Structure.md",
-    "Excalidraw/10.3 Worked Examples Physics.md",
+    "Leadership and Management Roles.md",
     "Excalidraw/Pipe with close end Third Harmonic.md",
     "Excalidraw/Pipe with close end Fundamental Harmonic.md",
-    "Excalidraw/Open Ends Second Harmonic.md",
-    "Excalidraw/Open Ends Third Harmonic.md",
-    "Excalidraw/Drawing 2024-02-01 09.18.51.excalidraw.md",
-    "Excalidraw/Open Pipe Fundamental Harmonic.md",
-    "leadership and management traits.md",
-    "Organizational Culture.md",
-    "Untitled 9.md",
+    "Excalidraw/Physics chapter 10 Review.md",
+    "Excalidraw/Physics Example 10.2.1.md",
+    "Excalidraw/Physics Calculating the speed of sound.md",
     "Excalidraw/Physics 10.2 Review.md",
-    "Excalidraw/Physics Example 10.2.3.md",
+    "Excalidraw/Open Pipe Fundamental Harmonic.md",
+    "Excalidraw/Open Ends Third Harmonic.md",
+    "Excalidraw/Open Ends Second Harmonic.md",
     "Excalidraw/Example 10.2.2.md",
+    "Excalidraw/Drawing 2024-02-01 09.18.51.excalidraw.md",
+    "Excalidraw/Busness Chapter 3 Review.md",
+    "Excalidraw/Business 3.4 Questions.md",
+    "Excalidraw/10.3 Worked Examples Physics.md",
+    "Entrepreneur vs Intrapreneur.md",
+    "Developing Organizational Structure.md",
+    "10.3 Pipes.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
