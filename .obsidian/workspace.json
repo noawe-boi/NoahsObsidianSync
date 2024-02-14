@@ -16,17 +16,7 @@
             }
           },
           {
-            "id": "9c70df6693400f89",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Example 10.2.3.md"
-              }
-            }
-          },
-          {
-            "id": "eef2586c87c03f4c",
+            "id": "d0748028ae9c8bd0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -36,7 +26,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "physics 10",
+                "query": "physics",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -198,9 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eef2586c87c03f4c",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
+    "Excalidraw/Physics Chapter 4 Review.md",
+    "Untitled 10.md",
     "Excalidraw/Physics Example 10.2.3.md",
+    "Excalidraw/Physics chapter 10 Review.md",
     "Excalidraw/physics 10.1 review.md",
     "leadership and management traits.md",
     "elements of organizational culture.md",
@@ -211,7 +204,6 @@
     "Leadership and Management Roles.md",
     "Excalidraw/Pipe with close end Third Harmonic.md",
     "Excalidraw/Pipe with close end Fundamental Harmonic.md",
-    "Excalidraw/Physics chapter 10 Review.md",
     "Excalidraw/Physics Example 10.2.1.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
     "Excalidraw/Physics 10.2 Review.md",
@@ -224,8 +216,6 @@
     "Excalidraw/Business 3.4 Questions.md",
     "Excalidraw/10.3 Worked Examples Physics.md",
     "Entrepreneur vs Intrapreneur.md",
-    "Developing Organizational Structure.md",
-    "10.3 Pipes.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
