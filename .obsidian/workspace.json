@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d6b40d4cb30e5370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c4b56a7efa45d1e",
             "type": "leaf",
             "state": {
@@ -213,6 +225,8 @@
   },
   "active": "317574bca332a0d4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Physics Chapter 4 Review.md",
     "Recording 20240215094430.webm",
     "Excalidraw/Drawing 2024-02-15 09.34.25.excalidraw.md",
     "Excalidraw/Drawing 2024-02-15 09.34.26.excalidraw.md",
@@ -238,7 +252,6 @@
     "Untitled 11.md",
     "Excalidraw/Physics 4.1.1.md",
     "Excalidraw/Physics Example 4.2.1.md",
-    "Untitled 10.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
