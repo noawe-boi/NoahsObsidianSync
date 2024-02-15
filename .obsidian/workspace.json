@@ -4,117 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "8d0ab806eca680d3",
+        "id": "68330e18e3c235f7",
         "type": "tabs",
         "children": [
           {
-            "id": "9f51adb8779e6317",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7344b715540aa6c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics 4.1.2.md"
-              }
-            }
-          },
-          {
-            "id": "107c5c4915683e6e",
+            "id": "317574bca332a0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.2. Potential Difference.md",
+                "file": "Physics 4.5 Ohms Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "204b9e4f6d698956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27efe1e37fd97958",
+            "id": "6c4b56a7efa45d1e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics Example 4.2.1.md"
+                "file": "Excalidraw/Drawing 2024-02-15 09.34.25.excalidraw.md"
               }
             }
           },
           {
-            "id": "fe04e3e441109acd",
+            "id": "4b7aa84020b7dbdc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics Example 4.2.2.md"
+                "file": "Excalidraw/physics example 4.5.2.md"
               }
             }
           },
           {
-            "id": "dfa67b98f2ec015a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de548a84c356bd91",
+            "id": "3686c7a24f82e89a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/battery diagram.md"
-              }
-            }
-          },
-          {
-            "id": "32b75bb29c803673",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics 4.1.1.md"
-              }
-            }
-          },
-          {
-            "id": "77f380bbcd60cf61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.1 Charge and the Atom.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Physicca example 4.5.1.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#physics",
+                "query": "#business",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -165,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -182,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Example 4.2.2.md",
+                "file": "Physics 4.5 Ohms Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Example 4.2.2.md",
+                "file": "Physics 4.5 Ohms Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics Example 4.2.2.md"
+                "file": "Physics 4.5 Ohms Law.md"
               }
             }
           },
@@ -244,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics Example 4.2.2.md"
+                "file": "Physics 4.5 Ohms Law.md"
               }
             }
           },
@@ -261,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,34 +211,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe04e3e441109acd",
+  "active": "317574bca332a0d4",
   "lastOpenFiles": [
-    "Excalidraw/Physics Example 4.2.1.md",
+    "Recording 20240215094430.webm",
+    "Excalidraw/Drawing 2024-02-15 09.34.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-15 09.34.26.excalidraw.md",
+    "Physics 4.5 Ohms Law.md",
+    "Excalidraw/physics example 4.5.2.md",
+    "Excalidraw/Physicca example 4.5.1.md",
+    "Excalidraw/Drawing 2024-02-15 09.22.34.excalidraw.md",
+    "Organizational Culture.md",
+    "leadership and management traits.md",
+    "Leadership and management styles.md",
+    "Developing Organizational Structure.md",
+    "Excalidraw/current equation.md",
+    "Excalidraw/physics worked example 4.3.1.md",
+    "4.4 Resistance.md",
+    "Excalidraw/Drawing 2024-02-14 10.20.45.excalidraw.md",
+    "Excalidraw/cross sectional area electric.md",
+    "4.3 Electric Current.md",
+    "Excalidraw/physics currant circut diagram.md",
+    "Excalidraw/Displacement Time Graph.md",
+    "Excalidraw/Physics 4.1.2.md",
+    "4.2. Potential Difference.md",
     "Excalidraw/Physics Example 4.2.2.md",
     "Untitled 11.md",
-    "4.2. Potential Difference.md",
-    "Untitled 10.md",
-    "4.1 Charge and the Atom.md",
-    "Excalidraw/battery diagram.md",
-    "Excalidraw/Physics 4.1.2.md",
-    "Chemistry Chapter 3 M R. sonter-heimer.md",
-    "Excalidraw/Drawing 2024-02-08 11.57.32.excalidraw.md",
     "Excalidraw/Physics 4.1.1.md",
-    "External Environment.md",
-    "Growth.md",
-    "Organizational Design.md",
-    "10.1 Sound.md",
-    "10.2 Strings.md",
-    "Excalidraw/Physics Calculating the speed of sound.md",
-    "10.3 Pipes.md",
-    "Excalidraw/Physics chapter 10 Review.md",
-    "Chapter 9 Review.md",
-    "Strategic Planning.md",
-    "SWOT Analysis.md",
-    "Leadership and Management Roles.md",
-    "Public company.md",
-    "Resonance and natural frequency.md",
-    "Excalidraw/Busness Chapter 3 Review.md",
+    "Excalidraw/Physics Example 4.2.1.md",
+    "Untitled 10.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
