@@ -18,8 +18,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "768efa36300eb934",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Worked Example 4.6.1.md"
+              }
+            }
+          },
+          {
+            "id": "ad7d6f936be0994c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Worked Example 4.6.2.md"
+              }
+            }
+          },
+          {
+            "id": "a6980fc10c71db57",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics 4.6 Review.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#business",
+                "query": "#Physics",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.6 Power in a Circuit.md",
+                "file": "Excalidraw/Physics 4.6 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.6 Power in a Circuit.md",
+                "file": "Excalidraw/Physics 4.6 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.6 Power in a Circuit.md"
+                "file": "Excalidraw/Physics 4.6 Review.md"
               }
             }
           },
@@ -148,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4.6 Power in a Circuit.md"
+                "file": "Excalidraw/Physics 4.6 Review.md"
               }
             }
           },
@@ -181,8 +212,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e29c5891793624c",
+  "active": "a6980fc10c71db57",
   "lastOpenFiles": [
+    "Excalidraw/Physics Worked Example 4.6.2.md",
+    "Excalidraw/Physics 4.6 Review.md",
+    "Excalidraw/Physics Worked Example 4.6.1.md",
     "4.6 Power in a Circuit.md",
     "Physics 4.5 Ohms Law.md",
     "conflict-files-obsidian-git.md",
@@ -207,9 +241,6 @@
     "Excalidraw/Displacement Time Graph.md",
     "Excalidraw/Physics 4.1.2.md",
     "4.2. Potential Difference.md",
-    "Excalidraw/Physics Example 4.2.2.md",
-    "Untitled 11.md",
-    "Excalidraw/Physics 4.1.1.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
