@@ -8,44 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "317574bca332a0d4",
+            "id": "1e29c5891793624c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 4.5 Ohms Law.md",
+                "file": "4.6 Power in a Circuit.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6c4b56a7efa45d1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-15 09.34.25.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4b7aa84020b7dbdc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/physics example 4.5.2.md"
-              }
-            }
-          },
-          {
-            "id": "3686c7a24f82e89a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physicca example 4.5.1.md"
               }
             }
           }
@@ -116,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 4.5 Ohms Law.md",
+                "file": "4.6 Power in a Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 4.5 Ohms Law.md",
+                "file": "4.6 Power in a Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 4.5 Ohms Law.md"
+                "file": "4.6 Power in a Circuit.md"
               }
             }
           },
@@ -178,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 4.5 Ohms Law.md"
+                "file": "4.6 Power in a Circuit.md"
               }
             }
           },
@@ -211,14 +181,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "317574bca332a0d4",
+  "active": "1e29c5891793624c",
   "lastOpenFiles": [
+    "4.6 Power in a Circuit.md",
+    "Physics 4.5 Ohms Law.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Physics Chapter 4 Review.md",
     "Recording 20240215094430.webm",
     "Excalidraw/Drawing 2024-02-15 09.34.25.excalidraw.md",
     "Excalidraw/Drawing 2024-02-15 09.34.26.excalidraw.md",
-    "Physics 4.5 Ohms Law.md",
     "Excalidraw/physics example 4.5.2.md",
     "Excalidraw/Physicca example 4.5.1.md",
     "Excalidraw/Drawing 2024-02-15 09.22.34.excalidraw.md",
@@ -239,7 +210,6 @@
     "Excalidraw/Physics Example 4.2.2.md",
     "Untitled 11.md",
     "Excalidraw/Physics 4.1.1.md",
-    "Excalidraw/Physics Example 4.2.1.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
