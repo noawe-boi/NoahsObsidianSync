@@ -57,9 +57,10 @@ Cliff Obrecht
 
 
 
-Justin dry co founder and joint ceo of winomofo (wine guy)
-- . Guy with long hair 
+Justin dry co founder and joint CEO of vinomofo (wine guy)
+- Guy with long hair 
 - Qwoff wine?
+- they wanted to make wine for everyone (so you didnt have to be a professional)
 - Started making wine tasting videos that were very casual. 
 - Oppurtinuty: They came up with Quoff wine reviews, 2 years in they werent making money, became content creators and made wine videos. 
 - They saw the oppurtinity to travel around australia and make their wine videos 
@@ -70,6 +71,8 @@ Justin dry co founder and joint ceo of winomofo (wine guy)
 
 
 - major supplier could not continue to supply them with wine 
+
+
 
 
 
