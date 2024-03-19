@@ -1,4 +1,7 @@
-#physics 
+---
+tags:
+  - physics
+---
 
 ## Definition 
 A Series circuit is a circuit in which all components are arranged one-after-another in a loop 
