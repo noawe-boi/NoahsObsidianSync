@@ -26,19 +26,19 @@
             }
           },
           {
-            "id": "9d8e66696310bfe4",
+            "id": "88e59154de2f6112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Central Park 5 Documentary notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Central Park 5 Documentary notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Central Park 5 Documentary notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Central Park 5 Documentary notes.md"
+              }
             }
           },
           {
@@ -177,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ba1d8219936d49c",
+  "active": "88e59154de2f6112",
   "lastOpenFiles": [
+    "Central Park 5 Documentary notes.md",
     "conflict-files-obsidian-git.md",
     "Untitled 12.md",
     "Physics 5.3 Parallel Circuits.md",
@@ -205,7 +210,6 @@
     "Untitled 7.md",
     "Untitled 11.md",
     "Untitled 10.md",
-    "Resonance and natural frequency.md",
     "Recording 20240215094430.webm",
     "Untitled 1.canvas",
     "Untitled.canvas",
