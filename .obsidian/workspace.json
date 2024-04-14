@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce72107884e860bc",
+        "id": "e20d9f45e7c1c77e",
         "type": "tabs",
         "children": [
           {
-            "id": "7b284dd194628ab9",
+            "id": "264a5f7606ef8c6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entrapeneurship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac618aadc1f2993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innovation Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2c57c802874830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Wheel FA2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#business",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -95,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -112,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Wheel FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Wheel FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business Wheel FA2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Business Wheel FA2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,8 +171,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed2c57c802874830",
+  "active": "264a5f7606ef8c6b",
   "lastOpenFiles": [
+    "6.1 Start Up Regulation and Financing.md",
+    "10.3 Pipes.md",
+    "Excalidraw/Pipe with close end Fundamental Harmonic.md",
+    "Excalidraw/Open Ends Third Harmonic.md",
+    "Excalidraw/Open Ends Second Harmonic.md",
+    "Excalidraw/Open Pipe Fundamental Harmonic.md",
+    "10.1 Sound.md",
     "Pasted image 20240319105633.png",
     "Innovation Theory.md",
     "Business Wheel FA2.md",
@@ -229,12 +200,6 @@
     "Huygens Principle.md",
     "9.4 Refraction.md",
     "Private Company.md",
-    "Public company.md",
-    "Refraction.md",
-    "Excalidraw/Physics 4.6 Review.md",
-    "Excalidraw/Physics Worked Example 4.6.2.md",
-    "Excalidraw/Physics Worked Example 4.6.1.md",
-    "4.6 Power in a Circuit.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
