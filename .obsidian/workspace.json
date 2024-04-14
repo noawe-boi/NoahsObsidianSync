@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "6a790f3ce8024b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "267cc41b97a43ac1",
             "type": "leaf",
             "state": {
@@ -212,6 +224,8 @@
   },
   "active": "83d75350cf4ffd70",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Central Park 5 Documentary notes.md",
     "Calculated max distance .pdf",
     "Pasted image 20240321222734.png",
     "Pasted image 20240321042540.png",
@@ -225,7 +239,6 @@
     "Partnership.md",
     "Public company.md",
     "Private Company.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 12.md",
     "Recording 20240215094430.webm",
     "Physics 5.3 Parallel Circuits.md",
