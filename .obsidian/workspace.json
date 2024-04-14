@@ -11,8 +11,12 @@
             "id": "264a5f7606ef8c6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -173,6 +183,18 @@
   },
   "active": "264a5f7606ef8c6b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20240321222734.png",
+    "Pasted image 20240321042540.png",
+    "Pasted image 20240321033103.png",
+    "Pasted image 20240321011904.png",
+    "Pasted image 20240320230256.png",
+    "Pasted image 20240320230220.png",
+    "Maths assignment solution .pdf",
+    "Math's Methods PSMT T2 Sources ~ Media.md",
+    "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
+    "Central Park 5 Documentary notes.md",
+    "Calculated max distance .pdf",
     "6.1 Start Up Regulation and Financing.md",
     "10.3 Pipes.md",
     "Excalidraw/Pipe with close end Fundamental Harmonic.md",
@@ -196,10 +218,6 @@
     "Excalidraw/Physics Worked Example 5.2.1.md",
     "Excalidraw/Physics Worked Example 5.2.2.md",
     "Excalidraw/Physics 5.2 Review.md",
-    "Entrepreneur documentary (the new hustle).md",
-    "Huygens Principle.md",
-    "9.4 Refraction.md",
-    "Private Company.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
