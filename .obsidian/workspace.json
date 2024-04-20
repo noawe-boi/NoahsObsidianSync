@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a52ed8290b0b51cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Central Park 5 Documentary notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54a95672096191db",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "93616765db10fd02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English Grade 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English Grade 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English Grade 11 FA2.md"
+              }
             }
           },
           {
@@ -168,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "English Grade 11 FA2.md"
+              }
             }
           },
           {
@@ -200,12 +181,70 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "floating": {
+    "id": "71b87f90b001221f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f122fe497327303",
+        "type": "window",
+        "children": [
+          {
+            "id": "f6c5e585e0786c68",
+            "type": "tabs",
+            "dimension": 50.364583333333336,
+            "children": [
+              {
+                "id": "a52ed8290b0b51cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Central Park 5 Documentary notes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "e26b5e4b751a08f4",
+            "type": "tabs",
+            "dimension": 49.635416666666664,
+            "children": [
+              {
+                "id": "2e1cc016d2d011d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "English Grade 11 FA2 Planning.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1067,
+        "y": 218,
+        "width": 602,
+        "height": 602,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "54a95672096191db",
   "lastOpenFiles": [
+    "English Grade 11 FA2 Planning.md",
+    "English Grade 11 FA2.md",
+    "Central Park 5 Documentary notes.md",
     "conflict-files-obsidian-git.md",
     "6.1 Start Up Regulation and Financing.md",
-    "Central Park 5 Documentary notes.md",
-    "English Grade 11 FA2.md",
     "Resonance and natural frequency.md",
     "Excalidraw/Open Pipe Fundamental Harmonic.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
@@ -237,7 +276,6 @@
     "Pasted image 20240319105633.png",
     "Innovation Theory.md",
     "Excalidraw/physics worked example 4.3.1.md",
-    "Excalidraw/physics example 4.5.2.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
