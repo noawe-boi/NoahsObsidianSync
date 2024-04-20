@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93616765db10fd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -190,6 +202,8 @@
   },
   "active": "65843fbb0ab63956",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "6.1 Start Up Regulation and Financing.md",
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2.md",
     "Resonance and natural frequency.md",
@@ -203,7 +217,6 @@
     "Jem.md",
     "Inertia.md",
     "Math's Methods PSMT T2 Sources ~ Media.md",
-    "conflict-files-obsidian-git.md",
     "Calculated max distance .pdf",
     "Pasted image 20240321222734.png",
     "Pasted image 20240321042540.png",
@@ -225,7 +238,6 @@
     "Innovation Theory.md",
     "Excalidraw/physics worked example 4.3.1.md",
     "Excalidraw/physics example 4.5.2.md",
-    "Excalidraw/physics currant circut diagram.md",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",
