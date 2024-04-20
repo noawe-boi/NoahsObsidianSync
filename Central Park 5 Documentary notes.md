@@ -44,7 +44,7 @@ A woman from brooklyn was raped and thrown off a rooptop and not covered because
 
 Whatever you do in life, you make mistakes. and you either face your mistakes or you dont (next quote is in the same sentence)
 1:51:22 dont think the press faced its mistaked. I dont think the police department faced the truth of what had happened - saul kassin
-THIS IS REALLY GOOD FOR END. make sure you incldue what he said after though
+**THIS IS REALLY GOOD FOR END**. make sure you incldue what he said after though
 
 ### A protestors response
 "all people should be outraged about this, not any particular race. we need to remeber that this was a human being."

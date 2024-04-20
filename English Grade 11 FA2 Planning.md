@@ -13,4 +13,4 @@ also figure out cinematography part 😋
 
 notes:
 
-remember to actaully show examples of the media coverage. 
+remember to actually show examples of the media coverage. 
