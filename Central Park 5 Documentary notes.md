@@ -1,4 +1,4 @@
-
+#english
 ### Proxy war
 - reporter wishes he had been more skeptical and less willing to push agendas or confirm stereotypes
 - the case was never about justice but instead a proxy war regarding racial stereotypes and realities
@@ -17,13 +17,13 @@ During individual questioning, the boys and their parents were told their rights
 
 This was a point argued in the lawsuit by Colin Moore (Korey's Lawyer) but it was not effective. (1:26:04)
 
-Police commisoner talking mad smack saying don't believe a word that these kids say. 0:57:20. 
+Police commissioner talking mad smack saying don't believe a word that these kids say. 0:57:20. 
 
 Assuming their guilt even though no evidence was brought forward
 
 
-0:59:35 "Inter-racial rape is covered differntly"
-A woman from brooklyn was raped and thrown off a rooptop and not covered because the assailant and the victim were of the same race. 
+0:59:35 "Inter-racial rape is covered differently"
+A woman from Brooklyn was raped and thrown off a rooftop and not covered because the assailant and the victim were of the same race. 
 
 1:03:30 "Heres how this night of terror unfolded in the park" Timeline of attacks. 
 
