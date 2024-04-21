@@ -18,7 +18,7 @@ During individual questioning, the boys and their parents were told their rights
 
 This was a point argued in the lawsuit by Colin Moore (Korey's Lawyer) but it was not effective. (1:26:04)
 
-Police commisoner talking mad smack saying don't believe a word that these kids say. 0:57:20. 
+Police commissioner talking mad smack saying don't believe a word that these kids say. 0:57:20. 
 
 Assuming their guilt even though no evidence was brought forward
 
