@@ -3,7 +3,7 @@
 _______
 ![[English Grade 11 FA2 Planning]]
 
-### Nah i accidentally wrote about the representation of the boys from the media at the time instead of from the media i'm watching forget this part.
+### 
 ________
 
 ### Introduction 
@@ -14,7 +14,7 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 
 In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
-
+Reasons That the representation and overall public opinion 
 racial bias is still an issue
 
 resources should exist to prevent people from forming negative racial stereotypes 
