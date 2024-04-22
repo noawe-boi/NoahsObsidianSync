@@ -1,4 +1,4 @@
-
+#english
 ### Proxy war
 - reporter wishes he had been more skeptical and less willing to push agendas or confirm stereotypes
 - the case was never about justice but instead a proxy war regarding racial stereotypes and realities
@@ -25,6 +25,11 @@ Assuming their guilt even though no evidence was brought forward
 0:46:00: The interviewer asks one of the boys whether she saw them hit the woman with anything but their hands. Despite this never being brought up before, suddenly he remembers them hitting her with a rock. None of the other boys mention this. Interviewer even calls him out for it. 
 0:47:05: "are you just saying that because I asked" "Why didn't you say it before"
 
+<<<<<<< HEAD
+0:59:35 "Inter-racial rape is covered differently"
+A woman from Brooklyn was raped and thrown off a rooftop and not covered because the assailant and the victim were of the same race. 
+=======
+>>>>>>> origin/main
 
 1:03:30 "Heres how this night of terror unfolded in the park" Timeline of attacks. 
 
