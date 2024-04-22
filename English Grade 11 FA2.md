@@ -8,7 +8,7 @@ ________
 
 ### Introduction 
 
-Lets set the scene. The year is 1989, New York city is the capital of racial violence, and 5 innocent boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. The documentary "The Central Park Five", Directed by Sarah Burns, Ken Burns and David McMahon was originally released in 2012 and retells the story of these 5 boys and their fight for justice and exoneration while simaltaniousyl pulling back the curtain of jus
+Lets set the scene. The year is 1989, New York city is the capital of racial violence, and 5 innocent boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. The documentary "The Central Park Five", Directed by Sarah Burns, Ken Burns and David McMahon was originally released in 2012 and retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on 
 
 ### The media coverage of the event
 
