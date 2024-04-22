@@ -61,4 +61,4 @@ Whatever you do in life, you make mistakes. and you either face your mistakes or
 
 ***Show 0:57:20 where Police commissioner talking mad smack saying don't believe a word that these kids say***
 
-***Show 0:48:50 to 0:49:53 (This is the news report)***
+***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
