@@ -18,9 +18,9 @@ Reasons That the representation needs to change
 
 To challenge existing racial stereotypes
 
-To prevent new stereotypes from forming 
+To Raise awareness of the racial prejudges and how they can affect powers that should be unbiased
 
-To 
+
 
 
 
