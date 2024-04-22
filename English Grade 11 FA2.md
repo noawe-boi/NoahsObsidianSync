@@ -29,6 +29,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Key Scenes
+### Please note that these dot points will be expanded and justified later on. I understand its not very helpful for me to just say this considering that you haven't seen the film and don't have any context around the events listed💀💀💀
 
 ## Arrest and interrogation scenes
 
