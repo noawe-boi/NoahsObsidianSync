@@ -17,8 +17,7 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
 
-# Other Texts I Will Refrence
-- 'W'
+
 
 
 # Reasons That the representation needs to change
@@ -31,7 +30,9 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 - To give people a new perspective on racial prejudices and help them see and positively act upon them instead of letting them control them
 
 
-
+# Other Texts I Will Refrence
+- 'When they see us' on netflix
+- 
 
 
 # Key Scenes
@@ -42,8 +43,14 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 
+### 
+
+### Techniques
+
+### Effect on Audience
+
 ## Media Coverage of event
-# Their exoneration and re-integration into society. 
+## Their exoneration and re-integration into society. 
 
 _____
 # sauces 
