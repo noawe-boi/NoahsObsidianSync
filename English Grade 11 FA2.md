@@ -15,7 +15,8 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
 
-#business 
+# Other Texts I Will Refrence
+
 
 
 # Reasons That the representation needs to change

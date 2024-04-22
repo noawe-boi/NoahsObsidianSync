@@ -1,3 +1,5 @@
+#english 
+
 PLAN: 
  😱🤑
 **Year 11 General English – FA2 Multimodal planning sheet**
@@ -20,7 +22,7 @@ What position does the documentary persuade the audience to take on the topic?
 
 Is the position/representation of the topic fair or biased?
 
-Do you agree or disagree with the representation?
+Do you agree or disagree with the representation?#english
 
 
 How do the public generally perceive this topic?
