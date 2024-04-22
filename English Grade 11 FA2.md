@@ -6,7 +6,7 @@ _______
 ### 
 ________
 
-### Introduction 
+# Introduction 
 
 Lets set the scene. The year is 1989, New York city is the capital of racial violence, and 5 innocent boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, "The Central Park Five", Directed by Sarah Burns, Ken Burns and David McMahon, and retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
 
@@ -15,7 +15,7 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
 
-Reasons That the representation needs to change
+# Reasons That the representation needs to change
 ### Please note that these dot points will be expanded and justified later on...
 
 - To challenge existing racial stereotypes
@@ -28,10 +28,15 @@ Reasons That the representation needs to change
 
 
 
+# Key Scenes
+
+### Arrest and interrogation scenes
 
 
+
+### Media Coverage of event
 
 _____
-## sauces 
+# sauces 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
 https://www.bbc.com/news/newsbeat-48609693
