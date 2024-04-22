@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1f2a77a78693ebcb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Calculating the speed of sound.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fa2",
+                "query": "speed of",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "Excalidraw/Physics Calculating the speed of sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "Excalidraw/Physics Calculating the speed of sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Grade 11 FA2.md"
+                "file": "Excalidraw/Physics Calculating the speed of sound.md"
               }
             }
           },
@@ -161,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English Grade 11 FA2.md"
+                "file": "Excalidraw/Physics Calculating the speed of sound.md"
               }
             }
           },
@@ -194,11 +204,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f5ae9ca7778605b",
+  "active": "1f2a77a78693ebcb",
   "lastOpenFiles": [
+    "English Grade 11 FA2.md",
     "Central Park 5 Documentary notes.md",
     "conflict-files-obsidian-git.md",
-    "English Grade 11 FA2.md",
     "English Grade 11 FA2 Planning.md",
     "10.3 Pipes.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
