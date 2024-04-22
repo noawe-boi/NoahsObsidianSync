@@ -15,6 +15,9 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
 
+#business 
+
+
 # Reasons That the representation needs to change
 ### Please note that these dot points will be expanded and justified later on...
 
@@ -29,7 +32,8 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Key Scenes
-### Please note that these dot points will be expanded and justified later on. I understand its not very helpful for me to just say this considering that you haven't seen the film and don't have any context around the events listed💀💀💀
+### Please note that these dot points will be expanded and justified later on. 
+### I understand its not very helpful for me to just say this considering that you haven't seen the film and don't have any context or knowledge about the events listed but its all I have right now💀💀💀
 
 ## Arrest and interrogation scenes
 
