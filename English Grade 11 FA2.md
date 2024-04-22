@@ -31,7 +31,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Other Texts I Will Reference
-- 'When they see us' on netflix
+- 'When they see us' on Netflix
 - 
 
 
@@ -40,6 +40,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 ### I understand its not very helpful for me to just say this considering that you haven't seen the film and don't have any context or knowledge about the events listed but its all I have right now💀💀💀
 
 ## Arrest and interrogation scenes
+***Show 0:31:17 where they were manipulated into giving false confessions***
 ### Description
 
 ### Techniques
