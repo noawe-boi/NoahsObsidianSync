@@ -35,7 +35,7 @@ Isn't it a little weird how it almost seems like he's making it up as he goes? T
 
 ***Show 0:31:17 where they were manipulated into giving false confessions***
 **
-****The officers gave into the prejudices and feeling towards these boys and african american indivudals that came from the worst examples of them as well as the media of the time had fed them, used it as justification to ignore clear evidence that not all of them could have raped that woman (add a little section about evidence that was ignored), then, the media took that, weaponised it and fed it right back to them and the public, confirming the false stereotypes**
+****The officers gave into the prejudices and feeling towards these boys and African American individuals that came from the worst examples of them as well as the media of the time had fed them, used it as justification to ignore clear evidence that not all of them could have raped that woman (add a little section about evidence that was ignored), then, the media took that, weaponized it and fed it right back to them and the public, confirming the false stereotypes**
 
 fix bolded part so it actually makes sense
 ### What they ignored (non inter-racial rape)

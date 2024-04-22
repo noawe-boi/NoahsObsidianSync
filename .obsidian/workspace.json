@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Park 5 Documentary notes.md",
+                "file": "English Grade 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Park 5 Documentary notes.md",
+                "file": "English Grade 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Park 5 Documentary notes.md"
+                "file": "English Grade 11 FA2.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Central Park 5 Documentary notes.md"
+                "file": "English Grade 11 FA2.md"
               }
             }
           },
@@ -229,20 +228,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 0,
+        "x": 3002,
+        "y": 306,
         "width": 1536,
         "height": 1688,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "a52ed8290b0b51cc",
+  "active": "54a95672096191db",
   "lastOpenFiles": [
-    "English Grade 11 FA2 Planning.md",
-    "English Grade 11 FA2.md",
     "Central Park 5 Documentary notes.md",
+    "English Grade 11 FA2.md",
+    "English Grade 11 FA2 Planning.md",
     "conflict-files-obsidian-git.md",
     "6.1 Start Up Regulation and Financing.md",
     "Resonance and natural frequency.md",
