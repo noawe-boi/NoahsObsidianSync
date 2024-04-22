@@ -15,7 +15,7 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 The 5 boys were a part of a larger group of roughly 30 boys who were 'wilding', a practice where, in large groups or gangs, they harassed, attacked and robbed homeless people, joggers and civilians. c
 As the night was wrapping up, police arrived and caused them to disperse. By the next day, 5 of the boys had been found, and taken to that police station for questioning. However, what was also found that next day was much more sinister than what police ever thought the boys were capable of.
 *
-***Show 0:48:50 to 0:49:53 (cut to be more concise)***
+***Show 0:48:50 to 0:49:53 (This )***
 By sheer luck or blind confidence, the police department had found arrested the 5 assailants before the crime had even been discovered. Out of the 8 arrested from the group of 30, from all over the park, they had already found the 5 that had done it and gotten them to confess. The police must be really good at their jobs. 
 
 ***Show 0:57:20 where Police commissioner talking mad smack saying don't believe a word that these kids say***
