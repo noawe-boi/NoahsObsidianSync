@@ -14,11 +14,14 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 
 In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
+
 Reasons That the representation needs to change
+### Please note that these dot points will be expanded and justified later on...
 
-To challenge existing racial stereotypes
+- To challenge existing racial stereotypes
 
-To Raise awareness of the racial prejudges and how they can affect powers that should be unbiased
+- To Raise awareness of the racial prejudges and how they can affect powers that should be unbiased
+
 
 
 
@@ -28,6 +31,6 @@ To Raise awareness of the racial prejudges and how they can affect powers that s
 
 
 _____
-sauces 
+## sauces 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
 https://www.bbc.com/news/newsbeat-48609693
