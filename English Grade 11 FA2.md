@@ -30,7 +30,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 - To give people a new perspective on racial prejudices and help them see and positively act upon them instead of letting them control them
 
 
-# Other Texts I Will Refrence
+# Other Texts I Will Reference
 - 'When they see us' on netflix
 - 
 
