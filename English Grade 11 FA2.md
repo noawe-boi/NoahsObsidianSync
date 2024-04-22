@@ -47,12 +47,13 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 ### Effect on Audience
 
 ## Media Coverage of event
+***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
 ### Description
 
 ### Techniques
 
 ### Effect on Audience
-## Their exoneration and re-integration into society.
+## Recieving the news that they found the person who really commited the crime
 ### Description
 
 ### Techniques
