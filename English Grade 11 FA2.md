@@ -34,8 +34,7 @@ Isn't it a little weird how it almost seems like he's making it up as he goes? T
 <<<<<<< HEAD
 **
 ****The officers gave into the prejudices and feeling towards these boys and African American individuals that came from the worst examples of them as well as the media of the time had fed them, used it as justification to ignore clear evidence that not all of them could have raped that woman (add a little section about evidence that was ignored), then, the media took that, weaponized it and fed it right back to them and the public, confirming the false stereotypes**
-=======
->>>>>>> origin/main
+
 
 
 The media confirmed the prejudices of the public and gave the officers, in their mind,  justification to ignore clear evidence of not only the innocence of these boys, but likely many others at that time. The media took the case and used its severity and how quickly it was claimed to be resolved and fed it right back to the public as praise to the officers involved and a confirmation of their prejudices and stereotypes. 
