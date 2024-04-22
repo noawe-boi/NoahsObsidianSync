@@ -3,7 +3,7 @@
 _______
 ![[English Grade 11 FA2 Planning]]
 
-### Nah i accidentally wrote about the representaion of the boys from the media at the time instead of from the media im watching
+### Nah i accidentally wrote about the representation of the boys from the media at the time instead of from the media i'm watching forget this part.
 ________
 
 ### Introduction 
