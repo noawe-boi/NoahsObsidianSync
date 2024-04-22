@@ -30,11 +30,12 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 # Key Scenes
 
-### Arrest and interrogation scenes
+## Arrest and interrogation scenes
 
 
 
-### Media Coverage of event
+## Media Coverage of event
+# Their exoneration and re-intergration into society. 
 
 _____
 # sauces 
