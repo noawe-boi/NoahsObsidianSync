@@ -1,5 +1,7 @@
 
+#english 
 # The Central Park 5
+
 _______
 ![[English Grade 11 FA2 Planning]]
 
@@ -16,7 +18,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Other Texts I Will Refrence
-
+- 'W'
 
 
 # Reasons That the representation needs to change
@@ -41,7 +43,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 ## Media Coverage of event
-# Their exoneration and re-intergration into society. 
+# Their exoneration and re-integration into society. 
 
 _____
 # sauces 
