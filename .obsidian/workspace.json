@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f6ed76e67d12266d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1f2a77a78693ebcb",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Park 5 Documentary notes.md",
+                "file": "test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Park 5 Documentary notes.md",
+                "file": "test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Park 5 Documentary notes.md"
+                "file": "test 2.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Central Park 5 Documentary notes.md"
+                "file": "test 2.md"
               }
             }
           },
@@ -203,12 +216,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84416515ee8792a8",
+  "active": "f6ed76e67d12266d",
   "lastOpenFiles": [
-    "test.md",
-    "Central Park 5 Documentary notes.md",
-    "Excalidraw/Physics Calculating the speed of sound.md",
     "English Grade 11 FA2.md",
+    "test 2.md",
+    "Central Park 5 Documentary notes.md",
+    "test.md",
+    "Excalidraw/Physics Calculating the speed of sound.md",
     "conflict-files-obsidian-git.md",
     "English Grade 11 FA2 Planning.md",
     "10.3 Pipes.md",
@@ -239,7 +253,6 @@
     "Excalidraw/Parallel resistance formuler.md",
     "Excalidraw/Parallel Circuits example.md",
     "Excalidraw/Parallel Circuits Really Long Example.md",
-    "Physics 5.2 Series Circuts.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
