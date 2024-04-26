@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "84416515ee8792a8",
   "lastOpenFiles": [
+    "Excalidraw/Physics Calculating the speed of sound.md",
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Physics Calculating the speed of sound.md",
     "English Grade 11 FA2 Planning.md",
     "10.3 Pipes.md",
     "10.1 Sound.md",
