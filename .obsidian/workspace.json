@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9bc2ebba73de21",
+        "id": "3e6f2c18459b6b16",
         "type": "tabs",
         "children": [
           {
-            "id": "84416515ee8792a8",
+            "id": "236fa62c7cc86665",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Central Park 5 Documentary notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f5ae9ca7778605b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Grade 11 FA2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6ed76e67d12266d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f2a77a78693ebcb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Calculating the speed of sound.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "test 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,13 +171,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6ed76e67d12266d",
+  "active": "236fa62c7cc86665",
   "lastOpenFiles": [
-    "English Grade 11 FA2.md",
+    "Excalidraw/Physics Calculating the speed of sound.md",
     "test 2.md",
+    "English Grade 11 FA2.md",
     "Central Park 5 Documentary notes.md",
     "test.md",
-    "Excalidraw/Physics Calculating the speed of sound.md",
     "conflict-files-obsidian-git.md",
     "English Grade 11 FA2 Planning.md",
     "10.3 Pipes.md",
