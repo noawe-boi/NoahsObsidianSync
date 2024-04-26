@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "70b95a514726dfa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f5ae9ca7778605b",
             "type": "leaf",
             "state": {
@@ -53,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Central Park 5 Documentary notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Central Park 5 Documentary notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Central Park 5 Documentary notes.md"
               }
             }
           },
@@ -183,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "test.md"
+                "file": "Central Park 5 Documentary notes.md"
               }
             }
           },
@@ -216,10 +203,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70b95a514726dfa2",
+  "active": "84416515ee8792a8",
   "lastOpenFiles": [
-    "Central Park 5 Documentary notes.md",
     "test.md",
+    "Central Park 5 Documentary notes.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
     "English Grade 11 FA2.md",
     "conflict-files-obsidian-git.md",
