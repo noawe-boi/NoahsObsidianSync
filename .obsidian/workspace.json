@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#english",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -171,7 +171,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "236fa62c7cc86665",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
     "Excalidraw/Physics Calculating the speed of sound.md",
     "test 2.md",
