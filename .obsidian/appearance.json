@@ -1,13 +1,3 @@
 {
-  "accentColor": "",
-  "baseFontSize": 22,
-  "translucency": false,
-  "nativeMenus": false,
-  "theme": "obsidian",
-<<<<<<< HEAD
-  "cssTheme": "Tokyo Night",
-  "interfaceFontFamily": "Consolas"
-=======
-  "cssTheme": "Things"
->>>>>>> origin/main
+  "accentColor": ""
 }
