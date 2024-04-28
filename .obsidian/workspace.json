@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42eccf7710181aba",
+        "id": "bfbb29df5c5ff6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "153f01a99e92d532",
+            "id": "54a95672096191db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "English Grade 11 FA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "en",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English Grade 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English Grade 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English Grade 11 FA2.md"
+              }
             }
           },
           {
@@ -143,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "English Grade 11 FA2.md"
+              }
             }
           },
           {
@@ -155,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,44 +180,101 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "floating": {
+    "id": "71b87f90b001221f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f122fe497327303",
+        "type": "window",
+        "children": [
+          {
+            "id": "f6c5e585e0786c68",
+            "type": "tabs",
+            "dimension": 50.36458333333334,
+            "children": [
+              {
+                "id": "a52ed8290b0b51cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Central Park 5 Documentary notes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "e26b5e4b751a08f4",
+            "type": "tabs",
+            "dimension": 49.63541666666666,
+            "children": [
+              {
+                "id": "2e1cc016d2d011d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "English Grade 11 FA2 Planning.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3002,
+        "y": 306,
+        "width": 1536,
+        "height": 1688,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "54a95672096191db",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Central Park 5 Unused.md",
-    "Excalidraw/Physics Calculating the speed of sound.md",
-    "test 2.md",
-    "English Grade 11 FA2.md",
-    "Central Park 5 Documentary notes.md",
     "test.md",
+    "test 2.md",
+    "conflict-files-obsidian-git.md",
+    "Central Park 5 Documentary notes.md",
+    "English Grade 11 FA2.md",
     "English Grade 11 FA2 Planning.md",
+    "Central Park 5 Unused.md",
+    "6.1 Start Up Regulation and Financing.md",
+    "Resonance and natural frequency.md",
+    "Excalidraw/Open Pipe Fundamental Harmonic.md",
+    "Excalidraw/Physics Calculating the speed of sound.md",
     "10.3 Pipes.md",
+    "Displacement Time Graph.md",
     "10.1 Sound.md",
+    "Excalidraw/current equation.md",
+    "4.3 Electric Current.md",
+    "Jem.md",
+    "Inertia.md",
+    "Math's Methods PSMT T2 Sources ~ Media.md",
+    "Calculated max distance .pdf",
     "Pasted image 20240321222734.png",
     "Pasted image 20240321042540.png",
     "Pasted image 20240321033103.png",
+    "Maths assignment solution .pdf",
     "Pasted image 20240321011904.png",
+    "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
     "Pasted image 20240320230256.png",
     "Pasted image 20240320230220.png",
-    "Maths assignment solution .pdf",
-    "Math's Methods PSMT T2 Sources ~ Media.md",
-    "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
-    "Calculated max distance .pdf",
-    "6.1 Start Up Regulation and Financing.md",
-    "Excalidraw/Pipe with close end Fundamental Harmonic.md",
-    "Excalidraw/Open Ends Third Harmonic.md",
-    "Excalidraw/Open Ends Second Harmonic.md",
-    "Excalidraw/Open Pipe Fundamental Harmonic.md",
-    "Pasted image 20240319105633.png",
-    "Innovation Theory.md",
-    "Business Wheel FA2.md",
-    "Entrapeneurship.md",
+    "Partnership.md",
+    "Public company.md",
+    "Private Company.md",
     "Untitled 12.md",
-    "Physics 5.3 Parallel Circuits.md",
-    "Excalidraw/Physics 5.3 Review.md",
-    "Excalidraw/Physics Worked Example 5.3.2.md",
-    "Excalidraw/Parallel resistance formuler.md",
-    "Excalidraw/Parallel Circuits example.md",
     "Recording 20240215094430.webm",
+    "Physics 5.3 Parallel Circuits.md",
+    "Physics 5.2 Series Circuts.md",
+    "Pasted image 20240319105633.png",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
     "Physics 9.1 Describing a wave.canvas",

@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-****
-=======
+___
+
 
 #english 
->>>>>>> origin/main
 # The Central Park 5
 
 _______
