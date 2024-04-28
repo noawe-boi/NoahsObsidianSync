@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "42eccf7710181aba",
+        "id": "8159f2ef8f0c69fe",
         "type": "tabs",
         "children": [
           {
-            "id": "153f01a99e92d532",
+            "id": "bc06c7f3c7f6dac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
