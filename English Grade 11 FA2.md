@@ -52,10 +52,10 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
 ### Description
 
-### Techniquesp
+### Techniques
 
 ### Effect on Audience
-## Recieving the news that they found the person who really commited the crime
+## Receiving the news that they found the person who really committed the crime
 ### Description
 
 ### Techniques
