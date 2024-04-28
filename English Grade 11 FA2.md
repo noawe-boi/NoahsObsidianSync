@@ -38,8 +38,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Key Scenes
-### Please note that these dot points will be expanded and justified later on. 
-### I understand its not very helpful for me to just say this considering that you haven't seen the film and don't have any context or knowledge about the events listed but its all I have right now💀💀💀
+
 
 ## Arrest and interrogation scenes
 ***Show 0:31:17 where they were manipulated into giving false confessions***
@@ -53,7 +52,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
 ### Description
 
-### Techniques
+### Techniquesp
 
 ### Effect on Audience
 ## Recieving the news that they found the person who really commited the crime
