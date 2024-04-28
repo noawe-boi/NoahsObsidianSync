@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e6f2c18459b6b16",
+        "id": "42eccf7710181aba",
         "type": "tabs",
         "children": [
           {
-            "id": "236fa62c7cc86665",
+            "id": "153f01a99e92d532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -173,12 +177,13 @@
   },
   "active": "65843fbb0ab63956",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Central Park 5 Unused.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
     "test 2.md",
     "English Grade 11 FA2.md",
     "Central Park 5 Documentary notes.md",
     "test.md",
-    "conflict-files-obsidian-git.md",
     "English Grade 11 FA2 Planning.md",
     "10.3 Pipes.md",
     "10.1 Sound.md",
@@ -207,7 +212,6 @@
     "Excalidraw/Physics Worked Example 5.3.2.md",
     "Excalidraw/Parallel resistance formuler.md",
     "Excalidraw/Parallel Circuits example.md",
-    "Excalidraw/Parallel Circuits Really Long Example.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",

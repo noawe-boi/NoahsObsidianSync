@@ -55,8 +55,10 @@ Whatever you do in life, you make mistakes. and you either face your mistakes or
 "all people should be outraged about this, not any particular race. we need to remeber that this was a human being."
 
 
+***Show 0:31:17 where they were manipulated into giving false confessions***
 
+***0:46:00 to 0:47:xx where he literally makes up his confession
 
+***Show 0:57:20 where Police commissioner talking mad smack saying don't believe a word that these kids say***
 
-
-
+***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
