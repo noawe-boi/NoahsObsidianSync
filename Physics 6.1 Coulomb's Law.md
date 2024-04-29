@@ -19,3 +19,10 @@ Q1, Q2 and q are electric charges
 
 
 ![[Drawing 2024-04-29 12.12.11.excalidraw]]
+
+
+
+
+## Worked Examples
+
+### W.E 6.1 p156
