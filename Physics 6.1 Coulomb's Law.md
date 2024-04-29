@@ -25,4 +25,6 @@ Q1, Q2 and q are electric charges
 
 ## Worked Examples
 
-### W.E 6.1 p156
+### p156-160
+
+![[Physics Grade 12 textbook W.E 6.1 p156]]
