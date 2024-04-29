@@ -4,7 +4,7 @@ tags:
 ---
 
 ## Coulombs Law
-When charged objects are brought in close proximity to eachother, they either attract or repel eachother.
+When charged objects are brought in close proximity to each other, they either attract or repel each other.
 
 ## Coulombs Law Formula
 
