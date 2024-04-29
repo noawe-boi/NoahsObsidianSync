@@ -39324,6 +39324,49 @@ tags: [excalidraw]
 				48.03519209537819,
 				320.2348994507083
 			]
+		},
+		{
+			"id": "A7kCdXo0FkKXYNDuYlDUq",
+			"type": "freedraw",
+			"x": 476.2463214995249,
+			"y": 5309.848576047655,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1246028631,
+			"version": 3,
+			"versionNonce": 1714505337,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714357558970,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
 		}
 	],
 	"appState": {
