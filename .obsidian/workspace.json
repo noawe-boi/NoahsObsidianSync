@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.1 Coulomb's Law.md",
+                "file": "Physics 6.1 Coulomb's Law.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "de23a50d08d1e708",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-29 12.06.18.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.1 Coulomb's Law.md",
+                "file": "Excalidraw/Drawing 2024-04-29 12.06.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.1 Coulomb's Law.md",
+                "file": "Excalidraw/Drawing 2024-04-29 12.06.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.1 Coulomb's Law.md"
+                "file": "Excalidraw/Drawing 2024-04-29 12.06.18.excalidraw.md"
               }
             }
           },
@@ -148,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6.1 Coulomb's Law.md"
+                "file": "Excalidraw/Drawing 2024-04-29 12.06.18.excalidraw.md"
               }
             }
           },
@@ -181,9 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75a95a145c23cd42",
+  "active": "de23a50d08d1e708",
   "lastOpenFiles": [
-    "6.1 Coulomb's Law.md",
+    "Physics 6.1 Coulomb's Law.md",
+    "Excalidraw/Drawing 2024-04-29 12.06.18.excalidraw.md",
     "English Grade 11 FA2.md",
     "Central Park 5 Unused.md",
     "Central Park 5 Documentary notes.md",
@@ -217,7 +229,6 @@
     "Physics 5.3 Parallel Circuits.md",
     "Excalidraw/Physics 5.3 Review.md",
     "Excalidraw/Physics Worked Example 5.3.2.md",
-    "Excalidraw/Parallel resistance formuler.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
