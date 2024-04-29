@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
+                "file": "Physics 6.1 Coulomb's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
+                "file": "Physics 6.1 Coulomb's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md"
+                "file": "Physics 6.1 Coulomb's Law.md"
               }
             }
           },
@@ -179,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md"
+                "file": "Physics 6.1 Coulomb's Law.md"
               }
             }
           },
@@ -212,10 +211,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0728f0b4900cbf5",
+  "active": "75a95a145c23cd42",
   "lastOpenFiles": [
-    "Physics 6.1 Coulomb's Law.md",
     "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
+    "Physics 6.1 Coulomb's Law.md",
     "Excalidraw/Coulombs Law Formula.md",
     "Excalidraw/Coulombs Law K fomula.md",
     "English Grade 11 FA2.md",
