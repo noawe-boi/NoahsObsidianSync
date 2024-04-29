@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75a95a145c23cd42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 6.1 Coulomb's Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66e715e2899c487c",
             "type": "leaf",
             "state": {
@@ -59,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,6 +213,7 @@
   "active": "66e715e2899c487c",
   "lastOpenFiles": [
     "Physics 6.1 Coulomb's Law.md",
+    "Nanomaterials.md",
     "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
     "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
     "Excalidraw/Coulombs Law Formula.md",
@@ -259,7 +247,6 @@
     "Innovation Theory.md",
     "Business Wheel FA2.md",
     "Entrapeneurship.md",
-    "Untitled 12.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
