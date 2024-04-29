@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas"
 }
