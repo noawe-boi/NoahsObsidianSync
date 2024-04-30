@@ -43,17 +43,23 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 # Other Texts I Will Reference
 ## 'When they see us' on Netflix
 ### Description
+When they see us is dramatis
 
 ### Differences in representation
 
+
 ### Pros/Cons
+
 
 ## George Floyd.
 ### Description
 
+
 ### Differences in representation
 
+
 ### Pros/Cons
+
 
 # Key Scenes
 

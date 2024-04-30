@@ -3,5 +3,6 @@
   "textFontFamily": "Consolas",
   "accentColor": "",
   "cssTheme": "Tokyo Night",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 18
 }
