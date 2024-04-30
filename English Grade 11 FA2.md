@@ -43,14 +43,11 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 # Other Texts I Will Reference
 ## 'When they see us' on Netflix
 ### Description
-When they see us is dramatized retelling of the events of "The Central Park Five". 
+When they see us is dramatized retelling of the events of "The Central Park Five". While less factual, it is more engagnig and allows viewers 
 
 ### Differences in representation
 It focusses on the lives of the members of group before their involvement in the rape case as well as its impact on their personal lives.
-Furthermore, it rightfully paints them as the victims they are and dives deeper into their demonized representation in the media as menaces in comparison to their actual nature and actions. 
-
-
-### Pros/Cons
+Furthermore, it rightfully paints them as the victims they are and dives deeper into their demonized representation in the media and how it impacted their case, rather than the other way round. 
 
 
 ## George Floyd.
@@ -59,8 +56,6 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 ### Differences in representation
 
-
-### Pros/Cons
 
 
 # Key Scenes
