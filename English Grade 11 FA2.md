@@ -60,7 +60,7 @@ while not a text from a specific author or outlet, the mainstream media coverage
 ### Differences in representation
 Mainstream media reported that Central Park Five were guilty because they were willing to ignore. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were accountable for their actions.
 
-Sympathy towards Floyd and his family was in signigigantly more abundance than in the Central Park Five's case too. as mentioned earlier, Floyd was seen as a victim, Unlike the Central Park Five, who in their documentary were blamed. 
+Sympathy towards Floyd and his family was in significantly more abundance than in the Central Park Five's case too. as mentioned earlier, Floyd was seen as a victim, Unlike the Central Park Five, who in their documentary were blamed. 
 
 
 # Key Scenes
