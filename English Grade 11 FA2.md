@@ -54,7 +54,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 ### Description
 While not a text from a specific author or outlet, the mainstream media coverage of George Floyd's Death due to police brutality. 
 
-All media outlets agreed that the Central Park Five were guilty. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved, something that did not h 
+All media outlets agreed that the Central Park Five were guilty. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were accountable for their actions.  
 ### Differences in representation
 
 
