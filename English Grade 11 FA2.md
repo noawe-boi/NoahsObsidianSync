@@ -47,7 +47,7 @@ When they see us is dramatized retelling of the events of "The Central Park Five
 
 ### Differences in representation
 It focusses on the lives of the members of group before their involvement in the rape case as well as its impact on their personal lives.
-Furthermore, it 
+Furthermore, it righfully paints them as the victims they are and dives deeper into the struggles and hardships of being racially profiled and 
 
 
 ### Pros/Cons
