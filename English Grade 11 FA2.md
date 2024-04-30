@@ -77,7 +77,7 @@ All media outlets agreed that the Central Park Five were guilty however since ma
 ### Techniques
 
 ### Effect on Audience
-## Receiving the news that they found the person who really commited the crime
+## Receiving the news that they found the person who really committed the crime
 ### Description
 
 ### Techniques
