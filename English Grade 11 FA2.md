@@ -52,7 +52,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 ## George Floyd.
 ### Description
-While not a text from a specific author or outlet, the mainstream media coverage of George FLoyd's Death was 
+While not a text from a specific author or outlet, the mainstream media coverage of George Floyd's Death was 
 
 ### Differences in representation
 
