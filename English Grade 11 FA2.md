@@ -58,7 +58,7 @@ while not a text from a specific author or outlet, the mainstream media coverage
 
  
 ### Differences in representation
-All media outlets agreed that the Central Park Five were guilty. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were accountable for their actions. 
+Mainstream media reported that Central Park Five were guilty because they were willing to ignore. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were accountable for their actions. 
 
 
 # Key Scenes
