@@ -43,7 +43,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 # Other Texts I Will Reference
 ## 'When they see us' on Netflix
 ### Description
-When they see us is dramatized retelling of the events of "The Central Park Five". While
+When they see us is dramatized retelling of the events of "The Central Park Five". It focusses on the lives of the members of group before the event as well as its impact on thier personal lives. 
 
 ### Differences in representation
  
