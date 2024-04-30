@@ -45,6 +45,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 ***Show 0:31:17 where they were manipulated into giving false confessions***
 ### Description
 
+
 ### Techniques
 
 ### Effect on Audience
