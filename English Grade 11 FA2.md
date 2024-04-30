@@ -54,6 +54,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 ### Description
 While not a text from a specific author or outlet, the mainstream media coverage of George Floyd's Death was 
 
+All media outlets agreed that the Central Park Five were guilty however since mainstream beleifs have changed and the racial stereotypes are less prevaleng, 
 ### Differences in representation
 
 
