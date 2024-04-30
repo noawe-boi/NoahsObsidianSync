@@ -52,7 +52,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 ## George Floyd.
 ### Description
-While not a text from a
+While not a text from a specific author or 
 
 ### Differences in representation
 
