@@ -1,5 +1,7 @@
 {
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Consolas",
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian"
 }

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "English Grade 11 FA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c20c02478b7302b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English Grade 11 FA2 Planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English Grade 11 FA2 Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English Grade 11 FA2 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English Grade 11 FA2 Planning.md"
+              }
             }
           },
           {
@@ -143,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "English Grade 11 FA2 Planning.md"
+              }
             }
           },
           {
@@ -175,13 +194,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "c20c02478b7302b0",
   "lastOpenFiles": [
+    "English Grade 11 FA2.md",
+    "fa2.md",
+    "Business Wheel FA2.md",
     "conflict-files-obsidian-git.md",
     "Central Park 5 Unused.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
     "test 2.md",
-    "English Grade 11 FA2.md",
     "Central Park 5 Documentary notes.md",
     "test.md",
     "English Grade 11 FA2 Planning.md",
@@ -204,14 +225,12 @@
     "Excalidraw/Open Pipe Fundamental Harmonic.md",
     "Pasted image 20240319105633.png",
     "Innovation Theory.md",
-    "Business Wheel FA2.md",
     "Entrapeneurship.md",
     "Untitled 12.md",
     "Physics 5.3 Parallel Circuits.md",
     "Excalidraw/Physics 5.3 Review.md",
     "Excalidraw/Physics Worked Example 5.3.2.md",
     "Excalidraw/Parallel resistance formuler.md",
-    "Excalidraw/Parallel Circuits example.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
