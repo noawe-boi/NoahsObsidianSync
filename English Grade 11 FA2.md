@@ -52,9 +52,9 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 ## George Floyd.
 ### Description
-While not a text from a specific author or outlet, the mainstream media coverage of George Floyd's Death was 
+While not a text from a specific author or outlet, the mainstream media coverage of George Floyd's Death due to police brutality. 
 
-All media outlets agreed that the Central Park Five were guilty. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, Floyd was portrayed as the victim he was, and act
+All media outlets agreed that the Central Park Five were guilty. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that he was a criminal and focus on the  Floyd was portrayed as the victim he was, and action was taken against the police involved. 
 ### Differences in representation
 
 
