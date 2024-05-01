@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "513d5dd51dc01ce3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-02 09.23.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md",
+                "file": "Excalidraw/Drawing 2024-05-02 09.23.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md",
+                "file": "Excalidraw/Drawing 2024-05-02 09.23.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md"
+                "file": "Excalidraw/Drawing 2024-05-02 09.23.22.excalidraw.md"
               }
             }
           },
@@ -149,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md"
+                "file": "Excalidraw/Drawing 2024-05-02 09.23.22.excalidraw.md"
               }
             }
           },
@@ -182,9 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9b9f5923051c3a4",
+  "active": "513d5dd51dc01ce3",
   "lastOpenFiles": [
     "Physics 6.2 Electric Fields.md",
+    "Excalidraw/Drawing 2024-05-02 09.23.22.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "fa2.md",
     "Excalidraw/Coulombs Law Formula.md",
@@ -218,7 +230,6 @@
     "Excalidraw/Open Ends Second Harmonic.md",
     "Excalidraw/Open Pipe Fundamental Harmonic.md",
     "Pasted image 20240319105633.png",
-    "Innovation Theory.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
