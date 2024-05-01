@@ -8,3 +8,7 @@ An electric field is the region of space around a charge where a force would be 
 
 ![[Electric Fields Diagram]]
 
+![[Atoms repelling electric frields diagram]]
+
+## Properties
+- Field lines never cross

@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md"
+                "file": "Excalidraw/Atoms repelling electric frields diagram.md"
               }
             }
           },
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md",
+                "file": "Physics 6.2 Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md",
+                "file": "Physics 6.2 Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md"
+                "file": "Physics 6.2 Electric Fields.md"
               }
             }
           },
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md"
+                "file": "Physics 6.2 Electric Fields.md"
               }
             }
           },
@@ -203,10 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63720b8cefe8394c",
+  "active": "b9b9f5923051c3a4",
   "lastOpenFiles": [
     "Excalidraw/Electric Fields Diagram.md",
-    "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md",
+    "Excalidraw/Atoms repelling electric frields diagram.md",
     "Physics 6.2 Electric Fields.md",
     "conflict-files-obsidian-git.md",
     "fa2.md",
