@@ -12,3 +12,5 @@ An electric field is the region of space around a charge where a force would be 
 
 ## Properties
 - Field lines never cross
+- Lines enter and leave particle at right angles
+- The density of lines is proportional to the field strength.                                    
