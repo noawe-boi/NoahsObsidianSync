@@ -4,59 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45528e142c982cb5",
+        "id": "de27413b2933ce2d",
         "type": "tabs",
         "children": [
           {
-            "id": "66e715e2899c487c",
+            "id": "9e6960af2e57f691",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md"
-              }
-            }
-          },
-          {
-            "id": "314ff021f551b24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 6.1 Coulomb's Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0728f0b4900cbf5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "93df1162d2553fec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Coulombs Law K fomula.md"
-              }
-            }
-          },
-          {
-            "id": "de23a50d08d1e708",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Coulombs Law Formula.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -127,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,14 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66e715e2899c487c",
+  "active": "9e6960af2e57f691",
   "lastOpenFiles": [
+    "Excalidraw/Coulombs Law Formula.md",
+    "Excalidraw/Coulombs Law K fomula.md",
+    "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
     "Physics 6.1 Coulomb's Law.md",
     "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
     "Nanomaterials.md",
-    "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
-    "Excalidraw/Coulombs Law Formula.md",
-    "Excalidraw/Coulombs Law K fomula.md",
     "English Grade 11 FA2.md",
     "Central Park 5 Unused.md",
     "Central Park 5 Documentary notes.md",
