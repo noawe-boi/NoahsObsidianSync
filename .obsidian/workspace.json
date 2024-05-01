@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 6.1 Coulomb's Law.md",
+                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 6.1 Coulomb's Law.md",
+                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 6.1 Coulomb's Law.md"
+                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md"
               }
             }
           },
@@ -190,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 6.1 Coulomb's Law.md"
+                "file": "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md"
               }
             }
           },
@@ -223,10 +222,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "314ff021f551b24c",
+  "active": "66e715e2899c487c",
   "lastOpenFiles": [
-    "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
     "Physics 6.1 Coulomb's Law.md",
+    "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
     "Nanomaterials.md",
     "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
     "Excalidraw/Coulombs Law Formula.md",
