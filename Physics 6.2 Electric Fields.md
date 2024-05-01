@@ -28,3 +28,5 @@ Where:
 Find F
 E = 5000 N/C
 q = 1.6x10^-19
+
+
