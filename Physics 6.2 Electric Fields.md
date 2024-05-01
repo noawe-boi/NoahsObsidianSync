@@ -25,4 +25,6 @@ Where:
 - q represents the second charged particle
 ## Example
 ### 6.2A
-#### Find the force experienced by the 
+Find F
+E = 5000 N/C
+q = 1.6x10^-19
