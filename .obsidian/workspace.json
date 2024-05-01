@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md",
+                "file": "Excalidraw/Electric Fields Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md",
+                "file": "Excalidraw/Electric Fields Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md"
+                "file": "Excalidraw/Electric Fields Diagram.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md"
+                "file": "Excalidraw/Electric Fields Diagram.md"
               }
             }
           },
@@ -202,11 +203,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9b9f5923051c3a4",
+  "active": "513d5dd51dc01ce3",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-05-02 09.25.14.excalidraw.md",
-    "Excalidraw/Electric Fields Diagram.md",
     "Physics 6.2 Electric Fields.md",
+    "Excalidraw/Electric Fields Diagram.md",
     "conflict-files-obsidian-git.md",
     "fa2.md",
     "Excalidraw/Coulombs Law Formula.md",
