@@ -19,4 +19,7 @@ An electric field is the region of space around a charge where a force would be 
 ### Electric Field Strength Formula
 E = F/q
 Where:
-E is 
+- E is the electric field strength of Q (in N/)
+- Q is the first charged particle
+- F represents the force experienced by q
+- q represents the second charged particle
