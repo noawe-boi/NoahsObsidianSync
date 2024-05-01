@@ -11,8 +11,12 @@
             "id": "9e6960af2e57f691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -140,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -174,6 +184,8 @@
   },
   "active": "9e6960af2e57f691",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "fa2.md",
     "Excalidraw/Coulombs Law Formula.md",
     "Excalidraw/Coulombs Law K fomula.md",
     "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
@@ -184,7 +196,6 @@
     "Central Park 5 Unused.md",
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2 Planning.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
     "test 2.md",
     "test.md",
@@ -208,7 +219,6 @@
     "Pasted image 20240319105633.png",
     "Innovation Theory.md",
     "Business Wheel FA2.md",
-    "Entrapeneurship.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",

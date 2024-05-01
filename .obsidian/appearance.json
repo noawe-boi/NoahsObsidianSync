@@ -1,6 +1,13 @@
 {
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
   "accentColor": "",
   "cssTheme": "Tokyo Night",
+<<<<<<< HEAD
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Consolas"
+=======
+  "theme": "obsidian",
+  "baseFontSize": 18
+>>>>>>> origin/main
 }
