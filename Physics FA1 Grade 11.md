@@ -44,10 +44,10 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).
 
-Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
+Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave significantly was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
 
 - *State the modification: changing the pipe length instead of frequency.*
-A dB meter was used to determine when the pipe was tuned to a harmonic as it could quantitively measure magnitude. Additionally, Instead of changing the frequency of the sound wave to change harmonic, the length of the pipe was altered.
+A dB meter was used to determine when the pipe was tuned to a harmonic as it could quantitively measure magnitude. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the ammount that the sound had
 - *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
 The expected relationship between
 
