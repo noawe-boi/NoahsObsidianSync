@@ -23,9 +23,23 @@
             "id": "2c3397303145290d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md"
+                "file": "Physics FA1 Grade 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f141e89ff4f30bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
+                "file": "Physics FA1 Grade 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
+                "file": "Physics FA1 Grade 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md"
+                "file": "Physics FA1 Grade 11.md"
               }
             }
           },
@@ -180,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md"
+                "file": "Physics FA1 Grade 11.md"
               }
             }
           },
@@ -215,11 +229,13 @@
   },
   "active": "2c3397303145290d",
   "lastOpenFiles": [
-    "Physics 6.2 Electric Fields.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
+    "Physics FA1 Grade 11.md",
+    "Pasted image 20240502191455.png",
+    "Physics 6.2 Electric Fields.md",
     "Excalidraw/Electric Fields Diagram.md",
     "Excalidraw/Atoms repelling electric frields diagram.md",
-    "conflict-files-obsidian-git.md",
     "fa2.md",
     "Excalidraw/Coulombs Law Formula.md",
     "Excalidraw/Coulombs Law K fomula.md",
@@ -248,7 +264,6 @@
     "Calculated max distance .pdf",
     "6.1 Start Up Regulation and Financing.md",
     "Excalidraw/Pipe with close end Fundamental Harmonic.md",
-    "Excalidraw/Open Ends Third Harmonic.md",
     "Pasted image 20240319105633.png",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
