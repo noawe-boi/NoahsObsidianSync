@@ -1,6 +1,8 @@
-## Physics IA2 Report Structure: Investigating Sound Wave Speed
+## Physics IA2 Report Structure
 
-Based on the provided sample reports and marking guide, here's a suggested structure for your Physics IA2 report on calculating the speed of sound waves using the relationship between the frequency of the 7th harmonic and the length of an open-ended pipe.
+
+
+
 
 ## 1. Research Question:
 
@@ -34,8 +36,8 @@ Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pip
 While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. Additionally, changing the frequency being played through the speaker is an inaccurate way to find the harmonic as resonances in the speaker itself could alter the perceived magnitude of the sound it plays.
 
 - **Justification for Modification:** 
- **
-- Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).**
+
+- Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).
 
 Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
 
@@ -95,53 +97,53 @@ A dB meter was used to determine when the pipe was tuned to a harmonic as it cou
 
 - **Identify trends and patterns in the data:**
 
-- Discuss the observed relationship between pipe length and the 7th harmonic frequency.
-
-- Explain how the data supports or contradicts your expected relationship.
-
+- *Discuss the observed relationship between pipe length and the 7th harmonic frequency.*
+*
+*- *Explain how the data supports or contradicts your expected relationship.**
+*
 - **Uncertainty and Limitations:**
 
-- Identify and quantify sources of uncertainty in your measurements and calculations.
+- *Identify and quantify sources of uncertainty in your measurements and calculations.*
 
-- Discuss limitations of the experiment and their potential impact on the results.
+- *Discuss limitations of the experiment and their potential impact on the results.*
 
-- Explain how these limitations could be addressed in future investigations.
+- *Explain how these limitations could be addressed in future investigations.*
 
 
 ## 7. Interpretation and Evaluation:
 
 - **Interpretation:**
 
-- Explain what the results of your experiment mean in the context of your research question.
+- *Explain what the results of your experiment mean in the context of your research question.*
 
-- Draw conclusions based on the data and analysis.
+- *Draw conclusions based on the data and analysis.*
 
-- Compare your findings to the accepted value for the speed of sound and calculate the percentage error.
+- *Compare your findings to the accepted value for the speed of sound and calculate the percentage error.*
 
 - **Evaluation:**
 
-- Discuss the reliability and validity of your experimental results.
+*- Discuss the reliability and validity of your experimental results.*
 
-- Evaluate the strengths and weaknesses of your methodology.
+- *Evaluate the strengths and weaknesses of your methodology.*
 
-- Suggest improvements and extensions for future investigations.
+- *Suggest improvements and extensions for future investigations.*
 
 
 ## 8. Conclusion:
 
-- Summarize the key findings of your experiment and restate your conclusion regarding the research question.
+- *Summarize the key findings of your experiment and restate your conclusion regarding the research question.*
 
-- Highlight the significance of your findings and their implications.
+*- Highlight the significance of your findings and their implications.*
 
 
 ## 9. References:
 
-- List all sources of information used in your report in a consistent and appropriate referencing style (e.g., APA, MLA).
-
+- *List all sources of information used in your report in a consistent and appropriate referencing style (e.g., APA, MLA).**
+*
 
 ## 10. Appendices (Optional):
 
-- Include any additional information that is relevant but not essential to the main body of the report, such as raw data tables, detailed calculations, or additional graphs.
+- *Include any additional information that is relevant but not essential to the main body of the report, such as raw data tables, detailed calculations, or additional graphs.*
 
 
 **Remember to use clear and concise scientific language, present your work in a logical and organized manner, and follow the specific guidelines provided by your teacher or institution.**
