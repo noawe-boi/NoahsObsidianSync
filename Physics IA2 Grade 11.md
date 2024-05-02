@@ -24,7 +24,7 @@ The frequency of each harmonic was the dependent variable and first estimated us
 This initial value was then fine tuned to become or confirmed to be the harmonic through listening to the pipe with one ear and determining at what frequencies it sounded loudest. By plotting the desired harmonic of the pipe that the frequency being played corresponds with on the x axis and the current frequency being played on the y axis, the gradient of the graph corresponds with the relationship between each harmonic and the frequency of it.
  
  - Present the derived equation for sound wave speed.
-By substituting in the equation $lambda$  , substituting in the equation ![](file:///C:/Users/CRACKH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png), and re-arranging the formula to become
+By substituting in the equation $f=\frac{v}{\lambda}$  , substituting in the equation ![](file:///C:/Users/CRACKH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png), and re-arranging the formula to become
 - Discuss the limitations of the original experiment (reliance on human hearing).
 
 - **Justification for Modification:**
