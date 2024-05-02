@@ -48,8 +48,8 @@ Relying on human perception of sound created too many variables for it to be via
 
 - *State the modification: changing the pipe length instead of frequency.*
 A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies that had to be played
-- *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
-The expected relationship between
+- *Describe the expected relationship between pipe length and the 7th harmonic frequency 
+The expected relationship between the pipe length and the 7th harnmonic freqency 
 
 
 ![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky)
