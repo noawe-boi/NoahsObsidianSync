@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "dde08f2d6dfe8b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3b5ecaf535ad95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,35 +95,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3ffe682e8f5f782",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Physics FA1 Grade 11.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ba8d7c5ab42dcae4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Physics FA1 Grade 11.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "ff2af5483776c9d9",
             "type": "leaf",
             "state": {
@@ -119,49 +104,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "785ae84c2804b639",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Physics FA1 Grade 11.md"
-              }
-            }
-          },
-          {
-            "id": "5d1c41294afb977e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "ffb8d3b618b625b0",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Physics FA1 Grade 11.md"
-              }
-            }
-          },
-          {
-            "id": "5222ebf41e3b20fa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,10 +121,11 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2e798a92b9aa6d33",
+  "active": "ff2af5483776c9d9",
   "lastOpenFiles": [
     "English Grade 11 FA2 Planning.md",
     "Physics FA1 Grade 11.md",
