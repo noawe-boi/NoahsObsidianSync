@@ -37,7 +37,7 @@ By substituting in the equation $f=\frac{v}{\lambda}$  , substituting in the e
 Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pipe (m), the speed of sound could be found.
 
 - Discuss the limitations of the original experiment (reliance on human hearing).
-- 
+-
 While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. Additionally, changing the frequency being played through the speaker is an inaccurate way to find the harmonic as resonances in the speaker itself could alter the intensity or loudness of the sound waves it creates.
 
 - **Justification for Modification:** 
@@ -47,7 +47,7 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave significantly was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
 
 - *State the modification: changing the pipe length instead of frequency.*
-A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectivley and quantitively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies that had to be played
+A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies that had to be played
 - *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
 The expected relationship between
 
