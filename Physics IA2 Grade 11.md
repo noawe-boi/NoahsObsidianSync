@@ -41,7 +41,7 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).
 
-![https://www.chegg.com/homework-help/questions-and-answers/use-diagram-open-closed-pipe-derive-relationship-frequency-fundamental-1st-harmonics-pipe--q70076627](https://www.chegg.com/homework-help/questions-and-answers/use-diagram-open-closed-pipe-derive-relationship-frequency-fundamental-1st-harmonics-pipe--q70076627)
+![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky))
 ## 3. Risk Management:
 
 - **Identify potential risks associated with the experiment:**
