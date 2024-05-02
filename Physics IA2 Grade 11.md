@@ -30,7 +30,8 @@ By substituting in the equation $f=\frac{v}{\lambda}$  , substituting in the e
 Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pipe (m), the speed of sound could be found.
 
 - Discuss the limitations of the original experiment (reliance on human hearing).
-While this experiment was successful in calculating the speed of sound to![](file:///C:/Users/CRACKH~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)2.1% uncertainty and 4.21% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear.
+- 
+While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and 4.21% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear.
 
 - **Justification for Modification:**
 
