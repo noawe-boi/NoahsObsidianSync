@@ -2,7 +2,7 @@
 tags:
   - physics
 ---
-## Physics IA2 Report Structure
+## Physics IA2 Report 
 
 
 ### `Hey Mr Ace,`
@@ -46,7 +46,7 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - **Justification for Modification:** 
 
-- Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).
+- Explain why the original experiment needs modification
 
 Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave significantly was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
 
@@ -71,7 +71,7 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 ## 4. Methodology:
 
-- **Apparatus/Materials:** List all equipment and materials used in the experiment with specifications (e.g., function generator, speaker, open-ended pipes of various lengths, measuring tape, frequency analyzer software).
+- **Apparatus/Materials:** List all equipment and materials used in the experiment with specifications 
 
 - **Procedure:**
 
