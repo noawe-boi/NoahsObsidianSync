@@ -31,13 +31,13 @@ Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pip
 
 - Discuss the limitations of the original experiment (reliance on human hearing).
 - 
-While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear. 
+While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear, which differed from person to pers
 
 - **Justification for Modification:**
 
 - *Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).**
 
-Relying on human perception of sound creates too many variables for it to be viable when any sort of precision is needPed. 
+Relying on human perception of sound creates too many variables for it to be viable when any sort of precision is needed. Additionally, calculating the frequency of different
 
 - *State the modification: changing the pipe length instead of frequency.*
 
