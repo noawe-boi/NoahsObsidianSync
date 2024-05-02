@@ -36,7 +36,9 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 - **Justification for Modification:**
 
 - *Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).**
-*
+
+
+
 - *State the modification: changing the pipe length instead of frequency.*
 
 - *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
