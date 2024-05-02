@@ -2,7 +2,7 @@
 
 
 ### `Hey Mr Ace,`
-`please excuse the trash formatting in this, The prompts/titles will be absent or more relevant in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, as well as the work I had already done to make sure it still matched up. (I'll explain it in class. im not cheating I promise).`
+`please excuse the trash formatting in this, The prompts/titles will be absent or more relevant in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, as well as the work I had already done and existing notes i had taken on my word document to make sure it still matched up. (I'll explain it in class. im not cheating I promise).`
 
 `anyways, also missing at the moment are some graphs/figures and referencing`
 
@@ -49,6 +49,7 @@ Relying on human perception of sound created too many variables for it to be via
 - *State the modification: changing the pipe length instead of frequency.*
 A dB meter was used to determine when the pipe was tuned to a harmonic as it could quantitively measure magnitude. Additionally, Instead of changing the frequency of the sound wave to change harmonic, the length of the pipe was altered.
 - *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
+
 
 ![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky)
 ## 3. Risk Management:
