@@ -1,3 +1,7 @@
+---
+tags:
+  - physics
+---
 ## Physics IA2 Report Structure
 
 
