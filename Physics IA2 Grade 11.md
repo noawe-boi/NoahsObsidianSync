@@ -31,7 +31,7 @@ Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pip
 
 - Discuss the limitations of the original experiment (reliance on human hearing).
 - 
-While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and 4.21% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear.
+While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear.
 
 - **Justification for Modification:**
 
@@ -41,7 +41,7 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).
 
-
+![https://www.chegg.com/homework-help/questions-and-answers/use-diagram-open-closed-pipe-derive-relationship-frequency-fundamental-1st-harmonics-pipe--q70076627](https://www.chegg.com/homework-help/questions-and-answers/use-diagram-open-closed-pipe-derive-relationship-frequency-fundamental-1st-harmonics-pipe--q70076627)
 ## 3. Risk Management:
 
 - **Identify potential risks associated with the experiment:**
