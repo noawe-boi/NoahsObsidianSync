@@ -1,10 +1,12 @@
 ## Physics IA2 Report Structure
 
 
-### `Hey Mr Ace, 
-`please excuse the trash formatting in this, The prompts/titles will be absent or more relevant in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, as well as the (I'll explain it in class. im not cheating I promise).
+### `Hey Mr Ace,`
+`please excuse the trash formatting in this, The prompts/titles will be absent or more relevant in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, as well as the work I had already done to make sure it still matched up. (I'll explain it in class. im not cheating I promise).`
 
 `anyways, also missing at the moment are some graphs/figures and referencing`
+
+`good luck`
 
 
 ## 1. Research Question:
