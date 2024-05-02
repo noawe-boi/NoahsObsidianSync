@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f085fe52760e0688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c20c02478b7302b0",
             "type": "leaf",
             "state": {
@@ -208,13 +220,18 @@
   },
   "active": "2e798a92b9aa6d33",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Physics 6.1 Coulomb's Law.md",
+    "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
+    "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
+    "Excalidraw/Coulombs Law K fomula.md",
+    "Excalidraw/Coulombs Law Formula.md",
     "Pasted image 20240502191455.png",
     "English Grade 11 FA2.md",
     "Physics IA2 Grade 11.md",
     "English Grade 11 FA2 Planning.md",
     "fa2.md",
     "Business Wheel FA2.md",
-    "conflict-files-obsidian-git.md",
     "Central Park 5 Unused.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
     "test 2.md",
@@ -239,10 +256,6 @@
     "Excalidraw/Open Pipe Fundamental Harmonic.md",
     "Pasted image 20240319105633.png",
     "Innovation Theory.md",
-    "Entrapeneurship.md",
-    "Untitled 12.md",
-    "Physics 5.3 Parallel Circuits.md",
-    "Excalidraw/Physics 5.3 Review.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
