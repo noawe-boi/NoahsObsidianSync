@@ -73,7 +73,7 @@ A dB meter was used to determine when the pipe was tuned to a harmonic as it cou
 
 - *Describe the experimental setup in detail.*
 *
-*- *Explain the steps taken to collect data (e.g., generating the 7th harmonic, measuring pipe length, recording frequency).*
+*- *Explain the steps taken to collect data (e.g., generating the 7th harmonic, measuring pipe length).*
 
 - *Mention the number of trials and the range of pipe lengths used.*
 *
