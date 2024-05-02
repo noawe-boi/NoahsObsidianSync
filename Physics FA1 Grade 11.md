@@ -10,7 +10,7 @@ tags:
 
 `anyways, also missing at the moment are some graphs/figures, referencing and the entire report from methodology and onwards`
 
-`good luck `
+`good luck 💀`
 
 
 ## 1. Research Question:
