@@ -15,11 +15,9 @@ Can the speed of a sound wave be accurately calculated by investigating the rela
 
  The purpose of the original experiment was to calculate the speed of a sound wave in air by finding and measuring the frequency of the harmonics in a fixed length of pipe with open ends
 
----
+- Mention the independent and dependent variables.
 
-
- - Mention the independent and dependent variables.
-
+The harmonic of the pipe was the independent variable and the factor that was altered in between trials that all other changes were caused by
 - Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
  - Present the derived equation for sound wave speed.
 
