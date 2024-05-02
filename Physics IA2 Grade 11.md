@@ -19,6 +19,7 @@ Can the speed of a sound wave be accurately calculated by investigating the rela
 
 The harmonic of the pipe was the independent variable and the factor that was altered in between trials that all other changes were caused by
 - Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
+The frequency of each harmonic was the dependent variable and first estimated using the equation $fuckme$ . This initial value was then fine tuned to become or confirmed to be the harmonic through listening to the pipe with one ear and determining at what frequencies it sounded loudest. By plotting the desired harmonic of the pipe that the frequency being played corresponds with on the x axis and the current frequency being played on the y axis, the gradient of the graph corresponds with the relationship between each harmonic and the frequency of it.
  - Present the derived equation for sound wave speed.
 
 - Discuss the limitations of the original experiment (reliance on human hearing).
