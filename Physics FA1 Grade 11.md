@@ -58,11 +58,9 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 - **Identify potential risks associated with the experiment:**
 
-- *Examples: Hearing damage due to high-frequency sounds, physical injury from equipment.*
 
 - **Outline mitigation strategies for each risk:**
 
-- *Examples: Using appropriate sound levels, wearing safety glasses, handling equipment with care.*
 
 - **Present the information in a table format for clarity.**
 
