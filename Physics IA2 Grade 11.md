@@ -6,8 +6,7 @@ Based on the provided sample reports and marking guide, here's a sugg
 
 - Clearly state your research question:
 
-- **Example:** Can the speed of a sound wave be accurately calculated by investigating the relationship between the frequency of the 7th harmonic and the varying length of a pipe with open ends?
-
+Can the speed of a sound wave be accurately calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends
 
 ## 2. Rationale:
 
@@ -18,7 +17,7 @@ Based on the provided sample reports and marking guide, here's a sugg
 
 ---
 
- [[NA1]](#_msoanchor_1)2 Closed ends because at harmonics the highest amplitude is at those closed ends
+
  - Mention the independent and dependent variables.
 
 - Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
