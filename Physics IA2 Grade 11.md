@@ -11,8 +11,8 @@ Can the speed of a sound wave be accurately calculated by investigating the rela
 ## 2. Rationale:
 
 - **Original Experiment:**
-- Explain the purpose and methodology of the original experiment (calculating sound wave speed by measuring harmonic frequencies in a fixed-length open pipe).
-- 
+- Explain the purpose and methodology of the original experiment
+
  The purpose of the original experiment was to calculate the speed of a sound wave in air by finding and measuring the frequency of the harmonics in a fixed length of pipe with open ends
 
 ---
