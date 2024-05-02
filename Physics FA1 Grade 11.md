@@ -35,7 +35,7 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - **Justification for Modification:**
 
-- *Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).**
+**Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).**
 
 Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
 
