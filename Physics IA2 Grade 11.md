@@ -31,7 +31,7 @@ Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pip
 
 - Discuss the limitations of the original experiment (reliance on human hearing).
 - 
-While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear, which differed from person to pers
+While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. 
 
 - **Justification for Modification:**
 
