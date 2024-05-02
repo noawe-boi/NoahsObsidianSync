@@ -51,6 +51,7 @@ A dB meter was used to determine when the pipe was tuned to a harmonic as it cou
 - *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
 
 
+
 ![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky)
 ## 3. Risk Management:
 
