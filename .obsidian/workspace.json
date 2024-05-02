@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2e798a92b9aa6d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics IA2 Grade 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c20c02478b7302b0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "Physics IA2 Grade 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "Physics IA2 Grade 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Grade 11 FA2.md"
+                "file": "Physics IA2 Grade 11.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English Grade 11 FA2.md"
+                "file": "Physics IA2 Grade 11.md"
               }
             }
           },
@@ -193,10 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc06c7f3c7f6dac1",
+  "active": "2e798a92b9aa6d33",
   "lastOpenFiles": [
-    "English Grade 11 FA2 Planning.md",
     "English Grade 11 FA2.md",
+    "Physics IA2 Grade 11.md",
+    "English Grade 11 FA2 Planning.md",
     "fa2.md",
     "Business Wheel FA2.md",
     "conflict-files-obsidian-git.md",
@@ -229,7 +243,6 @@
     "Physics 5.3 Parallel Circuits.md",
     "Excalidraw/Physics 5.3 Review.md",
     "Excalidraw/Physics Worked Example 5.3.2.md",
-    "Excalidraw/Parallel resistance formuler.md",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
     "Pasted image 20231114121806.png",
