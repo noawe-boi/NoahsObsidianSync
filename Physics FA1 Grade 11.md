@@ -88,7 +88,6 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 - **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
-- **Data Processing:**
 |       |             | Frequency (Hz)  |         |         |         |         |        |     |  ? Gradient |        |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |:------|:------------|:----------------|:--------|:--------|:--------|:--------|:-------|:----|:------------|:-------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | L (m) |   1/L (1/m) | Trial 1         | Trial 2 | Trial 3 | Trial 4 | Trial 5 | Mean   | ?F  | Min         | Max    |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -100,6 +99,8 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 | 0.345 | 2.898550725 |            1776 |    1775 |    1777 |    1788 |    1778 | 1778.8 | 6.5 |             |        |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |       |             |                 |         |         |         |         |        |     |             |        |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |       |             |                 |         |         |         |         |        |     |             |        |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+
+
 - *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
 *
 - *Show sample calculations for clarity.*
