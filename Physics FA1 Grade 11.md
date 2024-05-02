@@ -85,7 +85,7 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 - **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
 - **Data Processing:**
-
+ | | | 
 - *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
 *
 - *Show sample calculations for clarity.*
