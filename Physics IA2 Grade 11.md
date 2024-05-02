@@ -22,8 +22,8 @@ The harmonic of the pipe was the independent variable and the factor that was al
 The frequency of each harmonic was the dependent variable and first estimated using the equation $f=(273\pm5.75)n$ 
 
 This initial value was then fine tuned to become or confirmed to be the harmonic through listening to the pipe with one ear and determining at what frequencies it sounded loudest. By plotting the desired harmonic of the pipe that the frequency being played corresponds with on the x axis and the current frequency being played on the y axis, the gradient of the graph corresponds with the relationship between each harmonic and the frequency of it.
- **
- **- **Present the derived equation for sound wave speed.**
+ 
+ - *Present the derived equation for sound wave speed.*
 
 By substituting in the equation $f=\frac{v}{\lambda}$  , substituting in the equation ,and re-arranging the formula to become $\lambda = \frac{4L}{n}$ 
 
@@ -35,22 +35,22 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - **Justification for Modification:**
 
-- Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).
+- *Explain why the original experiment needs modification (to eliminate reliance on human hearing and improve accuracy).**
+*
+- *State the modification: changing the pipe length instead of frequency.*
 
-- State the modification: changing the pipe length instead of frequency.
-
-- Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).
+- *Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).*
 
 ![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky)
 ## 3. Risk Management:
 
 - **Identify potential risks associated with the experiment:**
 
-- Examples: Hearing damage due to high-frequency sounds, physical injury from equipment.
+- *Examples: Hearing damage due to high-frequency sounds, physical injury from equipment.*
 
 - **Outline mitigation strategies for each risk:**
 
-- Examples: Using appropriate sound levels, wearing safety glasses, handling equipment with care.
+- *Examples: Using appropriate sound levels, wearing safety glasses, handling equipment with care.*
 
 - **Present the information in a table format for clarity.**
 
@@ -61,13 +61,13 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - **Procedure:**
 
-- Describe the experimental setup in detail.
+- *Describe the experimental setup in detail.*
+*
+*- *Explain the steps taken to collect data (e.g., generating the 7th harmonic, measuring pipe length, recording frequency).*
 
-- Explain the steps taken to collect data (e.g., generating the 7th harmonic, measuring pipe length, recording frequency).
-
-- Mention the number of trials and the range of pipe lengths used.
-
-- Include a diagram of the experimental setup.
+- *Mention the number of trials and the range of pipe lengths used.*
+*
+*- *Include a diagram of the experimental setup.*
 
 
 ## 5. Results:
@@ -76,17 +76,17 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 
 - **Data Processing:**
 
-- Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).
-
-- Show sample calculations for clarity.
+- *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
+*
+- *Show sample calculations for clarity.*
 
 - **Graphical Representation:**
 
-- Plot the relationship between pipe length and the 7th harmonic frequency.
+- *Plot the relationship between pipe length and the 7th harmonic frequency.*
 
-- Choose an appropriate graph type (e.g., scatter plot) and label axes clearly.
+- *Choose an appropriate graph type (e.g., scatter plot) and label axes clearly.*
 
-- Include error bars if applicable.
+- *Include error bars if applicable.*
 
 
 ## 6. Analysis:
