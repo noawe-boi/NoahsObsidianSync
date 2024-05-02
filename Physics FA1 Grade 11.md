@@ -2,7 +2,9 @@
 
 
 ### `Hey Mr Ace, 
-`please excuse the trash formatting in this, The prompts/titles will NOT be in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, I'll p
+`please excuse the trash formatting in this, The prompts/titles will be absent or more relevant in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, I'll explain it in class (im not cheating I promise).
+
+`anyways, also missing at the moment are some graphs `
 
 
 ## 1. Research Question:
