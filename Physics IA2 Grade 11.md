@@ -12,9 +12,13 @@ Based on the provided sample reports and marking guide, here's a sugg
 ## 2. Rationale:
 
 - **Original Experiment:**
-    
     - Explain the purpose and methodology of the original experiment (calculating sound wave speed by measuring harmonic frequencies in a fixed-length open pipe).
-        
+    - 
+     The purpose of the original experiment was to calculate the speed of a sound wave in air by finding and measuring the frequency of the harmonics in a fixed length of pipe with open ends
+
+---
+
+ [[NA1]](#_msoanchor_1)2 Closed ends because at harmonics the highest amplitude is at those closed ends
     - Mention the independent and dependent variables.
         
     - Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
