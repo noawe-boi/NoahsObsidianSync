@@ -15,10 +15,10 @@ Can the speed of a sound wave be accurately calculated by investigating the rela
 
  The purpose of the original experiment was to calculate the speed of a sound wave in air by finding and measuring the frequency of the harmonics in a fixed length of pipe with open ends
 
-- **Mention the independent and dependent variables.**
+- Mention the independent and dependent variables.
 
 The harmonic of the pipe was the independent variable and the factor that was altered in between trials that all other changes were caused by
-- **Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).**
+- Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
 The frequency of each harmonic was the dependent variable and first estimated using the equation $f=(273\pm5.75)n$ 
 
 This initial value was then fine tuned to become or confirmed to be the harmonic through listening to the pipe with one ear and determining at what frequencies it sounded loudest. By plotting the desired harmonic of the pipe that the frequency being played corresponds with on the x axis and the current frequency being played on the y axis, the gradient of the graph corresponds with the relationship between each harmonic and the frequency of it.
@@ -29,7 +29,7 @@ By substituting in the equation $f=\frac{v}{\lambda}$  , substituting in the e
 
 Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pipe (m), the speed of sound could be found.
 
-- **Discuss the limitations of the original experiment (reliance on human hearing).**
+- Discuss the limitations of the original experiment (reliance on human hearing).
 - 
 While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear.
 
