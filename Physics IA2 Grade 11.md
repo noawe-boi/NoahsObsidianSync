@@ -1,18 +1,22 @@
-**1. Research Question:**
+## Physics IA2 Report Structure: Investigating Sound Wave Speed
+
+**Based on the provided sample reports and marking guide, here's a suggested structure for your Physics IA2 report on calculating the speed of sound waves using the relationship between the frequency of the 7th harmonic and the length of an open-ended pipe.**
+
+## 1. Research Question:
 
 - Clearly state your research question:
     
     - **Example:** Can the speed of a sound wave be accurately calculated by investigating the relationship between the frequency of the 7th harmonic and the varying length of a pipe with open ends?
-        
+    
 
-**2. Rationale:**
+## 2. Rationale:
 
 - **Original Experiment:**
     
     - Explain the purpose and methodology of the original experiment (calculating sound wave speed by measuring harmonic frequencies in a fixed-length open pipe).
-        
+    
     - Mention the independent and dependent variables.
-        
+    
     - Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
         
     - Present the derived equation for sound wave speed.
@@ -28,7 +32,7 @@
     - Describe the expected relationship between pipe length and the 7th harmonic frequency (inversely proportional).
         
 
-**3. Risk Management:**
+## 3. Risk Management:
 
 - **Identify potential risks associated with the experiment:**
     
@@ -41,7 +45,7 @@
 - **Present the information in a table format for clarity.**
     
 
-**4. Methodology:**
+## 4. Methodology:
 
 - **Apparatus/Materials:** List all equipment and materials used in the experiment with specifications (e.g., function generator, speaker, open-ended pipes of various lengths, measuring tape, frequency analyzer software).
     
@@ -56,7 +60,7 @@
     - Include a diagram of the experimental setup.
         
 
-**5. Results:**
+## 5. Results:
 
 - **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
     
@@ -75,7 +79,7 @@
     - Include error bars if applicable.
         
 
-**6. Analysis:**
+## 6. Analysis:
 
 - **Identify trends and patterns in the data:**
     
@@ -92,7 +96,7 @@
     - Explain how these limitations could be addressed in future investigations.
         
 
-**7. Interpretation and Evaluation:**
+## 7. Interpretation and Evaluation:
 
 - **Interpretation:**
     
@@ -111,19 +115,19 @@
     - Suggest improvements and extensions for future investigations.
         
 
-**8. Conclusion:**
+## 8. Conclusion:
 
 - Summarize the key findings of your experiment and restate your conclusion regarding the research question.
     
 - Highlight the significance of your findings and their implications.
     
 
-**9. References:**
+## 9. References:
 
 - List all sources of information used in your report in a consistent and appropriate referencing style (e.g., APA, MLA).
     
 
-**10. Appendices (Optional):**
+## 10. Appendices (Optional):
 
 - Include any additional information that is relevant but not essential to the main body of the report, such as raw data tables, detailed calculations, or additional graphs.
     
