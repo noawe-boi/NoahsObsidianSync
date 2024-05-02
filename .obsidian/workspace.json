@@ -204,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,11 +218,11 @@
   },
   "active": "2c3397303145290d",
   "lastOpenFiles": [
+    "Physics 6.2 Electric Fields.md",
+    "Physics FA1 Grade 11.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
-    "Physics FA1 Grade 11.md",
     "Pasted image 20240502191455.png",
-    "Physics 6.2 Electric Fields.md",
     "Excalidraw/Electric Fields Diagram.md",
     "Excalidraw/Atoms repelling electric frields diagram.md",
     "fa2.md",
