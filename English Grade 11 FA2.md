@@ -84,7 +84,7 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 ### Effect on Audience
 
 
-somewhat helps show the inbalance of blame on media when later on they 
+somewhat helps show the imbalance of blame on media when later on they are proven to be innocent. 
 ## Receiving the news that they found the person who really committed the crime
 ### Description
 
