@@ -70,6 +70,7 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 ***Show 0:31:17 where they were manipulated into giving false confessions***
 ### Description
 
+
 ### Techniques
 
 ### Effect on Audience
