@@ -82,6 +82,9 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 ### Techniques
 
 ### Effect on Audience
+
+
+somewhat helps show the inbalance of blame on media when later on they 
 ## Receiving the news that they found the person who really committed the crime
 ### Description
 
