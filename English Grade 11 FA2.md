@@ -70,7 +70,7 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 ## Arrest and interrogation scenes
 ***Show 0:31:17 where they were manipulated into giving false confessions***
 ### Description
-These scenes show the footage recorded of the boys interrogation, manipulation and false confessions. We see the boys being 
+These scenes show the footage recorded of the boys interrogation, manipulation and false confessions. We are shown the lies and
 
 ### Techniques
 ##### Archival Footage
