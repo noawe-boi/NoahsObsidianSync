@@ -79,7 +79,7 @@ Instead of a reenactment, or a retelling, the documentary pulls actual footage o
 The documentary takes specific moments from the boys individual interrogations that highlight how the police broke them down and manipulated them.
 
 ##### Testimony 
-finally, in case law enforcements blatant misconduct and exploitation wasnt already apparent 
+finally, in case law enforcements blatant misconduct and exploitation wasn't already apparent enough, the audience is presented with analysis of the tactics used against the boys from expert physoclogists and 
 
 
 
