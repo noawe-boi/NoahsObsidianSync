@@ -89,6 +89,7 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
 ### Description
+The Documentary compiles a number of news reports that 
 
 ### Techniques
 
