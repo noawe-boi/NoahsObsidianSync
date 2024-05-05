@@ -93,7 +93,7 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ### Techniques
 
 ##### Editing/archival footage
-By compiling a number of actual news 
+These reportsl are
 ##### Juxtaposition
 
 
