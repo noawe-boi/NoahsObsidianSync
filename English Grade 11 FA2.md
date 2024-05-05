@@ -74,7 +74,7 @@ These scenes show the footage recorded of the boys interrogation, manipulation a
 
 ### Techniques
 ##### Archival Footage
-By showing the actual
+Instead of a reenactment, or a 
 ##### Editing
 The documentary takes specific moments from the boys individual interrogations that highlight how the police broke them down and manipulated them. 
 
