@@ -74,7 +74,7 @@ These scenes show the footage recorded of the boys interrogation, manipulation a
 
 ### Techniques
 ##### Archival Footage
-Instead of a reenactment, or a retelling, the documentary pulls actual footage of each boy's interrogation. 
+Instead of a reenactment, or a retelling, the documentary pulls actual footage of each boy's interrogation. This immerses viewers as the people they see are no longer just actors playing a role, but real people being taken advantage of 
 ##### Editing
 The documentary takes specific moments from the boys individual interrogations that highlight how the police broke them down and manipulated them. 
 
