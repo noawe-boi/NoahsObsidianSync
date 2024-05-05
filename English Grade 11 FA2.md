@@ -78,6 +78,7 @@ Instead of a reenactment, or a retelling, the documentary pulls actual footage o
 ##### Editing
 The documentary takes specific moments from the boys individual interrogations that highlight how the police broke them down and manipulated them. 
 
+##### Testimony 
 
 
 
