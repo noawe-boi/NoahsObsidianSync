@@ -1,14 +1,13 @@
+---
+tags:
+  - english
+---
 ___
 
 
-#english 
+
 # The Central Park 5
 
-_______
-# Planning
-![[English Grade 11 FA2 Planning]]
-
-### 
 ________
 
 # Introduction 
@@ -93,7 +92,7 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ### Techniques
 
 ##### Editing/archival footage
-These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, t
+These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale 
 ##### Juxtaposition
 
 
@@ -107,6 +106,9 @@ somewhat helps show the imbalance of blame on media when later on they are prove
 ### Techniques
 
 ### Effect on Audience
+
+
+# Conclusion
 
 _____
 # sauces 
