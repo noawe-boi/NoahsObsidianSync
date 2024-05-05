@@ -21,7 +21,7 @@ Lets set the scene. The year is 1989, New York city is the capital of racial vio
 Jim Dwyer, a journalist that reported on the case while it was ongoing claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
 #### Is this position/representation fair or biased, do you agree or disagree?
-In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. One place wher
+In hindsight, this is obvious and the case is well regarded as one of the most well known examples of racial bias, misarrange and overall failures of both the justice system, and the media's ability to remain unbiased and factual. One place where 
 
 However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
 
@@ -94,7 +94,7 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ### Techniques
 
 ##### Editing/archival footage
-These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale 
+These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case
 ##### Juxtaposition
 
 
