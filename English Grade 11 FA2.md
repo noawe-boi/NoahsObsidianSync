@@ -92,6 +92,9 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 The Documentary compiles a number of news reports that covered the boys case at the time to demonstrate the public's knowledge and opinion of them and their case. The overwhelming consensus is extremely negative and biased against any chance the boys are innocent.
 
 ### Techniques
+##### Archival Foorage
+
+
 
 ### Effect on Audience
 
