@@ -32,7 +32,6 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Reasons That the representation needs to change
-### Please note that these dot points will be expanded and justified later on...
 
 - To challenge existing racial stereotypes
 
