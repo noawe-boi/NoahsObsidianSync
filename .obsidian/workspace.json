@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2850d6f29de470ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "Key Scenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "Key Scenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Grade 11 FA2.md"
+                "file": "Key Scenes.md"
               }
             }
           }
@@ -193,13 +205,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "42020e8d5d448690",
+  "active": "0704ae9af440e05b",
   "lastOpenFiles": [
-    "Key Scenes.md",
     "English Grade 11 FA2.md",
+    "conflict-files-obsidian-git.md",
+    "Physics 6.2 Electric Fields.md",
+    "Excalidraw/Electric Fields Diagram.md",
+    "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
+    "Excalidraw/Atoms repelling electric frields diagram.md",
+    "Key Scenes.md",
     "Physics FA1 Grade 11.md",
     "English Grade 11 FA2 Planning.md",
-    "conflict-files-obsidian-git.md",
     "Physics 6.1 Coulomb's Law.md",
     "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
     "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
@@ -226,10 +242,6 @@
     "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
     "Calculated max distance .pdf",
     "6.1 Start Up Regulation and Financing.md",
-    "Excalidraw/Pipe with close end Fundamental Harmonic.md",
-    "Excalidraw/Open Ends Third Harmonic.md",
-    "Excalidraw/Open Ends Second Harmonic.md",
-    "Excalidraw/Open Pipe Fundamental Harmonic.md",
     "Pasted image 20240319105633.png",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
