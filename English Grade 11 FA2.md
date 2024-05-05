@@ -74,7 +74,7 @@ These scenes show the footage recorded of the boys interrogation, manipulation a
 
 ### Techniques
 ##### Editing
-The Documentary 
+The documentary takes specifi
 
 
 ### Effect on Audience
