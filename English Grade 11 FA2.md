@@ -42,7 +42,7 @@ In hindsight, this is obvious and the case is well regarded as one of the most w
 
 
 # Other Texts I Will Reference
-## 'When they see us' on Netflix
+## 'When they see us'  
 ### Description
 When they see us is dramatized retelling of the events of "The Central Park Five". While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
 
@@ -92,8 +92,12 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 The Documentary compiles a number of news reports that covered the boys case at the time to demonstrate the public's knowledge and opinion of them and their case. The overwhelming consensus is extremely negative and biased against any chance the boys are innocent.
 
 ### Techniques
-##### Archival Foorage
+##### Archival Footage
+The documentary once again 
 
+##### Editing
+
+##### Juxtaposition
 
 
 ### Effect on Audience
