@@ -73,8 +73,12 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 These scenes show the footage recorded of the boys interrogation, manipulation and false confessions. 
 
 ### Techniques
+##### Archival Footage
+By showing the actual
 ##### Editing
-The documentary takes specific moments from the boys individual interrogations that highlight how the police 
+The documentary takes specific moments from the boys individual interrogations that highlight how the police broke them down and manipulated them. 
+
+
 
 
 ### Effect on Audience
