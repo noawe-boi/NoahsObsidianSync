@@ -94,7 +94,7 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ### Techniques
 
 ##### Editing/archival footage
-These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and ______________________________ is demonstrated
+These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and the pervasiveness of the medias bias pervasiveness of the media's biased narrative** is demonstrated.
 ##### Juxtaposition
 
 
