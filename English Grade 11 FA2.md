@@ -115,7 +115,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 
 
 # Conclusion/Call to action
-Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial injustice. While there are cases where the boys 
+Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial injustice. While the documentary does lack 
 
 I'd like to end with a call to cation. What kinds of media have you been exposed to and how have they affected you? 
 _____
