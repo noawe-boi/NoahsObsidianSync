@@ -100,7 +100,7 @@ Before and after these news clips, we are shown interviews with members of the '
 
 ### Effect on Audience
 
-This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of media coverage regarding the 'five's release. 
+This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of positive media coverage regarding the 'five's release. 
 ## Craig wonder and Saul Kassin discussing the lack of media attention
  ***Show 1:48:46 to 1:49:01 then  1:50:00 to 1:50:20***
 ### Description
@@ -115,7 +115,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 
 
 # Conclusion/Call to action
-Overall, 'The Central Park Five' 
+Overall, 'The Central Park Five' accurately retells the story and conclsuion 
 
 I'd like to end with a call to cation. What kinds of media have you been exposed to and how have they affected you? 
 _____
