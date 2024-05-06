@@ -103,7 +103,7 @@ Before and after these news clips, we are shown interviews with members of the '
 ### Effect on Audience
 
 This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of positive media coverage regarding the 'five's release.
-## Craig wonder and Saul Kassin discussing the lack of media attention
+## Craig wonder and Saul Kassin discussing the lack of media attention regarding their release
  ***Show 1:48:46 to 1:49:01 then 1:50:00 to 1:50:20***
 ### Description
 These Scenes are a compilation of interviews with Craig Wonder, a historian, and Saul Kassin, a phycologist, where they discuss the aftermath of the case and media coverage of the 'five's innocence. 
@@ -113,7 +113,7 @@ These Scenes are a compilation of interviews with Craig Wonder, a historian, and
 Throughout these interviews, we see a montage of media coverage from the time regarding the new evidence that proves the 'five are innocent. 
 
 ### Effect on Audience
-By directly presenting viewers with information, these scenes act almost like a concluding exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. 
+By directly presenting viewers with information, these scenes act almost like a concluding exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. This overall 
 
 
 # Conclusion/Call to action
