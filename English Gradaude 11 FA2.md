@@ -20,7 +20,7 @@ Let's set the scene. The year is 1989, New York City is the capital of racial vi
 
 The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their shoulders, and finds its own ways to condemn them.
 
-Jim Dwyer, a journalist that reported on the case while it was ongoing claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
+Jim Dwyer, a journalist that reported on the case while it was ongoing, claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
 #### Is this position/representation fair or biased, do you agree or disagree?
 In hindsight, this is obvious, and the case is well regarded as one of the most well known examples of racial bias, miscarriage and overall failures of both the justice system, and the media's ability to remain unbiased and factual. One place where 
@@ -30,7 +30,7 @@ However, just because this statement is objectively true, doesn't mean everyone 
 
 #### How does the public perceive this topic
 
-In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. Despite this, many individuals still believe that the 'five, as well as many other victims of racial attacks are at fault for them . Linda Fairstien, the prosecutor for the 'five, continued to slander them for years after their exoneration, despite knowing that they could not have possibly been the ones who attacked her. 
+In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. Despite this, many individuals still believe that the 'five, as well as many other victims of racial attacks are at fault for them . Linda Fairstien, the prosecutor for the 'five's case, continued to slander them for years after their exoneration, despite knowing that they could not have been the perpetrators
 
 
 
