@@ -44,8 +44,6 @@ In the modern day,
 # Other Texts I Will Reference
 ## Netflix's 'When they see us'  
 ### Description
-When they see us is dramatized retelling of the events of "The Central Park Five". While 
-=======
 Netflix's 'When they see us' is a dramatized retelling of the events of "The Central Park Five". While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
 
 ### Differences in representation
