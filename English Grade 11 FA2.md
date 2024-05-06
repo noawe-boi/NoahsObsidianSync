@@ -17,7 +17,7 @@ ________
 Let's set the scene. The year is 1989, New York City is the capital of racial violence, and 5 innocent black and Latino boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, "The Central Park Five", directed by Sarah Burns, Ken Burns and David McMahon, retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
 
 #### What position does the documentary persuade the audience to take on the topic
-while 'The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their lawful actions that night, and finds its own ways to condemn them.
+while 'The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought, not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their lawful actions that night, and finds its own ways to condemn them.
 Jim Dwyer, a journalist that reported on the case while it was ongoing claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
 #### Is this position/representation fair or biased, do you agree or disagree?
@@ -48,7 +48,7 @@ However, just because this statement is objectively true, doesn't mean everyone 
 Netflix's 'When they see us' is a dramatized retelling of the events of "The Central Park Five". While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
 
 ### Differences in representation
-It focuses on the lives of the members of group before their involvement in the rape case as well as its impact on their personal lives.
+It focuses on the lives of the members of the group before their involvement in the rape case, as well as its impact on their personal lives.
 Furthermore, it rightfully paints them as the victims they are and dives deeper into their demonized representation in the media and how it impacted their case, rather than the other way round. 
 
 
@@ -62,7 +62,7 @@ While not a text from a specific author or outlet, the mainstream media coverage
 ### Differences in representation
 Mainstream media reported that Central Park Five were guilty because they were willing to ignore. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were accountable for their actions.
 
-Sympathy towards Floyd and his family was in significantly more abundance than in the Central Park Five's case too. As mentioned earlier, Floyd was seen as a victim, Unlike the Central Park Five, who in their documentary were blamed. 
+Sympathy towards Floyd and his family was in significantly more abundance than in the Central Park Five's case, too. As mentioned earlier, Floyd was seen as a victim, Unlike the Central Park Five, who in their documentary were blamed. 
 
 
 # Key Scenes
@@ -86,7 +86,7 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 
 
 ### Effect on Audience
-The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. The distinct lack of sympathy in these scenes from neither law enforcement or narrators makes the 'five seem somewhat at fault when in reality they were just in the wrong place at the wrong time.
+The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. The distinct lack of sympathy in these scenes from neither law enforcement nor narrators makes the 'five seem somewhat at fault, when in reality they were just in the wrong place at the wrong time.
 
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
@@ -117,7 +117,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 
 
 # Conclusion/Call to action
-Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial prejudice, bias of mainstream media and denial of justice. While the documentary does take subtle jabs at the boy's when it comes to whether they were somewhat at fault for their arrest and conviction, it never accuses them of actually comitting a crime and brings to light the wrongful actions of higher powers as well as the lack of attention their eventual exoneration
+Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial prejudice, bias of mainstream media and denial of justice. While the documentary does take subtle jabs at the boys when it comes to whether they were somewhat at fault for their arrest and conviction, it never accuses them of actually committing a crime and brings to light the wrongful actions of higher powers as well as the lack of attention their eventual exoneration received. 
 
 I'd like to end with a call to cation. What kinds of media have you been exposed to, and how have they affected you? 
 _____
