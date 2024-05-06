@@ -101,7 +101,8 @@ Before and after these news clips, we are shown interviews with members of the '
 ### Effect on Audience
 
 This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of media coverage regarding the 'five's release. 
-## Receiving the news that they found the person who really committed the crime
+## Craig Wonders Monologue thing
+#
 ### Description
 
 
