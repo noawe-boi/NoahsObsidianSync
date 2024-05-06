@@ -30,7 +30,7 @@ However, just because this statement is objectively true, doesn't mean everyone 
 
 #### How does the public perceive this topic
 
-In the modern day, its politically correct and generally accepted that victims of racial prejudice are not to blame for the negative 
+In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. 
 
 
 
