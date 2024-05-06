@@ -114,8 +114,8 @@ Throughout these interviews, we see a montage media coverage from time time rega
 By directly presenting viewers with information, these scenes act almost like a concluding  exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. 
 
 
-# Conclusion
-What kinds of media have you been exposed to and how have they affected you? Are you just as bad as 
+# Conclusion/Call to action
+I'd like to end with a call to cation. What kinds of media have you been exposed to and how have they affected you? 
 _____
 # sauces 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
