@@ -70,13 +70,13 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 ## Arrest and interrogation scenes
 ***Show 0:31:17 where they were manipulated into giving false confessions***
 ### Description
-These scenes show the footage recorded of the boys interrogation, manipulation and false confessions. We are shown the lies and
+These scenes show the footage recorded of the boy's interrogation, manipulation and false confessions. We are shown the lies and
 
 ### Techniques
 ##### Archival Footage
 Instead of a reenactment, or a retelling, the documentary pulls actual footage of each boy's interrogation. This immerses viewers as the people they see are no longer just actors playing a role, but real people being taken advantage of and fighting for their freedom. 
 ##### Editing
-The documentary takes specific moments from the boys individual interrogations that highlight how the police broke them down and manipulated them.
+The documentary takes specific moments from the boy's individual interrogations that highlight how the police broke them down and manipulated them.
 
 ##### Testimony 
 finally, in case law enforcements blatant misconduct and exploitation wasn't already apparent enough, the audience is presented with analysis of the tactics used against the boys from expert physiologists and lawyers. These segments are also intertwined with the boys interviews. 
