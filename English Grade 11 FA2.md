@@ -104,6 +104,7 @@ This scene and the techniques used within it allow the audience to see for thems
 ## Receiving the news that they found the person who really committed the crime
 ### Description
 
+
 ### Techniques
 
 ### Effect on Audience
