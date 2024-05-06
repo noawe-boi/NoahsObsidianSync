@@ -107,8 +107,7 @@ This scene and the techniques used within it allow the audience to see for thems
 These Scenes are a compilation of interviews with Craig Wonder, a historian, and Saul Kassin, a phycologist, where they discuss the aftermath of the case and media coverage of the 'five's innocence. 
 ### Techniques
 ##### Direct Interviews
-These scenes act as almost an exposition dump, or conclusion to the 'five's story in a 
-
+The direct and d
 ### Effect on Audience
 
 
