@@ -111,10 +111,12 @@ These Scenes are a compilation of interviews with Craig Wonder, a historian, and
 Throughout these interviews, we see a montage media coverage from time time regarding the new evidence that proves the 'five are innocent. 
 
 ### Effect on Audience
-By directly presenting viewers with information, these scenes act almost like a concluding  exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. These scenes 
+By directly presenting viewers with information, these scenes act almost like a concluding  exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. 
 
 
 # Conclusion/Call to action
+Overall, 'The Central Park Five' 
+
 I'd like to end with a call to cation. What kinds of media have you been exposed to and how have they affected you? 
 _____
 # sauces 
