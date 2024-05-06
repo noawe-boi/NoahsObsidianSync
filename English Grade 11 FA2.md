@@ -115,7 +115,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 
 
 # Conclusion
-
+So will you let media tell you
 
 _____
 # sauces 
