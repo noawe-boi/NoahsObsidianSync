@@ -14,10 +14,10 @@ ________
 ## Documentary Introduction
 #### Plot Synopsis
 
-Let's set the scene. The year is 1989, New York City is the capital of racial violence, and 5 innocent boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, "The Central Park Five", Directed by Sarah Burns, Ken Burns and David McMahon, retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
+Let's set the scene. The year is 1989, New York City is the capital of racial violence, and 5 innocent boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, "The Central Park Five", directed by Sarah Burns, Ken Burns and David McMahon, retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
 
 #### What position does the documentary persuade the audience to take on the topic
-While 'The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their lawful actions that night, and finds its own ways to condemn them.
+while 'The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their lawful actions that night, and finds its own ways to condemn them.
 Jim Dwyer, a journalist that reported on the case while it was ongoing claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
 #### Is this position/representation fair or biased, do you agree or disagree?
@@ -95,21 +95,21 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ### Techniques
 
 ##### Editing/archival footage
-These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and the pervasiveness of the medias biased narrative as well as the focus on the boys race is demonstrated.
+These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and the pervasiveness of the medias biased narrative as well as the focus on the boy's race is demonstrated.
 ##### Juxtaposition
-Before and after these news clips, we are shown interviews with members of the 'five ('The Central Park Five'), all of which depict them as well natured and respectful. This is a complete juxtaposition to how we hear them depicted by the media. 
+Before and after these news clips, we are shown interviews with members of the 'five ('The Central Park Five'), all of which depict them as good natured and respectful. This is a complete juxtaposition to how we hear them depicted by the media. 
 
 ### Effect on Audience
 
 This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of positive media coverage regarding the 'five's release. 
 ## Craig wonder and Saul Kassin discussing the lack of media attention
- ***Show 1:48:46 to 1:49:01 then  1:50:00 to 1:50:20***
+ ***Show 1:48:46 to 1:49:01 then 1:50:00 to 1:50:20***
 ### Description
 These Scenes are a compilation of interviews with Craig Wonder, a historian, and Saul Kassin, a phycologist, where they discuss the aftermath of the case and media coverage of the 'five's innocence. 
 ### Techniques
 
 ##### Editing/narration/Direct Interviews/montage
-Throughout these interviews, we see a montage media coverage from time time regarding the new evidence that proves the 'five are innocent. 
+Throughout these interviews, we see a montage of media coverage from time regarding the new evidence that proves the 'five are innocent. 
 
 ### Effect on Audience
 By directly presenting viewers with information, these scenes act almost like a concluding  exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. 
@@ -118,7 +118,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 # Conclusion/Call to action
 Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial injustice. While the documentary does lack 
 
-I'd like to end with a call to cation. What kinds of media have you been exposed to and how have they affected you? 
+I'd like to end with a call to cation. What kinds of media have you been exposed to, and how have they affected you? 
 _____
 # sauces 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5

@@ -9,5 +9,10 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 90
-  }
+  },
+  "spellcheckDictionary": [
+    "natured",
+    "Kassin",
+    "Kassin"
+  ]
 }
