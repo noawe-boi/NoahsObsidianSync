@@ -17,14 +17,14 @@ ________
 Let's set the scene. The year is 1989, New York City is the capital of racial violence, and 5 innocent black and Latino boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, "The Central Park Five", directed by Sarah Burns, Ken Burns and David McMahon, retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
 
 #### What position does the documentary persuade the audience to take on the topic
-<<<<<<< HEAD:English Grade 11 FA2.md
-While 'The Central Park Five' is about proving the boys are innocence,  it somewhat puts part of the the blame on their shoulders. Viewers are taken through the uphill battle that the accused fought, not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their lawful actions that night, and finds its own ways to condemn them.
-=======
-The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their shoulders, and finds its own ways to condemn them.
+
+
+The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their shoulders, and finds its own ways to condemn them.
+
 Jim Dwyer, a journalist that reported on the case while it was ongoing claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
 #### Is this position/representation fair or biased, do you agree or disagree?
-In hindsight, this is obvious, and the case is one of the most well known as one of the most blatant examples of racial bias, miscarriage and overall failures of both the justice system, and the media's ability to remain unbiased and factual. One place where 
+In hindsight, this is obvious, and the case is well regarded as one of the most well known examples of racial bias, miscarriage and overall failures of both the justice system, and the media's ability to remain unbiased and factual. One place where 
 
 
 However, just because this statement is objectively true, doesn't mean everyone agrees with it. 
@@ -48,9 +48,6 @@ In the modern day,
 # Other Texts I Will Reference
 ## Netflix's 'When they see us'  
 ### Description
-<<<<<<< HEAD:English Gradaude 11 FA2.md
-When they see us is dramatized retelling of the events of "The Central Park Five". While 
-=======
 Netflix's 'When they see us' is a dramatized retelling of the events of "The Central Park Five". While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
 
 ### Differences in representation
