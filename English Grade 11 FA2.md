@@ -86,7 +86,7 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 
 
 ### Effect on Audience
-The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. The distinct lack of sympathy in these scenes from neither law enforcement or narrators makes the idea of freedom feel distant and hopeless.
+The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. The distinct lack of sympathy in these scenes from neither law enforcement or narrators makes the 'five seem somewhat at fault when in reality they were just in the wrong place at the wrong t
 
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
