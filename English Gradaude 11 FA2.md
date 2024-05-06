@@ -38,7 +38,7 @@ In the modern day, its politically correct and generally accepted that victims o
 
 - To challenge existing racial stereotypes
 
-- To 
+- To stop victims of racist attacks from being vilified 
 
 
 # Other Texts I Will Reference
