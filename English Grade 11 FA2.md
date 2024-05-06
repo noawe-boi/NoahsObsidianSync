@@ -85,7 +85,7 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 
 
 ### Effect on Audience
-T
+The use of these techniques shows the audience that while the boys did nothing wrong, the poilce 
 
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
