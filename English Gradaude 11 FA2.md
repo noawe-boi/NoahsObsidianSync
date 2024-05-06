@@ -30,7 +30,7 @@ However, just because this statement is objectively true, doesn't mean everyone 
 
 #### How does the public perceive this topic
 
-In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. Despite 
+In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. Despite this, many individuals still believe that the 'five, as well as many other victims of racial attacks 
 
 
 
