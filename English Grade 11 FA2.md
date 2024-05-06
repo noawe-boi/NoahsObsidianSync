@@ -108,8 +108,8 @@ These Scenes are a compilation of interviews with Craig Wonder, a historian, and
 ### Techniques
 ##### Direct Interviews
 By directly presenting viewers with information, these scenes act almost like a concluding  exposition dump. 
-##### Editing
-Throughout these interviews, we see media coverage from time time regarding  that adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. 
+##### Editing/narration
+Throughout these interviews, we see a montage media coverage from time time regarding the new evidence that proves the 'five are innocent. This adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. 
 
 ### Effect on Audience
 
