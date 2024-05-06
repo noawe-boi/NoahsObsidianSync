@@ -86,7 +86,7 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 
 
 ### Effect on Audience
-The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. However depite this 
+The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. However, despite this 
 
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
@@ -102,7 +102,7 @@ Before and after these news clips, we are shown interviews with members of the '
 
 ### Effect on Audience
 
-This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of positive media coverage regarding the 'five's release. 
+This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of positive media coverage regarding the 'five's release.
 ## Craig wonder and Saul Kassin discussing the lack of media attention
  ***Show 1:48:46 to 1:49:01 then 1:50:00 to 1:50:20***
 ### Description
