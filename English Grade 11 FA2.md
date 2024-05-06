@@ -113,11 +113,11 @@ These Scenes are a compilation of interviews with Craig Wonder, a historian, and
 Throughout these interviews, we see a montage of media coverage from the time regarding the new evidence that proves the 'five are innocent. 
 
 ### Effect on Audience
-By directly presenting viewers with information, these scenes act almost like a concluding exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. This overall 
+By directly presenting viewers with information, these scenes act almost like a concluding exposition dump. Additionally, the showcasing of media coverage from the time adds to the credibility of both interviewees claims and helps viewers better understand the kinds of opinions that people at the time would have been exposed to. Overall, this further contributes to the subtle idea that the boys were somewhat at fault still, even when proven innocent. 
 
 
 # Conclusion/Call to action
-Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial injustice. While the documentary does lack 
+Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial injustice. While the
 
 I'd like to end with a call to cation. What kinds of media have you been exposed to, and how have they affected you? 
 _____
