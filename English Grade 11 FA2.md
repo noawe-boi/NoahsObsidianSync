@@ -102,7 +102,7 @@ Before and after these news clips, we are shown interviews with members of the '
 
 This scene and the techniques used within it allow the audience to see for themselves the extent that the 'five were vilified and misrepresented. These scenes also prepare the audience for the end of the documentary, where we are shown the lack of media coverage regarding the 'five's release. 
 ## Craig Wonders Monologue thing
- ***Show 1:48:46 to ***
+ ***Show 1:48:46 to 1:49:49 ***
 ### Description
 
 
