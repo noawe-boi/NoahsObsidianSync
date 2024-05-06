@@ -18,7 +18,6 @@ Let's set the scene. The year is 1989, New York City is the capital of racial vi
 
 #### What position does the documentary persuade the audience to take on the topic
 
-
 The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their shoulders, and finds its own ways to condemn them.
 
 Jim Dwyer, a journalist that reported on the case while it was ongoing claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
