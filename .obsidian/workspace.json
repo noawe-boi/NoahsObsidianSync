@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "eb040be6c20791b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0704ae9af440e05b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key Scenes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -197,9 +179,9 @@
   },
   "active": "42020e8d5d448690",
   "lastOpenFiles": [
-    "Physics FA1 Grade 11.md",
-    "English Grade 11 FA2.md",
     "Key Scenes.md",
+    "English Grade 11 FA2.md",
+    "Physics FA1 Grade 11.md",
     "conflict-files-obsidian-git.md",
     "Physics 6.2 Electric Fields.md",
     "Excalidraw/Electric Fields Diagram.md",
