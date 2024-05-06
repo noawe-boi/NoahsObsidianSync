@@ -86,7 +86,7 @@ finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 
 
 ### Effect on Audience
-The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. However, despite this, no interiewee nor narrator cares to offer the boys sympathy. As if 
+The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. However, despite this, no interviewee nor narrator cares to offer the boys sympathy or excuses them from 
 
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
