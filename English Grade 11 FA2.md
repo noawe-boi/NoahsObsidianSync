@@ -96,10 +96,11 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ##### Editing/archival footage
 These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and the pervasiveness of the medias biased narrative as well as the focus on the boys race is demonstrated.
 ##### Juxtaposition
-Before and after these news clips, we are shown interviews with members of the 'five ('The Central Park Five'), all of which depict them as well natured and respectful. This is a complete juxtaposition to how we hear them depicted by the media, which 
+Before and after these news clips, we are shown interviews with members of the 'five ('The Central Park Five'), all of which depict them as well natured and respectful. This is a complete juxtaposition to how we hear them depicted by the media. 
 
 ### Effect on Audience
 
+This scene and the techniques used within it allow the audience to see for themselves 
 
 somewhat helps show the imbalance of blame on media when later on they are proven to be innocent. 
 ## Receiving the news that they found the person who really committed the crime
