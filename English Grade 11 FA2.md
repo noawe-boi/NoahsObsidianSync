@@ -104,7 +104,7 @@ This scene and the techniques used within it allow the audience to see for thems
 ## Craig Wonders Monologue thing
  ***Show 1:48:46 to 1:49:01 then  1:50:00 to 1:50:20***
 ### Description
-These Scenes are a compilation of interviews with Craig Wonder, a historian, and Saul Kassin, a phycologist, where they dicsuss the aftermath of the case and media coverage of the 'five's innocence 
+These Scenes are a compilation of interviews with Craig Wonder, a historian, and Saul Kassin, a phycologist, where they discuss the aftermath of the case and media coverage of the 'five's innocence. 
 ### Techniques
 
 ### Effect on Audience
