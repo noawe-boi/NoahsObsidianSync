@@ -30,7 +30,7 @@ However, just because this statement is objectively true, doesn't mean everyone 
 
 #### How does the public perceive this topic
 
-In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. Despite this, many individuals still believe that the 'five, as well as many other victims of racial attacks are at fault for them . Linda Fairstien, the prosecutor for the 'five's case, continued to slander them for years after their exoneration, despite knowing that they could not have been the perpetrators
+In the modern day, its politically correct and generally accepted that victims of racial prejudice are victims of hate and violence, not seekers of it. Despite this, many individuals still believe that the 'five, as well as many other victims of racial attacks are at fault for them . Linda Fairstien, the prosecutor for the 'five's case, continued to slander them for years after their exoneration, despite knowing that they could not have been the perpetrators. 
 
 
 
@@ -38,9 +38,7 @@ In the modern day, its politically correct and generally accepted that victims o
 
 - To challenge existing racial stereotypes
 
-- To Raise awareness of the racial prejudges and how they can affect powers that should be unbiased
-
-- To give people a new perspective on racial prejudices and help them see and positively act upon them instead of letting them control them
+- To 
 
 
 # Other Texts I Will Reference
