@@ -115,8 +115,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 
 
 # Conclusion
-So will you let media tell you
-
+What kinds of media have you been exposed to and how have they affected you? Are you just as bad as 
 _____
 # sauces 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
