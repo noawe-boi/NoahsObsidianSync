@@ -8,6 +8,11 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 60
-  }
+    "downscalePercent": 90
+  },
+  "spellcheckDictionary": [
+    "natured",
+    "Kassin",
+    "Kassin"
+  ]
 }
