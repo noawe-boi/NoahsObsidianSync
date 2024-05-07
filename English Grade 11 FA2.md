@@ -50,8 +50,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 ## George Floyd.
 ### Description
 George Floyd's Case and Central Park Five's case **are similar**. In the 'Central Park Five's case', they had 13 years stolen by police; In Floyd's case, he had his life stolen from him. 
-While not a text from a specific author or outlet, the mainstream media coverage of Floyd's Death due to police brutality. 
-
+The mainstream media coverage of Floyd's Death due to police brutality was overwhelmingly supportive. While 
  
 ### Differences in representation
 Mainstream media reported that 'Central Park Five' were guilty because they were willing to ignore. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were accountable for their actions.
