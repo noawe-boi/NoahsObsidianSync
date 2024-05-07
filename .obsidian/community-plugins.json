@@ -2,5 +2,9 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "table-editor-obsidian",
-  "markdown-table-editor"
+  "markdown-table-editor",
+  "obsidian-discordrpc",
+  "better-word-count",
+  "obsidian-tts",
+  "obsidian-languagetool-plugin"
 ]

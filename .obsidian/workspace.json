@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "475428d6133f1bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63720b8cefe8394c",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics FA1 Grade 11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics FA1 Grade 11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics FA1 Grade 11.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics FA1 Grade 11.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -216,11 +228,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c3397303145290d",
+  "active": "475428d6133f1bcf",
   "lastOpenFiles": [
-    "Physics 6.2 Electric Fields.md",
     "Physics FA1 Grade 11.md",
     "conflict-files-obsidian-git.md",
+    "English Gradaude 11 FA2.md",
+    "Physics 6.2 Electric Fields.md",
     "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
     "Pasted image 20240502191455.png",
     "Excalidraw/Electric Fields Diagram.md",
@@ -252,7 +265,6 @@
     "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
     "Calculated max distance .pdf",
     "6.1 Start Up Regulation and Financing.md",
-    "Excalidraw/Pipe with close end Fundamental Harmonic.md",
     "Pasted image 20240319105633.png",
     "Recording 20240215094430.webm",
     "Pasted Image 20231114122224_732.png",
