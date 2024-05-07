@@ -14,11 +14,11 @@ ________
 ## Documentary Introduction
 #### Plot Synopsis
 
-Let's set the scene. The year is 1989, New York City is the capital of racial violence, and 5 innocent black and Latino boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, "The Central Park Five", directed by Sarah Burns, Ken Burns and David McMahon, retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
+Let's set the scene. The year is 1989, New York City is the capital of racial violence, and 5 innocent black and Latino boys aged 14 to 16 are in police custody for the alleged rape and attempted murder of a female jogger. Released in 2012, 'The Central Park Five', directed by Sarah Burns, Ken Burns and David McMahon, retells the story of these 5 boys and their fight for justice and exoneration with a focus on how the media and its effect on society impacted their conviction.  
 
 #### What position does the documentary persuade the audience to take on the topic
 
-The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their shoulders, and finds its own ways to condemn them.
+'The Central Park Five' clearly states the boys are innocent, however, does little to take the blame off their shoulders. Viewers are taken through the uphill battle that the accused fought not only against the charges put against them, but against the racial stereotypes and injustice they face throughout their conviction. It is stated and proven multiple times throughout the feature that the results of their trial were not determined by their actions on the night that the crime took place but, for some reason, the documentary still puts weight on their shoulders, and finds its own ways to condemn them.
 
 Jim Dwyer, a journalist that reported on the case while it was ongoing, claimed that "the truth and reality and justice were not a part of it", and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
