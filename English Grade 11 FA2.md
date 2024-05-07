@@ -34,7 +34,7 @@ In the modern day, its politically correct and generally accepted that victims o
 
 # Reasons That the representation needs to change
 
-The representation of victims of racist attacks need to be changed in order to challenge existing racial stereotypes, which are the reason these attacks happen in the first place, and to stop victims of racist attacks from being vilified instead of supported, uplifted and respected. 
+The representation of victims of racist attacks need to be changed in order to challenge existing racial stereotypes, the cause of these attakcs and to stop victims of racist attacks from being vilified instead of supported, uplifted and respected. 
 
 
 # Other Texts I Will Reference
@@ -48,14 +48,14 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 
 ## George Floyd.
-### Description
+### Description 
 George Floyd's Case and Central Park Five's case **are similar**. In the 'Central Park Five's case', they had 13 years stolen by police; In Floyd's case, he had his life stolen from him. 
 The mainstream media coverage of Floyd's Death due to police brutality was overwhelmingly supportive and against the unlawful actions committed by those who were meant to be keepers of peace. While the perception and representation of victims of racial attacks has improved, some news outlets reported that Floyd died of a drug overdose, and not police brutality (No, George Floyd Court Documents Don’t Prove He Died of Drug Overdose | Fact Check, n.d.)
  
 ### Differences in representation
-Mainstream media reported that 'Central Park Five' were guilty because they were willing to ignore. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were held accountable for their actions.
+Mainstream media reported that 'Central Park Five' were guilty because they were willing to . However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were held accountable for their actions.
 
-Sympathy towards Floyd and his family was in significantly more abundance than in the 'Central Park Five's' case, too. As mentioned earlier, Floyd was seen as a victim, unlike the Central Park Five, who in their documentary were blamed. 
+Sympathy towards Floyd and his family was in significantly more abundance than in the 'Central Park Five's' case, too. As mentioned earlier, Floyd was seen as a victim, unlike the Central Park Five, who are still somewhat represented as at fault. 
 
 
 # Key Scenes
@@ -80,7 +80,7 @@ Finally, in case law enforcements blatant misconduct and exploitation wasn't alr
 
 
 ### Effect on Audience
-The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. The distinct lack of sympathy in these scenes from neither law enforcement nor narrators makes the 'five seem somewhat at fault, when in reality they were just in the wrong place at the wrong time.
+The use of these techniques helps the audience put themselves in the shoes of each member of the 'five. The distinct lack of sympathy in these scenes from neither law enforcement nor narrators makes the 'five seem somewhat at fault. Michael Joseph, A Defense Attorney even shames the parents of each of the prosecuted. He exclaims "Why would a parent not say at that moment 'we want to consult with an attorney'." While this is a valid statement, they would not have needed any legal guidance if the police had not taken forced false confessions. 
 
 ## Media Coverage of event
 ***Show 0:48:50 to 0:49:53 (This is the news report with the kids in it)***
@@ -90,7 +90,7 @@ The Documentary compiles a number of news reports that covered the boys case at 
 ### Techniques
 
 ##### Editing/archival footage
-These reports are shows in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and the pervasiveness of the medias biased narrative as well as the focus on the boy's race is demonstrated.
+These reports are shown in quick succession. Only a sentence or two from each report is ever heard before it is replaced with another. By showing a number of news reports and how they all have the same opinion, the true scale of their case, and the pervasiveness of the medias biased narrative as well as the focus on the boy's race is demonstrated.
 ##### Juxtaposition
 Before and after these news clips, we are shown interviews with members of the 'five ('The Central Park Five'), all of which depict them as good-natured and respectful. This is a complete juxtaposition to how we hear them depicted by the media. 
 
@@ -113,7 +113,9 @@ By directly presenting viewers with information, these scenes act almost like a 
 # Conclusion/Call to action
 Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial prejudice, bias of mainstream media and denial of justice. While the documentary does take subtle jabs at the boys when it comes to whether they were somewhat at fault for their arrest and conviction, it never accuses them of actually committing a crime and brings to light the wrongful actions of higher powers as well as the lack of attention their eventual exoneration received. 
 
-dont think the press faced its mistaked. I dont think the police department faced the truth of what had happened - saul kassin
+don't think the press faced its mistakes [and] I don't think the police department faced the truth of what had happened - Saul kassin
+
+I ask you to face your own mistakes and the mistakes of others both past and present. Ask yourself in future whether the people you are attacking are at fault, or victims of your own twisted beliefs. 
 _____
 # Super Spicy Sauces ;) 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
