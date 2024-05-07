@@ -5,14 +5,6 @@ tags:
 ## Physics IA2 Report 
 
 
-### `Hey Mr Ace,`
-`please excuse the trash formatting in this, The prompts/titles will be absent or more relevant in my final submission. Did some AI magic and got it to generate them from the task sheet and sample responses, as well as the work I had already done and existing notes i had taken on my word document to make sure it still matched up. (I'll explain it in class. im not cheating I promise).`
-
-`anyways, also missing at the moment are some graphs/figures, referencing and the entire report from methodology and onwards`
-
-`good luck 💀`
-
-
 ## 1. Research Question:
 
 - Clearly state your research question:
