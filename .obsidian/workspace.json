@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Park 5 Documentary notes.md",
+                "file": "English Grade 11 FA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00c78ec3913b7205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68f3214934dd85a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Gradaude 11 FA2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Gradaude 11 FA2.md",
+                "file": "English Grade 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Gradaude 11 FA2.md",
+                "file": "English Grade 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Gradaude 11 FA2.md"
+                "file": "English Grade 11 FA2.md"
               }
             }
           },
@@ -189,9 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68f3214934dd85a7",
+  "active": "7fec064238f2ca00",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Central Park 5 Documentary notes.md",
+    "English Gradaude 11 FA2.md",
+    "park.md",
+    "central.md",
+    "English Grade 11 FA2.md",
     "Physics FA1 Grade 11.md",
     "Physics 6.2 Electric Fields.md",
     "Physics 6.1 Coulomb's Law.md",
@@ -204,7 +208,6 @@
     "Excalidraw/Coulombs Law Formula.md",
     "Excalidraw/Atoms repelling electric frields diagram.md",
     "fa2.md",
-    "Central Park 5 Documentary notes.md",
     "test.md",
     "test 2.md",
     "Pasted image 20240321222734.png",
@@ -216,17 +219,13 @@
     "Maths assignment solution .pdf",
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
-    "English Gradaude 11 FA2.md",
     "English Grade 11 FA2 Planning.md",
     "Central Park 5 Unused.md",
     "Calculated max distance .pdf",
     "6.1 Start Up Regulation and Financing.md",
     "Untitled 12.md",
     "Physics 5.3 Parallel Circuits.md",
-    "Physics 5.2 Series Circuts.md",
     "Pasted image 20240319105633.png",
-    "Innovation Theory.md",
-    "Excalidraw/Series Circut.md",
     "Recording 20240215094430.webm",
     "Untitled 1.canvas",
     "Untitled.canvas",
