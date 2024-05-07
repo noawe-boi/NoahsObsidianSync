@@ -117,7 +117,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 # Conclusion/Call to action
 Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial prejudice, bias of mainstream media and denial of justice. While the documentary does take subtle jabs at the boys when it comes to whether they were somewhat at fault for their arrest and conviction, it never accuses them of actually committing a crime and brings to light the wrongful actions of higher powers as well as the lack of attention their eventual exoneration received. 
 
-Have yo
+Have you ever considered 
 _____
 # Sauces 
 https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
