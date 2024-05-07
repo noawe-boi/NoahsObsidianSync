@@ -51,7 +51,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 ## George Floyd.
 ### Description
-George Floyd's Case and the Central Park Five's cases are similar. In the Central Park Five's case, They had 13 years stolen by police, In Floyd's case, he had his life stolen from him. 
+George Floyd's Case and the Central Park Five's cases **are similar**. In the 'Central Park Five's case', they had 13 years stolen by police; In Floyd's case, he had his life stolen from him. 
 
 While not a text from a specific author or outlet, the mainstream media coverage of Floyd's Death due to police brutality. 
 
