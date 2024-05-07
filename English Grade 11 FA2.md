@@ -34,7 +34,7 @@ In the modern day, its politically correct and generally accepted that victims o
 
 # Reasons That the representation needs to change
 
-To challenge existing racial stereotypes, which are the reason these attacks happen in the first place and to stop victims of racist attacks from being vilified instead of given th**e help they need.** 
+To challenge existing racial stereotypes, which are the reason these attacks happen in the first place and to stop victims of racist attacks from being vilified instead of 
 
 
 # Other Texts I Will Reference
