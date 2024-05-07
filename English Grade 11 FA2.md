@@ -122,3 +122,4 @@ https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
 https://www.bbc.com/news/newsbeat-48609693
 https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961
 https://www.usatoday.com/story/news/factcheck/2023/11/03/george-floyd-was-murdered-did-not-die-of-drug-overdose-fact-check/71410099007/
+https://abcnews.go.com/US/timeline-impact-george-floyds-death-minneapolis/story?id=70999322 
