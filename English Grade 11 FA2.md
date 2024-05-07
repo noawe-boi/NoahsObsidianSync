@@ -66,7 +66,7 @@ Sympathy towards Floyd and his family was in significantly more abundance than i
 ## Arrest and interrogation scenes
 ***Show 0:31:17 where they were manipulated into giving false confessions***
 ### Description
-These scenes show the footage recorded of the boy's interrogation, manipulation and false confessions. We are shown numerous examples of blatant lies and manipulation tactics that are notorious for resulting in a confession, even if 
+These scenes show the footage recorded of the boy's interrogation, manipulation and false confessions. We are shown numerous examples of blatant lies and manipulation tactics that are notorious for resulting in confessions, false and true. 
 
 
 ### Techniques
