@@ -36,13 +36,13 @@ In the modern day, its politically correct and generally accepted that victims o
 
 # Reasons That the representation needs to change
 
-To challenge existing racial stereotypes, which are the reason these attacks happen in the first place and to stop victims of racist attacks from being vilified instead of given the help they need. 
+To challenge existing racial stereotypes, which are the reason these attacks happen in the first place and to stop victims of racist attacks from being vilified instead of given th**e help they need.** 
 
 
 # Other Texts I Will Reference
 ## Netflix's 'When they see us'  
 ### Description
-Netflix's 'When they see us' is a dramatized retelling of the events of "The Central Park Five". While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
+Netflix's 'When they see us' is a dramatized retelling of the events of 'The Central Park Five'. While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
 
 ### Differences in representation
 It focuses on the lives of the members of the group before their involvement in the rape case, as well as its impact on their personal lives.
