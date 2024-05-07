@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e798a92b9aa6d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English Grade 11 FA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,48 +177,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "floating": {
-    "id": "fcdd91af4f7df210",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c0cf9143d5df6d78",
-        "type": "window",
-        "children": [
-          {
-            "id": "cf7c4e06dc3ffd82",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2e798a92b9aa6d33",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "English Grade 11 FA2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 798,
-        "y": 149,
-        "width": 601,
-        "height": 603,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
   "active": "d58af6de28f9f1dc",
   "lastOpenFiles": [
     "English Grade 11 FA2.md",
-    "central.md",
     "Central Park 5 Documentary notes.md",
+    "central.md",
     "park.md",
     "Physics FA1 Grade 11.md",
     "English Gradaude 11 FA2.md",
