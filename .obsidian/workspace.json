@@ -32,34 +32,14 @@
             }
           },
           {
-            "id": "475428d6133f1bcf",
+            "id": "513d5dd51dc01ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "English Gradaude 11 FA2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "63720b8cefe8394c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Atoms repelling electric frields diagram.md"
-              }
-            }
-          },
-          {
-            "id": "513d5dd51dc01ce3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Electric Fields Diagram.md"
               }
             }
           }
@@ -132,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "English Gradaude 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "English Gradaude 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "English Gradaude 11 FA2.md"
               }
             }
           },
@@ -194,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "English Gradaude 11 FA2.md"
               }
             }
           },
@@ -228,15 +208,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "475428d6133f1bcf",
+  "active": "513d5dd51dc01ce3",
   "lastOpenFiles": [
+    "Excalidraw/Electric Fields Diagram.md",
     "Physics FA1 Grade 11.md",
     "conflict-files-obsidian-git.md",
     "English Gradaude 11 FA2.md",
     "Physics 6.2 Electric Fields.md",
     "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
     "Pasted image 20240502191455.png",
-    "Excalidraw/Electric Fields Diagram.md",
     "Excalidraw/Atoms repelling electric frields diagram.md",
     "fa2.md",
     "Excalidraw/Coulombs Law Formula.md",
