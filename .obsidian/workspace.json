@@ -176,6 +176,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-tts:Text to Speech": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
