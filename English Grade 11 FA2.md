@@ -23,9 +23,7 @@ Let's set the scene. The year is 1989, New York City is the capital of racial vi
 Jim Dwyer, a journalist that reported on the case while it was ongoing, claimed that **"the truth and reality and justice were not a part of it",** and that, in reality, the case was just a proxy war fueled by the racial injustice that plagued the city of New York at the time. 
 
 #### Is this position/representation fair or biased, do you agree or disagree?
-In hindsight, this is obvious, and the case is well regarded as one of the most well known examples of racial bias, miscarriage and overall failures of both the justice system, and the media's ability to remain unbiased and factual. **One place where** 
-
-
+In hindsight, this is obvious, and the case is well regarded as one of the most well known examples of racial bias, miscarriage and overall failures of both the justice system, and the media's ability to remain unbiased and factual.
 **However, just because this statement is objectively true, doesn't mean everyone agrees with it.** 
 
 #### How does the public perceive this topic
