@@ -114,7 +114,7 @@ How did they find the frequency of the 7th harmonic in the first place.
 The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
 ![[Pasted image 20240508221902.png]]
-
+![[Pasted image 20240509094336.png]]
 ##### Discuss outliers and their mitigation. 
 
 
