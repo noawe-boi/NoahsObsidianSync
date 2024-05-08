@@ -6,6 +6,6 @@
 
 # Content
 ## Representing a magnetic Field
-Like gravitational and electric fields, a magnetic field has a vector (direction and magnitude). 
+Like gravitational and electric fields, a magnetic field has a vector (direction and magnitude).
+<img src="https://i.kym-cdn.com/entries/icons/original/000/023/977/cover3.jpg" height="200" width="800">
 
-![[https://i.kym-cdn.com/entries/icons/original/000/023/977/cover3.jpg]]
