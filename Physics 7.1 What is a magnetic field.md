@@ -17,8 +17,8 @@ Magnetic field diagrams as drawn with field lines and directional arrows indicat
 of the force that a small test magnetic north pole would experience if placed in the field 
 
 Flux lines never cross. flux lines are shown as poining away from the north pole or towards the south pole. 
-
-#### Earths Poles
-The 'North Pole' is actually magnet
 ![[Pasted image 20240509093312.png]]
+## Earths Poles
+The 'North Pole' is actually magnetic south and vise versa
+
 
