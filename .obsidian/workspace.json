@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42788b71797b25f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -166,6 +178,7 @@
   },
   "active": "376f61e63556683b",
   "lastOpenFiles": [
+    "Untitled 13.md",
     "Physics FA1 Grade 11.md",
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2.md",
@@ -192,7 +205,6 @@
     "test 2.md",
     "test.md",
     "10.3 Pipes.md",
-    "10.1 Sound.md",
     "Pasted image 20240321222734.png",
     "Pasted image 20240321042540.png",
     "Pasted image 20240321033103.png",
