@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8159f2ef8f0c69fe",
+        "id": "972e385eca81367c",
         "type": "tabs",
         "children": [
           {
-            "id": "d58af6de28f9f1dc",
+            "id": "376f61e63556683b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Central Park 5 Documentary notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e798a92b9aa6d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Grade 11 FA2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Grade 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Grade 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English Grade 11 FA2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,11 +156,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "2e798a92b9aa6d33",
+  "active": "376f61e63556683b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2.md",
+    "conflict-files-obsidian-git.md",
     "central.md",
     "park.md",
     "Physics FA1 Grade 11.md",
