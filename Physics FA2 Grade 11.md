@@ -111,7 +111,7 @@ How did they find the frequency of the 7th harmonic in the first place.
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
-To find the average frequency that the 7th harmonic occurs at in each trial, the 
+To find the average frequency that the 7th harmonic occurs at each pope length, the frequencies from 5 trials at each pio
 
 ##### Discuss outliers and their mitigation. 
 
