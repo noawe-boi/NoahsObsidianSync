@@ -34,7 +34,7 @@ Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pip
 
 ##### Discuss the limitations of the original experiment (reliance on human hearing).
 
-While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a person's ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. Additionally, changing the frequency being played through the speaker is an inaccurate way to find the harmonic, as resonances in the speaker itself could alter the intensity or loudness of the sound waves it creates.
+While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a person's ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. Additionally, changing the frequency being played through the speaker is an inaccurate way to find the harmonic, as resonances in the speaker itself could alter the intensity or loudness of the sound waves it creates. If possible, the change in frequency throughout the experiment should be minimized. 
 
 ##### **Justification for Modification:** 
 
