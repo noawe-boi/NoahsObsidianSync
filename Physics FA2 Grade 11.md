@@ -116,7 +116,11 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
 
+##### Quantify uncertanties in measurements. Discuss how they have affection precision of results and calcualtions
 
+##### Evaluate limitions. 
+
+##### Discus
 ## 7. Interpretation and Evaluation:
 
 
