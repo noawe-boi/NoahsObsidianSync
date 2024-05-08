@@ -6,7 +6,7 @@
       {
         "id": "972e385eca81367c",
         "type": "tabs",
-        "dimension": 88.4959349593496,
+        "dimension": 70.24390243902438,
         "children": [
           {
             "id": "376f61e63556683b",
@@ -37,7 +37,7 @@
       {
         "id": "e270b53eb1b84ec7",
         "type": "tabs",
-        "dimension": 11.504065040650406,
+        "dimension": 29.756097560975608,
         "children": [
           {
             "id": "5dffe4aa84bec4b9",
@@ -170,8 +170,17 @@
                 "file": "Physics FA1 Grade 11.md"
               }
             }
+          },
+          {
+            "id": "40f4afcd6d58f80e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,7 +201,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "376f61e63556683b",
+  "active": "40f4afcd6d58f80e",
   "lastOpenFiles": [
     "Physics FA1 Grade 11.md",
     "Untitled 13.md",
