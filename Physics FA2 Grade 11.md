@@ -129,14 +129,17 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### compare calculated speed of sound with accepted value and discuss potential reasons for differences. Consider both experimental error and limitations of theoretical model. 
 
+
+
 ##### Evaluate validity and reliability of experimental process and results. Discuss the effectiveness of your methodology in controlling variables, minimizing errors and obtaining accurate measurements
 
- ##### Analyse impact of identified uncertanties 
+ #### Analyze impact of identified uncertainties and limitations on the overall validity and reliability of your conclusions 
+ 
 ## 8. Conclusion:
 
 ##### *Summarize the key findings of your experiment and restate your conclusion regarding the research question.*
 
-*##### Highlight the significance of your findings and their implications.*
+##### Highlight the significance of your findings and their implications.
 
 
 ## 9. References:
