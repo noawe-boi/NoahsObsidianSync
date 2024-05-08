@@ -28,7 +28,7 @@ This initial value was then fine-tuned to become or confirmed to be the harmonic
  
  ##### *Present the derived equation for sound wave speed.*
 
-By substituting in the equation $f=\frac{v}{\lambda}$  , substituting in the equation ,and re-arranging the formula to become $\lambda = \frac{4L}{n}$ 
+By substituting in the equation $f=\frac{v}{\lambda}$ , substituting in the equation, and re-arranging the formula to become $\lambda = \frac{4L}{n}$ 
 
 Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pipe (m), the speed of sound could be found.
 
@@ -43,10 +43,10 @@ Relying on human perception of sound created too many variables for it to be via
 
 ##### *State the modification:
 
-A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies played throughout the experiment. The 7th harmonic was chosen as the target harmonic as the frequency needed to achieve this harmonic in the given length of pipe was assumed to be within the range of the dB meter used.
+A dB meter was used to determine when the pipe was tuned to a harmonic, as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies played throughout the experiment. The 7th harmonic was chosen as the target harmonic, as the frequency needed to achieve this harmonic in the given length of pipe was assumed to be within the range of the dB meter used.
 ##### *Describe the expected relationship between pipe length and the 7th harmonic frequency 
  
-The expected relationship between the pipe length and the frequency of the 7th harmonic wa
+The expected relationship between the pipe length and the frequency of the 7th harmonic was expected to be linear and inversely proportional 
 
 
 ![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky)
@@ -70,7 +70,7 @@ The expected relationship between the pipe length and the frequency of the 7th h
 
 ## 5. Results:
 
-##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and correspnding 7th harmonic frequency for each trial.
+##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
 | Target Harmonic | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Average Frequency (Hz) | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max) |     |
 | :-------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------------- | :---------------------------- | :---------------------------- | --- |
