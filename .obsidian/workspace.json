@@ -6,7 +6,6 @@
       {
         "id": "972e385eca81367c",
         "type": "tabs",
-        "dimension": 70.24390243902438,
         "children": [
           {
             "id": "376f61e63556683b",
@@ -30,21 +29,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e270b53eb1b84ec7",
-        "type": "tabs",
-        "dimension": 29.756097560975615,
-        "children": [
-          {
-            "id": "5dffe4aa84bec4b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {}
             }
           }
         ]
