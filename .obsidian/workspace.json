@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2c3cb53d783c052f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "282bd434df362cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics FA2 Grade 11 Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
