@@ -72,13 +72,13 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 ##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
-| Target Harmonic | Trial 1 Frequency (Hz)  | Trial 2 Frequency (Hz)       | Trial 3 Frequency (Hz)       | Average Frequency (Hz)           | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max)           |
-|:----------------|:------------------------|:-----------------------------|:-----------------------------|:---------------------------------|:------------------------------|:------------------------------|:----------------------------------------|
-|            4    |         1160            |                        1188  |                        1206  |                        1184.667  |                          23   |                 1161.667      |                               1207.667  |
-|            5    |         1468            |                        1500  |                        1530  |                        1499.333  |                          31   |                               |                                         |
-|            6    |         1790            |                        1810  |                        1740  |                        1780      |                          35   |                               |                                         |
-|            7    |         2090            |                        1990  |                        2000  |                        2026.667  |                          50   |                               |                                         |
-|            8    |         2290            |                        2290  |                        2290  |                        2290      |                          0    |                 2290          |                               2290      |  
+| Target Harmonic | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Average Frequency (Hz) | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max) |     |
+| :-------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------------- | :---------------------------- | :---------------------------- | --- |
+| 4               | 1160                   | 1188                   | 1206                   | 1184.667               | 23                            | 1161.667                      | 1207.667                      |     |
+| 5               | 1468                   | 1500                   | 1530                   | 1499.333               | 31                            |                               |                               |     |
+| 6               | 1790                   | 1810                   | 1740                   | 1780                   | 35                            |                               |                               |     |
+| 7               | 2090                   | 1990                   | 2000                   | 2026.667               | 50                            |                               |                               |     |
+| 8               | 2290                   | 2290                   | 2290                   | 2290                   | 0                             | 2290                          | 2290                          |     |
 
 
 

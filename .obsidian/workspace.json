@@ -6,6 +6,7 @@
       {
         "id": "972e385eca81367c",
         "type": "tabs",
+        "dimension": 88.4959349593496,
         "children": [
           {
             "id": "376f61e63556683b",
@@ -36,6 +37,7 @@
       {
         "id": "e270b53eb1b84ec7",
         "type": "tabs",
+        "dimension": 11.504065040650406,
         "children": [
           {
             "id": "5dffe4aa84bec4b9",
@@ -190,7 +192,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "5dffe4aa84bec4b9",
+  "active": "376f61e63556683b",
   "lastOpenFiles": [
     "Physics FA1 Grade 11.md",
     "Untitled 13.md",
