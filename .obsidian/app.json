@@ -8,11 +8,17 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 90
+    "downscalePercent": 30
   },
   "spellcheckDictionary": [
     "natured",
     "Kassin",
     "Kassin"
-  ]
+  ],
+  "tabSize": 4,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "foldIndent": true,
+  "foldHeading": true
 }
