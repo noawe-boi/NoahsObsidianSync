@@ -106,11 +106,12 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 ## 6. Analysis:
 
 ##### Describe data collection process
+How did they find the frequency of the 7th harmo
 
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
-To find the 
+To find the average frequency that the 7th harmonic occurs at in each trial, the 
 
 ##### Discuss outliers and their mitigation. 
 
