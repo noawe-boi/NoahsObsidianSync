@@ -133,6 +133,7 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Evaluate validity and reliability of experimental process and results. Discuss the effectiveness of your methodology in controlling variables, minimizing errors and obtaining accurate measurements
 
+##### Anal
  #### Analyze impact of identified uncertainties and limitations on the overall validity and reliability of your conclusions 
  
 ## 8. Conclusion:
