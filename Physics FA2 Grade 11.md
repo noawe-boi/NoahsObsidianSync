@@ -69,7 +69,11 @@ A dB meter was used to determine when the pipe was tuned to a harmonic, as it co
 
 
 Justify modifications
-The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside from as little as 1cm, to 30cm. This allows the independent variable to become the pipes length, and the dependent variable the frequency that the 7th harmonic occurs at. A dB meter was also utilized in order to measure sound intensity instead of the human ear so quntative data could be collected. This meter measured in 
+The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside from as little as 1cm, to 30cm. This allows the independent variable to become the pipes length, and the dependent variable the frequency that the 7th harmonic occurs at. A dB meter was also utilized in order to measure sound intensity instead of the human ear so qualitative data could be collected. This meter measured to 1 d.p.
+
+# `ASK HOW EXPERIMENT WAS ACTUALLY DONE`
+
+
 
 ## 5. Results:
 
