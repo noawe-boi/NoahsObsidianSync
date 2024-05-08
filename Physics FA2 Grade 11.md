@@ -106,25 +106,17 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Clearly present raw data
 
-##### Provide Detailed Calcualtions for processing raw data, incldugni 
+##### Provide Detailed Calculations for processing raw data
+
+##### Discuss outliers and their mitigation. 
+
+##### Identify relationships and trends
+
+##### Expain the relat
 
 ## 7. Interpretation and Evaluation:
 
-##### **Interpretation:**
 
-##### *Explain what the results of your experiment mean in the context of your research question.*
-
-##### *Draw conclusions based on the data and analysis.*
-
-##### *Compare your findings to the accepted value for the speed of sound and calculate the percentage error.*
-
-##### **Evaluation:**
-
-*##### Discuss the reliability and validity of your experimental results.*
-
-##### *Evaluate the strengths and weaknesses of your methodology.*
-
-##### *Suggest improvements and extensions for future investigations.*
 
 
 ## 8. Conclusion:
