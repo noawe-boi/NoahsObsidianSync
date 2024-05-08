@@ -16,4 +16,4 @@ Like gravitational and electric fields, a magnetic field has a vector (direction
 Magnetic field diagrams as drawn with field lines and directional arrows indicating the direction
 of the force that a small test magnetic north pole would experience if placed in the field 
 
-## Earths magnetic poles
+Flux lines never cross. flux lines are shown as poining away from the north pole or towards the south pole
