@@ -111,7 +111,7 @@ How did they find the frequency of the 7th harmonic in the first place.
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
-The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=632.87x + 53.896$
+The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. 
 
 ![[Pasted image 20240508221902.png]]
 
@@ -119,7 +119,7 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 
 
 ##### Identify relationships and trends
-The relationship 
+The relationship between 
 ##### Explain the relationship and demonstrate understanding of sound wave physics
 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
