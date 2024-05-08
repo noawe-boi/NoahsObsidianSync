@@ -99,36 +99,14 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 | 0.345      | 2.898551     | 1776                   | 1775                   | 1777                   | 1788                   | 1778                   | 1778.8                 | 6.5                     |                                   |                                   |     |
 
 ##### *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
-*
-
-
-##### *Show sample calculations for clarity.*
-
-##### **Graphical Representation:**
-
-##### *Plot the relationship between pipe length and the 7th harmonic frequency.*
-
-##### *Choose an appropriate graph type (e.g., scatter plot) and label axes clearly.*
-
-##### *Include error bars if applicable.*
-
 
 ## 6. Analysis:
 
-##### **Identify trends and patterns in the data:**
+##### Describe data collection process
 
-##### *Discuss the observed relationship between pipe length and the 7th harmonic frequency.*
-*
-*##### *Explain how the data supports or contradicts your expected relationship.**
-*
-##### **Uncertainty and Limitations:**
+##### Clearly present raw data
 
-##### *Identify and quantify sources of uncertainty in your measurements and calculations.*
-
-##### *Discuss limitations of the experiment and their potential impact on the results.*
-
-##### *Explain how these limitations could be addressed in future investigations.*
-
+##### Provide Detailed Calcualtions for processing raw data, incldugni 
 
 ## 7. Interpretation and Evaluation:
 
