@@ -43,7 +43,7 @@ Relying on human perception of sound created too many variables for it to be via
 
 ##### *State the modification:
 
-The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside. This allow
+The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside. This allows the independent variable to become the pipes length, and the depend
 
 A dB meter was used to determine when the pipe was tuned to a harmonic, as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies played throughout the experiment. The 7th harmonic was chosen as the target harmonic, as the frequency needed to achieve this harmonic in the given length of pipe was assumed to be within the range of the dB meter used.
 
