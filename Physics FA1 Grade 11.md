@@ -71,4 +71,3 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 | 0.395      | 2.531646     | 1545                   | 1568                   | 1565                   | 1554                   | 1536                   | 1553.6                 | 16                      | 1537.6                            | 1569.6                            |     |
 | 0.345      | 2.898551     | 1776                   | 1775                   | 1777                   | 1788                   | 1778                   | 1778.8                 | 6.5                     |                                   |                                   |     |
 
-##### 
