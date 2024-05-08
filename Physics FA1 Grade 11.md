@@ -24,7 +24,7 @@ The harmonic of the pipe was the independent variable and the factor that was al
 ##### Describe how the relationship between frequency and harmonic number was established (using the formula and fine-tuning by ear).
 The frequency of each harmonic was the dependent variable and first estimated using the equation $f=(273\pm5.75)n$ 
 
-This initial value was then fine tuned to become or confirmed to be the harmonic through listening to the pipe with one ear and determining at what frequencies it sounded loudest. By plotting the desired harmonic of the pipe that the frequency being played corresponds with on the x axis and the current frequency being played on the y axis, the gradient of the graph corresponds with the relationship between each harmonic and the frequency of it.
+This initial value was then fine-tuned to become or confirmed to be the harmonic through listening to the pipe with one ear and determining at what frequencies it sounded loudest. By plotting the desired harmonic of the pipe that the frequency being played corresponds with on the x-axis and the current frequency being played on the y-axis, the gradient of the graph corresponds with the relationship between each harmonic and the frequency of it.
  
  ##### *Present the derived equation for sound wave speed.*
 
@@ -34,16 +34,16 @@ Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pip
 
 ##### Discuss the limitations of the original experiment (reliance on human hearing).
 
-While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a persons ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. Additionally, changing the frequency being played through the speaker is an inaccurate way to find the harmonic, as resonances in the speaker itself could alter the intensity or loudness of the sound waves it creates.
+While this experiment was successful in calculating the speed of sound to $\pm$ $2.1$% uncertainty and $4.21$% error compared to the accepted value of 343m/s, it relied heavily on a person's ability to find the harmonic frequency by ear, which differed from person to person. This also limited the number of harmonic that were able to be tested as high frequency sounds were either too difficult to perceive, or impossible to perceive by humans. Additionally, changing the frequency being played through the speaker is an inaccurate way to find the harmonic, as resonances in the speaker itself could alter the intensity or loudness of the sound waves it creates.
 
 ##### **Justification for Modification:** 
 
 ##### Explain why the original experiment needs modification
 
-Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave significantly was also a poor way to find the pipes harmonic. Therefore the experiment was modified.
+Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave significantly was also a poor way to find the pipe's harmonic. Therefore, the experiment was modified.
 
 ##### *State the modification: changing the pipe length instead of frequency.*
-A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies that had to be played
+A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies that had to be played
 ##### *Describe the expected relationship between pipe length and the 7th harmonic frequency 
  
 The expected relationship between the pipe length and the 7th harmonic frequency 
