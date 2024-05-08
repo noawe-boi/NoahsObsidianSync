@@ -5,7 +5,7 @@
 **Magnetic Field Line:** the direction an isolated north pole would move in the field
 
 # Content
-## Representing a magnetic Field
+## Representing a magnetic field
 Like gravitational and electric fields, a magnetic field has a vector (direction and magnitude).
 
 <img src="https://i.kym-cdn.com/entries/icons/original/000/023/977/cover3.jpg" height="200" width="600">
@@ -13,4 +13,7 @@ Like gravitational and electric fields, a magnetic field has a vector (direction
 
 ## Representing the field direction
 
-Magnetic field diagrams as drawn with field lines and diectional arrows indicating the diection of the force that a small test
+Magnetic field diagrams as drawn with field lines and directional arrows indicating the direction
+of the force that a small test magnetic north pole would experience if placed in the field 
+
+## Earths magnetic poles
