@@ -112,7 +112,10 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Identify relationships and trends
 
-##### Expain the relat
+##### Explain the relationship and demonstrate understanding of sound wave physics
+
+##### Discuss Deviations from expected relationship and explore potential explanations 
+
 
 ## 7. Interpretation and Evaluation:
 
