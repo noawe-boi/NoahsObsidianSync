@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f6e4bc47bdb2c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 7.1 What is a magnetic field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics FA2 Grade 11.md",
+                "file": "Physics 7.1 What is a magnetic field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics FA2 Grade 11.md",
+                "file": "Physics 7.1 What is a magnetic field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics FA2 Grade 11.md"
+                "file": "Physics 7.1 What is a magnetic field.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics FA2 Grade 11.md"
+                "file": "Physics 7.1 What is a magnetic field.md"
               }
             }
           },
@@ -184,14 +197,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "513d5dd51dc01ce3",
+  "active": "3f6e4bc47bdb2c80",
   "lastOpenFiles": [
+    "Physics FA2 Grade 11.md",
+    "Physics 7.1 What is a magnetic field.md",
     "English Grade 11 FA2.md",
     "conflict-files-obsidian-git.md",
     "park.md",
     "central.md",
     "Untitled 13.md",
-    "Physics FA2 Grade 11.md",
     "Physics FA2 Grade 11 Structure.md",
     "Pasted image 20240508221902.png",
     "Pasted image 20240508221900.png",
