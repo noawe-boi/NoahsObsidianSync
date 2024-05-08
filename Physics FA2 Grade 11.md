@@ -110,11 +110,14 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Discuss outliers and their mitigation. 
 
+
 ##### Identify relationships and trends
 
 ##### Explain the relationship and demonstrate understanding of sound wave physics
 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
+
+
 
 ##### Quantify uncertainties in measurements. Discuss how they have affection precision of results and calculations
 
@@ -133,8 +136,9 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Evaluate validity and reliability of experimental process and results. Discuss the effectiveness of your methodology in controlling variables, minimizing errors and obtaining accurate measurements
 
-##### Anal
- #### Analyze impact of identified uncertainties and limitations on the overall validity and reliability of your conclusions 
+##### Analyze impact of identified uncertainties and limitations on the overall validity and reliability of your conclusions 
+
+
  
 ## 8. Conclusion:
 
