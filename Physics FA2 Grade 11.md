@@ -79,6 +79,9 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
+
+# `todo - fix graphs and label`
+
 | Target Harmonic | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Average Frequency (Hz) | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max) |     |
 | :-------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------------- | :---------------------------- | :---------------------------- | --- |
 | 4               | 1160                   | 1188                   | 1206                   | 1184.667               | 23                            | 1161.667                      | 1207.667                      |     |
@@ -107,6 +110,7 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
+To find the 
 
 ##### Discuss outliers and their mitigation. 
 
