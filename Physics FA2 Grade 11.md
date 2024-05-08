@@ -127,7 +127,9 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Do findings align with theoredical predictions. 
 
-##### com
+##### compare calculated speed of sound with accepted value and discuss potention reasons for differences. Condier both experimental error and limitations of theoretical model. 
+
+##### Evaluate valididy and reliability of experimental process and results. Discuss the effectiveness of your methodolgogy in controllnig variables, min
 
 
 ## 8. Conclusion:
