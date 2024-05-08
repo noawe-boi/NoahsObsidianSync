@@ -42,7 +42,8 @@ While this experiment was successful in calculating the speed of sound to $\pm$ 
 Relying on human perception of sound created too many variables for it to be viable when any sort of precision is needed. Changing the frequency of the sound wave significantly was also a poor way to find the pipe's harmonic. Therefore, the experiment was modified.
 
 ##### *State the modification:
-A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies that had to be played
+
+A dB meter was used to determine when the pipe was tuned to a harmonic as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies played throughout the experiment
 ##### *Describe the expected relationship between pipe length and the 7th harmonic frequency 
  
 The expected relationship between the pipe length and the 7th harmonic frequency 
