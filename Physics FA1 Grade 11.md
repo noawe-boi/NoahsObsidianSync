@@ -72,13 +72,24 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 ##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
-| Target Harmonic | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Average Frequency (Hz) |     | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max) |     |
-| :-------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :-- | :---------------------------- | :---------------------------- | --- |
-| 4               | 1160                   | 1188                   | 1206                   | 1184.667               | 23  | 1161.667                      | 1207.667                      |     |
-| 5               | 1468                   | 1500                   | 1530                   | 1499.333               | 31  |                               |                               |     |
-| 6               | 1790                   | 1810                   | 1740                   | 1780                   | 35  |                               |                               |     |
-| 7               | 2090                   | 1990                   | 2000                   | 2026.667               | 50  |                               |                               |     |
-| 8               | 2290                   | 2290                   | 2290                   | 2290                   | 0   | 2290                          | 2290                          |     |
+| Target Harmonic | Trial 1 Frequency (Hz)  | Trial 2 Frequency (Hz)       | Trial 3 Frequency (Hz)       | Average Frequency (Hz)           | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max)           |
+|:----------------|:------------------------|:-----------------------------|:-----------------------------|:---------------------------------|:------------------------------|:------------------------------|:----------------------------------------|
+|            4    |         1160            |                        1188  |                        1206  |                        1184.667  |                          23   |                 1161.667      |                               1207.667  |
+|            5    |         1468            |                        1500  |                        1530  |                        1499.333  |                          31   |                               |                                         |
+|            6    |         1790            |                        1810  |                        1740  |                        1780      |                          35   |                               |                                         |
+|            7    |         2090            |                        1990  |                        2000  |                        2026.667  |                          50   |                               |                                         |
+|            8    |         2290            |                        2290  |                        2290  |                        2290      |                          0    |                 2290          |                               2290      |  
+
+
+
+| Length (m) | 1/Length (m) | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz)    | Trial 3 Frequency (Hz)    | Trial 4 Frequency (Hz)    | Trial 5 Frequency (Hz)    | Average Frequency (Hz) | $\delta$ Frequency (Hz) | $\delta$ Gradient<div>(min)</div> | $\delta$ Gradient<div>(max)</div>    |
+|:-----------|:-------------|:-----------------------|:--------------------------|:--------------------------|:--------------------------|:--------------------------|:-----------------------|:------------------------|:----------------------------------|:-------------------------------------|
+|      0.595 |     1.680672 |                   1010 |                      1000 |                      1015 |                      1011 |                      1011 |                 1009.4 |                     7.5 |                                   |                                      |
+|      0.545 |     1.834862 |                   1100 |                      1099 |                      1107 |                      1107 |                      1110 |                 1104.6 |                     5.5 |                                   |                                      |
+|      0.495 |     2.020202 |                   1224 |                      1220 |                      1238 |                      1239 |                      1240 |                 1232.2 |                      10 |                            1242.2 |                               1222.2 |
+|      0.445 |     2.247191 |                   1353 |                      1362 |                      1361 |                      1363 |                      1362 |                 1360.2 |                       5 |                                   |                                      |
+|      0.395 |     2.531646 |                   1545 |                      1568 |                      1565 |                      1554 |                      1536 |                 1553.6 |                      16 |                            1537.6 |                               1569.6 |
+|      0.345 |     2.898551 |                   1776 |                      1775 |                      1777 |                      1788 |                      1778 |                 1778.8 |                     6.5 |                                   |                                      |  
 
 ##### *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
 *
