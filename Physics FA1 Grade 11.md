@@ -65,14 +65,6 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 ##### **Apparatus/Materials:** List all equipment and materials used in the experiment with specifications 
 
-##### **Procedure:**
-
-##### *Describe the experimental setup in detail.*
-*
-*##### *Explain the steps taken to collect data (e.g., generating the 7th harmonic, measuring pipe length).*
-
-##### *Mention the number of trials and the range of pipe lengths used.*
-*
 *##### *Include a diagram of the experimental setup.*
 
 
@@ -80,13 +72,14 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 ##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
 
-| n   | Frequency (Hz) |      |      |          |     | δ (Gradient) |          |     |
-| :-##### | :------------##### | :--##### | :--##### | :------##### | :-##### | :----------##### | :------##### | --##### |
-| 4   | 1160           | 1188 | 1206 | 1184.667 | 23  | 1161.667     | 1207.667 |     |
-| 5   | 1468           | 1500 | 1530 | 1499.333 | 31  |              |          |     |
-| 6   | 1790           | 1810 | 1740 | 1780     | 35  |              |          |     |
-| 7   | 2090           | 1990 | 2000 | 2026.667 | 50  |              |          |     |
-| 8   | 2290           | 2290 | 2290 | 2290     | 0   | 2290         | 2290     |     |
+| n   | Frequency (Hz) |      |      |          |     | δ (Gradient) |          |     |     |
+| :-- | :------------- | :--- | :--- | :------- | :-- | :----------- | :------- | :-- | --- |
+| 4   | 1160           | 1188 | 1206 | 1184.667 | 23  | 1161.667     | 1207.667 |     |     |
+| 5   | 1468           | 1500 | 1530 | 1499.333 | 31  |              |          |     |     |
+| 6   | 1790           | 1810 | 1740 | 1780     | 35  |              |          |     |     |
+| 7   | 2090           | 1990 | 2000 | 2026.667 | 50  |              |          |     |     |
+| 8   | 2290           | 2290 | 2290 | 2290     | 0   | 2290         | 2290     |     |     |
+
 ##### *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
 *
 
