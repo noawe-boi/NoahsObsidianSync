@@ -48,7 +48,7 @@ Furthermore, it rightfully paints them as the victims they are and dives deeper 
 
 
 ## George Floyd.
-### Description
+### Description 
 George Floyd's Case and Central Park Five's case **are similar**. In the 'Central Park Five's case', they had 13 years stolen by police; In Floyd's case, he had his life stolen from him. 
 The mainstream media coverage of Floyd's Death due to police brutality was overwhelmingly supportive and against the unlawful actions committed by those who were meant to be keepers of peace. While the perception and representation of victims of racial attacks has improved, some news outlets reported that Floyd died of a drug overdose, and not police brutality (No, George Floyd Court Documents Don’t Prove He Died of Drug Overdose | Fact Check, n.d.)
  
@@ -122,3 +122,4 @@ https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
 https://www.bbc.com/news/newsbeat-48609693
 https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961
 https://www.usatoday.com/story/news/factcheck/2023/11/03/george-floyd-was-murdered-did-not-die-of-drug-overdose-fact-check/71410099007/
+https://abcnews.go.com/US/timeline-impact-george-floyds-death-minneapolis/story?id=70999322 
