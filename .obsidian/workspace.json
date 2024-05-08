@@ -196,12 +196,12 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "40f4afcd6d58f80e",
+  "active": "376f61e63556683b",
   "lastOpenFiles": [
     "Physics FA1 Grade 11.md",
     "Untitled 13.md",
