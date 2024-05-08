@@ -70,7 +70,7 @@ The expected relationship between the pipe length and the 7th harmonic frequency
 
 ## 5. Results:
 
-##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
+##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and correspnding 7th harmonic frequency for each trial.
 
 | Target Harmonic | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Average Frequency (Hz) | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max) |     |
 | :-------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------------- | :---------------------------- | :---------------------------- | --- |
