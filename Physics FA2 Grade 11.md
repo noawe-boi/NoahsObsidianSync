@@ -111,7 +111,7 @@ How did they find the frequency of the 7th harmonic in the first place.
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
-The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis. The pipe length was 
+The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length correspond
 
 ##### Discuss outliers and their mitigation. 
 
