@@ -116,22 +116,22 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
 
-##### Quantify uncertanties in measurements. Discuss how they have affection precision of results and calcualtions
+##### Quantify uncertainties in measurements. Discuss how they have affection precision of results and calculations
 
-##### Evaluate limitions. 
+##### Evaluate limitations. 
 
 ##### Discuss impact of limitations
 ## 7. Interpretation and Evaluation:
 
 ##### Explain how finding relate to research question.
 
-##### Do findings align with theoredical predictions. 
+##### Do findings align with theoretical predictions. 
 
-##### compare calculated speed of sound with accepted value and discuss potention reasons for differences. Condier both experimental error and limitations of theoretical model. 
+##### compare calculated speed of sound with accepted value and discuss potential reasons for differences. Consider both experimental error and limitations of theoretical model. 
 
-##### Evaluate valididy and reliability of experimental process and results. Discuss the effectiveness of your methodolgogy in controllnig variables, min
+##### Evaluate validity and reliability of experimental process and results. Discuss the effectiveness of your methodology in controlling variables, minimizing errors and obtaining accurate measurements
 
-
+ ##### Analyse impact of identified uncertanties 
 ## 8. Conclusion:
 
 ##### *Summarize the key findings of your experiment and restate your conclusion regarding the research question.*
