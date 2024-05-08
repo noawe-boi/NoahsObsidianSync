@@ -120,10 +120,14 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Evaluate limitions. 
 
-##### Discus
+##### Discuss impact of limitations
 ## 7. Interpretation and Evaluation:
 
+##### Explain how finding relate to research question.
 
+##### Do findings align with theoredical predictions. 
+
+##### com
 
 
 ## 8. Conclusion:
