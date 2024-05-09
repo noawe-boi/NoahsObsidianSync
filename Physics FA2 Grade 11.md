@@ -72,10 +72,7 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### data collection process
 
-## 5. Results:
-
-##### 
-
+## Results:
 
 ### Figure 1:
 ![[Pasted image 20240509094336.png]]
@@ -93,36 +90,32 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ##### Outliers
 No significant outliers were found during the collection of data. While the frequency of the 7th harmonic varied between trials, the most it ever varied was found to be only 16 Hz. 
-## 6. Analysis:
+## Analysis
 
 ##### Describe data collection process
 At each pipe length, 5 trials were conducted. At the beginning of each trial, the frequency generator was set to an estimate of the frequency that the 7th harmonic should occur at.
 an estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*v*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $v$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $v=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
 Once set, the frequency would be altered in increments of $\pm1$. If the amplitude increased, the last action would be repeated. For example, if increasing the frequency from 1010 Hz to 1011 Hz increased the amplitude by a measurable amount, it would be increased again to 1012 Hz. Vise versa if increasing the frequency decreased the amplitude, it would be decreased back to its previous value and may have continued to decrease if doing to increased amplitude. The frequency that produced the highest amplitude was considered to be the true 7th harmonic of the pipe at that length. . 
 
-##### Clearly present raw data
 
-##### Provide Detailed Calculations for processing raw data
 The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
 
-Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from teh expected value was found to be %error $=\frac{353.94-343}{343}*100=3.19$% error.
+Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from the expected value was found to be %error $=\frac{353.94-343}{343}*100=3.19$% error.
 
 ### Figure 3
 
 ![[Pasted image 20240508221902.png]]
 
-##### Discuss outliers and their mitigation. 
 
 
-##### Identify relationships and trends
+#### Relationships and trends
 Since the expected relationship, $f=\frac{7}{4}*v*\frac{1}{L}$, is linear, it was clear that the line of best fit would be linear. The line of best fit for the data collected was found using Excel and as stated, this line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. 
-##### Explain the relationship and demonstrate understanding of sound wave physics
+
 A linear relationship has a constant gradient. in this case, since the gradient is the relationship between the non constant variables such as frequency of the wave, f, and its length, L. This implies that the ratio between these variables remains constant, which is the expected behavior. by substituting values for f and l into $f=\frac{7}{4}*v*\frac{1}{L}$, the speed of sound can be found. 
 
-
-##### Evaluate limitations. 
+#### Limitations
 A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiments results was the inconsistent position of the speaker driver. The position of the driver in all directions varied throughout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
 
 ## 7. Evaluation:
@@ -135,7 +128,7 @@ The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for 
 potential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
 
 
-# 
+
  
 ## 8. Conclusion:
 
