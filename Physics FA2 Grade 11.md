@@ -93,7 +93,7 @@ an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7
 | 0.345      | 2.898551     | 1776                   | 1775                   | 1777                   | 1788                   | 1778                   | 1778.8                 | 6.5                     |                                   |                                   |     |
 
 ##### Outliers
-No outliers were found during the collection of data. While the frequency of the 7th harmonic varied between trials, the most it ever varied was found to be only 16 Hz
+No significant outliers were found during the collection of data. While the frequency of the 7th harmonic varied between trials, the most it ever varied was found to be only 16 Hz. 
 ## 6. Analysis:
 
 ##### Describe data collection process
