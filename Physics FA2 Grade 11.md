@@ -69,7 +69,6 @@ A dB meter was used to determine when the pipe was tuned to a harmonic, as it co
 Justify modifications
 The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside from as little as 1cm, to 30cm. This allows the independent variable to become the pipes length, and the dependent variable the frequency that the 7th harmonic occurs at. A dB meter was also utilized in order to measure sound intensity instead of the human ear so qualitative data could be collected. This meter measured to 1 d.p.
 
-# `ASK HOW EXPERIMENT WAS ACTUALLY DONE`
 sound meter on same side as the speaker.  they used both hearing and db meter. db wasn't actually measured or used that much because sound of room was already too loud. revise intro to fix this. remember to fix the part about pipe with one open end and any references to it. 
 
 ##### data collection process
@@ -138,9 +137,9 @@ potential extension to this experiment could be the investigation of how the air
  
 ## 8. Conclusion:
 
-This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear relationship which allowed the speed of sound to be calculated. Limitations such as environmental noise and changes in the experimental setup over the course of the experiment caused error to a limited degree. 
+This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear relationship which allowed the speed of sound to be calculated. Limitations such as environmental noise and changes in the experimental setup over the course of the experiment caused error to a limited degree. Potential extensions to this experiment could investigate how environmental factors influence the speed of sound in air. 
 
 
 ## 9. References:
 
-##### List all sources of information used in your report in a consistent and appropriate referencing style (e.g., APA, MLA).**
+
