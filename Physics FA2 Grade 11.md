@@ -105,6 +105,10 @@ Once set, the frequency would be altered in increments of $\pm1$. If the amplitu
 ##### Provide Detailed Calculations for processing raw data
 The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
+The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
+
+Therefore the speed of the wave was found to be $v=\frac{4}
+
 ![[Pasted image 20240508221902.png]]
 
 ##### Discuss outliers and their mitigation. 
@@ -120,9 +124,8 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 
 
 
-##### Quantify uncertainties in measurements. Discuss how they have affected precision of results and calculations
 
-The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
+
 ##### Evaluate limitations. 
 A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiments results was the inconsistent position of the speaker driver. The position of the driver in all directions varied throughout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
 
