@@ -99,12 +99,11 @@ sound meter on same side as the speaker.  they used both hearing and db meter. d
 | 0.395      | 2.531646     | 1545                   | 1568                   | 1565                   | 1554                   | 1536                   | 1553.6                 | 16                      | 1537.6                            | 1569.6                            |     |
 | 0.345      | 2.898551     | 1776                   | 1775                   | 1777                   | 1788                   | 1778                   | 1778.8                 | 6.5                     |                                   |                                   |     |
 
-##### *Explain how you processed the raw data (e.g., calculating averages, identifying and addressing outliers).**
 
 ## 6. Analysis:
 
 ##### Describe data collection process
-How did they find the frequency of the 7th harmonic in the first place. 
+The frequency of the 7th harmonic was first estimated using the formula $7
 
 ##### Clearly present raw data
 
