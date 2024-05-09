@@ -63,23 +63,24 @@ A dB meter was used to determine when the pipe was tuned to a harmonic, as it co
 # `TODO`
 
 
-## 4. Methodology:
+## 
 
 
 Justify modifications
 The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside from as little as 1cm, to 30cm. This allows the independent variable to become the pipes length, and the dependent variable the frequency that the 7th harmonic occurs at. A dB meter was also utilized in order to measure sound intensity instead of the human ear so qualitative data could be collected. This meter measured to 1 d.p.
 
-sound meter on same side as the speaker.  they used both hearing and db meter. db wasn't actually measured or used that much because sound of room was already too loud. revise intro to fix this. remember to fix the part about pipe with one open end and any references to it. 
 
 ##### data collection process
 
 ## 5. Results:
 
-##### **Raw Data:** Present the collected data in a clear and organized table format, including pipe length and corresponding 7th harmonic frequency for each trial.
+##### 
 
 
-# `todo - fix graphs and label`
+### Figure 1:
 ![[Pasted image 20240509094336.png]]
+
+### Figure 2
 
 | Length (m) | 1/Length (m) | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Trial 4 Frequency (Hz) | Trial 5 Frequency (Hz) | Average Frequency (Hz) | $\delta$ Frequency (Hz) | $\delta$ Gradient<div>(min)</div> | $\delta$ Gradient<div>(max)</div> |     |
 | :--------- | :----------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------- | :-------------------------------- | :-------------------------------- | --- |
@@ -106,7 +107,9 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
 
-Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from teh expected value was found to be %error $=\frac{353.94-343}{343}*100=3.19$% error. 
+Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from teh expected value was found to be %error $=\frac{353.94-343}{343}*100=3.19$% error.
+
+### Figure 3
 
 ![[Pasted image 20240508221902.png]]
 
@@ -124,7 +127,6 @@ A limitation that this experiment suffered from was a poor choice of environment
 
 ## 7. Evaluation:
 
-##### Explain how findings relate to research question.
 The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 
@@ -133,7 +135,7 @@ The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for 
 potential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
 
 
-# `todo - the rest or something`
+# 
  
 ## 8. Conclusion:
 
