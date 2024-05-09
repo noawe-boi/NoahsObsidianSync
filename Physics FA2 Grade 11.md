@@ -129,7 +129,7 @@ A limitation that this experiment suffered from was a poor choice of environment
 The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 ##### Do findings align with theoretical predictions. 
-The speed of sound was found to b e
+The speed of sound was found to be
 ##### compare calculated speed of sound with accepted value and discuss potential reasons for differences. Consider both experimental error and limitations of theoretical model. 
 
 
