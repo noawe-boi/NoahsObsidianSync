@@ -97,7 +97,7 @@ No significant outliers were found during the collection of data. While the freq
 ## 6. Analysis:
 
 ##### Describe data collection process
-
+At each harmonic, 5 trials were conducted in
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
