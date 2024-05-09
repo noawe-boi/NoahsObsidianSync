@@ -138,7 +138,7 @@ potential extension to this experiment could be the investigation of how the air
  
 ## 8. Conclusion:
 
-This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear realtionship which allowed the speed of sound to be calculated. 
+This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear relationship which allowed the speed of sound to be calculated. Limitations such as environmental noise and changes in the experimental setup over the course of the experiment caused error to a limited degree. 
 
 
 ## 9. References:
