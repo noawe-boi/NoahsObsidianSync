@@ -124,11 +124,12 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$
 ##### Evaluate limitations. 
-A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiments results was the inconsistient position of the speaker driver. The position of the driver in all directions varied throuhgout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
-##### Discuss impact of limitations
+A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiments results was the inconsistent position of the speaker driver. The position of the driver in all directions varied throughout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
+
 ## 7. Evaluation:
 
 ##### Explain how findings relate to research question.
+
 
 ##### Do findings align with theoretical predictions. 
 
