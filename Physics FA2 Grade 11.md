@@ -138,9 +138,7 @@ otential extension to this experiment could be the investigation of how the air 
  
 ## 8. Conclusion:
 
-##### *Summarize the key findings of your experiment and restate your conclusion regarding the research question.*
-
-##### Highlight the significance of your findings and their implications.
+This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. 
 
 
 ## 9. References:
