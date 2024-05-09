@@ -47,18 +47,11 @@ Relying on human perception of sound created too many variables for it to be via
 A dB meter was used to determine when the pipe was tuned to a harmonic, as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies played throughout the experiment. The 7th harmonic was chosen as the target harmonic, as the frequency needed to achieve this harmonic in the given length of pipe was assumed to be within the range of the dB meter used.
 
 
-
+### Diagram 1
 
 ![](https://media.cheggcdn.com/media/4ca/4caab709-b79d-493e-9d83-24d3a22ed226/phpqPJNky)
 ## 3. Risk Management:
 
-##### **Identify potential risks associated with the experiment:**
-
-
-##### **Outline mitigation strategies for each risk:**
-
-
-##### **Present the information in a table format for clarity.**
 
 # `TODO`
 
