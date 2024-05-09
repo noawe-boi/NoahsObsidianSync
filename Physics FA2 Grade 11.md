@@ -81,16 +81,7 @@ an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7
 
 
 # `todo - fix graphs and label`
-
-| Target Harmonic | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Average Frequency (Hz) | $\delta$&nbsp; Frequency (Hz) | $\delta$&nbsp; Gradient (min) | $\delta$&nbsp; Gradient (max) |     |
-| :-------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------------- | :---------------------------- | :---------------------------- | --- |
-| 4               | 1160                   | 1188                   | 1206                   | 1184.667               | 23                            | 1161.667                      | 1207.667                      |     |
-| 5               | 1468                   | 1500                   | 1530                   | 1499.333               | 31                            |                               |                               |     |
-| 6               | 1790                   | 1810                   | 1740                   | 1780                   | 35                            |                               |                               |     |
-| 7               | 2090                   | 1990                   | 2000                   | 2026.667               | 50                            |                               |                               |     |
-| 8               | 2290                   | 2290                   | 2290                   | 2290                   | 0                             | 2290                          | 2290                          |     |
-
-
+![[Pasted image 20240509094336.png]]
 
 | Length (m) | 1/Length (m) | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Trial 4 Frequency (Hz) | Trial 5 Frequency (Hz) | Average Frequency (Hz) | $\delta$ Frequency (Hz) | $\delta$ Gradient<div>(min)</div> | $\delta$ Gradient<div>(max)</div> |     |
 | :--------- | :----------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------- | :-------------------------------- | :-------------------------------- | --- |
@@ -101,7 +92,8 @@ an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7
 | 0.395      | 2.531646     | 1545                   | 1568                   | 1565                   | 1554                   | 1536                   | 1553.6                 | 16                      | 1537.6                            | 1569.6                            |     |
 | 0.345      | 2.898551     | 1776                   | 1775                   | 1777                   | 1788                   | 1778                   | 1778.8                 | 6.5                     |                                   |                                   |     |
 
-
+##### Outliers
+No outliers were found during the collection of data. While the 
 ## 6. Analysis:
 
 ##### Describe data collection process
@@ -112,7 +104,7 @@ an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7
 The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then **plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be** $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
 ![[Pasted image 20240508221902.png]]
-![[Pasted image 20240509094336.png]]
+
 ##### Discuss outliers and their mitigation. 
 
 
