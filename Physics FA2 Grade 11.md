@@ -28,7 +28,7 @@ This initial value was then fine-tuned to become or confirmed to be the harmonic
  
  ##### *Present the derived equation for sound wave speed.*
 
-By substituting in the equation $f=\frac{v}{\lambda}$ , substituting in the equation, and re-arranging the formula to become $\lambda = \frac{4L}{n}$, an equation to find the speed of sound can be found. This formula ig
+By substituting in the equation $f=\frac{v}{\lambda}$ , substituting in the equation, and re-arranging the formula to become $\lambda = \frac{4L}{n}$, an equation to find the speed of sound can be found. This formula is $v=\frac{n}{2L}f$ 
 
 Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pipe (m), the speed of sound could be found.
 
@@ -97,7 +97,7 @@ No significant outliers were found during the collection of data. While the freq
 
 ##### Describe data collection process
 At each pipe length, 5 trials were conducted. At the beginning of each trial, the frequency generator was set to an estimate of the frequency that the 7th harmonic should occur at.
-an estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*V*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $V$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $V=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
+an estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*v*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $v$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $v=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
 Once set, the frequency would be altered in increments of $\pm1$. If the amplitude increased, the last action would be repeated. For example, if increasing the frequency from 1010 Hz to 1011 Hz increased the amplitude by a measurable amount, it would be increased again to 1012 Hz. Vise versa if increasing the frequency decreased the amplitude, it would be decreased back to its previous value and may have continued to decrease if doing to increased amplitude. The frequency that produced the highest amplitude was considered to be the true 7th harmonic of the pipe at that length. . 
 
 ##### Clearly present raw data
