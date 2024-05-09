@@ -128,7 +128,7 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 ##### Evaluate limitations. 
 
 ##### Discuss impact of limitations
-## 7. Interpretation and Evaluation:
+## 7. Evaluation:
 
 ##### Explain how finding relate to research question.
 
