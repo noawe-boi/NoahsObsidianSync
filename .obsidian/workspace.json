@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11b45d9c7f949686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics FA2 Grade 11 Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,6 +206,7 @@
   },
   "active": "376f61e63556683b",
   "lastOpenFiles": [
+    "Physics FA2 Grade 11 Structure.md",
     "10.3 Pipes.md",
     "Physics FA2 Grade 11.md",
     "Physics 7.1 What is a magnetic field.md",
@@ -203,7 +217,6 @@
     "Pasted image 20240509092818.png",
     "Pasted image 20240508221902.png",
     "Pasted image 20240508221900.png",
-    "Physics FA2 Grade 11 Structure.md",
     "Untitled 13.md",
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2.md",
