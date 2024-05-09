@@ -96,9 +96,9 @@ No significant outliers were found during the collection of data. While the freq
 ## 6. Analysis:
 
 ##### Describe data collection process
-At each pipe length, 5 trials were conducted. Each trial 
-
-an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7}{4}*V*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $V$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $V=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
+At each pipe length, 5 trials were conducted. At the beginning of each trial, the frequency generator was set to an estimate of the frequency that the 7th harmonic should occur at.
+an estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*V*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $V$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $V=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
+After this estimation wa
 
 ##### Clearly present raw data
 
