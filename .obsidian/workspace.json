@@ -23,8 +23,12 @@
             "id": "0967dba75ccbf544",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10.3 Pipes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10.3 Pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10.3 Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10.3 Pipes.md"
+              }
             }
           },
           {
