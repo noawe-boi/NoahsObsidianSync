@@ -103,7 +103,7 @@ sound meter on same side as the speaker.  they used both hearing and db meter. d
 ## 6. Analysis:
 
 ##### Describe data collection process
-The frequency of the 7th harmonic was first estimated using the formula $F=\frac{7}{4}V\frac{1}$
+The frequency of the 7th harmonic was first estimated using the formula $F=\frac{7}{4}*V*\frac{1}{L}$, which was derived from the formula $L=\frac{N\lambda}{4}$
 
 ##### Clearly present raw data
 
