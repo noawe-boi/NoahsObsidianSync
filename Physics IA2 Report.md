@@ -4,7 +4,52 @@ tags:
 ---
 ## Physics IA2 Report 
 
-\pagebreak
+### Investigating the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Research Question:
 
 
@@ -52,14 +97,7 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 
 ### Figure 2
 
-| Length (m) | 1/Length (m) | Trial 1 Frequency (Hz) | Trial 2 Frequency (Hz) | Trial 3 Frequency (Hz) | Trial 4 Frequency (Hz) | Trial 5 Frequency (Hz) | Average Frequency (Hz) | $\delta$ Frequency (Hz) | $\delta$ Gradient<div>(min)</div> | $\delta$ Gradient<div>(max)</div> |     |
-| :--------- | :----------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :--------------------- | :---------------------- | :-------------------------------- | :-------------------------------- | --- |
-| 0.595      | 1.680672     | 1010                   | 1000                   | 1015                   | 1011                   | 1011                   | 1009.4                 | 7.5                     |                                   |                                   |     |
-| 0.545      | 1.834862     | 1100                   | 1099                   | 1107                   | 1107                   | 1110                   | 1104.6                 | 5.5                     |                                   |                                   |     |
-| 0.495      | 2.020202     | 1224                   | 1220                   | 1238                   | 1239                   | 1240                   | 1232.2                 | 10                      | 1242.2                            | 1222.2                            |     |
-| 0.445      | 2.247191     | 1353                   | 1362                   | 1361                   | 1363                   | 1362                   | 1360.2                 | 5                       |                                   |                                   |     |
-| 0.395      | 2.531646     | 1545                   | 1568                   | 1565                   | 1554                   | 1536                   | 1553.6                 | 16                      | 1537.6                            | 1569.6                            |     |
-| 0.345      | 2.898551     | 1776                   | 1775                   | 1777                   | 1788                   | 1778                   | 1778.8                 | 6.5                     |                                   |                                   |     |
+![[Pasted image 20240509234752.png]]
 
 ##### Outliers
 No significant outliers were found during the collection of data. While the frequency of the 7th harmonic varied between trials, the most it ever varied was found to be only 16 Hz. 
