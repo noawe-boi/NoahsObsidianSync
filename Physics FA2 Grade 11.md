@@ -129,13 +129,12 @@ A limitation that this experiment suffered from was a poor choice of environment
 The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 ##### Do findings align with theoretical predictions. 
-The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error but it must be considered whether this error was the result of 
+The 
+The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error but it must be considered whether this error was the result of correct procedure or not. 
 
 
 
-##### Evaluate validity and reliability of experimental process and results. Discuss the effectiveness of your methodology in controlling variables, minimizing errors and obtaining accurate measurements
 
-##### Analyze impact of identified uncertainties and limitations on the overall validity and reliability of your conclusions 
 
 # `todo - the rest or something`
  
