@@ -129,7 +129,8 @@ A limitation that this experiment suffered from was a poor choice of environment
 ## 7. Evaluation:
 
 ##### Explain how findings relate to research question.
-
+The findings
+The research question somewhat was answered 
 
 ##### Do findings align with theoretical predictions. 
 
