@@ -107,7 +107,7 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
 
-Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$
+Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from teh expected value was found to be %error  $ 
 
 ![[Pasted image 20240508221902.png]]
 
@@ -119,12 +119,6 @@ Since the expected relationship, $f=\frac{7}{4}*v*\frac{1}{L}$, is linear, it wa
 ##### Explain the relationship and demonstrate understanding of sound wave physics
 A linear relationship has a constant gradient. in this case, since the gradient is the relationship between the non constant variables such as frequency of the wave, f, and its length, L. This implies that the ratio between these variables remains constant, which is the expected behavior. by substituting values for f and l into $f=\frac{7}{4}*v*\frac{1}{L}$, the speed of sound can be found. 
 
-While the **graph INSTERT LABELS** does appear curved. because i understand sound waves i can say its linear 
-##### Discuss Deviations from expected relationship and explore potential explanations 
-
-
-
-
 
 ##### Evaluate limitations. 
 A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiments results was the inconsistent position of the speaker driver. The position of the driver in all directions varied throughout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
@@ -132,8 +126,7 @@ A limitation that this experiment suffered from was a poor choice of environment
 ## 7. Evaluation:
 
 ##### Explain how findings relate to research question.
-The findings
-The research question somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
+The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 ##### Do findings align with theoretical predictions. 
 
