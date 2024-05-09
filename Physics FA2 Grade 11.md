@@ -28,7 +28,7 @@ This initial value was then fine-tuned to become or confirmed to be the harmonic
  
  ##### *Present the derived equation for sound wave speed.*
 
-By substituting in the equation $f=\frac{v}{\lambda}$ , substituting in the equation, and re-arranging the formula to become $\lambda = \frac{4L}{n}$ 
+By substituting in the equation $f=\frac{v}{\lambda}$ , substituting in the equation, and re-arranging the formula to become $\lambda = \frac{4L}{n}$, an equation to find the speed of sound can be found. 
 
 Where $v$ is the speed of the sound wave (m/s) and $L$ is the length of the pipe (m), the speed of sound could be found.
 
