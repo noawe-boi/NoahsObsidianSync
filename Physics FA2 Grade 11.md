@@ -107,7 +107,7 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
 
-Therefore the speed of the wave was found to be $v=\frac{4*632.87-53.896}{7}$
+Therefore the speed of the wave was found to be $v=\frac{4*632.87\pm-53.896}{7}=353.94m/s$
 
 ![[Pasted image 20240508221902.png]]
 
