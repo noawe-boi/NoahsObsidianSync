@@ -129,8 +129,7 @@ A limitation that this experiment suffered from was a poor choice of environment
 The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 ##### Do findings align with theoretical predictions. 
-The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference 
-##### compare calculated speed of sound with accepted value and discuss potential reasons for differences. Consider both experimental error and limitations of theoretical model. 
+The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 
 
 
 
