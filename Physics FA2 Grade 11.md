@@ -113,7 +113,7 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 ##### Identify relationships and trends
 Since the expected relationship, $f=\frac{7}{4}*v*\frac{1}{L}$, is linear, it was clear that the line of best fit would be linear. The line of best fit for the data collected was found using Excel and as stated, this line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. 
 ##### Explain the relationship and demonstrate understanding of sound wave physics
-A linear relationship has a constant gradient. in this case, since the gradient is the relationship between the frequency of the wave, f, and 
+A linear relationship has a constant gradient. in this case, since the gradient is the relationship between the frequency of the wave, f, and its length, L. 
 
 While the **graph INSTERT LABELS** does appear curved. because i understand sound waves i can say its linear 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
