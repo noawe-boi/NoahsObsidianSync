@@ -124,7 +124,7 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$
 
-By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be 
+By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = $
 ##### Evaluate limitations. 
 
 ##### Discuss impact of limitations
