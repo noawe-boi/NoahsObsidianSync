@@ -110,11 +110,11 @@ an estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*v*\fr
 Once set, the frequency would be altered in increments of $\pm1$. If the amplitude increased, the last action would be repeated. For example, if increasing the frequency from 1010 Hz to 1011 Hz increased the amplitude by a measurable amount, it would be increased again to 1012 Hz. Vise versa if increasing the frequency decreased the amplitude, it would be decreased back to its previous value and may have continued to decrease if doing to increased amplitude. The frequency that produced the highest amplitude was considered to be the true 7th harmonic of the pipe at that length. . 
 
 
-The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted ony-axis axis, and the reciprocal of the pipe length corresponding to that average onx-axis axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
+The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
-The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.Therefore,efore %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
+The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore, %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
 
-Therefore the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from the expected value was found to be %error $=\frac{353.94-343}{343}*100=3.19$% error.
+Therefore, the speed of the wave was found to be $v=\frac{4*(632.87\pm50.84)-53.896}{7}=353.94m/s$. The error from the expected value was found to be %error $=\frac{353.94-343}{343}*100=3.19$% error.
 
 ### Figure 3
 
@@ -128,14 +128,14 @@ Since the expected relationship, $f=\frac{7}{4}*v*\frac{1}{L}$, is linear, it wa
 A linear relationship has a constant gradient. in this case, since the gradient is the relationship between the non constant variables such as frequency of the wave, f, and its length, L. This implies that the ratio between these variables remains constant, which is the expected behavior. by substituting values for f and l into $f=\frac{7}{4}*v*\frac{1}{L}$, the speed of sound can be found. 
 
 ##### Limitations
-A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiments results was the inconsistent position of the speaker driver. The position of the driver in all directions varied throughout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
+A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background noise to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate and went against one of the key goals set when the experiment was modified. Another limitation that impacted the experiment's results was the inconsistent position of the speaker driver. The position of the driver in all directions varied throughout all tests due to the lack of a solid mount or jig. The same goes for the dB meter. Moving the speaker driver will impact how standing waves form in the pipe. Changing the position of the dB meter will affect the intensity of the wave it detects. 
 
 ## Evaluation:
 
 The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 
-The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low , butr but it must be considered whether this error was the result of correct procedure or not. 
+The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error but it must be considered whether this error was the result of correct procedure or not. 
 
 potential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
 
@@ -150,12 +150,5 @@ This experiment aimed to determine the speed of sound by investigating the relat
 ## Sources
 
 
-Standing Waves 2 Standing waves. (n.d.). Retrieved May 9, 2024, from http://physics.bu.edu/~okctsui/PY106_lecture_notes/class25_Standing%20Waves.pdf
-
-Standing Waves in Pipes: Everything Explained – HSC Physics. (n.d.). Science Ready. https://scienceready.com.au/pages/standing-wave-in-pipes
-
-The Physics Classroom. (n.d.). Physics Tutorial: Closed-End Air Columns. Www.physicsclassroom.com. https://www.physicsclassroom.com/class/sound/Lesson-5/Closed-End-Air-Columns
-
-WHAT TO DO WITH MAX AND MIN LINES IN IB PHYSICS. (n.d.). https://torrie.edublogs.org/files/2014/09/what_to_do_with_max_and_min_lines-2014-1b1dyma.pdf
 
 
