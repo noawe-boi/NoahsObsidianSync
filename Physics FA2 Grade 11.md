@@ -124,7 +124,7 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$
 ##### Evaluate limitations. 
-A limitation that this experiement suffered from was a poor choice of enviroment. The room trhat the frequency of the harmonic was found in was not quiet enough which caused background nosie to severley impact the met
+A limitation that this experiment suffered from was a poor choice of environment. The room that the frequency of the harmonic was found in was not quiet enough which caused background nosie to severely impact the meters measurements. This forced the experiment to be conducted with a combination of dB meter and human perception, which was less accurate an d
 ##### Discuss impact of limitations
 ## 7. Evaluation:
 
