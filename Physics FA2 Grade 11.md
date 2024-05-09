@@ -111,7 +111,7 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 
 
 ##### Identify relationships and trends
-The relationship between 
+The line of best fit for the data collected was found using Excel a
 ##### Explain the relationship and demonstrate understanding of sound wave physics
 While the **graph INSTERT LABELS** does appear curved. because i understand sound waves i can say its linear 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
