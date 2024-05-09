@@ -122,13 +122,15 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 
 ##### Quantify uncertainties in measurements. Discuss how they have affected precision of results and calculations
 
+The uncertainty of the gradient was found by using the formula 
+
 Your final uncertainty in the stated value of the slope of your best fit line is: (max slope - min slope)/2.
 ##### Evaluate limitations. 
 
 ##### Discuss impact of limitations
 ## 7. Evaluation:
 
-##### Explain how finding relate to research question.
+##### Explain how findings relate to research question.
 
 ##### Do findings align with theoretical predictions. 
 
