@@ -72,6 +72,8 @@ The modified experiment utilizes a pipe with a plunger inside, which can be used
 # `ASK HOW EXPERIMENT WAS ACTUALLY DONE`
 sound meter on same side as the speaker.  they used both hearing and db meter. db wasn't actually measured or used that much because sound of room was already too loud. revise intro to fix this. remember to fix the part about pipe with one open end and any references to it. 
 
+##### data collection process
+an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7}{4}*V*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $V$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $V=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
 
 ## 5. Results:
 
@@ -103,12 +105,11 @@ sound meter on same side as the speaker.  they used both hearing and db meter. d
 ## 6. Analysis:
 
 ##### Describe data collection process
-an estimate of the 7th harmonic was first estimated using the formula $f=\frac{7}{4}*V*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $V$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $V=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
 
 ##### Clearly present raw data
 
 ##### Provide Detailed Calculations for processing raw data
-The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
+The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then **plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be** $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
 ![[Pasted image 20240508221902.png]]
 ![[Pasted image 20240509094336.png]]
