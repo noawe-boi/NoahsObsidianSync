@@ -150,5 +150,12 @@ This experiment aimed to determine the speed of sound by investigating the relat
 ## Sources
 
 
+Standing Waves 2 Standing waves. (n.d.). Retrieved May 9, 2024, from http://physics.bu.edu/~okctsui/PY106_lecture_notes/class25_Standing%20Waves.pdf
+
+Standing Waves in Pipes: Everything Explained – HSC Physics. (n.d.). Science Ready. https://scienceready.com.au/pages/standing-wave-in-pipes
+
+The Physics Classroom. (n.d.). Physics Tutorial: Closed-End Air Columns. Www.physicsclassroom.com. https://www.physicsclassroom.com/class/sound/Lesson-5/Closed-End-Air-Columns
+
+WHAT TO DO WITH MAX AND MIN LINES IN IB PHYSICS. (n.d.). https://torrie.edublogs.org/files/2014/09/what_to_do_with_max_and_min_lines-2014-1b1dyma.pdf
 
 
