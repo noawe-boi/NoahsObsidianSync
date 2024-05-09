@@ -131,13 +131,7 @@ The research question was somewhat was answered as it was found that the speed o
 
 The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error but it must be considered whether this error was the result of correct procedure or not. 
 
-- Propose specific improvements to your experimental design and methodology that would address the identified limitations and enhance the accuracy and reliability of future investigations. This could involve using more precise measuring tools, exploring different harmonics, or refining your data analysis techniques.
-  A potential extention to this expeiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different tempreatures and 
- - Suggest potential extensions of your research that could investigate other factors influencing sound wave speed, explore resonance in different pipe configurations, or study the properties of sound waves in various media.
-  
- - Discuss the feasibility and potential impact of your proposed improvements and extensions on advancing the understanding of sound wave physics and its applications.
-  
-
+otential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
 
 
 # `todo - the rest or something`
