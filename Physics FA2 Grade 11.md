@@ -111,7 +111,7 @@ The average frequency that the 7th harmonic occurs at each pipe length was the m
 
 
 ##### Identify relationships and trends
-The line of best fit for the data collected was found using Excel a
+The line of best fit for the data collected was found using Excel and as stated, this line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be** $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. 
 ##### Explain the relationship and demonstrate understanding of sound wave physics
 While the **graph INSTERT LABELS** does appear curved. because i understand sound waves i can say its linear 
 ##### Discuss Deviations from expected relationship and explore potential explanations 
