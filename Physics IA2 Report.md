@@ -79,7 +79,7 @@ Relying on human perception of sound created too many variables for it to be via
 
 A dB meter was used to determine when the pipe was tuned to a harmonic, as it could objectively and quantitatively measure sound intensity. Additionally, Instead of changing the harmonic of the sound wave to change harmonic, the length of the pipe was altered, which reduced the range of frequencies played throughout the experiment. The 7th harmonic was chosen as the target harmonic, as the frequency needed to achieve this harmonic in the given length of pipe was assumed to be within the range of the dB meter used.
 
-The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside from as little as 1cm, to 30cm. This allows the independent variable to become the pipes length, and the dependent variable the frequency that the 7th harmonic occurs at. A dB meter was also utilized in order to measure sound intensity instead of the human ear so qualitative data could be collected. This meter measured to 1 d.p.
+The modified experiment utilizes a pipe with a plunger inside, which can be used to change the length of the cavity inside from as little as 1cm, to 30cm. This allows the independent variable to become the pipes length, and the dependent variable the frequency that the 7th harmonic occurs at. A dB meter was also utilized in order to measure sound intensity instead of the human ear, so qualitative data could be collected. This meter measured to 1 d.p.
 
 ### Diagram 1
 
@@ -106,11 +106,11 @@ No significant outliers were found during the collection of data. While the freq
 
 ##### Describe data collection process
 At each pipe length, 5 trials were conducted. At the beginning of each trial, the frequency generator was set to an estimate of the frequency that the 7th harmonic should occur at.
-an estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*v*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $v$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $v=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
+An estimate of the 7th harmonic was found using the formula $f=\frac{7}{4}*v*\frac{1}{L}$ where $f$ is the frequency of the wave, n is the number corresponding to the harmonic being targeted, $v$ is the velocity of the wave, or the speed of sound, and $L$ is the length of the pipe. This was derived from the formula $L=\frac{n\lambda}{4}$, when $v=f\lambda$ was substituted in. The speed of sound was substituted in as 343m/s, the accepted value, and the length of the pipe was substituted in as what it was measured as at the beginning of the trial. 
 Once set, the frequency would be altered in increments of $\pm1$. If the amplitude increased, the last action would be repeated. For example, if increasing the frequency from 1010 Hz to 1011 Hz increased the amplitude by a measurable amount, it would be increased again to 1012 Hz. Vise versa if increasing the frequency decreased the amplitude, it would be decreased back to its previous value and may have continued to decrease if doing to increased amplitude. The frequency that produced the highest amplitude was considered to be the true 7th harmonic of the pipe at that length. . 
 
 
-The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y axis, and the reciprocal of the pipe length corresponding to that average on the x axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
+The average frequency that the 7th harmonic occurs at each pipe length was the mean of  frequencies from the five trials conducted at that specific length. These average frequency values were then plotted on the y-axis, and the reciprocal of the pipe length corresponding to that average on the x-axis. A linear line of best fit was then found. This line was $y=632.87x + 53.896$. The minimum and maximum of this line were also calculated and found to be $y=577.58x + 75.37$ and $y=679.25x + -150.03$ respectively. The uncertainty of the frequency at each pipe length was found by subtracting the highest frequency recorded as the harmonic at each pipe length, then subtracting the corresponding lowest frequency from it. 
 
 The uncertainty of the gradient was found by using the formula $\delta gradient = \frac{(max slope - min slope)}{2}$. By substituting the maximum and minimum lines of best fit $\delta gradient$ was found to be $\delta gradient = \frac{(679.25-577.58)}{2} = \pm 50.84$. Therefore, %$\delta$ is $\frac{50.84}{632.87}=$ 8.03%
 
@@ -135,16 +135,16 @@ A limitation that this experiment suffered from was a poor choice of environment
 The research question was somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 
-The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error but it must be considered whether this error was the result of correct procedure or not. 
+The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and suboptimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error, but it must be considered whether this error was the result of correct procedure or not. 
 
-potential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
+Potential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
 
 
 
  
 ## Conclusion:
 
-This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear relationship which allowed the speed of sound to be calculated. Limitations such as environmental noise and changes in the experimental setup over the course of the experiment caused error to a limited degree. Potential extensions to this experiment could investigate how environmental factors influence the speed of sound in air. 
+This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear relationship, which allowed the speed of sound to be calculated. Limitations such as environmental noise and changes in the experimental setup over the course of the experiment caused error to a limited degree. Potential extensions to this experiment could investigate how environmental factors influence the speed of sound in air. 
 
 
 ## Sources
