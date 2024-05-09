@@ -131,14 +131,14 @@ The research question was somewhat was answered as it was found that the speed o
 
 The speed of sound was found to be 353.94m/s with 3.19% error. Some reasons for this difference are the limitations discussed such as the inconsistent driver position and sub-optimal measuring of the frequency of the 7th harmonic. 3.19% is a relatively low error but it must be considered whether this error was the result of correct procedure or not. 
 
-otential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
+potential extension to this experiment could be the investigation of how the air in the pipe affects the speed of sound. By measuring the speed of sound at different temperatures and air densities, the relationship between these factors and the speed of sound could be determined 
 
 
 # `todo - the rest or something`
  
 ## 8. Conclusion:
 
-This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. 
+This experiment aimed to determine the speed of sound by investigating the relationship between the frequency of the 7th harmonic and the length of a pipe with open ends. The results showed a linear realtionship which allowed the speed of sound to be calculated. 
 
 
 ## 9. References:
