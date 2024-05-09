@@ -130,7 +130,7 @@ A limitation that this experiment suffered from was a poor choice of environment
 
 ##### Explain how findings relate to research question.
 The findings
-The research question somewhat was answered 
+The research question somewhat was answered as it was found that the speed of sound can be calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends but with questionable accuracy. 
 
 ##### Do findings align with theoretical predictions. 
 
