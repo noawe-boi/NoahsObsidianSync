@@ -120,6 +120,7 @@ While the **graph INSTERT LABELS** does appear curved. because i understand soun
 
 ##### Quantify uncertainties in measurements. Discuss how they have affection precision of results and calculations
 
+Your final uncertainty in the stated value of the slope of your best fit line is: (max slope - min slope)/2.
 ##### Evaluate limitations. 
 
 ##### Discuss impact of limitations
