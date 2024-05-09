@@ -4,21 +4,18 @@ tags:
 ---
 ## Physics IA2 Report 
 
+\pagebreak
+## Research Question:
 
-## 1. Research Question:
-
-##### Clearly state your research question:
 
 Can the speed of a sound wave be accurately calculated by investigating the relationship between the frequency of the 7th harmonic of a pipe and then varying length of a pipe with open ends
 
-## 2. Rationale:
+## Rationale:
 
-##### **Original Experiment:**
-##### Explain the purpose and methodology of the original experiment
+
+
 
  The purpose of the original experiment was to calculate the speed of a sound wave in air by finding and measuring the frequency of the harmonics in a fixed length of pipe with one closed end.
-
-##### Mention the independent and dependent variables.
 
 The harmonic of the pipe was the independent variable and the factor that was altered in between trials that all other changes were caused by
 The frequency of each harmonic was the dependent variable and first estimated using the equation $f=(273\pm5.75)n$ 
