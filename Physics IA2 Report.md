@@ -4,7 +4,7 @@ tags:
 ---
 ## Physics IA2 Report 
 
-### Investigating the 
+### Finding the speed of sound by investigating the frequency of the 7th harmonic
 
 
 
@@ -21,6 +21,8 @@ tags:
 
 
 
+
+#### By Noah Alexiou
 
 
 
