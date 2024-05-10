@@ -32,20 +32,16 @@ The representation of victims of racist attacks need to be changed in order to c
 
 # The Portrayal of victims in other texts
 ## Netflix's 'When they see us'  
-### Description
 Netflix's 'When they see us' is a dramatized retelling of the events of 'The Central Park Five'. While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
 
-### Differences in representation
 It focuses on the lives of the members of the group before their involvement in the rape case, as well as its impact on their personal lives.
 Furthermore, it rightfully paints them as the victims they are and dives deeper into their demonized representation in the media and how it impacted their case, rather than the other way round. 
 
-
 ## George Floyd.
-### Description 
+
 George Floyd's Case and Central Park Five's case **are similar**. In the 'Central Park Five's case', they had 13 years stolen by police; In Floyd's case, he had his life stolen from him. 
 The mainstream media coverage of Floyd's Death due to police brutality was overwhelmingly supportive and against the unlawful actions committed by those who were meant to be keepers of peace. While the perception and representation of victims of racial attacks has improved, some news outlets reported that Floyd died of a drug overdose, and not police brutality (No, George Floyd Court Documents Don’t Prove He Died of Drug Overdose | Fact Check, n.d.)
- 
-### Differences in representation
+
 Police, the media, and the public were adamant that the 'five were guilty because prevalent produces aligned with what they were accused of, persuading them to look last evidence of their innocence. However, since mainstream beliefs have changed and the racial stereotypes are less prevalent, people were able to look past the fact that Floyd was a criminal and focus on the wrongdoings of the police involved who, unlike the police involved in the Central Park Five's case, were held accountable for their actions.
 
 Sympathy towards Floyd and his family was in significantly more abundance than in the 'Central Park Five's' case, too. As mentioned earlier, Floyd was seen as a victim, unlike the Central Park Five, who are still somewhat represented as at fault. 
