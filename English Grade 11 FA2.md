@@ -7,6 +7,7 @@ ___
 
 
 # The Central Park 5
+##### By Noah Alexiou
 
 ________
 
@@ -117,9 +118,16 @@ don't think the press faced its mistakes [and] I don't think the police departme
 
 I ask you to face your own mistakes and the mistakes of others both past and present. Ask yourself in future whether the people you are attacking are at fault, or victims of your own twisted beliefs. 
 _____
-# Super Spicy Sauces ;) 
-https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
-https://www.bbc.com/news/newsbeat-48609693
-https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961
-https://www.usatoday.com/story/news/factcheck/2023/11/03/george-floyd-was-murdered-did-not-die-of-drug-overdose-fact-check/71410099007/
-https://abcnews.go.com/US/timeline-impact-george-floyds-death-minneapolis/story?id=70999322 
+
+# Refrences
+
+
+Central Park Five: The true story behind When They See Us. (2019, June 12). _BBC News_. https://www.bbc.com/news/newsbeat-48609693
+
+Deliso, M. (2021, April 22). _Timeline: The impact of George Floyd’s death in Minneapolis and beyond_. ABC News. https://abcnews.go.com/US/timeline-impact-george-floyds-death-minneapolis/story?id=70999322
+
+Goldin, M., & Marcelo, P. (2023, May 26). _George Floyd’s autopsy report is not new, does not say he died of an overdose_. AP NEWS. https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961
+
+_No, George Floyd court documents don’t prove he died of drug overdose | Fact check_. (n.d.). USA TODAY. https://www.usatoday.com/story/news/factcheck/2023/11/03/george-floyd-was-murdered-did-not-die-of-drug-overdose-fact-check/71410099007/
+
+_What Is “Wilding” And What Does It Have To Do With The Central Park 5?_ (2019, May 31). Oxygen Official Site. https://www.oxygen.com/martinis-murder/what-is-wilding-central-park-5
