@@ -112,7 +112,7 @@ By directly presenting viewers with information, these scenes act almost like a 
 
 # Conclusion/Call to action
 Overall, 'The Central Park Five' accurately retells the story and conclusion of one of the most infamous examples of racial prejudice, bias of mainstream media and denial of justice. While the documentary does take subtle jabs at the boys when it comes to whether they were somewhat at fault for their arrest and conviction, it never accuses them of actually committing a crime and brings to light the wrongful actions of higher powers as well as the lack of attention their eventual exoneration received. 
-
+Saul Kassin said it best 
 don't think the press faced its mistakes [and] I don't think the police department faced the truth of what had happened - Saul kassin
 
 I ask you to face your own mistakes and the mistakes of others both past and present. Ask yourself in future whether the people you are attacking are at fault, or victims of your own twisted beliefs. 
