@@ -38,7 +38,7 @@ In the modern day, its politically correct and generally accepted that victims o
 The representation of victims of racist attacks need to be changed in order to challenge existing racial stereotypes, the cause of these attakcs and to stop victims of racist attacks from being vilified instead of supported, uplifted and respected. 
 
 
-# Other Texts I Will Reference
+# The Portrayal of victims in other texts
 ## Netflix's 'When they see us'  
 ### Description
 Netflix's 'When they see us' is a dramatized retelling of the events of 'The Central Park Five'. While less factual, it is more engaging and is overall a more relatable and understandable portrayal of their character and case.
