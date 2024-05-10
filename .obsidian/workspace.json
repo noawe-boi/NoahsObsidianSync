@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Grade 11 FA2.md",
+                "file": "English Grade 11 FA2 draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 14.md",
+                "file": "English Grade 11 FA2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,9 +186,9 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "6aaea3e4f84d59b0",
+  "active": "f6ba8655958a8737",
   "lastOpenFiles": [
-    "Untitled 14.md",
+    "English Grade 11 FA2 draft.md",
     "English Grade 11 FA2.md",
     "Physics IA2 Report.md",
     "10.3 Pipes.md",
