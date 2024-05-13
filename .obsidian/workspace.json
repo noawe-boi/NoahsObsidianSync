@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Direction of magnettic field excalidraw.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Direction of magnettic field excalidraw.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Direction of magnettic field excalidraw.md"
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Direction of magnettic field excalidraw.md"
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
               }
             }
           },
@@ -219,10 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b248ec75f477f21",
+  "active": "2ecdcc036df77afc",
   "lastOpenFiles": [
-    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Excalidraw/Direction of magnettic field excalidraw.md",
+    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Physics 7.1 What is a magnetic field.md",
     "English Narrative Writing Exercise 12-5-2024.md",
     "conflict-files-obsidian-git.md",
