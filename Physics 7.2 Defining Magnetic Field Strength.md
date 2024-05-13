@@ -7,5 +7,6 @@ A current carrying wire will produce a revolving magnetic field perpendicular to
 
 
 
-THe direction of hte magnet field can be de
+THe direction of hte magnet field can be found using your right hand. 
+
 ![[Direction of magnettic field excalidraw]]

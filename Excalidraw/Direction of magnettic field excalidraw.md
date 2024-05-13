@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Thumb in direction of current flow ^2VKXcaok
+
 %%
 # Drawing
 ```json
@@ -2788,6 +2790,87 @@ tags: [excalidraw]
 				26.733419682671524,
 				18.972095921146376
 			]
+		},
+		{
+			"id": "l_lkjxCMtzOxljoe8Ybl_",
+			"type": "arrow",
+			"x": 190.48509432732345,
+			"y": -59.22078579455962,
+			"width": 83.64973627535898,
+			"height": 48.29259469507787,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 342995844,
+			"version": 34,
+			"versionNonce": 1124222652,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715566398105,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-83.64973627535898,
+					-48.29259469507787
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "2VKXcaok",
+			"type": "text",
+			"x": 213.76897912415365,
+			"y": -58.3584164877235,
+			"width": 334.5196838378906,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1963069244,
+			"version": 39,
+			"versionNonce": 918343556,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715566406322,
+			"link": null,
+			"locked": false,
+			"text": "Thumb in direction of current flow",
+			"rawText": "Thumb in direction of current flow",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "Thumb in direction of current flow",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
