@@ -11,8 +11,12 @@
             "id": "92f5b06e3930956d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
+              }
             }
           },
           {
