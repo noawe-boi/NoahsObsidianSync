@@ -10,3 +10,4 @@ I once heard someone ask whether a bee can fly when its wings are so small but i
 What went wrong in my mothers lovin' oven for me to come out with only a single hair on my head, longer than my nose. My nose is another thing. Its right between my eyes, bigger than either one of them too. It can really brighten someone's day when you smile at them, and my smile is pretty hard to miss. My mouth stretches across almost the entirety of the lower third of my face and might be the only thing that is actually in proportion to my head. Other than my perfectly circular head, the rest of me is mostly in proportion with a triangle. I usually wear a yellow shirt with horizontal black stripes, the rest of my clothes have to be tailored to fit my build. My legs are short but otherwise unremarkable. attached to them are my feet, which are flat but, nothing some orthopedic insoles can't remedy. Who am I? Charlie brown!
 
 
+
