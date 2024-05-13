@@ -6,4 +6,4 @@ The air was cool and dry, and the walls an off white, as if someone had been smo
 
 
 
-I once heard someone ask whether a bee can fly when its wings are so small but its body so fat. Right now, in the presence of my own reflection, I wonder how I stand, with my head being so much larger than my body. 
+I once heard someone ask whether a bee can fly when its wings are so small but its body so fat. Right now, in the presence of my own reflection, I wonder how I stand, with my head being so much larger than my body. What kind of genetics did my parents give me? What went wrong in my mothers lovin' oven for me to come out with only a single hair on my head, longer than my nose
