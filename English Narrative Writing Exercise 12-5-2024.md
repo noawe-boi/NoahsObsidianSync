@@ -6,4 +6,4 @@ The air was cool and dry, and the walls an off white, as if someone had been smo
 
 
 
-I once heard someone ask whether a bee can fly when its wings are so small but its body so fat. 
+I once heard someone ask whether a bee can fly when its wings are so small but its body so fat. Right now, in the presence of my own reflection, I wonder how I stand, with my head being so much larger than my body. 
