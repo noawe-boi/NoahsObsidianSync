@@ -12,5 +12,5 @@ The direction of the magnet field can be found using your right hand. This metho
 
 ![[Magnetic Field DIagram symbols]]
 
-$B = \frac{N}{2\pi} * \frac{I}{R}$
-Where 
+$B = \frac{N_0}{2\pi} * \frac{I}{R}$
+Where $\frac{N_0}{2\pi} = 2x10^-7 TmA^-1$
