@@ -14,3 +14,9 @@ The direction of the magnet field can be found using your right hand. This metho
 
 $B = \frac{N_0}{2\pi} * \frac{I}{R}$
 Where $\frac{N_0}{2\pi} = 2x10^-7 TmA^-1$
+$I$ = Current 
+$r$ = distance between current and point of B 
+$B$ = magnetic field strength
+
+
+## Examples
