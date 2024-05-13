@@ -11,4 +11,4 @@ What went wrong in my mothers lovin' oven for me to come out with only a single 
 
 
 
-I really didn't think that in all my years as a pilot, I'd ever end up in a situation like this. I might have been able to avoid it entirely if I hadn't been distracted by the zipper on my jacket
+I really didn't think that in all my years as a pilot, I'd ever end up in a situation like this. I might have been able to avoid it entirely if I hadn't been distracted by the zipper on my jacket. It was a new jacket, 
