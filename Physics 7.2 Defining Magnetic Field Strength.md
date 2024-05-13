@@ -24,3 +24,7 @@ $B$ = magnetic field strength
 ![[Pasted image 20240513122332.png]]
 
 ![[Physics Examples 7.2B]]
+
+
+![[Pasted image 20240513122853.png]]
+

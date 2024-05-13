@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02ba48b91740a8ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
+                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md"
               }
             }
           },
@@ -162,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
+                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md"
               }
             }
           },
@@ -197,12 +207,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f6e4bc47bdb2c80",
+  "active": "02ba48b91740a8ba",
   "lastOpenFiles": [
+    "Physics 7.2 Defining Magnetic Field Strength.md",
+    "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md",
+    "Pasted image 20240513122853.png",
     "Physics 7.1 What is a magnetic field.md",
     "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md",
     "Excalidraw/Direction of magnettic field excalidraw.md",
-    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Excalidraw/Physics Examples 7.2B.md",
     "Pasted image 20240513122332.png",
     "Excalidraw/Magnetic Field DIagram symbols.md",
@@ -227,14 +239,12 @@
     "Excalidraw/Electric Fields Diagram.md",
     "Physics 6.2 Electric Fields.md",
     "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
-    "Pasted image 20240502191455.png",
     "Excalidraw/Atoms repelling electric frields diagram.md",
     "fa2.md",
     "Excalidraw/Coulombs Law Formula.md",
     "Excalidraw/Coulombs Law K fomula.md",
     "Excalidraw/Drawing 2024-04-29 12.12.11.excalidraw.md",
     "Physics 6.1 Coulomb's Law.md",
-    "Excalidraw/Physics Grade 12 textbook W.E 6.1 p156.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
