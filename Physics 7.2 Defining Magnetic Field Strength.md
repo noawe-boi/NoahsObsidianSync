@@ -20,3 +20,6 @@ $B$ = magnetic field strength
 
 
 ## Examples
+
+![[Pasted image 20240513122332.png]]
+
