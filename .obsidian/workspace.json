@@ -25,66 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 7.1 What is a magnetic field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ecdcc036df77afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "718e02e0061f9be0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Examples 7.2B.md"
-              }
-            }
-          },
-          {
-            "id": "f6d98a187c310668",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9a45c2bc5840f4ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Magnetic Field DIagram symbols.md"
-              }
-            }
-          },
-          {
-            "id": "6b248ec75f477f21",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Direction of magnettic field excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,15 +197,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ecdcc036df77afc",
+  "active": "3f6e4bc47bdb2c80",
   "lastOpenFiles": [
-    "Excalidraw/Physics Examples 7.2B.md",
+    "Physics 7.1 What is a magnetic field.md",
     "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md",
+    "Excalidraw/Direction of magnettic field excalidraw.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
+    "Excalidraw/Physics Examples 7.2B.md",
     "Pasted image 20240513122332.png",
     "Excalidraw/Magnetic Field DIagram symbols.md",
-    "Excalidraw/Direction of magnettic field excalidraw.md",
-    "Physics 7.1 What is a magnetic field.md",
     "English Narrative Writing Exercise 12-5-2024.md",
     "conflict-files-obsidian-git.md",
     "Physics IA2 Report.md",
