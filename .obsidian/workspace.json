@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "513d5dd51dc01ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics FA2 Grade 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8087f6dd6d0c56fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "English Narrative Writing Exercise 12-5-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc1168b11748136e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,6 +210,9 @@
   },
   "active": "8087f6dd6d0c56fd",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Physics IA2 Report.md",
+    "Pasted image 20240509234752.png",
     "Physics FA2 Grade 11.md",
     "English Narrative Writing Exercise 12-5-2024.md",
     "Physics 7.1 What is a magnetic field.md",
@@ -220,7 +222,6 @@
     "Pasted image 20240509092851.png",
     "Pasted image 20240509092818.png",
     "English Grade 11 FA2.md",
-    "conflict-files-obsidian-git.md",
     "park.md",
     "central.md",
     "Untitled 13.md",
@@ -244,9 +245,7 @@
     "Central Park 5 Documentary notes.md",
     "English Grade 11 FA2 Planning.md",
     "Excalidraw/Physics Calculating the speed of sound.md",
-    "test 2.md",
     "Pasted image 20240321222734.png",
-    "Pasted image 20240321042540.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
