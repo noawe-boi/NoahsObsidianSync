@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b248ec75f477f21",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-13 12.11.08.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.1 Defining Magnetic Field Strength.md",
+                "file": "Excalidraw/Drawing 2024-05-13 12.11.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.1 Defining Magnetic Field Strength.md",
+                "file": "Excalidraw/Drawing 2024-05-13 12.11.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.1 Defining Magnetic Field Strength.md"
+                "file": "Excalidraw/Drawing 2024-05-13 12.11.08.excalidraw.md"
               }
             }
           },
@@ -174,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.1 Defining Magnetic Field Strength.md"
+                "file": "Excalidraw/Drawing 2024-05-13 12.11.08.excalidraw.md"
               }
             }
           },
@@ -209,10 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ecdcc036df77afc",
+  "active": "6b248ec75f477f21",
   "lastOpenFiles": [
-    "Physics 7.1 What is a magnetic field.md",
     "Physics 7.1 Defining Magnetic Field Strength.md",
+    "Excalidraw/Drawing 2024-05-13 12.11.08.excalidraw.md",
+    "Physics 7.1 What is a magnetic field.md",
     "English Narrative Writing Exercise 12-5-2024.md",
     "conflict-files-obsidian-git.md",
     "Physics IA2 Report.md",
@@ -245,7 +256,6 @@
     "Nanomaterials.md",
     "Central Park 5 Unused.md",
     "Central Park 5 Documentary notes.md",
-    "English Grade 11 FA2 Planning.md",
     "Pasted image 20240321222734.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
