@@ -37,12 +37,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md"
+                "file": "Excalidraw/phyiscs 7.2b.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md"
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md"
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02ba48b91740a8ba",
+  "active": "3f6e4bc47bdb2c80",
   "lastOpenFiles": [
+    "Excalidraw/phyiscs 7.2b.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
-    "Excalidraw/Drawing 2024-05-13 12.28.55.excalidraw.md",
     "Pasted image 20240513122853.png",
     "Physics 7.1 What is a magnetic field.md",
     "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md",
