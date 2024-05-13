@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "31c17bfb9fb8df7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707277409628fa72",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics 7.2C Attempt.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "file": "Excalidraw/Physics 7.2C Attempt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "file": "Excalidraw/Physics 7.2C Attempt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
+                "file": "Excalidraw/Physics 7.2C Attempt.md"
               }
             }
           },
@@ -173,10 +189,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "92f5b06e3930956d",
+  "active": "707277409628fa72",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
+    "Excalidraw/Physics 7.2C Attempt.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
@@ -210,7 +227,6 @@
     "Key Scenes.md",
     "Physics 6.2 Electric Fields.md",
     "Excalidraw/Electric Fields Diagram.md",
-    "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
