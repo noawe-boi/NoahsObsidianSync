@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md"
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md"
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
               }
             }
           },
@@ -217,10 +217,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abf85fa09131e01f",
+  "active": "3f6e4bc47bdb2c80",
   "lastOpenFiles": [
-    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
+    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Pasted image 20240513123624.png",
     "Excalidraw/phyiscs 7.2b.md",
     "Pasted image 20240513122853.png",
