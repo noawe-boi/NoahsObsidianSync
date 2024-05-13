@@ -28,3 +28,8 @@ $B$ = magnetic field strength
 
 ![[Pasted image 20240513122853.png]]
 
+![[phyiscs 7.2b]]
+
+
+![[Pasted image 20240513123624.png]]
+
