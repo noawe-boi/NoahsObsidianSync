@@ -4,8 +4,8 @@ tags:
 ---
 ## Executive Summary
 
-This report has been prepared for COFFEE CUP COMPANY to determine its viability to develop into a business in a competitive enviroment. This report will: 
-- Explore innovation thoeries and entrapeneuruial innovation
+This report has been prepared for COFFEE CUP COMPANY to determine its viability to develop into a business in a competitive environment. This report will: 
+- Explore innovation theories and entrepreneurial innovation
 
 
 
