@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21abc936a93838bc",
+        "id": "855c1db82ae349c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8087f6dd6d0c56fd",
+            "id": "536c48d4eaf25140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Narrative Writing Exercise 12-5-2024.md",
+                "file": "Business Year 11 FA2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3f6e4bc47bdb2c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abf85fa09131e01f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8d037cffaf27e8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02ba48b91740a8ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/phyiscs 7.2b.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Business Year 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Business Year 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
@@ -194,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
@@ -229,16 +184,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d037cffaf27e8ae",
+  "active": "536c48d4eaf25140",
   "lastOpenFiles": [
+    "Business Year 11 FA2.md",
+    "Untitled 14.md",
+    "Excalidraw/phyiscs 7.2b.md",
+    "Physics 7.2 Defining Magnetic Field Strength.md",
+    "English Narrative Writing Exercise 12-5-2024.md",
     "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Physics 7.2C Attempt.md",
     "English Grade 11 FA2 draft.md",
     "English Assessment Video Link.md",
-    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Pasted image 20240513123624.png",
-    "Excalidraw/phyiscs 7.2b.md",
     "Pasted image 20240513122853.png",
     "Physics 7.1 What is a magnetic field.md",
     "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md",
@@ -246,7 +204,6 @@
     "Excalidraw/Physics Examples 7.2B.md",
     "Pasted image 20240513122332.png",
     "Excalidraw/Magnetic Field DIagram symbols.md",
-    "English Narrative Writing Exercise 12-5-2024.md",
     "Physics IA2 Report.md",
     "Pasted image 20240509234752.png",
     "Physics FA2 Grade 11.md",
@@ -265,8 +222,6 @@
     "Excalidraw/Electric Fields Diagram.md",
     "Physics 6.2 Electric Fields.md",
     "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
-    "Excalidraw/Atoms repelling electric frields diagram.md",
-    "fa2.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
