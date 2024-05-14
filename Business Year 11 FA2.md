@@ -15,8 +15,7 @@ This report has been prepared for COFFEE CUP COMPANY to determine its viability 
 
 ### Describe characteristics of product's environment
 
-AVENSI is an enthusiast coffee brand that is planning to enter the market via a Kickstarter campaign. It faces little competition 
-
+AVENSI is an enthusiast coffee brand that is planning to enter the market via a Kickstarter campaign. It faces moderate competition in the existing market for specialty coffee glasses as it offers 
 
 
 ## Conclusion
