@@ -33,4 +33,11 @@ $B$ = magnetic field strength
 
 ![[Pasted image 20240513123624.png]]
 
+<<<<<<< HEAD
 ![[Drawing 2024-05-13 12.36.37.excalidraw]]
+=======
+
+![[Physics 7.2C Attempt]]
+
+
+>>>>>>> origin/main
