@@ -8,13 +8,14 @@ This report has been prepared for COFFEE CUP COMPANY to determine its viability 
 
 
 
+## Contents
 
 
 ## Body
 
 ### Describe characteristics of product's environment
 
-
+AVENSI is a specialty coffee
 
 
 
