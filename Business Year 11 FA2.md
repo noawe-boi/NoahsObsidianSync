@@ -12,7 +12,8 @@ This report has been prepared for COFFEE CUP COMPANY to determine its viability 
 
 ## Body
 
-### Describe characteristics of products enviroment
+### Describe characteristics of product's environment
+
 
 
 
