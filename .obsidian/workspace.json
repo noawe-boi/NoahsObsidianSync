@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "ae3dbc6435625937",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "ddb8300968fe9f43",
             "type": "leaf",
             "state": {
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md",
+                "file": "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md",
+                "file": "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
+                "file": "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md"
               }
             }
           },
@@ -160,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
+                "file": "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md"
               }
             }
           },
@@ -195,9 +205,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb8300968fe9f43",
+  "active": "ae3dbc6435625937",
   "lastOpenFiles": [
     "Physics 7.4 Magnetic forces on a moving charge.md",
+    "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "Untitled 15.md",
     "Business Year 11 FA2.md",
@@ -231,7 +242,6 @@
     "park.md",
     "central.md",
     "Untitled 13.md",
-    "Physics FA2 Grade 11 Structure.md",
     "Pasted image 20240508221902.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
