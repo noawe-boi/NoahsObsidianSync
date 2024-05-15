@@ -5,4 +5,8 @@
 
 **Use the left hand for negative charges!**
 
-$F=
+$F=Bqv$
+Where:
+- B is the strength of the field
+- q is the strength of the charge
+- v is the 
