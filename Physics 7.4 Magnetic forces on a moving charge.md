@@ -5,6 +5,8 @@
 
 **Use the left hand for negative charges!**
 
+
+### For Charged Particles
 $F=Bqv*sin(\theta)$
 Where:
 - B is the strength of the field
@@ -13,4 +15,8 @@ Where:
 - $\theta$ is the angle between v and magnetic field
 
 ![[Magnetic Forces on charges diagram]]
+
+
+
+### For Current Carrying Wires
 
