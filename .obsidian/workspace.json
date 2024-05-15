@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "c4bfefa4fd3897cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "ddb8300968fe9f43",
             "type": "leaf",
             "state": {
@@ -208,8 +218,9 @@
   "active": "ae3dbc6435625937",
   "lastOpenFiles": [
     "Physics 7.4 Magnetic forces on a moving charge.md",
-    "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
+    "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 09.31.32.excalidraw.md",
     "Untitled 15.md",
     "Business Year 11 FA2.md",
     "conflict-files-obsidian-git.md",
@@ -241,7 +252,6 @@
     "English Grade 11 FA2.md",
     "park.md",
     "central.md",
-    "Untitled 13.md",
     "Pasted image 20240508221902.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
