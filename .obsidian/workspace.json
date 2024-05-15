@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddb8300968fe9f43",
+  "active": "db890b98c07826f6",
   "lastOpenFiles": [
-    "Physics 7.4 Magnetic forces on a moving charge.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
+    "Physics 7.4 Magnetic forces on a moving charge.md",
     "Untitled 15.md",
     "Business Year 11 FA2.md",
     "conflict-files-obsidian-git.md",
