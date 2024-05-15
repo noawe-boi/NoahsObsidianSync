@@ -25,11 +25,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.22.25.excalidraw.md"
+                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "Excalidraw/Right Hand Rule 2 Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "Excalidraw/Right Hand Rule 2 Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
               }
             }
           },
@@ -159,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
               }
             }
           },
@@ -194,10 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db890b98c07826f6",
+  "active": "ddb8300968fe9f43",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-16 09.22.25.excalidraw.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
+    "Excalidraw/Right Hand Rule 2 Physics.md",
     "Untitled 15.md",
     "Business Year 11 FA2.md",
     "conflict-files-obsidian-git.md",
