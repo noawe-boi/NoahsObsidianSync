@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -235,10 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71af9684f0fac909",
+  "active": "db890b98c07826f6",
   "lastOpenFiles": [
-    "Physics 7.4 Magnetic forces on a moving charge.md",
     "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+    "Physics 7.4 Magnetic forces on a moving charge.md",
     "Excalidraw/rhr diagram 4.md",
     "Excalidraw/Magnetic Forces on charges diagram.md",
     "Excalidraw/RIght hand rule 2 example 2.md",
