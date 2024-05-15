@@ -5,8 +5,8 @@
 
 **Use the left hand for negative charges!**
 
-$F=Bqv$
+$F=Bqv*sin(\thete)$
 Where:
 - B is the strength of the field
 - q is the strength of the charge
-- v is the 
+- v is the velocity of the particle
