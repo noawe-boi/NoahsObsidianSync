@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "855c1db82ae349c1",
+        "id": "9cc305e7bca85b1a",
         "type": "tabs",
         "children": [
           {
-            "id": "536c48d4eaf25140",
+            "id": "db890b98c07826f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Year 11 FA2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19f46a33c411e99d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Physics 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Year 11 FA2.md",
+                "file": "Physics 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Year 11 FA2.md",
+                "file": "Physics 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Year 11 FA2.md"
+                "file": "Physics 7.md"
               }
             }
           },
@@ -161,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Business Year 11 FA2.md"
+                "file": "Physics 7.md"
               }
             }
           },
@@ -196,11 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "536c48d4eaf25140",
+  "active": "db890b98c07826f6",
   "lastOpenFiles": [
+    "Physics 7.md",
+    "Untitled 15.md",
+    "Business Year 11 FA2.md",
     "conflict-files-obsidian-git.md",
     "Business Year 11 Fa2 Objectives.md",
-    "Business Year 11 FA2.md",
     "Untitled 14.md",
     "Excalidraw/phyiscs 7.2b.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
@@ -232,8 +222,6 @@
     "Physics FA2 Grade 11 Structure.md",
     "Pasted image 20240508221902.png",
     "Physics FA1 Grade 11.md",
-    "Excalidraw/Electric Fields Diagram.md",
-    "Physics 6.2 Electric Fields.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
