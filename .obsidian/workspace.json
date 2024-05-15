@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19f46a33c411e99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -186,13 +198,14 @@
   },
   "active": "536c48d4eaf25140",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Business Year 11 Fa2 Objectives.md",
     "Business Year 11 FA2.md",
     "Untitled 14.md",
     "Excalidraw/phyiscs 7.2b.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
     "English Narrative Writing Exercise 12-5-2024.md",
     "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Physics 7.2C Attempt.md",
     "English Grade 11 FA2 draft.md",
     "English Assessment Video Link.md",
@@ -221,7 +234,6 @@
     "Physics FA1 Grade 11.md",
     "Excalidraw/Electric Fields Diagram.md",
     "Physics 6.2 Electric Fields.md",
-    "Excalidraw/Drawing 2024-05-02 09.45.21.excalidraw.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",

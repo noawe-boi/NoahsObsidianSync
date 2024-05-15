@@ -2,8 +2,9 @@
 tags:
   - business
 ---
-## Criteria. 
+## Executive Summary
 
+<<<<<<< HEAD
 ### Objective
 
 Investigate an existing business idea to determine its viability to develop into a business in a
@@ -13,31 +14,21 @@ Create a business report that communicates the viability of the business idea to
 
 
 ### To complete this task, you must:
+=======
+This report has been prepared for COFFEE CUP COMPANY to determine its viability to develop into a business in a competitive environment. This report will explore innovation theories and entrepreneurial motivation to determine if the seed business idea can be expended into a business
 
-· describe the characteristics of the business environment for the existing business idea
 
-· describe the business seed idea, including challenges it will face in the seed stage of the business
 
-cycle
+## Contents
 
-· explain the challenges of the seed stage using innovation theories and strategies used to screen
 
-business ideas
+## Body
+>>>>>>> origin/main
 
-· select data and information from primary and secondary sources and use it to analyse the
+### Describe characteristics of product's environment
 
-business environment using PEST and potential competition using SWOT
+AVENSI is an enthusiast coffee brand that is planning to enter the market via a Kickstarter campaign. It faces moderate competition in the existing market for specialty coffee glasses as it offers unique features 
 
-· interpret the relationships and patterns in the SWOT and PEST analysis to draw conclusions about
 
-the future viability of the business idea
+## Conclusion
 
-· evaluate the viability of proceeding to the start-up stage of the business life cycle with the seed idea and provide a recommendation regarding future action of the seed idea to the entrepreneur · provide a reference list · sequence and organise ideas, supported by visual representations · use language conventions to communicate to suit the intended audience
-
-· Cite sources using in-text referencing in the body of the response
-
-· Provide a reference list of primary and secondary sources
-
-· Sequence and organise ideas, supported by visual representation
-
-· Use language conventions to communicate to suit the intended audience
