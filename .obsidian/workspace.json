@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "71af9684f0fac909",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "dc62fd8cba9abf40",
             "type": "leaf",
             "state": {
@@ -59,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md"
               }
             }
           },
@@ -189,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md"
               }
             }
           },
@@ -224,10 +235,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db890b98c07826f6",
+  "active": "71af9684f0fac909",
   "lastOpenFiles": [
-    "Excalidraw/rhr diagram 4.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
+    "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+    "Excalidraw/rhr diagram 4.md",
     "Excalidraw/Magnetic Forces on charges diagram.md",
     "Excalidraw/RIght hand rule 2 example 2.md",
     "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
@@ -260,7 +272,6 @@
     "Pasted image 20240509092857.png",
     "Pasted image 20240509092851.png",
     "Pasted image 20240509092818.png",
-    "English Grade 11 FA2.md",
     "Pasted image 20240508221902.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
