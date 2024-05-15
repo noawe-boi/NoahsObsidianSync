@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddb8300968fe9f43",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-16 09.22.25.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -186,6 +196,7 @@
   },
   "active": "db890b98c07826f6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-16 09.22.25.excalidraw.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "Untitled 15.md",
     "Business Year 11 FA2.md",
@@ -221,7 +232,6 @@
     "Untitled 13.md",
     "Physics FA2 Grade 11 Structure.md",
     "Pasted image 20240508221902.png",
-    "Physics FA1 Grade 11.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
