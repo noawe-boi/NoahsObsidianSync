@@ -21,7 +21,7 @@ STEEPLE
 
 
 #### Social
-- 
+- Interest in accessabel, user fre
 
 
 
