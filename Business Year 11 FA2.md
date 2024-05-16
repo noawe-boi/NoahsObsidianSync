@@ -33,8 +33,8 @@ STEEPLE
 
 
 #### Economic 
-- Price 
-
+- Price: Competitor teenage engineering charges throusands for 
+[Teenage Engineering Raises Prices on OP-1, Cancels | Reverb News](https://reverb.com/it/news/teenage-engineering-raises-prices-on-op-1-cancels-orders-on-new-modular-models)
 
 #### Political
 
