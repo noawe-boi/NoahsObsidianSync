@@ -35,12 +35,28 @@
             "id": "26cd8bf90b7fbddd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Entrepreneur documentary (the new hustle).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5c521a282678b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business assignment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,12 +85,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#business",
+                "query": "#business business",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -118,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Business assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Business assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Business assignment.md"
+              }
             }
           },
           {
@@ -189,8 +209,10 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "5b5c521a282678b0",
   "lastOpenFiles": [
+    "Entrepreneur documentary (the new hustle).md",
+    "Business assignment.md",
     "Business Year 11 FA2.md",
     "Business Wheel FA2.md",
     "Business Year 11 Fa2 Objectives.md",
@@ -218,8 +240,6 @@
     "English Narrative Writing Exercise 12-5-2024.md",
     "English Grade 11 FA2 draft.md",
     "English Assessment Video Link.md",
-    "English Grade 11 FA2.md",
-    "Physics IA2 Report.md",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
