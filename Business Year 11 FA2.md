@@ -33,7 +33,7 @@ STEEPLE
 
 
 #### Economic 
-- Price: Competitor teenage engineering charges thousands for similar products. 
+- Price: Competitor teenage engineering charges thousands for similar products. Current kickstarter price for HiChord is only $374 AUD
 [Teenage Engineering Raises Prices on OP-1, Cancels | Reverb News](https://reverb.com/it/news/teenage-engineering-raises-prices-on-op-1-cancels-orders-on-new-modular-models)
 [HiChord - Pocket Chord Synthesizer by Pocket Audio — Kickstarter](https://www.kickstarter.com/projects/hichord/hichord-pocket-chord-synthesizer) 
 
@@ -49,7 +49,7 @@ STEEPLE
 
 
 #### Ethical
-- Can all components be sourced ethically. 
+- Can all components be sourced ethically?
 
 
 ## Conclusion
