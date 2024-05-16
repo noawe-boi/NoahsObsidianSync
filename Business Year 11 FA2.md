@@ -32,7 +32,7 @@ STEEPLE
 
 
 #### Economic 
-
+- Price 
 
 
 #### Political
