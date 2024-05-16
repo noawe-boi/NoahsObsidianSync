@@ -27,3 +27,7 @@ Where
 - q is the strength of the charge
 - v is the velocity of the particle
 - $\theta$ is the angle between wire and magnetic field
+
+## Examples
+
+
