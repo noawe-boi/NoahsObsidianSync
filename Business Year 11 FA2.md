@@ -34,9 +34,18 @@ STEEPLE
 
 
 
-#### Political. 
+#### Political
 
-####
+
+
+
+#### Legal
+
+
+
+
+
+#### Ethical
 
 ## Conclusion
 
