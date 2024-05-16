@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Year 11 Fa2 Objectives.md",
+                "file": "Business Year 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Year 11 Fa2 Objectives.md",
+                "file": "Business Year 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Year 11 Fa2 Objectives.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "fad9cae85d5b3388",
+  "active": "9c5e34d1976489e7",
   "lastOpenFiles": [
-    "Entrepreneur documentary (the new hustle).md",
     "Business Year 11 Fa2 Objectives.md",
+    "Entrepreneur documentary (the new hustle).md",
     "Business Year 11 FA2.md",
     "Business Wheel FA2.md",
     "Untitled 16.md",
