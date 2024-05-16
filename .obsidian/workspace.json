@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#business business",
+                "query": "seed stage",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -197,7 +197,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "9c5e34d1976489e7",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
     "Untitled 16.md",
     "Business Year 11 FA2.md",
