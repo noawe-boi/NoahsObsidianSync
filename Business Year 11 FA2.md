@@ -47,7 +47,7 @@ STEEPLE
 
 
 #### Ethical
-
+- Can all components be sourced ethically. 
 
 
 ## Conclusion
