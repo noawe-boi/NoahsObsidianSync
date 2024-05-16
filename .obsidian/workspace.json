@@ -4,68 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc305e7bca85b1a",
+        "id": "dfaaf443cb624577",
         "type": "tabs",
         "children": [
           {
-            "id": "db890b98c07826f6",
+            "id": "73689cc3fe51dbee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "Business Year 11 FA2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71af9684f0fac909",
+            "id": "e37d16137fecb6dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "dc62fd8cba9abf40",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/rhr diagram 4.md"
-              }
-            }
-          },
-          {
-            "id": "e37900f98582cc53",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Magnetic Forces on charges diagram.md"
-              }
-            }
-          },
-          {
-            "id": "ae3dbc6435625937",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/RIght hand rule 2 example 2.md"
-              }
-            }
-          },
-          {
-            "id": "ddb8300968fe9f43",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Right Hand Rule 2 Physics.md"
+                "file": "Business Year 11 Fa2 Objectives.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,35 +94,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3ffe682e8f5f782",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ba8d7c5ab42dcae4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "ff2af5483776c9d9",
             "type": "leaf",
             "state": {
@@ -172,17 +105,36 @@
             }
           },
           {
-            "id": "785ae84c2804b639",
+            "id": "ca6dd9e625427e30",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "Business Year 11 FA2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5d1c41294afb977e",
+            "id": "792f57cfc7b03fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Business Year 11 FA2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4983d28ef4fb017a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -194,17 +146,17 @@
             }
           },
           {
-            "id": "ffb8d3b618b625b0",
+            "id": "88fc3c084371e78f",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
           {
-            "id": "5222ebf41e3b20fa",
+            "id": "40f4afcd6d58f80e",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -212,17 +164,14 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-tts:Text to Speech": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,41 +180,43 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "db890b98c07826f6",
+  "active": "73689cc3fe51dbee",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+    "Untitled 15.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "Excalidraw/rhr diagram 4.md",
-    "Excalidraw/Magnetic Forces on charges diagram.md",
-    "Excalidraw/RIght hand rule 2 example 2.md",
-    "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
-    "Untitled 15.md",
-    "Business Year 11 FA2.md",
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/RIght hand rule 2 example 2.md",
+    "Excalidraw/Magnetic Forces on charges diagram.md",
+    "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
     "Business Year 11 Fa2 Objectives.md",
+    "Business Year 11 FA2.md",
     "Untitled 14.md",
-    "Excalidraw/phyiscs 7.2b.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
-    "English Narrative Writing Exercise 12-5-2024.md",
-    "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
     "Excalidraw/Physics 7.2C Attempt.md",
-    "English Grade 11 FA2 draft.md",
-    "English Assessment Video Link.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
-    "Physics 7.1 What is a magnetic field.md",
+    "Pasted image 20240513122332.png",
+    "Excalidraw/phyiscs 7.2b.md",
+    "Excalidraw/Physics Examples 7.2B.md",
+    "Excalidraw/Magnetic Field DIagram symbols.md",
+    "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
     "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md",
     "Excalidraw/Direction of magnettic field excalidraw.md",
-    "Excalidraw/Physics Examples 7.2B.md",
-    "Pasted image 20240513122332.png",
-    "Excalidraw/Magnetic Field DIagram symbols.md",
+    "English Narrative Writing Exercise 12-5-2024.md",
+    "English Grade 11 FA2 draft.md",
+    "English Assessment Video Link.md",
+    "English Grade 11 FA2.md",
     "Physics IA2 Report.md",
+    "10.3 Pipes.md",
     "Pasted image 20240509234752.png",
-    "Physics FA2 Grade 11.md",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
     "Pasted image 20240509092857.png",
