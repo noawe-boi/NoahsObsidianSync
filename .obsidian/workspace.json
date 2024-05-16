@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73689cc3fe51dbee",
+            "id": "e37d16137fecb6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Wheel FA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5e34d1976489e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +32,15 @@
             }
           },
           {
-            "id": "e37d16137fecb6dd",
+            "id": "26cd8bf90b7fbddd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Year 11 Fa2 Objectives.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#business",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -82,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Year 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Year 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Business Year 11 FA2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,8 +189,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "73689cc3fe51dbee",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
+    "Business Year 11 FA2.md",
+    "Business Wheel FA2.md",
+    "Business Year 11 Fa2 Objectives.md",
     "Untitled 15.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "Excalidraw/rhr diagram 4.md",
@@ -195,8 +202,6 @@
     "Excalidraw/Magnetic Forces on charges diagram.md",
     "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
-    "Business Year 11 Fa2 Objectives.md",
-    "Business Year 11 FA2.md",
     "Untitled 14.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
     "Excalidraw/Physics 7.2C Attempt.md",
@@ -215,7 +220,6 @@
     "English Assessment Video Link.md",
     "English Grade 11 FA2.md",
     "Physics IA2 Report.md",
-    "10.3 Pipes.md",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
