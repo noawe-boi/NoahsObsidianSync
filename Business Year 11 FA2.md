@@ -20,5 +20,23 @@ AVENSI is an enthusiast coffee brand that is planning to enter the market via a 
 STEEPLE
 
 
+#### Social
+
+
+
+
+#### Technological
+
+
+
+
+#### Economic 
+
+
+
+
+
+####
+
 ## Conclusion
 
