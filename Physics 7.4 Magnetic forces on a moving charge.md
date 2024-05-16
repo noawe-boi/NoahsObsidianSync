@@ -30,4 +30,4 @@ Where
 
 ## Examples
 
-
+![[Drawing 2024-05-16 09.48.47.excalidraw]]
