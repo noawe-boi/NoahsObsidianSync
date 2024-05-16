@@ -28,6 +28,7 @@ STEEPLE
 
 #### Technological
 - Ai Music production becoming increasingly viable. 
+[In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
 
 
 
