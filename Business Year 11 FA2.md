@@ -21,7 +21,7 @@ STEEPLE
 
 
 #### Social
-- Interest in accessabel, user fre
+- Interest in accessible , user friendly and portable music production and playback devices predicted to 
 
 
 
