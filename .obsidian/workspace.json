@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b5c521a282678b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business assignment.md",
+                "file": "Business Year 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business assignment.md",
+                "file": "Business Year 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business assignment.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
@@ -209,12 +197,12 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "5b5c521a282678b0",
+  "active": "9c5e34d1976489e7",
   "lastOpenFiles": [
-    "Entrepreneur documentary (the new hustle).md",
-    "Business assignment.md",
-    "Business Year 11 FA2.md",
     "Business Wheel FA2.md",
+    "Business Year 11 FA2.md",
+    "Entrepreneur documentary (the new hustle).md",
+    "untitled 18.md",
     "Business Year 11 Fa2 Objectives.md",
     "Untitled 15.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
