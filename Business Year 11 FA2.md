@@ -21,10 +21,9 @@ STEEPLE
 
 
 #### Social
-- Interest in accessible , user friendly and portable music production and playback devices predicted to 
-
-
-
+- Interest in accessible , user friendly and portable music production and playback devices predicted to be fastest growing consumer industries by 2030.
+[Portable Music Player Market 2023 Fastest Growing Industry in Consumer Goods Market by 2030 (linkedin.com)](https://www.linkedin.com/pulse/portable-music-player-market-2023-fastest-1avpf)
+[Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages (linkedin.com)](https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse)
 #### Technological
 
 
