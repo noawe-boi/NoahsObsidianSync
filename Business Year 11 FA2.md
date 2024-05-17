@@ -13,8 +13,7 @@ tags:
 
 ### Describe characteristics of product's environment
 
-
-STEEPLE
+PEST
 
 
 #### Scocio cultural 
@@ -34,20 +33,8 @@ STEEPLE
 [Teenage Engineering Raises Prices on OP-1, Cancels | Reverb News](https://reverb.com/it/news/teenage-engineering-raises-prices-on-op-1-cancels-orders-on-new-modular-models)
 [HiChord - Pocket Chord Synthesizer by Pocket Audio — Kickstarter](https://www.kickstarter.com/projects/hichord/hichord-pocket-chord-synthesizer) 
 
-#### Political
 
-
-
-
-#### Legal
-
-
-
-
-
-#### Ethical
-- Can all components be sourced ethically?
-
+Political
 
 ## Conclusion
 
