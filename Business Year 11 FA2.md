@@ -40,6 +40,9 @@ tags:
 
 
 ### SWOT
+(in a table)
+
+remember to actually analyse and interpret it instead of just doing a brain dead list
 
 ## Conclusion
 
