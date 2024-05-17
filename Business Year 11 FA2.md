@@ -13,7 +13,7 @@ tags:
 
 ### Describe characteristics of product's environment
 
-PEST
+### PEST
 
 
 #### Scocio cultural 
@@ -36,6 +36,10 @@ PEST
 
 #### Political
 
+
+
+
+### SWOT
 
 ## Conclusion
 
