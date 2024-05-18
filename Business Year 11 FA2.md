@@ -13,7 +13,7 @@ tags:
 
 ### Describe characteristics of product's environment
 
-The music industry is ever evolving, and ever since their creation, synthesizers have been a major component in nearly every song. The global market for synthesizers is estimated to grow from c 
+The music industry is ever evolving, and ever since their creation, synthesizers have been a major component in nearly every song. The global market for synthesizers is estimated to grow by 2.7%, from 612 million USD to 756 USD, by the end of 2030.
 
 
 
