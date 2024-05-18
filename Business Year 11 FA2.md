@@ -56,4 +56,4 @@ remember to actually analyze and interpret it instead of just doing a brain dead
 
 
 # References 
-Global Industry Analysts, Inc. (2024). _Music Synthesizers - Global Strategic Business Report_. Retrieved from Research and Markets website:
+Global Industry Analysts, Inc. (2024). _Music Synthesizers - Global Strategic Business Report_. Retrieved from Research and Markets website: [Music Synthesizers - Global Strategic Business Report (researchandmarkets.com)](https://www.researchandmarkets.com/reports/5140448/music-synthesizers-global-strategic-business)
