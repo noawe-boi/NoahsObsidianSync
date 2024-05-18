@@ -26,6 +26,8 @@ tags:
 [Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages (linkedin.com)](https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse) 
 
 
+[**Market Growth**: The global music synthesizer market is estimated to grow by **USD 265.44 million** between 2023 and 2027, with a **CAGR of 7.85%**](https://www.technavio.com/report/music-synthesizers-market-industry-analysis)[1](https://www.technavio.com/report/music-synthesizers-market-industry-analysis).
+
 #### Technological
 - Ai Music production becoming increasingly viable. 
 [In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
