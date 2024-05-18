@@ -13,7 +13,7 @@ tags:
 
 ### Describe characteristics of product's environment
 
-The music industry 
+The music industry is ever evolving and 
 
 
 
