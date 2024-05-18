@@ -13,7 +13,7 @@ tags:
 
 ### Describe characteristics of product's environment
 
-The music industry is ever evolving and 
+The music industry is ever evolving, and ever since their creation, synthesizers have been a major component in nearly every song. The global market for synthesu 
 
 
 
