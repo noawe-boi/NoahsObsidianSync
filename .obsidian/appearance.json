@@ -2,5 +2,6 @@
   "cssTheme": "",
   "theme": "obsidian",
   "accentColor": "#003985",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }
