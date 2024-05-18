@@ -2,14 +2,24 @@
 tags:
   - business
 ---
+- [[#Executive Summary|Executive Summary]]
+- [[#Contents|Contents]]
+	- [[#Contents#Describe characteristics of product's environment|Describe characteristics of product's environment]]
+- [[#Analysis|Analysis]]
+	- [[#Analysis#PEST|PEST]]
+		- [[#PEST#Scocio cultural|Scocio cultural]]
+		- [[#PEST#Technological|Technological]]
+		- [[#PEST#Economic|Economic]]
+		- [[#PEST#Political|Political]]
+	- [[#Analysis#SWOT|SWOT]]
+- [[#Conclusion|Conclusion]]
 
-# Intrtoduction
+# Introduction
 ## Executive Summary
 
 
 
 ## Contents
-
 
 # Body
 
