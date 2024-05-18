@@ -25,8 +25,8 @@ tags:
 [Portable Music Player Market 2023 Fastest Growing Industry in Consumer Goods Market by 2030 (linkedin.com)](https://www.linkedin.com/pulse/portable-music-player-market-2023-fastest-1avpf) 
 [Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages (linkedin.com)](https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse) 
 
-
-[**Market Growth**: The global music synthesizer market is estimated to grow by **USD 265.44 million** between 2023 and 2027, with a **CAGR of 7.85%**](https://www.technavio.com/report/music-synthesizers-market-industry-analysis)[1](https://www.technavio.com/report/music-synthesizers-market-industry-analysis).
+- Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.
+https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 #### Technological
 - Ai Music production becoming increasingly viable. 
