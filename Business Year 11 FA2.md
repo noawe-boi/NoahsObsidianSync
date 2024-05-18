@@ -66,3 +66,5 @@ Technavio. (2023). _Music Synthesizers Market by Type, Distribution Channel, an
 de-Miguel-Molina, M., Santamarina-Campos, V. (2021). Conclusions: Music as an Economic, Social, Cultural, Creative and Resilient Activity. In: de-Miguel-Molina, B., Santamarina-Campos, V., de-Miguel-Molina, M., Boix-Doménech, R. (eds) Music as Intangible Cultural Heritage. SpringerBriefs in Economics. Springer, Cham. https://doi.org/10.1007/978-3-030-76882-9_9
 
 Pastukhov, D. (2019, January 7). _Soundcharts | Market Intelligence for the Music Industry_. Soundcharts.com. https://soundcharts.com/blog/mechanics-of-the-music-industry
+
+https ://www.technavio.com, T. (n.d.). _Music Production Equipment Market Size, Share, Growth, Trends, Industry Analysis Forecast 2026_. Www.technavio.com. https://www.technavio.com/report/music-production-equipment-market-industry-analysis
