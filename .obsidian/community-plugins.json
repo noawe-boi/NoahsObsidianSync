@@ -6,5 +6,6 @@
   "obsidian-discordrpc",
   "better-word-count",
   "obsidian-tts",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-plugin-toc"
 ]
