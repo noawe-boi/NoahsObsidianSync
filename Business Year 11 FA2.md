@@ -53,3 +53,7 @@ remember to actually analyze and interpret it instead of just doing a brain dead
 
 
 ## Conclusion
+
+
+# References 
+Global Industry Analysts, Inc. (2024). _Music Synthesizers - Global Strategic Business Report_. Retrieved from Research and Markets website:
