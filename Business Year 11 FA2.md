@@ -13,7 +13,7 @@ tags:
 
 ### Describe characteristics of product's environment
 
-The music industry is ever evolving, and ever since their creation, synthesizers have been a major component in nearly every song. The global market for synthesizers is estimated to grow by 2.7%, from 612 million USD to 756 USD, by the end of 2030 (Global Industry Analysts, Inc., 2024). 
+The music industry is ever evolving, and ever since their creation, synthesizers have been a major component in nearly every song. The global market for synthesizers is estimated to grow by 2.7%, from 612 million USD to 756 USD, by the end of 2030 (Global Industry Analysts, Inc., 2024). Because of this 
 
 
 
@@ -59,3 +59,5 @@ remember to actually analyze and interpret it instead of just doing a brain dead
 Global Industry Analysts, Inc. (2024). _Music Synthesizers - Global Strategic Business Report_. Retrieved from Research and Markets website: [Music Synthesizers - Global Strategic Business Report (researchandmarkets.com)](https://www.researchandmarkets.com/reports/5140448/music-synthesizers-global-strategic-business)
 
 Technavio. (2023). _Music Synthesizers Market by Type, Distribution Channel, and Geography - Forecast and Analysis 2023-2027_. Retrieved from [Music Synthesizers Market Size, Share, Trends by 2027 (technavio.com)](https://www.technavio.com/report/music-synthesizers-market-industry-analysis)
+
+de-Miguel-Molina, M., Santamarina-Campos, V. (2021). Conclusions: Music as an Economic, Social, Cultural, Creative and Resilient Activity. In: de-Miguel-Molina, B., Santamarina-Campos, V., de-Miguel-Molina, M., Boix-Doménech, R. (eds) Music as Intangible Cultural Heritage. SpringerBriefs in Economics. Springer, Cham. https://doi.org/10.1007/978-3-030-76882-9_9
