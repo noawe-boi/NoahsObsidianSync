@@ -93,14 +93,6 @@
                 "sortOrder": "byCreatedTime"
               }
             }
-          },
-          {
-            "id": "ae095e00f2d876bf",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -209,7 +201,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "99213a04b4a3f295",
+  "active": "9c5e34d1976489e7",
   "lastOpenFiles": [
     "Business Year 11 FA2.md",
     "Business Year 11 Fa2 Objectives.md",
