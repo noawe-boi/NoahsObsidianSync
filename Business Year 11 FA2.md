@@ -14,8 +14,9 @@ tags:
 ### Describe characteristics of product's environment
 
 The music industry is ever evolving, and ever since their creation, synthesizers have been a major component in nearly every song. Because of this, the music industry has grown with and been heavily influenced by new and emerging technologies that expand what is possible and create opportunities for anyone to create music (de-Miguel-Molina & Santamarina-Campos, 2021). 
-(Pastukhov, 2019)
-It's predicted that the global market for synthesizers is estimated to grow by 2.7%, from 612 million USD to 756 USD, by the end of 2030 (Global Industry Analysts, Inc., 2024). Furthermore, there has been an increase in the number of 
+The global music production (Pastukhov, 2019)
+Furthermore, it's predicted that the global market for synthesizers is estimated to grow by 2.7%, from 612 million USD to 756 USD, by the end of 2030 (Global Industry Analysts, Inc., 2024). 
+
 
 
 
