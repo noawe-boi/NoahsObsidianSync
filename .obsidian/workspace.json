@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfaaf443cb624577",
+        "id": "2f25556202d9e8a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e37d16137fecb6dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Wheel FA2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c5e34d1976489e7",
+            "id": "cc2109ef5832ff1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fad9cae85d5b3388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Year 11 Fa2 Objectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26cd8bf90b7fbddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entrepreneur documentary (the new hustle).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,13 +48,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "development",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
+            }
+          },
+          {
+            "id": "ae095e00f2d876bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -99,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -110,18 +82,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff2af5483776c9d9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ca6dd9e625427e30",
+            "id": "b3ffe682e8f5f782",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -138,7 +99,7 @@
             }
           },
           {
-            "id": "792f57cfc7b03fc7",
+            "id": "ba8d7c5ab42dcae4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -150,7 +111,28 @@
             }
           },
           {
-            "id": "4983d28ef4fb017a",
+            "id": "ff2af5483776c9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "785ae84c2804b639",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Business Year 11 FA2.md"
+              }
+            }
+          },
+          {
+            "id": "5d1c41294afb977e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,32 +144,35 @@
             }
           },
           {
-            "id": "88fc3c084371e78f",
+            "id": "ffb8d3b618b625b0",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "file-properties",
               "state": {
                 "file": "Business Year 11 FA2.md"
               }
             }
           },
           {
-            "id": "99213a04b4a3f295",
+            "id": "5222ebf41e3b20fa",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,42 +181,40 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-tts:Text to Speech": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c5e34d1976489e7",
+  "active": "cc2109ef5832ff1c",
   "lastOpenFiles": [
     "Business Year 11 FA2.md",
-    "Business Year 11 Fa2 Objectives.md",
-    "Entrepreneur documentary (the new hustle).md",
-    "Business Wheel FA2.md",
-    "Untitled 16.md",
-    "untitled 18.md",
-    "Untitled 15.md",
-    "Physics 7.4 Magnetic forces on a moving charge.md",
-    "Excalidraw/rhr diagram 4.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "Excalidraw/RIght hand rule 2 example 2.md",
     "Excalidraw/Magnetic Forces on charges diagram.md",
+    "Excalidraw/rhr diagram 4.md",
     "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
+    "Physics 7.4 Magnetic forces on a moving charge.md",
+    "untitled 18.md",
+    "Untitled 16.md",
     "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
-    "Untitled 14.md",
-    "Physics 7.2 Defining Magnetic Field Strength.md",
-    "Excalidraw/Physics 7.2C Attempt.md",
+    "Untitled 15.md",
     "conflict-files-obsidian-git.md",
+    "Business Year 11 Fa2 Objectives.md",
+    "Untitled 14.md",
+    "Excalidraw/phyiscs 7.2b.md",
+    "Physics 7.2 Defining Magnetic Field Strength.md",
+    "English Narrative Writing Exercise 12-5-2024.md",
+    "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
+    "Excalidraw/Physics 7.2C Attempt.md",
+    "English Grade 11 FA2 draft.md",
+    "English Assessment Video Link.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
-    "Pasted image 20240513122332.png",
-    "Excalidraw/phyiscs 7.2b.md",
-    "Excalidraw/Physics Examples 7.2B.md",
-    "Excalidraw/Magnetic Field DIagram symbols.md",
-    "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
+    "Physics 7.1 What is a magnetic field.md",
     "Excalidraw/Drawing 2024-05-13 12.24.31.excalidraw.md",
     "Excalidraw/Direction of magnettic field excalidraw.md",
-    "English Narrative Writing Exercise 12-5-2024.md",
-    "English Grade 11 FA2 draft.md",
+    "Excalidraw/Physics Examples 7.2B.md",
+    "Pasted image 20240513122332.png",
+    "Excalidraw/Magnetic Field DIagram symbols.md",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
