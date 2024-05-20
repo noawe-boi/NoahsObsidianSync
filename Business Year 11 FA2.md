@@ -18,7 +18,7 @@ The global music production equipment market size is predicted to grow by 4.95%,
 Furthermore, it's predicted that the global market for synthesizers is estimated to grow by 2.7%, an increase of 265.44 million USD, from 2023 to the end of 2030 (Global Industry Analysts, Inc., 2024). 
 
 
-### 
+### Business situation
 
 
 ## Analysis
