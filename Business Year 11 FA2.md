@@ -45,7 +45,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 #### Technological
 - Ai Music production becoming increasingly viable. May lead to decline in interest of niche.
 [In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
-
+- Many d
 
 
 
@@ -53,6 +53,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 - Price: Competitor teenage engineering charges thousands for similar products. Current Kickstarter price for HiChord is only $374 AUD.
 [Teenage Engineering Raises Prices on OP-1, Cancels | Reverb News](https://reverb.com/it/news/teenage-engineering-raises-prices-on-op-1-cancels-orders-on-new-modular-models)
 [HiChord - Pocket Chord Synthesizer by Pocket Audio — Kickstarter](https://www.kickstarter.com/projects/hichord/hichord-pocket-chord-synthesizer) 
+
 
 
 
@@ -112,3 +113,5 @@ Seeley, R. (2021, December 22). _2022 Supply Chain Risks for Electronics Manufac
 _In tune with ethics: Responsible artificial intelligence and the music industry_. (n.d.). Oecd.ai. https://oecd.ai/en/wonk/ethics-music-industry
 
 _Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages_. (n.d.). Www.linkedin.com. Retrieved May 21, 2024, from https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse
+
+ICT and Analytics Research Insights. (2023, December 11). _Portable Music Player Market 2023 Fastest Growing Industry in Consumer Goods Market by 2030_. Www.linkedin.com. https://www.linkedin.com/pulse/portable-music-player-market-2023-fastest-1avpf
