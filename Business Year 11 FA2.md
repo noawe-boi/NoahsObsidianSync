@@ -75,8 +75,9 @@ Price: Many consumers may not be able to justify the high price point for a prod
 Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
 
 
+
 #### Threats
-Competitors like teenage engineering
+Competitors: Teenage engineering" (TA) make similar products 
 
 
 ## Conclusion
