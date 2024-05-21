@@ -60,7 +60,8 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 remember to actually analyze and interpret it instead of just doing a brain dead list
 
 #### Strengths 
-Novelty: 
+Low barrier of entry: Allows people without knowledge in music theory to create music. 
+Novelty: A new peoduct 
 ## Conclusion
 
 
