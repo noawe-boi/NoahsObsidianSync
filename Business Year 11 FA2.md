@@ -91,7 +91,7 @@ Integration potential future products or ecosystems: allowing future or existing
 Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality that provide similar functionality and more premium features. 
 
 
-The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that 
+The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that is drawn to products because of their 
 
 
 integrate AI into its products 
