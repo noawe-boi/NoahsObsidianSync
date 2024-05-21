@@ -67,7 +67,7 @@ Novelty: There are very few other products with the same feature set that are as
 
 
 #### Weaknesses
-Simplicity: Due to the low complexity of the device, mor eadvanced users may be unsatisfied with the limitations this causes
+Simplicity: Due to the low complexity of the device, mor advanced users may be unsatisfied with the limitations this causes. 
 
 
 #### Opportunities
