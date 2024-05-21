@@ -72,9 +72,10 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 remember to actually analyze and interpret it instead of just doing a brain dead list
 
 #### Strengths 
-Low barrier of entry: Allows people without knowledge in music theory to create music. 
-Rich Feature set: hardware supports up to 10 Oscillators and comes with a variety of effects. This is leagues ahead of competitors considering its size. 
+Low barrier of entry
+Rich Feature set:
 Portability: 
+Novelty
 
 
 #### Weaknesses
@@ -96,7 +97,6 @@ Competitors: 'Teenage engineering' (TA) makes similar products that are consider
 The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that is drawn to products because of their novelty, not necessarily their practicality nor feature set.  While the price of the HiChord is far from inexpensive, it positions it competitively against other premium product which can cost thousands. This lower price point could attract hobbyists and home studio owners and expand the consumer base for the HiChord. Compliance the EU regulations such as RoHS is essential if the HiChord is to enter the region and international trade policies may disrupt the import or export of HiChord's, or the components needed to create them. While compliance with RoHS and similar regulations is objective and straightforward, Trade restrictions and laws are unpredictable and thus must continue to be monitored and considered a risk. 
 
 The low barrier of entry and portablility are the main features of the HiChord and set it apart from its competitors and allows users with little to no knowledge in music theory to create unique sounds. Its novelty and ease of use make it likley to appeal to a broad audiance outside of the niche of just professional or home studio producers. Its possibility for use both at home and outside adds value and distinguishes it from MIDI keyboards with similar features. Furthermore it allows it to be used in group settings and could make it somewhat of a social device or status symbol. 
-Novelty: There are very few other products with the same feature set that are as user friendly as the pocket operator. It is simple enough that a baby could use i
 
 
 
