@@ -45,7 +45,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 #### Technological
 - Ai Music production becoming increasingly viable. May lead to decline in interest of niche.
 [In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
-- Many d
+- Many desktop computers can already replicate or emulate the features of the HiChord without the need of additional hardware. Do 
 
 
 
