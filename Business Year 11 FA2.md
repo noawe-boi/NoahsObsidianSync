@@ -22,7 +22,10 @@ Furthermore, it's predicted that the global market for synthesizers is estimated
 PA is currently in the seed stage and faces many of the typical challenges that businesses in the seed stage face. While PA has secured over $242,000 AUD in funding through its Kickstarter, this is not a guarantee of short nor long term growth and currently not a guarantee that the final version of their product will launch.
 PA list 2 risks and challenges they may face specifically on their Kickstarter. These challenges are supply chain issues and knock-off/clone devices. The supply chain for a device like the HiChord is very complex due to the variety, quantity and specifications of its  electronic components. The majority, if not all, of its electronic components could be susceptible to shortage or price increase in the coming years (Seeley, 2021).
 The second risk listed, clone devices, is also significant. Clone devices are usually worse quality than the originals but are designed to be similar or indistinguishable in appearance to the original product. These devices not only shift sales away from the original manufacturer, but can damage the reputation of their product or brand due to the often low quality of these fakes. 
+
+# FINSIH THIS PART 
 ## Analysis
+
 ### PEST
 
 
