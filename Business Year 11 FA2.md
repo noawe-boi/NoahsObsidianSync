@@ -53,7 +53,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 
 #### Political
-- RoHS: RoHS, or Restriction of Hazardous Substances in Electrical and Electronic Equipment, is a set of regulations that must be followed by all electronics manufacturers in the EU in order for their product to be legally sold 
+- RoHS: RoHS, or Restriction of Hazardous Substances in Electrical and Electronic Equipment, is a set of regulations that must be followed by all electronics manufacturers in the EU in order for their product to be legally sold in certain region. HiChord must comply with
 
 
 
