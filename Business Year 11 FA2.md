@@ -33,17 +33,15 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 #### Socio cultural 
 - Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.
-[Portable Music Player Market 2023 Fastest Growing Industry in Consumer Goods Market by 2030 (linkedin.com)](https://www.linkedin.com/pulse/portable-music-player-market-2023-fastest-1avpf) 
-[Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages (linkedin.com)](https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse) 
-C
+
 
 
 - Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.
-https://www.technavio.com/report/music-synthesizers-market-industry-analysis
+
 
 #### Technological
 - Ai Music production becoming increasingly viable. May lead to decline in interest of niche.
-[In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
+
 - Many desktop computers can already replicate or emulate the features of the HiChord without the need of additional hardware. Do 
 
 
@@ -107,7 +105,7 @@ The HiChord's appeal is in it tactile nature and unique interface and was create
 
 integrate AI into its products to assist instead of completely taking over the music production process. 
 ## Conclusion
-
+The HiChord by PA could make a significant impact on both professional, hobbyist and 
 
 # References 
 Global Industry Analysts, Inc. (2024). _Music Synthesizers - Global Strategic Business Report_.  [Music Synthesizers - Global Strategic Business Report (researchandmarkets.com)](https://www.researchandmarkets.com/reports/5140448/music-synthesizers-global-strategic-business)
