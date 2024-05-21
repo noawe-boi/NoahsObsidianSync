@@ -36,7 +36,7 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 - Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.
 [Portable Music Player Market 2023 Fastest Growing Industry in Consumer Goods Market by 2030 (linkedin.com)](https://www.linkedin.com/pulse/portable-music-player-market-2023-fastest-1avpf) 
 [Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages (linkedin.com)](https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse) 
-HiChord 
+
 
 
 - Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.
