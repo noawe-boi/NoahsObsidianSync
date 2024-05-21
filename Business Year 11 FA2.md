@@ -41,8 +41,9 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 #### Technological
-- Ai Music production becoming increasingly viable. May lead to decline in interest. 
+- Ai Music production becoming increasingly viable. May lead to decline in interest of niche.
 [In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
+
 
 
 
@@ -103,3 +104,5 @@ https ://www.technavio.com, T. (2024, February). _Music Production Equipment Mar
 _Invasion of the Hardware Snatchers: Cloned Electronics Pollute the Market_. (2017, April 24). IEEE Spectrum. https://spectrum.ieee.org/invasion-of-the-hardware-snatchers-cloned-electronics-pollute-the-market
 
 Seeley, R. (2021, December 22). _2022 Supply Chain Risks for Electronics Manufacturers_. Supplyframe. https://intelligence.supplyframe.com/2022-supply-chain-risks-for-electronics-manufacturers/
+
+_In tune with ethics: Responsible artificial intelligence and the music industry_. (n.d.). Oecd.ai. https://oecd.ai/en/wonk/ethics-music-industry
