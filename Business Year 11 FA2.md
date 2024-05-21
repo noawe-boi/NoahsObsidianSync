@@ -24,6 +24,9 @@ PA list 2 risks and challenges they may face specifically on their Kickstarter. 
 The second risk listed, clone devices, is also significant. Clone devices are usually worse quality than the originals but are designed to be similar or indistinguishable in appearance to the original product. These devices not only shift sales away from the original manufacturer, but can damage the reputation of their product or brand due to the often low quality of these fakes. 
 
 # FINSIH THIS PART 
+
+### Innovation/Entrapeneuship. 
+
 ## Analysis
 
 ### PEST
@@ -73,10 +76,10 @@ Price: Many consumers may not be able to justify the high price point for a prod
 
 #### Opportunities
 Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
-Integration potential future products or ecosystems: allowing future or existing products from PA or other brands to work in conjunction with the HiChord
+Integration potential future products or ecosystems: allowing future or existing products from PA or other brands to work in conjunction with the HiChord. 
 
 #### Threats
-Competitors: 'Teenage engineering' (TA) makes similar products that are considered 
+Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality 
 
 
 ## Conclusion
