@@ -59,9 +59,8 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 remember to actually analyze and interpret it instead of just doing a brain dead list
 
-| Strengths<br><br><br><br><br><br>     | Weaknesses |
-| ------------------------------------- | ---------- |
-| Opportunities<br><br><br><br><br><br> | Threats    |
+#### Strengths 
+Novelty: 
 ## Conclusion
 
 
