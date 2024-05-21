@@ -4,6 +4,7 @@ tags:
 ---
 
 # HiChord
+#### A business analysis and report by Noah Alexiou
 
 
 
