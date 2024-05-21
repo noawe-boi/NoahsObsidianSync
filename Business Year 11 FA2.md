@@ -67,7 +67,7 @@ Novelty: There are very few other products with the same feature set that are as
 
 
 #### Weaknesses
-
+SImplicity
 
 
 #### Opportunities
