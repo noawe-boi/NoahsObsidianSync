@@ -64,7 +64,7 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 ### SWOT
 
-
+| S
 #### Strengths 
 Low barrier of entry
 Rich Feature set
@@ -105,7 +105,7 @@ The HiChord's appeal is in it tactile nature and unique interface and was create
 
 integrate AI into its products to assist instead of completely taking over the music production process. 
 ## Conclusion
-The HiChord by PA could make a significant impact on both professional, hobbyist and 
+The HiChord by PA could make a significant impact on both professional, hobbyist and even beginner music production equipment markets and is 
 
 # References 
 Global Industry Analysts, Inc. (2024). _Music Synthesizers - Global Strategic Business Report_.  [Music Synthesizers - Global Strategic Business Report (researchandmarkets.com)](https://www.researchandmarkets.com/reports/5140448/music-synthesizers-global-strategic-business)
