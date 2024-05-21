@@ -61,7 +61,7 @@ remember to actually analyze and interpret it instead of just doing a brain dead
 
 #### Strengths 
 Low barrier of entry: Allows people without knowledge in music theory to create music. 
-Novelty: A new peoduct 
+Novelty: There are very few other products with the same feature set that are as user friendly as the pocket operator. It is simple enough that a baby could use it
 ## Conclusion
 
 
