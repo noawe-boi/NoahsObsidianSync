@@ -91,13 +91,14 @@ Integration potential future products or ecosystems: allowing future or existing
 Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality that provide similar functionality and more premium features. 
 
 
+
 ### Analysis and synthesis
 
-The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that is drawn to products because of their novelty, not necessarily their practicality nor feature set.  While the price of the HiChord is far from inexpensive, it positions it competitively against other premium product which can cost throusands. This lower price point could attract hobbyists and home studio owners and expand the consumer base for the HiChord. Compliance the EU regulations such as RoHS is essential if the HiChord is to enter the region and international trade policies may disrupt the supply of HiChords, or the co
+The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that is drawn to products because of their novelty, not necessarily their practicality nor feature set.  While the price of the HiChord is far from inexpensive, it positions it competitively against other premium product which can cost throusands. This lower price point could attract hobbyists and home studio owners and expand the consumer base for the HiChord. Compliance the EU regulations such as RoHS is essential if the HiChord is to enter the region and international trade policies may disrupt the supply of HiChord's, or the components needed to create them
 
 
 
-
+Stop clones by bui
 By putting emphasis on the advantages of hardware synthesizers and the unique tactile experience of operating the Hi chord 
 
 integrate AI into its products to assist instead of completely taking over the music production process. 
