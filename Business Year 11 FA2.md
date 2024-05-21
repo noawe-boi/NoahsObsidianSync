@@ -77,7 +77,7 @@ Niche Market: Success within its Niche would come with strong support both in at
 
 
 #### Threats
-Competitors: Teenage engineering" (TA) make similar products 
+Competitors: 'Teenage engineering' (TA) makes similar products that 
 
 
 ## Conclusion
