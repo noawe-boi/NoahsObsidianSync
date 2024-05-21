@@ -41,7 +41,7 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 #### Technological
-- Ai Music production becoming increasingly viable. 
+- Ai Music production becoming increasingly viable. May lead to decline in interest. 
 [In tune with ethics: Responsible artificial intelligence and the music industry - OECD.AI](https://oecd.ai/en/wonk/ethics-music-industry)
 
 
