@@ -30,6 +30,9 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 ### PEST
 
+| Political:     | Ethical       |
+| -------------- | ------------- |
+| Socio-Cultural | Technological |
 
 #### Socio cultural 
 - Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.
@@ -64,9 +67,9 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 ### SWOT
 
-| Strengths:<br>Low barrier of entry<br>Rich Feature set<br>Portability<br>Novelty                      | Weaknesses<br>Simplicity<br>Price |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------- |
-| Opportunities<br>Niche Market<br>Collaborations with other brands<br>Integration with future products | Threats<br>Competitors<br>Clones  |
+| Strengths:<br>Low barrier of entry<br>Rich Feature set<br>Portability<br>Novelty                       | Weaknesses:<br>Simplicity<br>Price |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------- |
+| Opportunities:<br>Niche Market<br>Collaborations with other brands<br>Integration with future products | Threats:<br>Competitors<br>Clones  |
 
 
 
