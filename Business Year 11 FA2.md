@@ -10,7 +10,7 @@ The HiChord, by Pocket Audio (PA) is positioned to enter the market of music pro
 
 ## Introduction
 
-The HiChord pocket synthesizer by PA has the potential to make a massive impact on the music production and home studio equipment market. It has many desirable features such as portability, user friendliness, and a variety of audio processing tools for users to experiment with, all of which aim to attract a broad audience. As PA accelerates through the seed stage with help from its Kickstarter, it is bound to face some of its inherent challngse and oppurtunities. This report analyzes these in order to determine its feasability in the market and its likleygood of succeeding. 
+The HiChord pocket synthesizer by PA has the potential to make a massive impact on the music production and home studio equipment market. It has many desirable features such as portability, user friendliness, and a variety of audio processing tools for users to experiment with, all of which aim to attract a broad audience. As PA accelerates through the seed stage with help from its Kickstarter, it is bound to face some of its inherent challenges and opportunities.
 
 # Analysis of Business Environment
 
@@ -50,8 +50,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 #### Economic 
 - Price: Competitor teenage engineering charges thousands for similar products. Current Kickstarter price for HiChord is only $374 AUD.
-[Teenage Engineering Raises Prices on OP-1, Cancels | Reverb News](https://reverb.com/it/news/teenage-engineering-raises-prices-on-op-1-cancels-orders-on-new-modular-models)
-[HiChord - Pocket Chord Synthesizer by Pocket Audio — Kickstarter](https://www.kickstarter.com/projects/hichord/hichord-pocket-chord-synthesizer) 
+
 
 
 
