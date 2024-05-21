@@ -53,7 +53,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 
 #### Political
-
+- RoHS: RoHS, or restriction of hazardous substances in electrical and electronic equipment
 
 
 
