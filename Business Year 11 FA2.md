@@ -19,7 +19,7 @@ Furthermore, it's predicted that the global market for synthesizers is estimated
 
 
 ### Business situation
-PA is currently in the seed stage and faces many of the typical challenges that businesses in the seed stage face. While 
+PA is currently in the seed stage and faces many of the typical challenges that businesses in the seed stage face. While PA has secured over $242,000 AUD in funding through its kickstarter
 
 
 
