@@ -4,7 +4,7 @@ tags:
 ---
 # Introduction
 ## Executive Summary
-
+The HiChord, by Pocket Audio (PA) is positioned to enter the market of music production equipment, targeting the br 
 
 
 ## Contents
