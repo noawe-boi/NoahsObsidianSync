@@ -71,21 +71,24 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 #### Strengths 
 Low barrier of entry
-Rich Feature set:
-Portability: 
+Rich Feature set
+Portability
 Novelty
 
 
 #### Weaknesses
 Simplicity
-Price:
+Price
 
 
 #### Opportunities
 Niche Market
+Collaborations with other brands
+Integration with future products
 
 #### Threats
-Competitors: '
+Competitors
+Clones
 
 
 ### Analysis and Synthesis
