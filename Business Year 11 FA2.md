@@ -10,7 +10,7 @@ The HiChord, by Pocket Audio (PA) is positioned to enter the market of music pro
 
 ## Introduction
 
-The HiChord pocket synthesizer by PA has the potential to make a massive impact on the music production and home studio equipment market. It has many desirable freatures such as portablility, user friendlyness, and a variety of audio processing tools for users to experiment with, all of th
+The HiChord pocket synthesizer by PA has the potential to make a massive impact on the music production and home studio equipment market. It has many desirable features such as portability, user friendliness, and a variety of audio processing tools for users to experiment with, all of which aim to attract a broad audience. As PA accelerates through the seed stage with 
 
 # Analysis of Business Environment
 
