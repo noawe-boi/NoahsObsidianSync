@@ -105,7 +105,7 @@ Competitors such as TA, known for their similar music production hardware, prese
 
 
 #### Reccomendations
-The HiChord's appeal is in it tactile nature and unique interface and was created to turn the software that came before it into a tactile experience rather than a purley sonic one. Whiel an 
+The HiChord's appeal is in it tactile nature and unique interface and was created to turn the software that came before it into a tactile experience rather than a purley sonic one. Whiel a program that consolidated the freatures of the HiChord into simple presses on a keyboard could easily be made, a large majority of its fanbase, and customerbase, are more interested in its all in one package and novelty rather than its freature set 
 Stop clones by building brand loyalty
 
 By putting emphasis on the advantages of hardware synthesizers and the unique tactile experience of operating the Hi chord 
