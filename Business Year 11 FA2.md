@@ -103,7 +103,7 @@ The low barrier of entry and portability are the main features of the HiChord an
 Competitors such as TA, known for their similar music production hardware, presents itself as a possible threat. Another threat, as mentioned earlier, is clone devices, which could damage the market share and reputation of PA
 
 
-
+Reccomendations to remedy the threats and weaknesses
 Stop clones by building brand loyalty
 
 By putting emphasis on the advantages of hardware synthesizers and the unique tactile experience of operating the Hi chord 
