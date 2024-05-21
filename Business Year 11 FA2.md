@@ -71,7 +71,7 @@ Novelty: There are very few other products with the same feature set that are as
 
 
 #### Oppurtunities
-Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention 
+Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
 ## Conclusion
 
 
