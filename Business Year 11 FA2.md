@@ -91,7 +91,7 @@ Integration potential future products or ecosystems: allowing future or existing
 Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality that provide similar functionality and more premium features. 
 
 
-
+The music industry is rapidly evolving along 
 ## Conclusion
 
 
