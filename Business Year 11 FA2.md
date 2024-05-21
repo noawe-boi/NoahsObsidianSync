@@ -104,11 +104,9 @@ The low barrier of entry and portability are the main features of the HiChord an
 Competitors such as TA, known for their similar music production hardware, presents itself as a possible threat. Another threat, as mentioned earlier, is clone devices, which could damage the market share and reputation of PA
 
 
-#### Reccomendations
-The HiChord's appeal is in it tactile nature and unique interface and was created to turn the software that came before it into a tactile experience rather than a purley sonic one. Whiel a program that consolidated the freatures of the HiChord into simple presses on a keyboard could easily be made, a large majority of its fanbase, and customerbase, are more interested in its all in one package and novelty rather than its freature set. This also goes for considering the impact of clone devices. Clone devices could easily be made as HiChord is made from mostly off the shelf parts. However, if PA can secure enough brand recognitiion and loyalty, or provde better value than clone devices, it can mitigate the damage that they do to it't brand reputation and market share. 
-Stop clones by building brand loyalty
+#### Recommendations
+The HiChord's appeal is in it tactile nature and unique interface and was created to turn the software that came before it into a tactile experience rather than a purely sonic one. While a program that consolidated the features of the HiChord into simple presses on a keyboard could easily be made, a large majority of its fanbase, and customer base, are more interested in its all in one package and novelty rather than its feature set. This also goes for considering the impact of clone devices. Clone devices could easily be made as HiChord is made from mostly off the shelf parts. However, if PA can secure enough brand recognition and loyalty, or provide better value than clone devices, it can mitigate the damage that they do to it's brand reputation and market share. 
 
-By putting emphasis on the advantages of hardware synthesizers and the unique tactile experience of operating the Hi chord 
 
 integrate AI into its products to assist instead of completely taking over the music production process. 
 ## Conclusion
