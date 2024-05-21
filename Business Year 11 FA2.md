@@ -67,9 +67,7 @@ https://www.technavio.com/report/music-synthesizers-market-industry-analysis
 
 
 ### SWOT
-(in a table)
 
-remember to actually analyze and interpret it instead of just doing a brain dead list
 
 #### Strengths 
 Low barrier of entry
@@ -79,20 +77,18 @@ Novelty
 
 
 #### Weaknesses
-Simplicity: Due to the low complexity of the device, mor advanced users may be unsatisfied with the limitations this causes. 
-Price: Many consumers may not be able to justify the high price point for a product 'that could just be an app'.
+Simplicity
+Price:
 
 
 #### Opportunities
-Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
-Integration potential future products or ecosystems: allowing future or existing products from PA or other brands to work in conjunction with the HiChord. 
+Niche Market
 
 #### Threats
-Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality that provide similar functionality and more premium features. 
+Competitors: '
 
 
-
-### Analysis and synthesis
+### Analysis and Synthesis
 
 The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that is drawn to products because of their novelty, not necessarily their practicality nor feature set.  While the price of the HiChord is far from inexpensive, it positions it competitively against other premium product which can cost thousands. This lower price point could attract hobbyists and home studio owners and expand the consumer base for the HiChord. 
 Compliance the EU regulations such as RoHS is essential if the HiChord is to enter the region and international trade policies may disrupt the import or export of HiChord's, or the components needed to create them. While compliance with RoHS and similar regulations is objective and straightforward, Trade restrictions and laws are unpredictable and thus must continue to be monitored and considered a risk. 
