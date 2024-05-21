@@ -96,7 +96,7 @@ Competitors: 'Teenage engineering' (TA) makes similar products that are consider
 
 The music industry is known for its early adoption when it comes to new and novel technology, especially in the hobbyist and home studio space and the growth projections indicate a healthy market environment that has the ability to support new competitors. While AI could be a threat to the wider music industry, PA occupies a niche within it that is drawn to products because of their novelty, not necessarily their practicality nor feature set.  While the price of the HiChord is far from inexpensive, it positions it competitively against other premium product which can cost thousands. This lower price point could attract hobbyists and home studio owners and expand the consumer base for the HiChord. Compliance the EU regulations such as RoHS is essential if the HiChord is to enter the region and international trade policies may disrupt the import or export of HiChord's, or the components needed to create them. While compliance with RoHS and similar regulations is objective and straightforward, Trade restrictions and laws are unpredictable and thus must continue to be monitored and considered a risk. 
 
-The low barrier of entry and portablility are the main features of the HiChord and set it apart from its competitors. HiChorUsers with little to no knowledge in music theory can create 
+The low barrier of entry and portablility are the main features of the HiChord and set it apart from its competitors and allows users with little to no knowledge in music theory to create unique sounds. Its novelty and ease of use make it likley to appeal to a broad audiance outside of the niche of just 
 
 
 
