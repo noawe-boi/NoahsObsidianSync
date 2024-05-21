@@ -73,8 +73,7 @@ Price: Many consumers may not be able to justify the high price point for a prod
 
 #### Opportunities
 Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
-Integration potential future products or ecosystems: allowing future products to collaborate 
-
+Integration potential future products or ecosystems: allowing future or existing products from PA or other brands to work in conjunction with the HiChord
 
 #### Threats
 Competitors: 'Teenage engineering' (TA) makes similar products that are considered 
