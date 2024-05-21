@@ -4,9 +4,11 @@ tags:
 ---
 
 # HiChord
-#### A business analysis and report by Noah Alexiou
+#### A business enviroment analysis and report by Noah Alexiou
 
 
+
+<div style="page-break-after: always;"></div>
 
 
 
