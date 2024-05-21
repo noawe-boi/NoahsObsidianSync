@@ -30,9 +30,9 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 ### PEST
 
-| Political:     | Ethical       |
-| -------------- | ------------- |
-| Socio-Cultural | Technological |
+| Political:                                                                                                                                                                                                                                                                                                                          | Economic:<br>- Price: Competitor teenage engineering charges thousands for similar products. Current Kickstarter price for HiChord is only $374 AUD.<br>                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Socio-Cultural:<br>- Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.<br>- Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.<br> | Technological:<br>- Ai Music production becoming increasingly viable. May lead to decline in interest of niche.<br><br>- Many desktop computers can already replicate or emulate the features of the HiChord without the need of additional hardware. Do |
 
 #### Socio cultural 
 - Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.
