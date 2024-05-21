@@ -62,9 +62,16 @@ remember to actually analyze and interpret it instead of just doing a brain dead
 #### Strengths 
 Low barrier of entry: Allows people without knowledge in music theory to create music. 
 Rich Feature set: hardware supports up to 10 Oscillators and comes with a variety of effects. This is leagues ahead of competitors considering its size. 
-Portability: Its possibility for use both at home and outside adds value and distingushes it from MIDI keyboards with similar features. Furthermore it allows it to be used in group scan make it somewhat of a social device or status symbol. 
+Portability: Its possibility for use both at home and outside adds value and distinguishes it from MIDI keyboards with similar features. Furthermore it allows it to be used in group settings and could make it somewhat of a social device or status symbol. 
 Novelty: There are very few other products with the same feature set that are as user friendly as the pocket operator. It is simple enough that a baby could use it
 
+
+#### Weaknesses
+Niche Market: While the 
+
+
+#### Oppurtunities
+Success within its Niche could lead 
 ## Conclusion
 
 
