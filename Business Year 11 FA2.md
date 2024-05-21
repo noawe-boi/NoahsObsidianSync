@@ -68,8 +68,8 @@ Novelty: There are very few other products with the same feature set that are as
 
 #### Weaknesses
 Simplicity: Due to the low complexity of the device, mor advanced users may be unsatisfied with the limitations this causes. 
-Price: Many 
-
+Price: Many consumers may not be able to justify the high price point for a product 'that could just be an app'.
+Build
 
 #### Opportunities
 Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
