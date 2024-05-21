@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bussiness Assessment.md",
+                "file": "untitled 19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bussiness Assessment.md",
+                "file": "Business Year 11 FA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bussiness Assessment.md",
+                "file": "Business Year 11 FA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bussiness Assessment.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bussiness Assessment.md"
+                "file": "Business Year 11 FA2.md"
               }
             }
           },
@@ -197,10 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55a933bd914e8e15",
+  "active": "cc2109ef5832ff1c",
   "lastOpenFiles": [
+    "untitled 19.md",
     "Business Year 11 FA2.md",
-    "Bussiness Assessment.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "Excalidraw/RIght hand rule 2 example 2.md",
     "Excalidraw/Magnetic Forces on charges diagram.md",
