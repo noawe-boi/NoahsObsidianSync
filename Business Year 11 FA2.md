@@ -64,27 +64,10 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 ### SWOT
 
-| S
-#### Strengths 
-Low barrier of entry
-Rich Feature set
-Portability
-Novelty
+| Strengths:<br>Low barrier of entry<br>Rich Feature set<br>Portability<br>Novelty                      | Weaknesses<br>Simplicity<br>Price |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------- |
+| Opportunities<br>Niche Market<br>Collaborations with other brands<br>Integration with future products | Threats<br>Competitors<br>Clones  |
 
-
-#### Weaknesses
-Simplicity
-Price
-
-
-#### Opportunities
-Niche Market
-Collaborations with other brands
-Integration with future products
-
-#### Threats
-Competitors
-Clones
 
 
 ### Analysis and Synthesis
