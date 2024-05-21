@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55a933bd914e8e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bussiness Assessment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Year 11 FA2.md",
+                "file": "Bussiness Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Year 11 FA2.md",
+                "file": "Bussiness Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Year 11 FA2.md"
+                "file": "Bussiness Assessment.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Business Year 11 FA2.md"
+                "file": "Bussiness Assessment.md"
               }
             }
           },
@@ -184,9 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc2109ef5832ff1c",
+  "active": "55a933bd914e8e15",
   "lastOpenFiles": [
     "Business Year 11 FA2.md",
+    "Bussiness Assessment.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "Excalidraw/RIght hand rule 2 example 2.md",
     "Excalidraw/Magnetic Forces on charges diagram.md",
@@ -214,7 +228,6 @@
     "Excalidraw/Direction of magnettic field excalidraw.md",
     "Excalidraw/Physics Examples 7.2B.md",
     "Pasted image 20240513122332.png",
-    "Excalidraw/Magnetic Field DIagram symbols.md",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
