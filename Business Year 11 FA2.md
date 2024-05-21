@@ -98,7 +98,7 @@ The music industry is known for its early adoption when it comes to new and nove
 
 By putting emphasis on the advantages of hardware synthesizers and the unique tactile experience of operating the Hi chord 
 
-integrate AI into its products 
+integrate AI into its products to assist instead of completely taking over the production process. 
 ## Conclusion
 
 
