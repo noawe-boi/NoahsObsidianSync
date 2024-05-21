@@ -105,7 +105,7 @@ Competitors such as TA, known for their similar music production hardware, prese
 
 
 #### Reccomendations
-While 
+The HiChord's appeal is in it tactile nature and unique operating experience and its aim 
 Stop clones by building brand loyalty
 
 By putting emphasis on the advantages of hardware synthesizers and the unique tactile experience of operating the Hi chord 
