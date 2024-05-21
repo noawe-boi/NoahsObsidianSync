@@ -3,5 +3,7 @@
   "theme": "obsidian",
   "accentColor": "#003985",
   "baseFontSizeAction": true,
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "interfaceFontFamily": "Times",
+  "textFontFamily": "Times New Roman"
 }
