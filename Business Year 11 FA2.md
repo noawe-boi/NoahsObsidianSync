@@ -22,7 +22,7 @@ Furthermore, it's predicted that the global market for synthesizers is estimated
 Pocket Audio is currently in the seed stage and faces many of the typical challenges that businesses in the seed stage face. 
 
 
- Pocket Audio themselves list 2 risks and challenges specifically on their Kickstarter. These challenges are supply chain issues and knock-off/clone devices. THe supply chain for a device like the HiChord is very complex due to its electronic components. While Pocket Audio does not provide a parts list, its safe to assume that at least one of its compoents could be succeptable to shortage.
+ Pocket Audio themselves list 2 risks and challenges specifically on their Kickstarter. These challenges are supply chain issues and knock-off/clone devices. THe supply chain for a device like the HiChord is very complex due to its electronic components. The majority, if not all of its electronic component
 ## Analysis
 ### PEST
 
@@ -71,3 +71,5 @@ de-Miguel-Molina, M., Santamarina-Campos, V. (2021). Conclusions: Music as an Ec
 Pastukhov, D. (2019, January 7). _Soundcharts | Market Intelligence for the Music Industry_. Soundcharts.com. https://soundcharts.com/blog/mechanics-of-the-music-industry
 
 https ://www.technavio.com, T. (2024, February). _Music Production Equipment Market Size, Share, Growth, Trends, Industry Analysis Forecast 2026_. Www.technavio.com. https://www.technavio.com/report/music-production-equipment-market-industry-analysis
+
+Seeley, R. (2021). _2022 Supply Chain Risks for Electronics Manufacturers_. [online] Supplyframe. Available at: https://intelligence.supplyframe.com/2022-supply-chain-risks-for-electronics-manufacturers/ [Accessed 21 May 2024].
