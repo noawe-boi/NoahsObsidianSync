@@ -98,7 +98,9 @@ The music industry is known for its early adoption when it comes to new and nove
 
 The low barrier of entry and portability are the main features of the HiChord and set it apart from its competitors and allows users with little to no knowledge in music theory to create unique sounds. Its novelty and ease of use make it likely to appeal to a broad audience outside of the niche of just professional or home studio producers. Its possibility for use both at home and outside adds value and distinguishes it from MIDI keyboards with similar features. Furthermore it allows it to be used in group settings and could make it somewhat of a social device or status symbol.
 
- The devices low complexity and simple nature may not appeal to users seeking more sophisticated production tools. Additionally, many of its features already exist as plugins or software for popular Digital Audio Workstation (DAW) software. 
+ The devices low complexity and simple nature may not appeal to users seeking more sophisticated production tools. Additionally, many of its features already exist as plugins or software for popular Digital Audio Workstation (DAW) software.
+
+Competitors such as TA, known for their similar music production 
 
 
 
