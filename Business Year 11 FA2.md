@@ -67,11 +67,11 @@ Novelty: There are very few other products with the same feature set that are as
 
 
 #### Weaknesses
-Niche Market: While the 
+
 
 
 #### Oppurtunities
-Success within its Niche could lead 
+Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention 
 ## Conclusion
 
 
