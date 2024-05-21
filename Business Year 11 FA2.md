@@ -4,7 +4,7 @@ tags:
 ---
 # Introduction
 ## Executive Summary
-The HiChord, by Pocket Audio (PA) is positioned to enter the market of music production equipment, targeting the broad niche of user accessible, novel and portable synthesizers, later this year. The music production industry is projected to see large growth in the coming years, with the synthesizer segment specifically being one of its fastest growing. Research of the current market and competitors revealed that HiChord's unique features allow it to appear novel and appeal to a broader audience that strictly music producers. While over $242,000 AUD of funding has been generated through their Kickstarter already, this report aims to analyze the likleyhood of the HiChord succeeding in the market and provide sugge
+The HiChord, by Pocket Audio (PA) is positioned to enter the market of music production equipment, targeting the broad niche of user accessible, novel and portable synthesizers, later this year. The music production industry is projected to see large growth in the coming years, with the synthesizer segment specifically being one of its fastest growing. Research of the current market and competitors revealed that HiChord's unique features allow it to appear novel and appeal to a broader audience that strictly music producers. While over $242,000 AUD of funding has been generated through their Kickstarter already, this report aims to analyze the likelihood of the HiChord succeeding in the market and provide suggestions and potential solutions to issues to the product and PA itself. Research found that the HiChord's technological advancement over its compet
 ## Contents
 
 # Body
