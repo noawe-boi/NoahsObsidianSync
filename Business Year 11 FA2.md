@@ -20,6 +20,9 @@ Furthermore, it's predicted that the global market for synthesizers is estimated
 
 ### Business situation
 Pocket Audio is currently in the seed stage and faces many of the typical challenges that businesses in the seed stage face. 
+
+
+ Pocket Audio themselves list 2 risks and challanges specifically on their kickstarter, 
 ## Analysis
 ### PEST
 
