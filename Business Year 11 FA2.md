@@ -62,7 +62,7 @@ remember to actually analyze and interpret it instead of just doing a brain dead
 #### Strengths 
 Low barrier of entry: Allows people without knowledge in music theory to create music. 
 Rich Feature set: hardware supports up to 10 Oscillators and comes with a variety of effects. This is leagues ahead of competitors considering its size. 
-Portability: Its portable nature 
+Portability: Its portable nature can make it somewhat of a social device
 Novelty: There are very few other products with the same feature set that are as user friendly as the pocket operator. It is simple enough that a baby could use it
 
 ## Conclusion
