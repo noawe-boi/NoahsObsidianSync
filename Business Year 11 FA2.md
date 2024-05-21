@@ -73,7 +73,6 @@ Price: Many consumers may not be able to justify the high price point for a prod
 
 #### Opportunities
 Niche Market: Success within its Niche would come with strong support both in attention and financially in the form of sales. Enough attention and it will break out of its niche. 
-Integration of collaboration with other notable brands:
 Integration potential future products or ecosystems: 
 
 
