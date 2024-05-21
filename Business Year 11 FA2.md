@@ -2,6 +2,13 @@
 tags:
   - business
 ---
+
+# HiChord
+
+
+
+
+
 # Introduction
 ## Executive Summary
 The HiChord, by Pocket Audio (PA) is positioned to enter the market of music production equipment, targeting the broad niche of user accessible, novel and portable synthesizers, later this year. The music production industry is projected to see large growth in the coming years, with the synthesizer segment specifically being one of its fastest growing. Research of the current market and competitors revealed that HiChord's unique features allow it to appear novel and appeal to a broader audience that strictly music producers. While over $242,000 AUD of funding has been generated through their Kickstarter already, this report aims to analyze the likelihood of the HiChord succeeding in the market and provide suggestions and potential solutions to issues to the product and PA itself. Research found that the HiChord's technological advancement over its competition as well as its low price and broad appeal allow it to pose a significant threat to its competitors, such as Teenage Engineering (TE). Recommendations include a focus on leveraging HiChord's unique features and its novelty as a tactile experience rather than just a digital synthesizer  to create a strong brand image and loyal customers as well as potential AI integrations in their upcoming products. 
@@ -30,40 +37,9 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 
 ### PEST
 
-| Political:                                                                                                                                                                                                                                                                                                                          | Economic:<br>- Price: Competitor teenage engineering charges thousands for similar products. Current Kickstarter price for HiChord is only $374 AUD.<br>                                                                                                 |
+| Political:<br>- RoHS: RoHS, or Restriction of Hazardous Substances in Electrical and Electronic Equipment<br>- Trade Policies: International trade policies may limit, tariff or even prevent the import and export of electronic devices, including synthesizers like the HiChord<br>                                              | Economic:<br>- Price: Competitor teenage engineering charges thousands for similar products. Current Kickstarter price for HiChord is only $374 AUD.<br>                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Socio-Cultural:<br>- Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.<br>- Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.<br> | Technological:<br>- Ai Music production becoming increasingly viable. May lead to decline in interest of niche.<br><br>- Many desktop computers can already replicate or emulate the features of the HiChord without the need of additional hardware. Do |
-
-#### Socio cultural 
-- Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.
-
-
-
-- Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.
-
-
-#### Technological
-- Ai Music production becoming increasingly viable. May lead to decline in interest of niche.
-
-- Many desktop computers can already replicate or emulate the features of the HiChord without the need of additional hardware. Do 
-
-
-
-#### Economic 
-- Price: Competitor teenage engineering charges thousands for similar products. Current Kickstarter price for HiChord is only $374 AUD.
-
-
-
-
-
-
-#### Political
-- RoHS: RoHS, or Restriction of Hazardous Substances in Electrical and Electronic Equipment, is a set of regulations that must be followed by all electronics manufacturers in the EU in order for their product to be legally sold in certain region. HiChord must not include any hazardous substances, such as leaded solder, throughout its manufacturing in order to remain compliant.
-- Trade Policies: International trade policies may limit, tariff or even prevent the import and export of electronic devices, including synthesizers like the HiChord
-
-
-
-
 
 ### SWOT
 
