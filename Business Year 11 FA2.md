@@ -79,7 +79,8 @@ Niche Market: Success within its Niche would come with strong support both in at
 Integration potential future products or ecosystems: allowing future or existing products from PA or other brands to work in conjunction with the HiChord. 
 
 #### Threats
-Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality that provide similar functionality 
+Competitors: 'Teenage engineering' (TA) makes similar products that are considered to be of higher quality that provide similar functionality and more premium features. 
+
 
 
 ## Conclusion
