@@ -22,7 +22,7 @@ Furthermore, it's predicted that the global market for synthesizers is estimated
 Pocket Audio is currently in the seed stage and faces many of the typical challenges that businesses in the seed stage face. 
 
 
- Pocket Audio themselves list 2 risks and challenges specifically on their Kickstarter. These challenges are supply chain issues and knock-off/clone devices. THe supply chain for a device like the HiChord is very complex due to its electronic components. While Pocket Audio does not provide a list of parts, 
+ Pocket Audio themselves list 2 risks and challenges specifically on their Kickstarter. These challenges are supply chain issues and knock-off/clone devices. THe supply chain for a device like the HiChord is very complex due to its electronic components. While Pocket Audio does not provide a parts list, its safe to assume that at least one of its compoents could be succeptable to shortage.
 ## Analysis
 ### PEST
 
