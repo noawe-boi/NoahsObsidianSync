@@ -36,7 +36,7 @@ The second risk listed, clone devices, is also significant. Clone devices are us
 - Interest in accessible, user-friendly and portable music production and playback devices predicted to be the fastest growing consumer industries by 2030.
 [Portable Music Player Market 2023 Fastest Growing Industry in Consumer Goods Market by 2030 (linkedin.com)](https://www.linkedin.com/pulse/portable-music-player-market-2023-fastest-1avpf) 
 [Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages (linkedin.com)](https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse) 
-
+C
 
 
 - Market Growth: The global music synthesizer market is estimated to grow by USD 265.44 million between 2023 and 2027, with a CAGR of 7.85%1.
@@ -110,3 +110,5 @@ _Invasion of the Hardware Snatchers: Cloned Electronics Pollute the Market_. (20
 Seeley, R. (2021, December 22). _2022 Supply Chain Risks for Electronics Manufacturers_. Supplyframe. https://intelligence.supplyframe.com/2022-supply-chain-risks-for-electronics-manufacturers/
 
 _In tune with ethics: Responsible artificial intelligence and the music industry_. (n.d.). Oecd.ai. https://oecd.ai/en/wonk/ethics-music-industry
+
+_Music Production Equipment Market Growth Research Report [2023-2030] | 125 Pages_. (n.d.). Www.linkedin.com. Retrieved May 21, 2024, from https://www.linkedin.com/pulse/music-production-equipment-market-growth-research-2gjse
