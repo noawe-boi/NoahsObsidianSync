@@ -4,7 +4,7 @@ tags:
 ---
 
 # HiChord
-#### A business enviroment analysis and report by Noah Alexiou
+#### A business environment analysis and report by Noah Alexiou
 
 
 
