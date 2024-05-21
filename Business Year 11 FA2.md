@@ -19,7 +19,7 @@ Furthermore, it's predicted that the global market for synthesizers is estimated
 
 
 ### Business situation
-Pocket Audio is currently in the seed stage and is fac
+Pocket Audio is currently in the seed stage and faces many of the typical challenges accociated with it
 ## Analysis
 ### PEST
 
