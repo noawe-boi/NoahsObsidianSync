@@ -100,7 +100,7 @@ The low barrier of entry and portability are the main features of the HiChord an
 
  The devices low complexity and simple nature may not appeal to users seeking more sophisticated production tools. Additionally, many of its features already exist as plugins or software for popular Digital Audio Workstation (DAW) software.
 
-Competitors such as TA, known for their similar music production 
+Competitors such as TA, known for their similar music production hardware, presents itself as a possible threat. Another threat, as mentioned earlier, 
 
 
 
