@@ -10,3 +10,4 @@ The direction of an electric current produces a magnetic field that opposes the 
 Current can also be generated in a single wire. A wire between the poles of a horseshoe magnet will concentrate positive charge on one side, and negative charge on the other. 
 ![[Drawing 2024-05-23 09.32.58.excalidraw]]
 
+### Fleming's right hand rule
