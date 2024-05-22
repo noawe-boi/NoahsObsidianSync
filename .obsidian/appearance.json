@@ -1,9 +1,9 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Tokyo Night",
   "theme": "obsidian",
   "accentColor": "#003985",
   "baseFontSizeAction": true,
   "baseFontSize": 17,
-  "interfaceFontFamily": "Times",
-  "textFontFamily": "Times New Roman"
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Consolas"
 }
