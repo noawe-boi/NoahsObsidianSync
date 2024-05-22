@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "4b9308a41ec77fc2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0d0724fafdefc935",
             "type": "leaf",
             "state": {
@@ -39,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md",
+                "file": "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md",
+                "file": "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md"
+                "file": "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md"
               }
             }
           },
@@ -169,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md"
+                "file": "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md"
               }
             }
           },
@@ -204,10 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82470ac5a99976b8",
+  "active": "4b9308a41ec77fc2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-23 09.41.55.excalidraw.md",
     "Physics 8.3 Lenz's Law.md",
+    "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-23 09.41.55.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 09.32.58.excalidraw.md",
     "Business Year 11 FA2.md",
     "untitled 19.md",
@@ -233,7 +245,6 @@
     "English Assessment Video Link.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
-    "Physics 7.1 What is a magnetic field.md",
     "Pasted image 20240513122332.png",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
