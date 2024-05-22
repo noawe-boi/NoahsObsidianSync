@@ -13,4 +13,5 @@ Current can also be generated in a single wire. A wire between the poles of a ho
 ### Fleming's right hand rule
 Used to find the direction of an induced current
 ![[Drawing 2024-05-23 09.41.55.excalidraw]]
+Pointer: Magnetic Field Direction (B)
 
