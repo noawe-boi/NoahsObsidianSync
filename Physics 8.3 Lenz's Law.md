@@ -16,3 +16,6 @@ Used to find the direction of an induced current
 Pointer: Magnetic Field Direction (B)
 Rude finger: Force or current (I)
 Thumb: Direction of fore (V)
+
+
+### Check Your Learning 8.3
