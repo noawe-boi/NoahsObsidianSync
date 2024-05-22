@@ -11,3 +11,4 @@ Current can also be generated in a single wire. A wire between the poles of a ho
 ![[Drawing 2024-05-23 09.32.58.excalidraw]]
 
 ### Fleming's right hand rule
+Used to find the direction of an induced current
