@@ -4,3 +4,6 @@ tags:
 ---
 ## Definition
 The direction of an electric current produces a magnetic field that opposes the field or direction of the current that created it. 
+
+
+### Direction of current in a straight conductor. 
