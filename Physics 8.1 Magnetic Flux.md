@@ -31,4 +31,4 @@ Where:
 ![[Drawing 2024-05-23 21.54.05.excalidraw]]
 
 
-
+### Flux Inside a solenoud
