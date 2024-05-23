@@ -37,4 +37,4 @@ The formula for magnitude of field strength in the solenoids center is
 $\beta = \micro _0 n I$
 Where:
 - $\beta is the magnetic field strength
-- 
+- $\micro _0$ is the permeability constant 
