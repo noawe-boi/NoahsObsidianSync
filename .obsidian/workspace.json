@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "561cc7b8e2a73fdd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ecd269ec5671c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.6 interference and superposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics 8.1 Magnetic Flux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +189,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6492ac3087d9fb37",
+  "active": "561cc7b8e2a73fdd",
   "lastOpenFiles": [
     "Physics 8.1 Magnetic Flux.md",
+    "9.6 interference and superposition.md",
+    "Interference.md",
     "Entrepreneur documentary (the new hustle).md",
     "Business Year 11 Fa2 Objectives.md",
     "Business Year 11 FA2.md",
@@ -201,8 +220,6 @@
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
     "Excalidraw/phyiscs 7.2b.md",
-    "Excalidraw/Physics Examples 7.2B.md",
-    "Excalidraw/Magnetic Field DIagram symbols.md",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
