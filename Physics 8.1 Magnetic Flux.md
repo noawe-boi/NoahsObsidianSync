@@ -19,4 +19,5 @@ If one arrow was used to represent a single line of flix with a strenth of 1Wb, 
 ![[Physics Stupidest questione ver]]
 
 ### Flux at an angle field.
-When the plane of the loop is not at a $90\degree$ angle to the field, fewer flux lins will thread the saem dized loop. 
+When the plane of the loop is not at a $90\degree$ angle to the field, fewer flux lines will thread the same sized loop.
+A formula is needed to take this angle into account. $\phi = \beta \alpha \cos (\theta)$ 
