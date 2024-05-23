@@ -93,6 +93,14 @@
                 "sortOrder": "byCreatedTime"
               }
             }
+          },
+          {
+            "id": "42b7f7975c130eb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
