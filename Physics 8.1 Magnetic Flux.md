@@ -42,3 +42,4 @@ Where:
 - I is the Current in Amps 
 
 #### Worked Example 8.1C.
+![[Drawing 2024-05-23 22.10.08.excalidraw]]
