@@ -19,7 +19,7 @@ If one arrow was used to represent a single line of flix with a strenth of 1Wb, 
 ![[Physics Stupidest questione ver]]
 
 ### Flux at an angle field.
-
+When the 
 
 
 
