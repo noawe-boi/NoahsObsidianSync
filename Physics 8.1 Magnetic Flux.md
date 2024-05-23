@@ -32,4 +32,4 @@ Where:
 
 
 ### Flux Inside a solenoid.
-A solenoid carrying current will have a menetic field running from one eld to the other, so there 
+A solenoid carrying current will have a magnetic field inside it running from one end to the other. To find the amount of flux, first know the field strength and cccross-sectional area
