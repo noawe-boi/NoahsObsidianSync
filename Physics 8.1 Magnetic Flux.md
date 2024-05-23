@@ -36,4 +36,5 @@ A solenoid carrying current will have a magnetic field inside it running from on
 The formula for magnitude of field strength in the solenoids center is 
 $\beta = \micro _0 n I$
 Where:
+- $\beta is the magnetic field strength
 - 
