@@ -34,4 +34,6 @@ Where:
 ### Flux Inside a solenoid.
 A solenoid carrying current will have a magnetic field inside it running from one end to the other. To find the amount of flux, first know the field strength and cross-sectional area ($\beta$ and A respectively). 
 The formula for magnitude of field strength in the solenoids center is 
-$\beta 
+$\beta = \micro _0 n I$
+Where:
+- 
