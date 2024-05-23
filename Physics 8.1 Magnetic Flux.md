@@ -2,7 +2,7 @@
 tags:
   - physics
 ---
-### Definition(s)
+### Definition(s).
 Magnetic Flux: A measurement of the total field that passes through a given area. Measured in 'weber' 
 Magnetic Flux Density: the strength of a magnetic field of number of field lines per unit area (B)
 
@@ -15,5 +15,11 @@ If one arrow was used to represent a single line of flix with a strenth of 1Wb, 
 
 
 #### Worked example 8.1A
+
+![[Physics Stupidest questione ver]]
+
+### Flux at an angle field.
+
+
 
 
