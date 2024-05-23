@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
+                "file": "Physics 8.1 Magnetic Flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
+                "file": "Physics 8.1 Magnetic Flux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md"
+                "file": "Physics 8.1 Magnetic Flux.md"
               }
             }
           },
@@ -204,11 +203,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "31466cfd7fdb8dcf",
+  "active": "6492ac3087d9fb37",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
     "Pasted Image 20240523221028_200.png",
     "Physics 8.1 Magnetic Flux.md",
-    "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md",
     "Pasted Image 20240523215435_813.png",
     "Excalidraw/Physics Stupidest questione ver.md",
@@ -241,7 +240,6 @@
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
     "Pasted image 20240509092857.png",
-    "Pasted image 20240509092851.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
