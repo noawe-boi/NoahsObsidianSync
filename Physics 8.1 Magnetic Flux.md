@@ -24,4 +24,8 @@ A formula is needed to take this angle into account. $\phi = \beta A \cos (\thet
 Where:
 - $\beta$ is the magnetic field strength
 - $A$ is the area of the loop
-- 
+- $\theta$ is the angle that the plane of the loop makes with the field
+
+
+#### Worked Example 8.1B.
+
