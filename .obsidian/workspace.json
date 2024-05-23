@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38e238f291727d03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-23 21.00.00.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
+                "file": "Excalidraw/Drawing 2024-05-23 21.00.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
+                "file": "Excalidraw/Drawing 2024-05-23 21.00.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md"
+                "file": "Excalidraw/Drawing 2024-05-23 21.00.00.excalidraw.md"
               }
             }
           },
@@ -155,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +184,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6492ac3087d9fb37",
+  "active": "38e238f291727d03",
   "lastOpenFiles": [
+    "Physics 8.1 Magnetic Flux.md",
+    "Excalidraw/Drawing 2024-05-23 21.00.00.excalidraw.md",
     "9.3 Reflection.md",
     "9.6 interference and superposition.md",
-    "Physics 8.1 Magnetic Flux.md",
     "Interference.md",
     "Entrepreneur documentary (the new hustle).md",
     "Business Year 11 Fa2 Objectives.md",
@@ -199,7 +212,6 @@
     "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
     "Untitled 14.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
-    "Excalidraw/Physics 7.2C Attempt.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
