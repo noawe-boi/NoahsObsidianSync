@@ -13,3 +13,6 @@ Magnetic field strength = flux density, i.e.
 $1T = 1Wb$/$m^2$
 
 
+If one arrow was used to represent a single line of flix with a strenth of 1Wb, then
+
+
