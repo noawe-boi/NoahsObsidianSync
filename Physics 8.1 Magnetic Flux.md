@@ -28,4 +28,7 @@ Where:
 
 
 #### Worked Example 8.1B.
+![[Drawing 2024-05-23 21.54.05.excalidraw]]
+
+
 
