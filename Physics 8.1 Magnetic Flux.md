@@ -10,4 +10,4 @@ Magnetic Flux Density: the strength of a magnetic field of number of field lines
 
 ### Flux through a loop perpendicular to the field. 
 Magnetic field strength = flux density
-$1T = 1Wb/m^2$
+$1T = 1Wb$/$m^2$
