@@ -31,4 +31,5 @@ Where:
 ![[Drawing 2024-05-23 21.54.05.excalidraw]]
 
 
-### Flux Inside a solenoud
+### Flux Inside a solenoid.
+A solenoid carrying current will have a menetic field running from one eld to the other, so there 
