@@ -4,58 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "f34c0a7dcf7e9be8",
+        "id": "114df2ade641fa24",
         "type": "tabs",
         "children": [
           {
-            "id": "6492ac3087d9fb37",
+            "id": "82470ac5a99976b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
+                "file": "Physics 8.3 Lenz's Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "1c5b91445dd3f382",
-=======
-            "id": "31466cfd7fdb8dcf",
->>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "The red sun robs their beauty.md",
                 "mode": "source",
                 "source": false
-=======
-                "file": "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "13725bba3390e23c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "38e238f291727d03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Stupidest questione ver.md"
->>>>>>> origin/main
               }
             }
           }
@@ -89,17 +61,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "development",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "42b7f7975c130eb0",
+            "id": "ae095e00f2d876bf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -122,7 +95,6 @@
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
             "id": "b3ffe682e8f5f782",
             "type": "leaf",
             "state": {
@@ -152,8 +124,6 @@
             }
           },
           {
-=======
->>>>>>> origin/main
             "id": "ff2af5483776c9d9",
             "type": "leaf",
             "state": {
@@ -165,40 +135,17 @@
             }
           },
           {
-            "id": "ca6dd9e625427e30",
+            "id": "785ae84c2804b639",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "The red sun robs their beauty.md"
-=======
-                "file": "Physics 8.1 Magnetic Flux.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
->>>>>>> origin/main
               }
             }
           },
           {
-            "id": "792f57cfc7b03fc7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4983d28ef4fb017a",
+            "id": "5d1c41294afb977e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -210,37 +157,36 @@
             }
           },
           {
-            "id": "88fc3c084371e78f",
+            "id": "ffb8d3b618b625b0",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "file-properties",
               "state": {
-<<<<<<< HEAD
                 "file": "The red sun robs their beauty.md"
-=======
-                "file": "Physics 8.1 Magnetic Flux.md"
->>>>>>> origin/main
               }
             }
           },
           {
-            "id": "99213a04b4a3f295",
+            "id": "5222ebf41e3b20fa",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-tts:Text to Speech": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,69 +194,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-tts:Text to Speech": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
   "active": "1c5b91445dd3f382",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Physics 8.1 Magnetic Flux.md",
+    "Pasted Image 20240523221028_200.png",
+    "Pasted Image 20240523215435_813.png",
+    "Pasted Image 20240523210031_876.png",
+    "Excalidraw/Physics Stupidest questione ver.md",
+    "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md",
     "Physics 8.3 Lenz's Law.md",
     "The red sun robs their beauty.md",
     "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 09.41.55.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 09.32.58.excalidraw.md",
-=======
-  "active": "6492ac3087d9fb37",
-  "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md",
-    "Physics 8.1 Magnetic Flux.md",
-    "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
-    "Pasted Image 20240523221028_200.png",
-    "Pasted Image 20240523215435_813.png",
-    "Excalidraw/Physics Stupidest questione ver.md",
-    "Pasted Image 20240523210031_876.png",
-    "9.3 Reflection.md",
-    "9.6 interference and superposition.md",
-    "Interference.md",
-    "Entrepreneur documentary (the new hustle).md",
-    "Business Year 11 Fa2 Objectives.md",
->>>>>>> origin/main
     "Business Year 11 FA2.md",
-    "conflict-files-obsidian-git.md",
     "untitled 19.md",
-    "Physics 8.3 Lenz's Law.md",
-    "Excalidraw/Drawing 2024-05-23 09.41.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-23 09.32.58.excalidraw.md",
-    "Business Wheel FA2.md",
-    "Untitled 16.md",
-    "untitled 18.md",
-    "Untitled 15.md",
-    "Physics 7.4 Magnetic forces on a moving charge.md",
-    "Excalidraw/rhr diagram 4.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "Excalidraw/RIght hand rule 2 example 2.md",
     "Excalidraw/Magnetic Forces on charges diagram.md",
+    "Excalidraw/rhr diagram 4.md",
     "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
-<<<<<<< HEAD
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "untitled 18.md",
     "Untitled 16.md",
     "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
     "Untitled 15.md",
-    "conflict-files-obsidian-git.md",
     "Business Year 11 Fa2 Objectives.md",
     "Untitled 14.md",
     "Excalidraw/phyiscs 7.2b.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
-    "English Narrative Writing Exercise 12-5-2024.md",
-    "Excalidraw/Drawing 2024-05-13 12.36.37.excalidraw.md",
-    "Excalidraw/Physics 7.2C Attempt.md",
-    "English Grade 11 FA2 draft.md",
-=======
->>>>>>> origin/main
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
