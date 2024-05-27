@@ -12,4 +12,6 @@ Mutual Induction: the production of an EMF (electromagnetic force) in a circuit 
 
 *Recall that*
 EMF = $\frac{n \delta \epsilon}{\delta t}$
+*Transformers modelled by*
+$\frac{V_p}{V_s} = \frac{N_p$
 
