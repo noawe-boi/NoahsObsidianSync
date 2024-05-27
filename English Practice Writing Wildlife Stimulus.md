@@ -4,4 +4,4 @@ Red hot ashes and embers filled the air and the breath of hundreds of little lun
 Those who could fly, flew, even though there was nowhere for them to go. 
 Those who couldn't fly, ran, even though it was already too late. 
 Those who couldn't run were already dead.
-While the brave who came to fight the blaze did their best to save tehe
+While the brave who came to fight the blaze did their best to save the day, the place in which 
