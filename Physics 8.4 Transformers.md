@@ -23,4 +23,10 @@ $n_s$ is the number of turns in the secondary coil
 
 ### Step up transformer
 Increases the voltage 
-$\therefore n_p$
+$n_p < n_s$
+$\therefore V_p < V_s$
+More turns in secondary than in primary since
+### Step Down Transformer
+$n_p > n_s$
+$Therefore 
+
