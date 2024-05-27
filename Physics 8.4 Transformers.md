@@ -20,3 +20,7 @@ $n_p$ is the number of turns in the primary coil
 $V_s$ is the voltage in the secondary coil
 $n_s$ is the number of turns in the secondary coil 
 
+
+### Step up transformer
+Increases the voltage 
+$\therefore n_p$
