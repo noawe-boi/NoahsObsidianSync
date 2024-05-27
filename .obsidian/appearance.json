@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "accentColor": "#003985",
   "baseFontSizeAction": true,
-  "baseFontSize": 19,
+  "baseFontSize": 24,
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Consolas"
 }

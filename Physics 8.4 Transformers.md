@@ -11,5 +11,5 @@ Mutual Induction: the production of an EMF (electromagnetic force) in a circuit 
 
 
 *Recall that*
-EMF = $\frac{n \delta }
+EMF = $\frac{n \delta \epsilon}{\delta t}$
 
