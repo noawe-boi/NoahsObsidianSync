@@ -18,5 +18,5 @@ Where:
 $V_p$ is the voltage in the primary coil
 $n_p$ is the number of turns in the primary coil
 $V_s$ is the voltage in the secondary coil
-$n_
+$n_s$ is the number of turns in the secondary coil 
 
