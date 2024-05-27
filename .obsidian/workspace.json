@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe35d72624f02e3e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 8.4 Transformers.md",
+                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 8.4 Transformers.md",
+                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 8.4 Transformers.md"
+                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md"
               }
             }
           },
@@ -149,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 8.4 Transformers.md"
+                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md"
               }
             }
           },
@@ -184,9 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2f3db101c14d2f0",
+  "active": "fe35d72624f02e3e",
   "lastOpenFiles": [
+    "Pasted Image 20240527122646_869.png",
     "Physics 8.4 Transformers.md",
+    "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md",
     "English Practice Writing Wildlife Stimulus.md",
     "Business Unit 2 - Topic 1 - Financial objectives.md",
     "Physics 8.3 Lenz's Law.md",
@@ -213,8 +226,6 @@
     "untitled 18.md",
     "Untitled 16.md",
     "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
-    "Untitled 15.md",
-    "Business Year 11 Fa2 Objectives.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
