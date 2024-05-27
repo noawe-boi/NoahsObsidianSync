@@ -25,12 +25,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md"
+                "file": "Excalidraw/Physics 8.4 eamaple.md"
+              }
+            }
+          },
+          {
+            "id": "ba03b5ea076c43bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md"
               }
             }
           },
@@ -160,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md"
               }
             }
           },
@@ -195,11 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe35d72624f02e3e",
+  "active": "ba03b5ea076c43bb",
   "lastOpenFiles": [
-    "Pasted Image 20240527122646_869.png",
+    "Pasted Image 20240527123253_874.png",
+    "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
     "Physics 8.4 Transformers.md",
-    "Excalidraw/Drawing 2024-05-27 12.26.31.excalidraw.md",
+    "Excalidraw/Physics 8.4 eamaple.md",
+    "Pasted Image 20240527122646_869.png",
     "English Practice Writing Wildlife Stimulus.md",
     "Business Unit 2 - Topic 1 - Financial objectives.md",
     "Physics 8.3 Lenz's Law.md",
@@ -225,14 +237,12 @@
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "untitled 18.md",
     "Untitled 16.md",
-    "Excalidraw/Drawing 2024-05-16 09.33.39.excalidraw.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
     "Pasted image 20240509234752.png",
     "Pasted image 20240509094336.png",
     "Pasted image 20240509093312.png",
-    "Pasted image 20240509092857.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",

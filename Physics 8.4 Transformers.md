@@ -32,4 +32,9 @@ $\therefore V_p  > V_s$
 More turns in the primary in the secondary
 
 
+## Examples
+![[Physics 8.4 eamaple]]
+
+
+
 
