@@ -1,0 +1,1 @@
+Red hot ashes and embers filled the air and the breath of hundreds of little lungs and turned their homes to 

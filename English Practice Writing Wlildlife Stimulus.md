@@ -1,1 +1,0 @@
-Red hot ashes and embers filled the air and the breath of 
