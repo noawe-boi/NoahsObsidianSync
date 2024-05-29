@@ -33,14 +33,15 @@
             "id": "ba03b5ea076c43bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md"
+                "file": "surface area.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
+                "file": "Physics 8.4 Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
+                "file": "Physics 8.4 Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md"
+                "file": "Physics 8.4 Transformers.md"
               }
             }
           },
@@ -170,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md"
+                "file": "Physics 8.4 Transformers.md"
               }
             }
           },
@@ -205,11 +206,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba03b5ea076c43bb",
+  "active": "a2f3db101c14d2f0",
   "lastOpenFiles": [
-    "Physics 8.4 Transformers.md",
     "Excalidraw/Physics 8.4 eamaple.md",
+    "surface area.md",
+    "Sophie Fraser.md",
     "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
+    "Physics 8.4 Transformers.md",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
     "English Practice Writing Wildlife Stimulus.md",
@@ -236,7 +239,6 @@
     "Excalidraw/Drawing 2024-05-16 09.48.47.excalidraw.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "untitled 18.md",
-    "Untitled 16.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
