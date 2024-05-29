@@ -5,6 +5,7 @@
 "Electromagnetic Radiation from mobile phones can 
 ignite flammable materials such as petroleum"
 
+This claim is very broad as it does not specify petroleum exclusivley as a substance that 
 
 ### Research Question
 
