@@ -5,7 +5,7 @@ tags:
 **Analysis of "Dreamers" short story**
 
 1. Who are the main character in "Dreamers"? Explain how these characters have been developed, use quotes from the text.
-"Dreamers" has multiple main characters who's intreactions are the 
+"Dreamers" has multiple main characters, whose interactions are the focus of the story.  Jean is an Aboriginal girl who believes she is just as capabale a 
 
 2. Where is "Dreamers" set? Explain the setting, refer to quotes from the text.
 
