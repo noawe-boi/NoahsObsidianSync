@@ -6,7 +6,7 @@ tags:
 
 1. Who are the main character in "Dreamers"? Explain how these characters have been developed, use quotes from the text.
 
-"Dreamers" has multiple main characters, whose interactions are the focus of the story.  Jean is an Aboriginal girl who believes she is just as physically capable as a white man but knows that they have more power in society than she will ever have. She later becomes close with M
+"Dreamers" has multiple main characters, whose interactions are the focus of the story.  Jean is an Aboriginal girl who believes she is just as physically capable as a white man but knows that they have more power in society than she will ever have. She later becomes close with May and Ted through the loss of their baby, Eric. 
 ![[Pasted image 20240603093159.png]]
 
 Ted is the husband of May and the father of their baby, Eric. Ted 
