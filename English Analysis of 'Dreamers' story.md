@@ -11,7 +11,7 @@ tags:
 
 Ted is the husband of May and the father of their baby, Eric. Ted owns a block of land with May which they farm crops and animals. Ted is not mentioned much throughout the story and while crucial due to his influence on other characters, lacks any defining characteristics or moments. 
 
-May is the wife of Ted. At the beginning of the story, 
+May is the wife of Ted. At the beginning of the story, May is pregnant, and t
 
 2. Where is "Dreamers" set? Explain the setting, refer to quotes from the text.
 
