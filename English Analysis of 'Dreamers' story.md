@@ -9,7 +9,7 @@ tags:
 "Dreamers" has multiple main characters, whose interactions are the focus of the story.  Jean is an Aboriginal girl who believes she is just as physically capable as a white man but knows that they have more power in society than she will ever have. She later becomes close with May and Ted through the loss of their baby, Eric. 
 ![[Pasted image 20240603093159.png]]
 
-Ted is the husband of May and the father of their baby, Eric. Ted is not mentioned much throughout the story and while crucial 
+Ted is the husband of May and the father of their baby, Eric. Ted is not mentioned much throughout the story and while crucial due to his influence on other characters, lacks any defining characterisics or moments. 
 
 2. Where is "Dreamers" set? Explain the setting, refer to quotes from the text.
 
