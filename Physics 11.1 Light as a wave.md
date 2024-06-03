@@ -2,3 +2,5 @@
 tags:
   - physics
 ---
+### Waves 
+![[Waves]]
