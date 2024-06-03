@@ -20,6 +20,6 @@ May is the wife of Ted. At the beginning of the story, May is pregnant, and the 
 
 
 4. How does "Dreamers" explore the Australian identity? What positive and negative elements of the Australian identity does the text represent?
-
+z
 
 5. Identify 5 language techniques used in "Dreamers". Include quotes as evidence for each technique.
