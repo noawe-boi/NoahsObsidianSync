@@ -6,6 +6,10 @@ tags:
 ![[Waves]]
 
 
+### Rectilinear Propagation
+=
+
+
 
 
 
