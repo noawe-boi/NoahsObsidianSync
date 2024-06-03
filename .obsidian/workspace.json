@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52fdf62df9ba0796",
+        "id": "60544a88b9dbc2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "a4050fd4307de492",
+            "id": "eff04b07e8a4b49a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -184,8 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4050fd4307de492",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
+    "Excalidraw/Displacement Time Graph.md",
+    "Waves.md",
     "Physics 11.1 Light as a wave.md",
     "English Simile Narrative Exercise.md",
     "English Analysis of 'Dreamers' story.md",
@@ -216,8 +218,6 @@
     "Excalidraw/Drawing 2024-05-23 09.41.55.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 09.32.58.excalidraw.md",
     "Business Year 11 FA2.md",
-    "untitled 19.md",
-    "Excalidraw/Right Hand Rule 2 Physics.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
