@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cded09f9904d150b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Analysis of 'Dreamers' story.md",
+                "file": "English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Analysis of 'Dreamers' story.md",
+                "file": "English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Analysis of 'Dreamers' story.md"
+                "file": "English.md"
               }
             }
           },
@@ -174,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English Analysis of 'Dreamers' story.md"
+                "file": "English.md"
               }
             }
           },
@@ -209,11 +221,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9bfc5688ebed1e9",
+  "active": "cded09f9904d150b",
   "lastOpenFiles": [
+    "English Analysis of 'Dreamers' story.md",
+    "English.md",
     "Pasted image 20240603093159.png",
     "English Secret Place Writing activity.md",
-    "English Analysis of 'Dreamers' story.md",
     "Physics Grade 11 IA3.md",
     "surface area.md",
     "Excalidraw/Physics 8.4 eamaple.md",
@@ -246,7 +259,6 @@
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
     "Pasted image 20240509234752.png",
-    "Pasted image 20240509094336.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
