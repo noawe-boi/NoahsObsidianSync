@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "ef382db321288afc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-05 00.09.15.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "96702fd2ee380f51",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "right": {
     "id": "dd155841571c0792",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics FA2 Grade 11.md",
+                "file": "Excalidraw/Drawing 2024-06-05 00.09.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics FA2 Grade 11.md",
+                "file": "Excalidraw/Drawing 2024-06-05 00.09.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics FA2 Grade 11.md"
+                "file": "Excalidraw/Drawing 2024-06-05 00.09.15.excalidraw.md"
               }
             }
           },
@@ -172,12 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fec064238f2ca00",
+  "active": "ef382db321288afc",
   "lastOpenFiles": [
+    "Physics FA2 Grade 11.md",
+    "Excalidraw/Drawing 2024-06-05 00.09.15.excalidraw.md",
     "English Grade 11 FA2.md",
     "conflict-files-obsidian-git.md",
     "Untitled 13.md",
-    "Physics FA2 Grade 11.md",
     "Physics FA2 Grade 11 Structure.md",
     "Pasted image 20240508221902.png",
     "Pasted image 20240508221900.png",
@@ -209,7 +222,6 @@
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Excalidraw/Drawing 2024-03-21 00.57.11.excalidraw.md",
     "English Grade 11 FA2 Planning.md",
-    "Central Park 5 Unused.md",
     "Calculated max distance .pdf",
     "Pasted image 20240319105633.png",
     "Recording 20240215094430.webm",
