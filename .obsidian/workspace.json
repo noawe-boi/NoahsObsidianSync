@@ -38,27 +38,9 @@
                 "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md"
               }
             }
-          },
-          {
-            "id": "1c412110535bd2aa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "96702fd2ee380f51",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
+                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
+                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md"
+                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md"
               }
             }
           },
@@ -204,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c412110535bd2aa",
+  "active": "f9eba4ad9a30853f",
   "lastOpenFiles": [
-    "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
     "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
+    "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Physics FA2 Grade 11.md",
