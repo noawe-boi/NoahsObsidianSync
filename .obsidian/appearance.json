@@ -1,12 +1,5 @@
 {
-<<<<<<< HEAD
-  "baseFontSize": 18,
-  "accentColor": ""
-=======
-  "baseFontSize": 16,
   "accentColor": "",
   "cssTheme": "Tokyo Night",
-  "theme": "obsidian",
-  "baseFontSizeAction": true
->>>>>>> origin/main
+  "theme": "obsidian"
 }
