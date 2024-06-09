@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "5d17cd017939ee4d",
+    "id": "fe2e40e469ebae2b",
     "type": "split",
     "children": [
       {
-        "id": "489d32173f66199c",
+        "id": "60544a88b9dbc2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "7fec064238f2ca00",
+            "id": "eff04b07e8a4b49a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Physics Grade 11 IA3.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> origin/main
                 "mode": "source",
                 "source": false
               }
@@ -52,40 +48,40 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef3871bd083f3b1c",
+    "id": "ed28afdd345adca0",
     "type": "split",
     "children": [
       {
-        "id": "4c2f65c737413eb1",
+        "id": "4937e9a7f10e4178",
         "type": "tabs",
         "children": [
           {
-            "id": "2264189bb5a6ee31",
+            "id": "72e8fdd2224cdc75",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "ab0a54a256963037",
+            "id": "65843fbb0ab63956",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "74d76175f3e84e99",
+            "id": "ae095e00f2d876bf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,28 +93,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "dd155841571c0792",
+    "id": "25cdaef8f5a3a274",
     "type": "split",
     "children": [
       {
-        "id": "c35f81b7acd4112e",
+        "id": "a022dfc02882dd37",
         "type": "tabs",
         "children": [
           {
-            "id": "64214f5ff752dd6c",
+            "id": "b3ffe682e8f5f782",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,23 +122,19 @@
             }
           },
           {
-            "id": "2aa81076f24a01dc",
+            "id": "ba8d7c5ab42dcae4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
-=======
-                "file": "conflict-files-obsidian-git.md",
->>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ede2864c80031232",
+            "id": "ff2af5483776c9d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,21 +145,17 @@
             }
           },
           {
-            "id": "7b20de747d8a562f",
+            "id": "785ae84c2804b639",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md"
-=======
-                "file": "conflict-files-obsidian-git.md"
->>>>>>> origin/main
               }
             }
           },
           {
-            "id": "a9882a70a7b5bf8c",
+            "id": "5d1c41294afb977e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,7 +165,6 @@
                 "searchQuery": ""
               }
             }
-<<<<<<< HEAD
           },
           {
             "id": "ffb8d3b618b625b0",
@@ -200,34 +183,37 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-=======
->>>>>>> origin/main
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-tts:Text to Speech": false,
-      "audio-recorder:Start/stop recording": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
   "active": "b20195e39f518e75",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
+    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
+    "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
+    "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
     "Pasted Image 20240610094522_589.png",
     "English IA3.md",
     "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
@@ -252,61 +238,19 @@
     "Business Unit 2 - Topic 1 - Financial objectives.md",
     "Physics 8.3 Lenz's Law.md",
     "The red sun robs their beauty.md",
-=======
-  "active": "7fec064238f2ca00",
-  "lastOpenFiles": [
->>>>>>> origin/main
-    "conflict-files-obsidian-git.md",
-    "untitled 19.md",
-    "untitled 18.md",
-    "Untitled 17.md",
-    "Untitled 16.md",
-    "Untitled 15.md",
-    "Untitled 14.md",
-    "The red sun robs their beauty.md",
-    "Sophie Fraser.md",
-    "Physics IA2 Report.md",
-    "Physics Grade 11 IA3.md",
-    "Physics 8.4 Transformers.md",
-    "Physics 8.3 Lenz's Law.md",
     "Physics 8.1 Magnetic Flux.md",
-<<<<<<< HEAD
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
-    "Excalidraw/Physics Stupidest questione ver.md",
-    "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md",
-=======
-    "Physics 7.4 Magnetic forces on a moving charge.md",
-    "Physics 7.2 Defining Magnetic Field Strength.md",
-    "Physics 7.1 What is a magnetic field.md",
-    "Physics 11.1 Light as a wave.md",
-    "Pasted image 20240603093159.png",
->>>>>>> origin/main
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
-    "Pasted image 20240513122332.png",
-    "Pasted image 20240509234752.png",
-    "Pasted image 20240509094336.png",
-    "Pasted image 20240509093312.png",
-    "Pasted image 20240509092857.png",
-    "Pasted image 20240509092851.png",
-    "Pasted image 20240509092818.png",
-    "Excalidraw/rhr diagram 4.md",
-    "Excalidraw/phyiscs 7.2b.md",
-    "Excalidraw/Right Hand Rule 2 Physics.md",
-    "Excalidraw/RIght hand rule 2 example 2.md",
-    "Excalidraw/Physics Stupidest questione ver.md",
-    "Excalidraw/Physics Examples 7.2B.md",
-    "Excalidraw/Physics 8.4 eamaple.md",
-    "Excalidraw/Physics 7.2C Attempt.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
+    "Physics 9.1 Describing a wave.canvas",
+    "Physics",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Physics 9.1 Describing a wave.canvas",
     "Excalidraw"
   ]
 }
