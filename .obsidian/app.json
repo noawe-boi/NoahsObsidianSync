@@ -8,12 +8,13 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 30
+    "downscalePercent": 75
   },
   "spellcheckDictionary": [
     "natured",
     "Kassin",
-    "Kassin"
+    "Kassin",
+    "HiChord"
   ],
   "tabSize": 4,
   "readableLineLength": true,

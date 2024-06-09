@@ -1,5 +1,15 @@
 {
+<<<<<<< HEAD
   "accentColor": "",
   "cssTheme": "Tokyo Night",
   "theme": "obsidian"
+=======
+  "cssTheme": "Ultra Lobster",
+  "theme": "obsidian",
+  "accentColor": "#003985",
+  "baseFontSizeAction": true,
+  "baseFontSize": 24,
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Consolas"
+>>>>>>> origin/main
 }
