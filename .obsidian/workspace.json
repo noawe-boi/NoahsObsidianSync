@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b20195e39f518e75",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA3.md",
+                "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA3.md",
+                "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA3.md"
+                "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md"
               }
             }
           },
@@ -162,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English IA3.md"
+                "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md"
               }
             }
           },
@@ -197,10 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6855d143a06cfdd1",
+  "active": "b20195e39f518e75",
   "lastOpenFiles": [
-    "Physics Grade 11 IA3.md",
+    "Pasted Image 20240610094522_589.png",
     "English IA3.md",
+    "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
+    "Physics Grade 11 IA3.md",
     "Physics IA2 Report.md",
     "Physics 11.1 Light as a wave.md",
     "Excalidraw/Displacement Time Graph.md",
@@ -229,8 +241,6 @@
     "Excalidraw/Physics Stupidest questione ver.md",
     "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-23 09.41.55.excalidraw.md",
     "Pasted image 20240513123624.png",
     "Pasted image 20240513122853.png",
     "Pasted image 20240513122332.png",
