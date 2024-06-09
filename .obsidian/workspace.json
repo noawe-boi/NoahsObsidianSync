@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef382db321288afc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md"
-              }
-            }
-          },
-          {
-            "id": "f9eba4ad9a30853f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
+                "file": "Physics FA2 Grade 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
+                "file": "Physics FA2 Grade 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md"
+                "file": "Physics FA2 Grade 11.md"
               }
             }
           },
@@ -186,10 +165,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9eba4ad9a30853f",
+  "active": "7fec064238f2ca00",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
     "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
+    "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Physics FA2 Grade 11.md",
