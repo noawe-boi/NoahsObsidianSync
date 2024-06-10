@@ -16,4 +16,9 @@ When an image is formed in font of a mirror due to light rays converging to a si
 #### Consider this
 ![[physics consider this mirror]]
 
-$
+$$
+R = 2f
+$$
+where 
+$$R = Radius (Distance to c)$$
+$$f = focal length $$
