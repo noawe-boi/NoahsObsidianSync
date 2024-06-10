@@ -35,26 +35,16 @@
             "id": "b20195e39f518e75",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md"
-              }
-            }
-          },
-          {
-            "id": "0f15464643175ce2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "9.4 Refraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "incident",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "9.4 Refraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "9.4 Refraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "9.4 Refraction.md"
               }
             }
           },
@@ -184,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "9.4 Refraction.md"
               }
             }
           },
@@ -219,9 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f15464643175ce2",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
     "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
+    "Excalidraw/Transverse Reflection DIagram.md",
+    "9.3 Reflection.md",
     "Physics 11.3 Reflection of light.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
@@ -250,8 +241,6 @@
     "English Practice Writing Wildlife Stimulus.md",
     "Business Unit 2 - Topic 1 - Financial objectives.md",
     "Physics 8.3 Lenz's Law.md",
-    "The red sun robs their beauty.md",
-    "Physics 8.1 Magnetic Flux.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
