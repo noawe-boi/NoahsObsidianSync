@@ -5,3 +5,4 @@ tags:
 ![[mr ace mirror diagram]]
 
 
+### Curved mirrors 
