@@ -10,3 +10,4 @@ When an image is formed in font of a mirror due to light rays converging to a si
 
 ### Curved mirrors 
 
+![[Physisc More mirrors]]

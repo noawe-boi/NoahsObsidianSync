@@ -44,12 +44,22 @@
             }
           },
           {
+            "id": "3965d8fb99cf69c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-10 12.27.44.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "af320181376d1155",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
+                "file": "Excalidraw/Physisc More mirrors.md"
               }
             }
           }
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-10 12.27.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-10 12.27.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-10 12.27.44.excalidraw.md"
               }
             }
           },
@@ -184,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-10 12.27.44.excalidraw.md"
               }
             }
           },
@@ -219,10 +229,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af320181376d1155",
+  "active": "3965d8fb99cf69c9",
   "lastOpenFiles": [
     "Physics 11.3 Reflection of light.md",
-    "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-10 12.27.44.excalidraw.md",
+    "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/mr ace mirror diagram.md",
     "English IA3.md",
     "Physics Grade 11 IA3.md",
@@ -249,7 +260,6 @@
     "Physics 8.4 Transformers.md",
     "Untitled 17.md",
     "Sophie Fraser.md",
-    "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
     "Pasted Image 20240523221028_200.png",
