@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af320181376d1155",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
               }
             }
           },
@@ -174,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
               }
             }
           },
@@ -209,12 +219,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac322977eb9c832f",
+  "active": "af320181376d1155",
   "lastOpenFiles": [
+    "Physics 11.3 Reflection of light.md",
+    "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
     "Excalidraw/mr ace mirror diagram.md",
     "English IA3.md",
     "Physics Grade 11 IA3.md",
-    "Physics 11.3 Reflection of light.md",
     "9.4 Refraction.md",
     "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
     "Excalidraw/Transverse Reflection DIagram.md",
@@ -241,7 +252,6 @@
     "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
-    "English Practice Writing Wildlife Stimulus.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
