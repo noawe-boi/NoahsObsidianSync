@@ -21,3 +21,4 @@ $R = 2f$
 Where :
 $R = Radius (Distance to c)$
 $f = focal length$
+
