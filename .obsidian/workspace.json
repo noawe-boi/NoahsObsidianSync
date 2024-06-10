@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
+                "file": "Physics 11.3 Reflection of light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
+                "file": "Physics 11.3 Reflection of light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
+                "file": "Physics 11.3 Reflection of light.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md"
+                "file": "Physics 11.3 Reflection of light.md"
               }
             }
           },
@@ -219,10 +219,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af320181376d1155",
+  "active": "ac322977eb9c832f",
   "lastOpenFiles": [
-    "Physics 11.3 Reflection of light.md",
     "Excalidraw/Drawing 2024-06-10 12.10.20.excalidraw.md",
+    "Physics 11.3 Reflection of light.md",
     "Excalidraw/mr ace mirror diagram.md",
     "English IA3.md",
     "Physics Grade 11 IA3.md",
