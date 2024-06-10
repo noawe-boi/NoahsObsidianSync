@@ -5308,10 +5308,302 @@ I have skinny calves and im mr ace ^CNCOod8s
 			]
 		},
 		{
-			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 2141897726,
+			"type": "line",
+			"version": 249,
+			"versionNonce": 1559023038,
 			"isDeleted": false,
+			"id": "1LxdS_aRIaCIXCJd_mKKj",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 110.85011684948998,
+			"y": -137.35477959293635,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 494.14645703844167,
+			"height": 87.35571406089731,
+			"seed": 2029761726,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					494.14645703844167,
+					87.35571406089731
+				]
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 156,
+			"versionNonce": 522082366,
+			"isDeleted": false,
+			"id": "-ez7eSBjbaJBUYc-fjsDn",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 635.1854295264948,
+			"y": -143.7102276890379,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 40.24717117904968,
+			"height": 19.89998383671589,
+			"seed": 1393065790,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.6707792417760446,
+					-2.235943568401088
+				],
+				[
+					-2.012353623516724,
+					-5.589872047884704
+				],
+				[
+					-6.037076768738819,
+					-14.08650979890913
+				],
+				[
+					-7.37863620074322,
+					-16.99324681781248
+				],
+				[
+					-7.825827661323483,
+					-17.887629738972954
+				],
+				[
+					-8.049430866481698,
+					-18.33482119955319
+				],
+				[
+					-8.273019121903749,
+					-18.55840945497518
+				],
+				[
+					-8.720210582483956,
+					-18.55840945497518
+				],
+				[
+					-11.403359345965315,
+					-19.452792376135655
+				],
+				[
+					-14.980891030607202,
+					-19.89998383671589
+				],
+				[
+					-21.912336244996425,
+					-19.89998383671589
+				],
+				[
+					-25.937059390218465,
+					-19.22920412071366
+				],
+				[
+					-29.738179330282346,
+					-17.664026533814738
+				],
+				[
+					-32.42132809376376,
+					-16.098863896652038
+				],
+				[
+					-33.09210780976596,
+					-15.204480975491567
+				],
+				[
+					-35.32806511266711,
+					-13.192126877748658
+				],
+				[
+					-36.22244803382758,
+					-12.297743956588187
+				],
+				[
+					-37.11683095498805,
+					-10.285374909109027
+				],
+				[
+					-38.23480213157046,
+					-7.378637890205619
+				],
+				[
+					-38.905596797308945,
+					-5.36628379246274
+				],
+				[
+					-39.12918505273099,
+					-4.248312615880275
+				],
+				[
+					-39.35278825788921,
+					-3.5775179501417957
+				],
+				[
+					-39.35278825788921,
+					-3.3539296947198034
+				],
+				[
+					-39.35278825788921,
+					-3.13032648956156
+				],
+				[
+					-39.35278825788921,
+					-2.906738234139567
+				],
+				[
+					-39.35278825788921,
+					-2.683135028981324
+				],
+				[
+					-39.35278825788921,
+					-2.4595467735593313
+				],
+				[
+					-39.35278825788921,
+					-2.235943568401088
+				],
+				[
+					-39.5763765133112,
+					-2.012355312979124
+				],
+				[
+					-39.79997971846947,
+					-1.5651638523988594
+				],
+				[
+					-40.02356797389141,
+					-1.3415606472406445
+				],
+				[
+					-40.24717117904968,
+					-1.117972391818652
+				],
+				[
+					-40.24717117904968,
+					-1.117972391818652
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 123,
+			"versionNonce": 2086969470,
+			"isDeleted": false,
+			"id": "m4d2R2GX2XpQAQLZShT-N",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 599.1865846978253,
+			"y": -202.7394045275791,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.00010033383079427738,
+			"height": 0.00010033383079427738,
+			"seed": 510781310,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.00010033383079427738,
+					0.00010033383079427738
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 124,
+			"versionNonce": 574087358,
+			"isDeleted": false,
+			"id": "2PkJUeHzoXM0plZybE_X8",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 631.8315015212372,
+			"y": -198.26749739664487,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.00010033383079427738,
+			"height": 0.00010033383079427738,
+			"seed": 1090799550,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.00010033383079427738,
+					0.00010033383079427738
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 140,
+			"versionNonce": 1858968482,
+			"isDeleted": true,
 			"id": "68ewoyJr4qMWky26chEWR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5330,7 +5622,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5373,9 +5665,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 804099134,
-			"isDeleted": false,
+			"version": 136,
+			"versionNonce": 1663362942,
+			"isDeleted": true,
 			"id": "1-LYDbWiSjFzAWbSUCqOD",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5394,7 +5686,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5433,9 +5725,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 137,
-			"versionNonce": 669801598,
-			"isDeleted": false,
+			"version": 138,
+			"versionNonce": 2073941858,
+			"isDeleted": true,
 			"id": "gXaalXGTSBbmtolWD9Ifn",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5454,7 +5746,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5501,9 +5793,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 2103975102,
-			"isDeleted": false,
+			"version": 136,
+			"versionNonce": 2002208702,
+			"isDeleted": true,
 			"id": "Vi5yvU1kgQzRMkinHU8q3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5522,7 +5814,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5561,9 +5853,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 134,
-			"versionNonce": 1711396094,
-			"isDeleted": false,
+			"version": 135,
+			"versionNonce": 1114676002,
+			"isDeleted": true,
 			"id": "NrEFf3xWUibYP5_HOgOFg",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5582,7 +5874,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5617,9 +5909,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "line",
-			"version": 225,
-			"versionNonce": 993690942,
-			"isDeleted": false,
+			"version": 226,
+			"versionNonce": 574711266,
+			"isDeleted": true,
 			"id": "QLbdtEo5LCNnEjumxbRIF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5640,7 +5932,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985297978,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5661,9 +5953,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "line",
-			"version": 269,
-			"versionNonce": 2121477502,
-			"isDeleted": false,
+			"version": 270,
+			"versionNonce": 745437374,
+			"isDeleted": true,
 			"id": "8x3hkQxvRASxX1o1k9Ro7",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -5684,7 +5976,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985293963,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5704,54 +5996,10 @@ I have skinny calves and im mr ace ^CNCOod8s
 			]
 		},
 		{
-			"type": "line",
-			"version": 249,
-			"versionNonce": 1559023038,
-			"isDeleted": false,
-			"id": "1LxdS_aRIaCIXCJd_mKKj",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 110.85011684948998,
-			"y": -137.35477959293635,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 494.14645703844167,
-			"height": 87.35571406089731,
-			"seed": 2029761726,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1717985278043,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					494.14645703844167,
-					87.35571406089731
-				]
-			]
-		},
-		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 868771326,
-			"isDeleted": false,
+			"version": 155,
+			"versionNonce": 675744126,
+			"isDeleted": true,
 			"id": "pvKSsHgxDi4GY-rUEXWgR",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -5770,7 +6018,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985298751,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5909,9 +6157,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 336000574,
-			"isDeleted": false,
+			"version": 169,
+			"versionNonce": 547279202,
+			"isDeleted": true,
 			"id": "knKmNnstQb4gXzamTZoQf",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -5930,7 +6178,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985300785,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6125,9 +6373,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 188,
-			"versionNonce": 1183415934,
-			"isDeleted": false,
+			"version": 189,
+			"versionNonce": 1322491902,
+			"isDeleted": true,
 			"id": "FxvicR49EVNb4LJSwu94Y",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -6146,7 +6394,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6425,9 +6673,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1343291070,
-			"isDeleted": false,
+			"version": 160,
+			"versionNonce": 1907680994,
+			"isDeleted": true,
 			"id": "rYT-wfJuvmFSfPp1SVMOh",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -6446,7 +6694,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6609,9 +6857,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1967027966,
-			"isDeleted": false,
+			"version": 133,
+			"versionNonce": 1570435134,
+			"isDeleted": true,
 			"id": "NvM1pBEqRTNl-hdDh9DIi",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -6630,7 +6878,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6685,9 +6933,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1049814846,
-			"isDeleted": false,
+			"version": 124,
+			"versionNonce": 301578914,
+			"isDeleted": true,
 			"id": "lL9EM_MGQOkaL4Oi6jAQx",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -6706,7 +6954,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6725,9 +6973,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 2087669630,
-			"isDeleted": false,
+			"version": 198,
+			"versionNonce": 1518005694,
+			"isDeleted": true,
 			"id": "14yZzKVsVW_synvs-Iw2L",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -6746,7 +6994,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985300785,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7061,9 +7309,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 1259646910,
-			"isDeleted": false,
+			"version": 155,
+			"versionNonce": 1363301666,
+			"isDeleted": true,
 			"id": "9MoxAHYgHDAB2AtpY55ky",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -7082,7 +7330,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985300785,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7225,9 +7473,9 @@ I have skinny calves and im mr ace ^CNCOod8s
 		},
 		{
 			"type": "freedraw",
-			"version": 297,
-			"versionNonce": 379848702,
-			"isDeleted": false,
+			"version": 298,
+			"versionNonce": 445810174,
+			"isDeleted": true,
 			"id": "hbWkXrg4kHHG0jSTJASkl",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -7246,7 +7494,7 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717985278043,
+			"updated": 1717985300785,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7960,254 +8208,6 @@ I have skinny calves and im mr ace ^CNCOod8s
 			"pressures": []
 		},
 		{
-			"type": "freedraw",
-			"version": 156,
-			"versionNonce": 522082366,
-			"isDeleted": false,
-			"id": "-ez7eSBjbaJBUYc-fjsDn",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 635.1854295264948,
-			"y": -143.7102276890379,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"width": 40.24717117904968,
-			"height": 19.89998383671589,
-			"seed": 1393065790,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1717985278043,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6707792417760446,
-					-2.235943568401088
-				],
-				[
-					-2.012353623516724,
-					-5.589872047884704
-				],
-				[
-					-6.037076768738819,
-					-14.08650979890913
-				],
-				[
-					-7.37863620074322,
-					-16.99324681781248
-				],
-				[
-					-7.825827661323483,
-					-17.887629738972954
-				],
-				[
-					-8.049430866481698,
-					-18.33482119955319
-				],
-				[
-					-8.273019121903749,
-					-18.55840945497518
-				],
-				[
-					-8.720210582483956,
-					-18.55840945497518
-				],
-				[
-					-11.403359345965315,
-					-19.452792376135655
-				],
-				[
-					-14.980891030607202,
-					-19.89998383671589
-				],
-				[
-					-21.912336244996425,
-					-19.89998383671589
-				],
-				[
-					-25.937059390218465,
-					-19.22920412071366
-				],
-				[
-					-29.738179330282346,
-					-17.664026533814738
-				],
-				[
-					-32.42132809376376,
-					-16.098863896652038
-				],
-				[
-					-33.09210780976596,
-					-15.204480975491567
-				],
-				[
-					-35.32806511266711,
-					-13.192126877748658
-				],
-				[
-					-36.22244803382758,
-					-12.297743956588187
-				],
-				[
-					-37.11683095498805,
-					-10.285374909109027
-				],
-				[
-					-38.23480213157046,
-					-7.378637890205619
-				],
-				[
-					-38.905596797308945,
-					-5.36628379246274
-				],
-				[
-					-39.12918505273099,
-					-4.248312615880275
-				],
-				[
-					-39.35278825788921,
-					-3.5775179501417957
-				],
-				[
-					-39.35278825788921,
-					-3.3539296947198034
-				],
-				[
-					-39.35278825788921,
-					-3.13032648956156
-				],
-				[
-					-39.35278825788921,
-					-2.906738234139567
-				],
-				[
-					-39.35278825788921,
-					-2.683135028981324
-				],
-				[
-					-39.35278825788921,
-					-2.4595467735593313
-				],
-				[
-					-39.35278825788921,
-					-2.235943568401088
-				],
-				[
-					-39.5763765133112,
-					-2.012355312979124
-				],
-				[
-					-39.79997971846947,
-					-1.5651638523988594
-				],
-				[
-					-40.02356797389141,
-					-1.3415606472406445
-				],
-				[
-					-40.24717117904968,
-					-1.117972391818652
-				],
-				[
-					-40.24717117904968,
-					-1.117972391818652
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 2086969470,
-			"isDeleted": false,
-			"id": "m4d2R2GX2XpQAQLZShT-N",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 599.1865846978253,
-			"y": -202.7394045275791,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"width": 0.00010033383079427738,
-			"height": 0.00010033383079427738,
-			"seed": 510781310,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1717985278043,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.00010033383079427738,
-					0.00010033383079427738
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
-			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 574087358,
-			"isDeleted": false,
-			"id": "2PkJUeHzoXM0plZybE_X8",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 631.8315015212372,
-			"y": -198.26749739664487,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"width": 0.00010033383079427738,
-			"height": 0.00010033383079427738,
-			"seed": 1090799550,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1717985278043,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.00010033383079427738,
-					0.00010033383079427738
-				]
-			],
-			"lastCommittedPoint": null,
-			"simulatePressure": true,
-			"pressures": []
-		},
-		{
 			"type": "text",
 			"version": 158,
 			"versionNonce": 1811869026,
@@ -8260,10 +8260,10 @@ I have skinny calves and im mr ace ^CNCOod8s
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 612.0568607280316,
-		"scrollY": 656.6687046917174,
+		"scrollX": 494.46144853143994,
+		"scrollY": 479.59970272680044,
 		"zoom": {
-			"value": 0.9874594835566983
+			"value": 1.0929099132326354
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

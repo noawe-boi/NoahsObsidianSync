@@ -35,9 +35,11 @@
             "id": "ac322977eb9c832f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md"
+                "file": "Physics 11.3 Reflection of light.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angle of",
+                "query": "angle of ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md",
+                "file": "Physics 11.3 Reflection of light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md",
+                "file": "Physics 11.3 Reflection of light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md"
+                "file": "Physics 11.3 Reflection of light.md"
               }
             }
           },
@@ -171,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/mr ace mirror diagram.md"
+                "file": "Physics 11.3 Reflection of light.md"
               }
             }
           },
@@ -208,9 +210,10 @@
   },
   "active": "ac322977eb9c832f",
   "lastOpenFiles": [
-    "Physics 11.3 Reflection of light.md",
-    "Physics Grade 11 IA3.md",
+    "Excalidraw/mr ace mirror diagram.md",
     "English IA3.md",
+    "Physics Grade 11 IA3.md",
+    "Physics 11.3 Reflection of light.md",
     "9.4 Refraction.md",
     "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
     "Excalidraw/Transverse Reflection DIagram.md",
@@ -238,7 +241,6 @@
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
     "English Practice Writing Wildlife Stimulus.md",
-    "Business Unit 2 - Topic 1 - Financial objectives.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
