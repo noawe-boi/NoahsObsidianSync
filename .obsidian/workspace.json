@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "62e654baa03bc3a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics worked example 11.3.1.md"
+              }
+            }
+          },
+          {
             "id": "3965d8fb99cf69c9",
             "type": "leaf",
             "state": {
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "Excalidraw/Physics worked example 11.3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "Excalidraw/Physics worked example 11.3.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "Excalidraw/Physics worked example 11.3.1.md"
               }
             }
           },
@@ -194,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "Excalidraw/Physics worked example 11.3.1.md"
               }
             }
           },
@@ -229,12 +239,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac322977eb9c832f",
+  "active": "62e654baa03bc3a9",
   "lastOpenFiles": [
+    "Physics 11.3 Reflection of light.md",
+    "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/physics consider this mirror.md",
     "English IA3.md",
-    "Physics 11.3 Reflection of light.md",
     "Excalidraw/mr ace mirror diagram.md",
     "Physics Grade 11 IA3.md",
     "9.4 Refraction.md",
@@ -259,7 +270,6 @@
     "Excalidraw/Physics 8.4 eamaple.md",
     "Physics 8.4 Transformers.md",
     "Untitled 17.md",
-    "Sophie Fraser.md",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
     "Pasted Image 20240523221028_200.png",
