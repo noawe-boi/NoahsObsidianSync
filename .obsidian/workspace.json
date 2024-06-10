@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eff04b07e8a4b49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Grade 11 IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6855d143a06cfdd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac322977eb9c832f",
             "type": "leaf",
             "state": {
@@ -42,39 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62e654baa03bc3a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics worked example 11.3.1.md"
-              }
-            }
-          },
-          {
-            "id": "3965d8fb99cf69c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/physics consider this mirror.md"
-              }
-            }
-          },
-          {
-            "id": "af320181376d1155",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physisc More mirrors.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,9 +187,9 @@
   "active": "ac322977eb9c832f",
   "lastOpenFiles": [
     "Physics Grade 11 IA3.md",
-    "Excalidraw/Physics worked example 11.3.1.md",
-    "English IA3.md",
     "Physics 11.3 Reflection of light.md",
+    "English IA3.md",
+    "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/physics consider this mirror.md",
     "Excalidraw/mr ace mirror diagram.md",
