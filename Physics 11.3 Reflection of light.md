@@ -22,3 +22,6 @@ Where :
 $R = Radius (Distance to c)$
 $f = focal length$
 
+
+Example 11.3.1
+![[Physics worked example 11.3.1]]
