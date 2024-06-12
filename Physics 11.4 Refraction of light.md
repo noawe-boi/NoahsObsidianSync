@@ -14,6 +14,14 @@ This is caused by the change in density between the mediums.
 - $r = \theta$ (refracted angle)
 - $i > r$ if $n_1 < n_2$
 
+
+
+
+
+
+
+
+
 ### Example 11.4.1
  $n=\frac{c}{v}$ 
  $=\frac{3.00*10^8}{2.25*10^8}$
