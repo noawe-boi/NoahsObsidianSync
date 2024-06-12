@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4625bdac0d017656",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md"
+                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md"
               }
             }
           },
@@ -162,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md"
+                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md"
               }
             }
           }
@@ -189,12 +199,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3168a3d37b08348a",
+  "active": "4625bdac0d017656",
   "lastOpenFiles": [
+    "Physics 11.4 Refraction of light.md",
+    "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md",
     "Physics 11.3 Reflection of light.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
-    "Physics 11.4 Refraction of light.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
@@ -218,7 +229,6 @@
     "Physics IA2 Report.md",
     "Physics 11.1 Light as a wave.md",
     "Excalidraw/Displacement Time Graph.md",
-    "Waves.md",
     "Pasted image 20240603093159.png",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
