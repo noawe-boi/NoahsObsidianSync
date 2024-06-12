@@ -24,7 +24,9 @@ $v=$ speed of light in the medium
 Light will bend towards the normal if going to a higher n-value
 Light will bend away from the normal if going to a lower n-value
 
-$\frac{sin(i)}{sin(r)} = \frac$
+$\frac{sin(i)}{sin(r)} = \frac{V_1}{V_2} = \frac{\lambda_1}{\lambda_2} = \frac{n_1}{n_2}$
+
+
 
 
 
