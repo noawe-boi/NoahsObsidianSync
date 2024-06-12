@@ -20,46 +20,6 @@
             }
           },
           {
-            "id": "209f5602815cccef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "b4d3b2f1958989af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8c1a9511b3789a13",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5e6bfa2f6d7bae3b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 10.23.17.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "5a9d2ee264b55f64",
             "type": "leaf",
             "state": {
@@ -69,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 10.23.17.excalidraw.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 10.23.17.excalidraw.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 10.23.17.excalidraw.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -216,12 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e6bfa2f6d7bae3b",
+  "active": "5188e727c85d051b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 10.23.17.excalidraw.md",
+    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md",
+    "Excalidraw/TAFE FLOW CHART 2423.md",
+    "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "untitled 19.md",
     "untitled 18.md",
