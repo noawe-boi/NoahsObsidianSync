@@ -8,6 +8,8 @@ This is caused by the change in density between the mediums.
 
 - More dense = slower speed of light
 
+![[Physics 11.4 Refraction digram]]
 
+$i = \theta$
 
 

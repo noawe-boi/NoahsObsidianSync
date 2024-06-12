@@ -37,12 +37,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md"
+                "file": "Excalidraw/Physics 11.4 Refraction digram.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md"
+                "file": "Physics 11.4 Refraction of light.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md"
+                "file": "Physics 11.4 Refraction of light.md"
               }
             }
           }
@@ -199,10 +199,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4625bdac0d017656",
+  "active": "3168a3d37b08348a",
   "lastOpenFiles": [
+    "Excalidraw/Physics 11.4 Refraction digram.md",
     "Physics 11.4 Refraction of light.md",
-    "Excalidraw/Drawing 2024-06-13 09.40.08.excalidraw.md",
     "Physics 11.3 Reflection of light.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
