@@ -19,29 +19,29 @@ I have skinny calves and im mr ace ^CNCOod8s
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.17",
 	"elements": [
 		{
-			"id": "doLQNnxIX5dLKuHCpoa5x",
 			"type": "freedraw",
-			"x": -401.66030644875894,
-			"y": -242.15478929290563,
-			"width": 112.35377977377169,
-			"height": 129.58133229571442,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 56,
+			"versionNonce": 770579554,
+			"isDeleted": false,
+			"id": "doLQNnxIX5dLKuHCpoa5x",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -401.66030644875894,
+			"y": -242.15478929290563,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 112.35377977377169,
+			"height": 129.58133229571442,
+			"seed": 1665040449,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1665040449,
-			"version": 55,
-			"versionNonce": 711762593,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759812,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -218,37 +218,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					2.99610480039226
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.478576402157557,
-				2.99610480039226
-			]
+			"pressures": []
 		},
 		{
-			"id": "I1DFGNTDdGIDGJVc33bJF",
 			"type": "freedraw",
-			"x": -370.9502572848945,
-			"y": -105.08322003636698,
-			"width": 41.945417125179006,
-			"height": 259.1626645914289,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 68,
+			"versionNonce": 81384126,
+			"isDeleted": false,
+			"id": "I1DFGNTDdGIDGJVc33bJF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -370.9502572848945,
+			"y": -105.08322003636698,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 41.945417125179006,
+			"height": 259.1626645914289,
+			"seed": 2108883649,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2108883649,
-			"version": 67,
-			"versionNonce": 2048725999,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759812,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -473,37 +470,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					258.4136634314873
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				34.45515512419831,
-				258.4136634314873
-			]
+			"pressures": []
 		},
 		{
-			"id": "Zi_1oeEGEXuYEYi9HM8TY",
 			"type": "freedraw",
-			"x": -366.4561000843061,
-			"y": 88.91429034731209,
-			"width": 40.44736472498283,
-			"height": 51.68268260598455,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 31,
+			"versionNonce": 745553954,
+			"isDeleted": false,
+			"id": "Zi_1oeEGEXuYEYi9HM8TY",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -366.4561000843061,
+			"y": 88.91429034731209,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 40.44736472498283,
+			"height": 51.68268260598455,
+			"seed": 2038107073,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2038107073,
-			"version": 30,
-			"versionNonce": 283223681,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759812,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -580,37 +574,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					51.68268260598455
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-40.44736472498283,
-				51.68268260598455
-			]
+			"pressures": []
 		},
 		{
-			"id": "DeikcJRAigoAnBMMzOleJ",
 			"type": "freedraw",
-			"x": -367.9541524845023,
-			"y": -17.447279825675082,
-			"width": 29.21199676366831,
-			"height": 34.45515512419831,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1103940350,
+			"isDeleted": false,
+			"id": "DeikcJRAigoAnBMMzOleJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -367.9541524845023,
+			"y": -17.447279825675082,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 29.21199676366831,
+			"height": 34.45515512419831,
+			"seed": 922512015,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 922512015,
-			"version": 20,
-			"versionNonce": 231419489,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759812,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -651,37 +642,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					34.45515512419831
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				29.21199676366831,
-				34.45515512419831
-			]
+			"pressures": []
 		},
 		{
-			"id": "-1GCmOmShqlIjsLlaRNIr",
 			"type": "freedraw",
-			"x": -379.9385716860713,
-			"y": -27.184595386793546,
-			"width": 50.184680286101354,
-			"height": 78.64762580951503,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 645393378,
+			"isDeleted": false,
+			"id": "-1GCmOmShqlIjsLlaRNIr",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -379.9385716860713,
+			"y": -27.184595386793546,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 50.184680286101354,
+			"height": 78.64762580951503,
+			"seed": 1605718991,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1605718991,
-			"version": 21,
-			"versionNonce": 1787700271,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759812,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -726,41 +714,43 @@ I have skinny calves and im mr ace ^CNCOod8s
 					78.64762580951503
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-50.184680286101354,
-				78.64762580951503
-			]
+			"pressures": []
 		},
 		{
-			"id": "Ph9YDDwljiRolEUx6F25x",
 			"type": "line",
-			"x": 118.9120762942365,
-			"y": -186.7269506462743,
-			"width": 3.745105960333831,
-			"height": 201.48772230434685,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 98,
+			"versionNonce": 238467902,
+			"isDeleted": false,
+			"id": "Ph9YDDwljiRolEUx6F25x",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 118.9120762942365,
+			"y": -186.7269506462743,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.745105960333831,
+			"height": 201.48772230434685,
+			"seed": 1700606767,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1700606767,
-			"version": 97,
-			"versionNonce": 1744353857,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -770,37 +760,32 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-3.745105960333831,
 					201.48772230434685
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "ISi7Y5iCOgxKIhD0GD0dV",
 			"type": "freedraw",
-			"x": -311.02826143767476,
-			"y": -200.20939720788311,
-			"width": 23.968788322825333,
-			"height": 1.4980524001961442,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 571744162,
+			"isDeleted": false,
+			"id": "ISi7Y5iCOgxKIhD0GD0dV",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -311.02826143767476,
+			"y": -200.20939720788311,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 23.968788322825333,
+			"height": 1.4980524001961442,
+			"seed": 123442273,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 123442273,
-			"version": 19,
-			"versionNonce": 1018676815,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -837,37 +822,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					1.4980524001961442
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				23.968788322825333,
-				1.4980524001961442
-			]
+			"pressures": []
 		},
 		{
-			"id": "pkLaLtCrXDTVIoNQZM4N9",
 			"type": "freedraw",
-			"x": -248.85916195000436,
-			"y": -195.71524000729468,
-			"width": 21.72173476268756,
-			"height": 6.7412358008826345,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1350083454,
+			"isDeleted": false,
+			"id": "pkLaLtCrXDTVIoNQZM4N9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -248.85916195000436,
+			"y": -195.71524000729468,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 21.72173476268756,
+			"height": 6.7412358008826345,
+			"seed": 1770312687,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1770312687,
-			"version": 15,
-			"versionNonce": 287817359,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -900,37 +882,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					6.7412358008826345
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				21.72173476268756,
-				6.7412358008826345
-			]
+			"pressures": []
 		},
 		{
-			"id": "IHckUXRy1tck5gFn3l9Lf",
 			"type": "freedraw",
-			"x": -106.54443433293562,
-			"y": -176.98961004499938,
-			"width": 26.964893123217564,
-			"height": 2.247078600294202,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 192142178,
+			"isDeleted": false,
+			"id": "IHckUXRy1tck5gFn3l9Lf",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -106.54443433293562,
+			"y": -176.98961004499938,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 26.964893123217564,
+			"height": 2.247078600294202,
+			"seed": 1485747439,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1485747439,
-			"version": 17,
-			"versionNonce": 1160017377,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -971,37 +950,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					2.247078600294202
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				26.964893123217564,
-				2.247078600294202
-			]
+			"pressures": []
 		},
 		{
-			"id": "XDWujHqY9ByMWIhkpO4Bt",
 			"type": "freedraw",
-			"x": 2.0641894001893206,
-			"y": -151.52276932197793,
-			"width": 16.478526321844583,
-			"height": 2.9961048003922883,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 2060682174,
+			"isDeleted": false,
+			"id": "XDWujHqY9ByMWIhkpO4Bt",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2.0641894001893206,
+			"y": -151.52276932197793,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 16.478526321844583,
+			"height": 2.9961048003922883,
+			"seed": 606086703,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 606086703,
-			"version": 15,
-			"versionNonce": 1710167215,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1034,37 +1010,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-2.9961048003922883
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				16.478526321844583,
-				-2.9961048003922883
-			]
+			"pressures": []
 		},
 		{
-			"id": "DHZqGtA52ztAS_l2vOubQ",
 			"type": "freedraw",
-			"x": 77.71571040931201,
-			"y": -141.03640252060495,
-			"width": 7.4903120812936095,
-			"height": 1.4980524001961442,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1894129442,
+			"isDeleted": false,
+			"id": "DHZqGtA52ztAS_l2vOubQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 77.71571040931201,
+			"y": -141.03640252060495,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 7.4903120812936095,
+			"height": 1.4980524001961442,
+			"seed": 1627637551,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1627637551,
-			"version": 14,
-			"versionNonce": 62722497,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1093,41 +1066,43 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-1.4980524001961442
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.4903120812936095,
-				-1.4980524001961442
-			]
+			"pressures": []
 		},
 		{
-			"id": "NIfB5zOiRCQYIZPQHGLFO",
 			"type": "line",
-			"x": 119.20478224709058,
-			"y": -137.03392133975566,
-			"width": 204.37858296385085,
-			"height": 0.35420953670643485,
-			"angle": 0,
-			"strokeColor": "#ff0000",
-			"backgroundColor": "transparent",
+			"version": 106,
+			"versionNonce": 258497534,
+			"isDeleted": false,
+			"id": "NIfB5zOiRCQYIZPQHGLFO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 119.20478224709058,
+			"y": -137.03392133975566,
+			"strokeColor": "#ff0000",
+			"backgroundColor": "transparent",
+			"width": 204.37858296385085,
+			"height": 0.35420953670643485,
+			"seed": 1509130767,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1509130767,
-			"version": 105,
-			"versionNonce": 1873192655,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -1137,41 +1112,41 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-204.37858296385085,
 					0.35420953670643485
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "mnApkJSSf8rcCRZHd0J5Q",
 			"type": "line",
-			"x": 112.06021064596234,
-			"y": -138.4026153400735,
-			"width": 435.9750823075947,
-			"height": 59.776016728409445,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 150,
+			"versionNonce": 1054468834,
+			"isDeleted": false,
+			"id": "mnApkJSSf8rcCRZHd0J5Q",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 112.06021064596234,
+			"y": -138.4026153400735,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 435.9750823075947,
+			"height": 59.776016728409445,
+			"seed": 161925185,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 161925185,
-			"version": 149,
-			"versionNonce": 484898031,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -1181,41 +1156,41 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-435.9750823075947,
 					-59.776016728409445
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "ww1Gi-RIYGMxCsHW67tBy",
 			"type": "line",
-			"x": 122.61096892057094,
-			"y": -140.35183611004334,
-			"width": 492.50233258972276,
-			"height": 87.06506406598771,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 130,
+			"versionNonce": 607661118,
+			"isDeleted": false,
+			"id": "ww1Gi-RIYGMxCsHW67tBy",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 122.61096892057094,
+			"y": -140.35183611004334,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 492.50233258972276,
+			"height": 87.06506406598771,
+			"seed": 525503073,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 525503073,
-			"version": 129,
-			"versionNonce": 1088574849,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -1225,37 +1200,32 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-492.50233258972276,
 					87.06506406598771
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "GOBuk-87ylFWSBbqTg48q",
 			"type": "freedraw",
-			"x": -39.91051960184885,
-			"y": -138.23943039150282,
-			"width": 1.7533622783594467,
-			"height": 17.972084248444588,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 2078162594,
+			"isDeleted": false,
+			"id": "GOBuk-87ylFWSBbqTg48q",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -39.91051960184885,
+			"y": -138.23943039150282,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 1.7533622783594467,
+			"height": 17.972084248444588,
+			"seed": 899131599,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 899131599,
-			"version": 34,
-			"versionNonce": 1393136431,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007777519,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1388,37 +1358,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-17.972084248444588
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.2191647895558333,
-				-17.972084248444588
-			]
+			"pressures": []
 		},
 		{
-			"id": "9c0JO9CvGvMof_pynSlNx",
 			"type": "freedraw",
-			"x": -30.266961128002663,
-			"y": -136.92439769225504,
-			"width": 4.602607120381805,
-			"height": 20.60214964694015,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 49,
+			"versionNonce": 1730409598,
+			"isDeleted": false,
+			"id": "9c0JO9CvGvMof_pynSlNx",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -30.266961128002663,
+			"y": -136.92439769225504,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 4.602607120381805,
+			"height": 20.60214964694015,
+			"seed": 572340975,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 572340975,
-			"version": 48,
-			"versionNonce": 7661441,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007775522,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1607,37 +1574,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					20.16380541385756
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4.602607120381805,
-				20.16380541385756
-			]
+			"pressures": []
 		},
 		{
-			"id": "nFdumrLXZnEtoTn7ZAHFi",
 			"type": "freedraw",
-			"x": -31.09851712056541,
-			"y": -153.12759260263965,
-			"width": 15.855559099000871,
-			"height": 13.457892642401191,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 69,
+			"versionNonce": 77732450,
+			"isDeleted": false,
+			"id": "nFdumrLXZnEtoTn7ZAHFi",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -31.09851712056541,
+			"y": -153.12759260263965,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 15.855559099000871,
+			"height": 13.457892642401191,
+			"seed": 1580772129,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1580772129,
-			"version": 68,
-			"versionNonce": 1473252271,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007785710,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1910,37 +1874,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0.23203298840590492
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				1.0828154412755424,
-				0.23203298840590492
-			]
+			"pressures": []
 		},
 		{
-			"id": "Tu53lw8T30CQZQ6JgRD_Y",
 			"type": "freedraw",
-			"x": -35.12042225293447,
-			"y": -145.77989164568996,
-			"width": 13.22586223963797,
-			"height": 1.7789169921359473,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 40,
+			"versionNonce": 569160894,
+			"isDeleted": false,
+			"id": "Tu53lw8T30CQZQ6JgRD_Y",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -35.12042225293447,
+			"y": -145.77989164568996,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 13.22586223963797,
+			"height": 1.7789169921359473,
+			"seed": 1887308449,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1887308449,
-			"version": 39,
-			"versionNonce": 297851535,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007787252,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2097,37 +2058,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-0.15468865893726047
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				13.22586223963797,
-				-0.15468865893726047
-			]
+			"pressures": []
 		},
 		{
-			"id": "OcB54vFEkA-Of4f46qkUm",
 			"type": "freedraw",
-			"x": -15.827137443404816,
-			"y": -147.14608059641347,
-			"width": 0.15468865893726758,
-			"height": 4.485960766610162,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1207205410,
+			"isDeleted": false,
+			"id": "OcB54vFEkA-Of4f46qkUm",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -15.827137443404816,
+			"y": -147.14608059641347,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.15468865893726758,
+			"height": 4.485960766610162,
+			"seed": 392115649,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 392115649,
-			"version": 12,
-			"versionNonce": 1054628879,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007790771,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2176,37 +2134,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					4.485960766610162
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.15468865893726758,
-				4.485960766610162
-			]
+			"pressures": []
 		},
 		{
-			"id": "l79T9XZk468SSE1JiRDMv",
 			"type": "freedraw",
-			"x": -15.208382807655731,
-			"y": -151.63204653430898,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 4,
+			"versionNonce": 1043557630,
+			"isDeleted": false,
+			"id": "l79T9XZk468SSE1JiRDMv",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -15.208382807655731,
+			"y": -151.63204653430898,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 816299073,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 816299073,
-			"version": 3,
-			"versionNonce": 669942383,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007791714,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2219,37 +2174,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "-1ZCNVPxmVppgjy5xEoeQ",
 			"type": "freedraw",
-			"x": -15.67244878446754,
-			"y": -132.6827142565627,
-			"width": 15.77821735517491,
-			"height": 13.767264788990389,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 78,
+			"versionNonce": 46426594,
+			"isDeleted": false,
+			"id": "-1ZCNVPxmVppgjy5xEoeQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -15.67244878446754,
+			"y": -132.6827142565627,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 15.77821735517491,
+			"height": 13.767264788990389,
+			"seed": 22722529,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 22722529,
-			"version": 77,
-			"versionNonce": 242017807,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007793925,
+			"boundElements": [],
+			"updated": 1717985270366,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2558,37 +2510,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					1.160162356386877
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.5414077206377712,
-				1.160162356386877
-			]
+			"pressures": []
 		},
 		{
-			"id": "61_vGMMc7CdbDPD2_6iYq",
 			"type": "freedraw",
-			"x": -15.440418381704312,
-			"y": -127.42331019526617,
-			"width": 11.678980821550603,
-			"height": 2.0882943100104683,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1232674110,
+			"isDeleted": false,
+			"id": "61_vGMMc7CdbDPD2_6iYq",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -15.440418381704312,
+			"y": -127.42331019526617,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 11.678980821550603,
+			"height": 2.0882943100104683,
+			"seed": 279581249,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 279581249,
-			"version": 34,
-			"versionNonce": 2089284175,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007795136,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2725,37 +2674,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-1.5468814180873665
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				11.678980821550603,
-				-1.5468814180873665
-			]
+			"pressures": []
 		},
 		{
-			"id": "FL6oGUONOt-6LfMh_-JYR",
 			"type": "freedraw",
-			"x": 2.116721136891897,
-			"y": -133.68818795401228,
-			"width": 8.198483409819318,
-			"height": 11.988352968139793,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 178,
+			"versionNonce": 2082528674,
+			"isDeleted": false,
+			"id": "FL6oGUONOt-6LfMh_-JYR",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2.116721136891897,
+			"y": -133.68818795401228,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 8.198483409819318,
+			"height": 11.988352968139793,
+			"seed": 1561588225,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1561588225,
-			"version": 177,
-			"versionNonce": 1477584495,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007799579,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3464,37 +3410,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					4.2539303638469335
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				7.889106091944782,
-				4.2539303638469335
-			]
+			"pressures": []
 		},
 		{
-			"id": "bZlltcVJPnzRCv73qU0Ev",
 			"type": "freedraw",
-			"x": -399.2597897906342,
-			"y": -146.6861383546498,
-			"width": 40.113260762037214,
-			"height": 19.833772596123083,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 36,
+			"versionNonce": 2032059774,
+			"isDeleted": false,
+			"id": "bZlltcVJPnzRCv73qU0Ev",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -399.2597897906342,
+			"y": -146.6861383546498,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 40.113260762037214,
+			"height": 19.833772596123083,
+			"seed": 876598241,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 876598241,
-			"version": 35,
-			"versionNonce": 1888349391,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007805964,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3635,37 +3578,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					-1.1142526732692204
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				40.113260762037214,
-				-1.1142526732692204
-			]
+			"pressures": []
 		},
 		{
-			"id": "XV3_abBeJp3m2lXUunGDU",
 			"type": "freedraw",
+			"version": 4,
+			"versionNonce": 1094244706,
+			"isDeleted": false,
+			"id": "XV3_abBeJp3m2lXUunGDU",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": -363.38072034447634,
 			"y": -205.51891327338436,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 1130835841,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1130835841,
-			"version": 3,
-			"versionNonce": 1907936047,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007806674,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3678,37 +3618,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "FFQbGwgQ7aKMhDGDYjaVj",
 			"type": "freedraw",
+			"version": 4,
+			"versionNonce": 778397118,
+			"isDeleted": false,
+			"id": "FFQbGwgQ7aKMhDGDYjaVj",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": -395.91702097705803,
 			"y": -201.06188507508568,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 938472225,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 938472225,
-			"version": 3,
-			"versionNonce": 1826604431,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007807051,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3721,74 +3658,71 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		},
 		{
-			"id": "CNCOod8s",
 			"type": "text",
+			"version": 38,
+			"versionNonce": 1633377570,
+			"isDeleted": false,
+			"id": "CNCOod8s",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": -326.9341965884845,
 			"y": -276.8115200622261,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
 			"width": 346.1397705078125,
 			"height": 25,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"seed": 1892145857,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1892145857,
-			"version": 37,
-			"versionNonce": 1195905615,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007814512,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
-			"text": "I have skinny calves and im mr ace",
-			"rawText": "I have skinny calves and im mr ace",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "I have skinny calves and im mr ace",
+			"rawText": "I have skinny calves and im mr ace",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
 			"containerId": null,
 			"originalText": "I have skinny calves and im mr ace",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
-			"id": "yhf9widCwwY9t4N1s77jD",
 			"type": "freedraw",
-			"x": -340.2582022295407,
-			"y": -275.4791194981205,
-			"width": 428.3661354933379,
-			"height": 100.59608669113527,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 211,
+			"versionNonce": 2054028798,
+			"isDeleted": false,
+			"id": "yhf9widCwwY9t4N1s77jD",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -340.2582022295407,
+			"y": -275.4791194981205,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 428.3661354933379,
+			"height": 100.59608669113527,
+			"seed": 11129345,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 11129345,
-			"version": 210,
-			"versionNonce": 620799119,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700007821391,
+			"boundElements": [],
+			"updated": 1717985270367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4625,37 +4559,34 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-0.6661780107900768,
-				-0.6662002820527846
-			]
+			"pressures": []
 		},
 		{
-			"id": "B-yVDLDSUKPIgdLcD1Lw6",
 			"type": "freedraw",
-			"x": -416.6407803704074,
-			"y": -18.945332225871255,
-			"width": 107.11057133292877,
-			"height": 5.24315836053006,
+			"version": 176,
+			"versionNonce": 1049442942,
+			"isDeleted": false,
+			"id": "i6huCN3jXqG2nzGJWA_pz",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
 			"angle": 0,
+			"x": 637.5939598484458,
+			"y": -239.49758238300683,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 112.72885128919113,
+			"height": 130.0139146865524,
+			"seed": 528449918,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1885001057,
-			"version": 36,
-			"versionNonce": 609402383,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007759812,
+			"boundElements": [],
+			"updated": 1717985278043,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4664,129 +4595,202 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					1.4980524001961726,
+					0.7515015564629791,
 					0
 				],
 				[
-					3.7451059603338877,
-					1.4980524001961726
+					1.5030031129260153,
+					0.7515266802111908
 				],
 				[
-					6.741210760726176,
-					2.247053560137772
+					4.509109833770779,
+					1.5030533604224103
 				],
 				[
-					9.737315561118464,
-					2.9961048003922883
+					8.266768358575002,
+					2.254580040633601
 				],
 				[
-					15.729525161903041,
-					3.7451059603339445
+					13.527429996305184,
+					3.7576334010560113
 				],
 				[
-					22.470735922629217,
-					4.494157200588461
+					17.28503827361304,
+					6.012213441689613
 				],
 				[
-					29.96099792360991,
-					5.24315836053006
+					24.048803519262083,
+					15.030508480475834
 				],
 				[
-					39.69831348472832,
-					5.24315836053006
+					27.054910240106846,
+					22.545775282587858
 				],
 				[
-					47.18857548570901,
-					5.24315836053006
+					31.564070321374107,
+					34.5701770422189
 				],
 				[
-					56.92589104682747,
-					3.7451059603339445
+					33.818625238259465,
+					55.61287384063616
 				],
 				[
-					63.66710180755365,
-					2.9961048003922883
+					33.818625238259465,
+					63.128140642748185
 				],
 				[
-					69.65931140833817,
-					2.247053560137772
+					29.309465156992264,
+					79.66170248364647
 				],
 				[
-					76.40057224937732,
-					2.247053560137772
+					25.551856879684465,
+					90.18305088285508
 				],
 				[
-					81.64373060990732,
-					2.247053560137772
+					18.03659007757244,
+					103.71050600290852
 				],
 				[
-					86.13788781049573,
-					2.247053560137772
+					10.52132327546042,
+					111.97729948523175
 				],
 				[
-					90.63204501108419,
-					2.247053560137772
+					0.7515015564629791,
+					120.99559452401795
 				],
 				[
-					95.87520337161419,
-					1.4980524001961726
+					-9.018320162534462,
+					126.2562812854964
 				],
 				[
-					99.62030933194808,
-					1.4980524001961726
+					-18.788141881531846,
+					129.2623880063412
 				],
 				[
-					102.61641413234037,
-					1.4980524001961726
+					-24.80035532322149,
+					130.0139146865524
 				],
 				[
-					104.86351777279106,
-					1.4980524001961726
+					-39.830888927445535,
+					126.2562812854964
 				],
 				[
-					106.36157017298717,
-					1.4980524001961726
+					-49.60071064644298,
+					121.7471212042292
 				],
 				[
-					107.11057133292877,
-					1.4980524001961726
+					-57.11597744855505,
+					115.73493288628777
 				],
 				[
-					107.11057133292877,
-					1.4980524001961726
+					-62.37663908628524,
+					111.22577280502054
+				],
+				[
+					-72.14646080528267,
+					98.44984436517831
+				],
+				[
+					-75.9041193300869,
+					87.92847084222146
+				],
+				[
+					-78.15867424697225,
+					79.66170248364647
+				],
+				[
+					-78.91022605093167,
+					69.89188076464902
+				],
+				[
+					-78.15867424697225,
+					60.87356060211459
+				],
+				[
+					-77.40717269050928,
+					52.60679224353955
+				],
+				[
+					-75.15256752612744,
+					44.33999876121634
+				],
+				[
+					-70.64340744486023,
+					37.57628376306372
+				],
+				[
+					-67.63730072401542,
+					34.5701770422189
+				],
+				[
+					-60.12208416939982,
+					27.054910240106874
+				],
+				[
+					-49.60071064644298,
+					19.539668561743063
+				],
+				[
+					-46.59460392559815,
+					17.285088521109436
+				],
+				[
+					-40.58239048390851,
+					13.527455120053423
+				],
+				[
+					-30.061067208448147,
+					6.76371499815262
+				],
+				[
+					-26.30340868364387,
+					5.260686761478421
+				],
+				[
+					-22.545800406336127,
+					3.7576334010560113
+				],
+				[
+					-21.042747045913686,
+					3.0061067208447922
+				],
+				[
+					-16.533586964646485,
+					3.0061067208447922
+				],
+				[
+					-16.533586964646485,
+					3.0061067208447922
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				107.11057133292877,
-				1.4980524001961726
-			]
+			"pressures": []
 		},
 		{
-			"id": "79uaVxNpBto6br8E_tvyV",
 			"type": "freedraw",
-			"x": -233.12963678810132,
-			"y": -189.72303040651013,
-			"width": 18.725629962295272,
-			"height": 1.4980524001961157,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 187,
+			"versionNonce": 138230462,
+			"isDeleted": false,
+			"id": "T--7cSliLOpTFh_ljNSI3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 606.7813910835348,
+			"y": -101.96842601809058,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 42.08544384433095,
+			"height": 260.0278293731049,
+			"seed": 1095672254,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1357336385,
-			"version": 18,
-			"versionNonce": 1615448609,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985278043,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4795,61 +4799,250 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					0.7490011599415993,
-					0
+					1.5030533604223817,
+					0.7515266802111908
 				],
 				[
-					2.9961048003922883,
-					0
+					2.254554916885418,
+					1.5030533604224388
 				],
 				[
-					5.99220960078452,
-					0
+					3.0061067208448207,
+					3.0061067208448207
 				],
 				[
-					12.733420361510696,
-					-0.7490262000980579
+					4.509160081267259,
+					8.266793482323214
 				],
 				[
-					18.725629962295272,
-					-1.4980524001961157
+					4.509160081267259,
+					14.278981800264644
 				],
 				[
-					18.725629962295272,
-					-1.4980524001961157
+					4.509160081267259,
+					20.291195241954284
+				],
+				[
+					4.509160081267259,
+					30.061016960951726
+				],
+				[
+					4.509160081267259,
+					41.33391716411976
+				],
+				[
+					4.509160081267259,
+					54.109845603961965
+				],
+				[
+					5.260661637730238,
+					65.38272068338185
+				],
+				[
+					6.012213441689641,
+					78.15867424697225
+				],
+				[
+					6.76371499815262,
+					89.43154932639209
+				],
+				[
+					7.515266802112023,
+					99.95292284934892
+				],
+				[
+					7.515266802112023,
+					110.47424612480934
+				],
+				[
+					7.515266802112023,
+					120.24406784380679
+				],
+				[
+					7.515266802112023,
+					130.01393981030066
+				],
+				[
+					7.515266802112023,
+					134.52304964407142
+				],
+				[
+					7.515266802112023,
+					145.7959749709877
+				],
+				[
+					6.76371499815262,
+					153.31119152560328
+				],
+				[
+					6.012213441689641,
+					159.32340496729293
+				],
+				[
+					5.260661637730238,
+					166.08711996544554
+				],
+				[
+					5.260661637730238,
+					171.34783185067215
+				],
+				[
+					5.260661637730238,
+					176.6084934884024
+				],
+				[
+					5.260661637730238,
+					180.3661520132066
+				],
+				[
+					5.260661637730238,
+					183.372208486555
+				],
+				[
+					5.260661637730238,
+					185.62681365093678
+				],
+				[
+					5.260661637730238,
+					187.8813685678222
+				],
+				[
+					5.260661637730238,
+					188.6329203717816
+				],
+				[
+					5.260661637730238,
+					189.3844219282446
+				],
+				[
+					5.260661637730238,
+					190.88747528866702
+				],
+				[
+					5.260661637730238,
+					191.63902709262643
+				],
+				[
+					4.509160081267259,
+					193.1420804530488
+				],
+				[
+					3.7576082773077997,
+					193.89358200951185
+				],
+				[
+					3.0061067208448207,
+					194.64513381347123
+				],
+				[
+					1.5030533604223817,
+					195.39663536993422
+				],
+				[
+					0,
+					196.89968873035667
+				],
+				[
+					-1.5030533604223817,
+					199.15424364724203
+				],
+				[
+					-3.7576082773077997,
+					201.40884881162387
+				],
+				[
+					-5.260661637730238,
+					204.4149555324687
+				],
+				[
+					-6.012213441689641,
+					206.66951044935405
+				],
+				[
+					-9.018320162534405,
+					213.4332756950031
+				],
+				[
+					-12.024426883379226,
+					218.69393733273333
+				],
+				[
+					-15.030533604224045,
+					223.9545989704635
+				],
+				[
+					-18.03659007757244,
+					229.21531085569018
+				],
+				[
+					-20.291195241954284,
+					235.22747404988334
+				],
+				[
+					-22.545750158839645,
+					240.48818593511
+				],
+				[
+					-26.303408683643926,
+					249.50645585014797
+				],
+				[
+					-27.054910240106906,
+					251.76106101452987
+				],
+				[
+					-27.806462044066308,
+					253.26411437495227
+				],
+				[
+					-29.30951540448869,
+					256.270221095797
+				],
+				[
+					-32.31562212533351,
+					259.2763278166419
+				],
+				[
+					-33.06712368179649,
+					260.0278293731049
+				],
+				[
+					-34.57017704221893,
+					259.2763278166419
+				],
+				[
+					-34.57017704221893,
+					259.2763278166419
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				18.725629962295272,
-				-1.4980524001961157
-			]
+			"pressures": []
 		},
 		{
-			"id": "RTBa5aTsJWITGhZhOSFr0",
 			"type": "freedraw",
-			"x": -93.81101397142493,
-			"y": -202.45647580817732,
-			"width": 20.223682362491445,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 150,
+			"versionNonce": 1417884414,
+			"isDeleted": false,
+			"id": "lBS5jNVBdRXYpzLflf3ZR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 602.2722310022675,
+			"y": 92.67670779538065,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 40.58239048390851,
+			"height": 51.85521531583197,
+			"seed": 1422899710,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 371408449,
-			"version": 16,
-			"versionNonce": 2041062511,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985278043,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4858,57 +5051,102 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					2.247103640450689,
-					0
+					0.7515518039594026,
+					0.7515015564629791
 				],
 				[
-					6.741260841039093,
-					0
+					1.5030533604224388,
+					1.5030533604223817
 				],
 				[
-					14.231472761706868,
-					0
+					3.0061067208448207,
+					3.0061067208448207
 				],
 				[
-					20.223682362491445,
-					0
+					9.018320162534462,
+					7.515216554615599
 				],
 				[
-					20.223682362491445,
-					0
+					13.527480243801607,
+					12.024376635882803
+				],
+				[
+					17.285088521109465,
+					17.285088521109465
+				],
+				[
+					22.545750158839645,
+					24.800305075725063
+				],
+				[
+					27.80646204406625,
+					30.812518517414706
+				],
+				[
+					32.31562212533351,
+					36.82473195910435
+				],
+				[
+					35.32172884617833,
+					41.33389204037149
+				],
+				[
+					36.82473195910435,
+					45.09150031767935
+				],
+				[
+					37.57628376306375,
+					46.59455367810173
+				],
+				[
+					39.07933712348613,
+					49.600660398946495
+				],
+				[
+					39.83083867994911,
+					50.35221220290601
+				],
+				[
+					40.58239048390851,
+					51.103713759368986
+				],
+				[
+					40.58239048390851,
+					51.85521531583197
+				],
+				[
+					40.58239048390851,
+					51.85521531583197
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				20.223682362491445,
-				0
-			]
+			"pressures": []
 		},
 		{
-			"id": "N6lF1vB6iB3z5SVPJM_Fj",
 			"type": "freedraw",
-			"x": 41.7625529652305,
-			"y": -197.21329240749083,
-			"width": 6.741210760726176,
-			"height": 1.4980524001961442,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 141,
+			"versionNonce": 1306534718,
+			"isDeleted": false,
+			"id": "YUbTzXbwhgp9Ifr6oW34j",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 603.77528436269,
+			"y": -14.039930052120894,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 29.309515404488746,
+			"height": 34.57017704221893,
+			"seed": 1090767422,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1002766689,
-			"version": 14,
-			"versionNonce": 1873665537,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985278043,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4917,55 +5155,226 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					0.7490011599415993,
-					0
+					-2.254554916885475,
+					0.7515015564629791
 				],
 				[
-					2.247103640450746,
-					0
+					-8.266768358575058,
+					4.509160081267202
 				],
 				[
-					6.741210760726176,
-					-1.4980524001961442
+					-14.278981800264644,
+					8.266768358575002
 				],
 				[
-					6.741210760726176,
-					-1.4980524001961442
+					-18.788141881531903,
+					12.024426883379226
+				],
+				[
+					-21.794248602376722,
+					16.53353671715006
+				],
+				[
+					-26.303408683643926,
+					24.048803519262083
+				],
+				[
+					-29.309515404488746,
+					34.57017704221893
+				],
+				[
+					-29.309515404488746,
+					34.57017704221893
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				6.741210760726176,
-				-1.4980524001961442
-			]
+			"pressures": []
 		},
 		{
-			"id": "Y3hHciGfKvtN3T-35zxdD",
+			"type": "freedraw",
+			"version": 141,
+			"versionNonce": 649399166,
+			"isDeleted": false,
+			"id": "-SbJMFMLAv2Rdci-anEvk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 615.7997112460691,
+			"y": -23.80975177111833,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 50.35221220290601,
+			"height": 78.91017580343524,
+			"seed": 1691079294,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.7515015564630362,
+					0.7515015564629791
+				],
+				[
+					3.0061067208448775,
+					4.509160081267202
+				],
+				[
+					6.76371499815262,
+					10.52132327546042
+				],
+				[
+					13.52742999630524,
+					20.291195241954284
+				],
+				[
+					18.788141881531903,
+					27.054910240106906
+				],
+				[
+					30.061016960951726,
+					42.83694540079393
+				],
+				[
+					40.58234023641214,
+					60.87353547836637
+				],
+				[
+					50.35221220290601,
+					78.91017580343524
+				],
+				[
+					50.35221220290601,
+					78.91017580343524
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
 			"type": "line",
-			"x": 116.60832727956017,
-			"y": -140.35183611004334,
-			"width": 87.71478260164486,
-			"height": 21.441406748668328,
-			"angle": 0,
-			"strokeColor": "#ff0000",
-			"backgroundColor": "transparent",
+			"version": 217,
+			"versionNonce": 490924990,
+			"isDeleted": false,
+			"id": "k2c6WDvhF33CzbjJPxoUL",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 115.17284941422554,
+			"y": -183.88470854237065,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.757608277307743,
+			"height": 202.16035036808685,
+			"seed": 451465918,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1906946607,
-			"version": 30,
-			"versionNonce": 1083650465,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007759813,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.757608277307743,
+					202.16035036808685
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 249,
+			"versionNonce": 1559023038,
+			"isDeleted": false,
+			"id": "1LxdS_aRIaCIXCJd_mKKj",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 110.85011684948998,
+			"y": -137.35477959293635,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 494.14645703844167,
+			"height": 87.35571406089731,
+			"seed": 2029761726,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					494.14645703844167,
+					87.35571406089731
+				]
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 156,
+			"versionNonce": 522082366,
+			"isDeleted": false,
+			"id": "-ez7eSBjbaJBUYc-fjsDn",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 635.1854295264948,
+			"y": -143.7102276890379,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 40.24717117904968,
+			"height": 19.89998383671589,
+			"seed": 1393065790,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4974,40 +5383,246 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					-87.71478260164486,
-					-21.441406748668328
+					-0.6707792417760446,
+					-2.235943568401088
+				],
+				[
+					-2.012353623516724,
+					-5.589872047884704
+				],
+				[
+					-6.037076768738819,
+					-14.08650979890913
+				],
+				[
+					-7.37863620074322,
+					-16.99324681781248
+				],
+				[
+					-7.825827661323483,
+					-17.887629738972954
+				],
+				[
+					-8.049430866481698,
+					-18.33482119955319
+				],
+				[
+					-8.273019121903749,
+					-18.55840945497518
+				],
+				[
+					-8.720210582483956,
+					-18.55840945497518
+				],
+				[
+					-11.403359345965315,
+					-19.452792376135655
+				],
+				[
+					-14.980891030607202,
+					-19.89998383671589
+				],
+				[
+					-21.912336244996425,
+					-19.89998383671589
+				],
+				[
+					-25.937059390218465,
+					-19.22920412071366
+				],
+				[
+					-29.738179330282346,
+					-17.664026533814738
+				],
+				[
+					-32.42132809376376,
+					-16.098863896652038
+				],
+				[
+					-33.09210780976596,
+					-15.204480975491567
+				],
+				[
+					-35.32806511266711,
+					-13.192126877748658
+				],
+				[
+					-36.22244803382758,
+					-12.297743956588187
+				],
+				[
+					-37.11683095498805,
+					-10.285374909109027
+				],
+				[
+					-38.23480213157046,
+					-7.378637890205619
+				],
+				[
+					-38.905596797308945,
+					-5.36628379246274
+				],
+				[
+					-39.12918505273099,
+					-4.248312615880275
+				],
+				[
+					-39.35278825788921,
+					-3.5775179501417957
+				],
+				[
+					-39.35278825788921,
+					-3.3539296947198034
+				],
+				[
+					-39.35278825788921,
+					-3.13032648956156
+				],
+				[
+					-39.35278825788921,
+					-2.906738234139567
+				],
+				[
+					-39.35278825788921,
+					-2.683135028981324
+				],
+				[
+					-39.35278825788921,
+					-2.4595467735593313
+				],
+				[
+					-39.35278825788921,
+					-2.235943568401088
+				],
+				[
+					-39.5763765133112,
+					-2.012355312979124
+				],
+				[
+					-39.79997971846947,
+					-1.5651638523988594
+				],
+				[
+					-40.02356797389141,
+					-1.3415606472406445
+				],
+				[
+					-40.24717117904968,
+					-1.117972391818652
+				],
+				[
+					-40.24717117904968,
+					-1.117972391818652
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			"simulatePressure": true,
+			"pressures": []
 		},
 		{
-			"id": "5pN93a0p0Reu6iUPWYZdG",
 			"type": "freedraw",
-			"x": -10.979844180310295,
-			"y": -137.80108615842025,
-			"width": 4.82177190993761,
-			"height": 16.218707316114177,
+			"version": 123,
+			"versionNonce": 2086969470,
+			"isDeleted": false,
+			"id": "m4d2R2GX2XpQAQLZShT-N",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
 			"angle": 0,
+			"x": 599.1865846978253,
+			"y": -202.7394045275791,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.00010033383079427738,
+			"height": 0.00010033383079427738,
+			"seed": 510781310,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.00010033383079427738,
+					0.00010033383079427738
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 124,
+			"versionNonce": 574087358,
+			"isDeleted": false,
+			"id": "2PkJUeHzoXM0plZybE_X8",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 631.8315015212372,
+			"y": -198.26749739664487,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.00010033383079427738,
+			"height": 0.00010033383079427738,
+			"seed": 1090799550,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985278043,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.00010033383079427738,
+					0.00010033383079427738
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 140,
+			"versionNonce": 1858968482,
+			"isDeleted": true,
+			"id": "68ewoyJr4qMWky26chEWR",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 546.6593571616313,
+			"y": -197.41216366242412,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 24.048803519262083,
+			"height": 1.5030533604224103,
+			"seed": 1039911678,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 636626209,
-			"version": 29,
-			"versionNonce": 822818831,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007751562,
+			"boundElements": [],
+			"updated": 1717985292162,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5016,184 +5631,394 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					0,
-					-0.219172116541273
+					-0.7515518039594026,
+					0
 				],
 				[
-					0,
-					-0.6575163496238758
+					-1.5030533604223817,
+					0
 				],
 				[
-					0,
-					-2.1917138384274892
+					-4.509160081267202,
+					0
 				],
 				[
-					0.2191647895558333,
-					-3.5067465376752978
+					-11.272875079419823,
+					0.7515266802112194
 				],
 				[
-					0.2191647895558333,
-					-3.9450907707579006
+					-18.036640325068866,
+					0.7515266802112194
 				],
 				[
-					0.43832957911163817,
-					-4.383435003840503
+					-24.048803519262083,
+					1.5030533604224103
 				],
 				[
-					0.6575236766093724,
-					-5.479295586546982
-				],
-				[
-					1.0958532557210106,
-					-6.794320958809294
-				],
-				[
-					1.753376932330383,
-					-7.451837308433198
-				],
-				[
-					2.8492301880513935,
-					-9.862730590387486
-				],
-				[
-					3.068394977607227,
-					-10.52024694001139
-				],
-				[
-					3.287589075104961,
-					-10.958583846108496
-				],
-				[
-					3.287589075104961,
-					-11.177755962649798
-				],
-				[
-					3.287589075104961,
-					-11.396928079191099
-				],
-				[
-					3.287589075104961,
-					-11.835272312273702
-				],
-				[
-					4.164248233328237,
-					-13.369477128062783
-				],
-				[
-					4.602607120381805,
-					-14.684509827310563
-				],
-				[
-					4.602607120381805,
-					-14.903681943851865
-				],
-				[
-					4.82177190993761,
-					-15.342018849948971
-				],
-				[
-					4.82177190993761,
-					-15.561190966490273
-				],
-				[
-					4.82177190993761,
-					-15.780363083031574
-				],
-				[
-					4.82177190993761,
-					-15.999535199572875
-				],
-				[
-					4.82177190993761,
-					-16.218707316114177
-				],
-				[
-					4.602607120381805,
-					-16.218707316114177
-				],
-				[
-					4.602607120381805,
-					-15.999535199572875
-				],
-				[
-					4.602607120381805,
-					-15.999535199572875
+					-24.048803519262083,
+					1.5030533604224103
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				4.602607120381805,
-				-15.999535199572875
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 136,
+			"versionNonce": 1663362942,
+			"isDeleted": true,
+			"id": "1-LYDbWiSjFzAWbSUCqOD",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 484.28271807534617,
+			"y": -192.90300358115687,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 21.794248602376666,
+			"height": 6.763740121900832,
+			"seed": 746961726,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.5030533604224388,
+					0.7515266802111908
+				],
+				[
+					-3.7576082773077997,
+					1.5030533604224103
+				],
+				[
+					-9.018269915038038,
+					3.0061067208448207
+				],
+				[
+					-16.53353671715006,
+					6.012213441689613
+				],
+				[
+					-21.794248602376666,
+					6.763740121900832
+				],
+				[
+					-21.794248602376666,
+					6.763740121900832
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 138,
+			"versionNonce": 2073941858,
+			"isDeleted": true,
+			"id": "gXaalXGTSBbmtolWD9Ifn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 341.49290007269974,
+			"y": -174.114861699625,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 27.054910240106846,
+			"height": 2.254580040633601,
+			"seed": 1290249086,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.7515518039594026,
+					0
+				],
+				[
+					-1.5030533604223817,
+					0
+				],
+				[
+					-4.509160081267202,
+					0
+				],
+				[
+					-9.769821718997385,
+					0
+				],
+				[
+					-14.278981800264644,
+					0.7515266802111908
+				],
+				[
+					-19.539693685491248,
+					1.5030533604223817
+				],
+				[
+					-27.054910240106846,
+					2.254580040633601
+				],
+				[
+					-27.054910240106846,
+					2.254580040633601
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 136,
+			"versionNonce": 2002208702,
+			"isDeleted": true,
+			"id": "Vi5yvU1kgQzRMkinHU8q3",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 232.52170730831273,
+			"y": -148.56300481994055,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 16.533536717150003,
+			"height": 3.0061067208448207,
+			"seed": 291668926,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.5031036079188052,
+					0
+				],
+				[
+					-3.0061067208447634,
+					0
+				],
+				[
+					-7.515317049608447,
+					-0.7515266802111908
+				],
+				[
+					-10.52142377045321,
+					-2.254580040633601
+				],
+				[
+					-16.533536717150003,
+					-3.0061067208448207
+				],
+				[
+					-16.533536717150003,
+					-3.0061067208448207
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 135,
+			"versionNonce": 1114676002,
+			"isDeleted": true,
+			"id": "NrEFf3xWUibYP5_HOgOFg",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 156.61763822572237,
+			"y": -138.0416312969837,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 7.515317049608447,
+			"height": 1.5030533604224103,
+			"seed": 2081905662,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.7515015564629791,
+					0
+				],
+				[
+					-2.2546051643818985,
+					0
+				],
+				[
+					-5.260711885226662,
+					-0.7515266802112194
+				],
+				[
+					-7.515317049608447,
+					-1.5030533604224103
+				],
+				[
+					-7.515317049608447,
+					-1.5030533604224103
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "line",
+			"version": 226,
+			"versionNonce": 574711266,
+			"isDeleted": true,
+			"id": "QLbdtEo5LCNnEjumxbRIF",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 114.75362352024715,
+			"y": -134.02578860141756,
+			"strokeColor": "#ff0000",
+			"backgroundColor": "transparent",
+			"width": 205.06086161069192,
+			"height": 0.35539199721622816,
+			"seed": 587672638,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1717985297978,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					205.06086161069192,
+					0.35539199721622816
+				]
 			]
 		},
 		{
-			"id": "Lvv17IGlN-P5hbs2rsXB9",
-			"type": "freedraw",
-			"x": -23.253453398681103,
-			"y": -203.5526148795204,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"type": "line",
+			"version": 270,
+			"versionNonce": 745437374,
+			"isDeleted": true,
+			"id": "8x3hkQxvRASxX1o1k9Ro7",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 121.81420782084228,
+			"y": -135.3990517237879,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 437.43050138771355,
+			"height": 59.975567479841274,
+			"seed": 873657470,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
-			"seed": 383007759,
-			"version": 4,
-			"versionNonce": 871507681,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007757836,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1717985293963,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					0.0001,
-					0.0001
+					437.43050138771355,
+					-59.975567479841274
 				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
 			]
 		},
 		{
-			"id": "JiGhkU_-xEwF_UO2DaYeP",
 			"type": "freedraw",
-			"x": -78.2655740537068,
-			"y": -205.0868196953095,
-			"width": 27.17731314317912,
-			"height": 0.8766884661652057,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 155,
+			"versionNonce": 675744126,
+			"isDeleted": true,
+			"id": "pvKSsHgxDi4GY-rUEXWgR",
 			"fillStyle": "hachure",
-			"strokeWidth": 1,
+			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 274.63654081480803,
+			"y": -135.23532201360726,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 1.759215541579854,
+			"height": 18.03208060003937,
+			"seed": 1533177086,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2011037025,
-			"version": 14,
-			"versionNonce": 749319375,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700007770951,
+			"boundElements": [],
+			"updated": 1717985298751,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5202,56 +6027,2222 @@ I have skinny calves and im mr ace ^CNCOod8s
 					0
 				],
 				[
-					-1.7533769323303972,
+					0,
+					-1.759222893025056
+				],
+				[
+					0.4398075611175716,
+					-4.617972040289243
+				],
+				[
+					1.3194226833526863,
+					-8.356328958343342
+				],
+				[
+					1.3194226833526863,
+					-9.895655422254842
+				],
+				[
+					1.5393191124662702,
+					-10.55535941248597
+				],
+				[
+					1.5393191124662702,
+					-10.775263193044756
+				],
+				[
+					1.5393191124662702,
+					-11.215070754162326
+				],
+				[
+					1.5393191124662702,
+					-11.434974534721112
+				],
+				[
+					1.5393191124662702,
+					-12.094685876397442
+				],
+				[
+					1.5393191124662702,
+					-13.414108559750128
+				],
+				[
+					1.5393191124662702,
+					-14.073819901426486
+				],
+				[
+					1.5393191124662702,
+					-14.293723681985272
+				],
+				[
+					1.5393191124662702,
+					-14.733531243102842
+				],
+				[
+					1.5393191124662702,
+					-14.953427672216398
+				],
+				[
+					1.5393191124662702,
+					-15.173331452775184
+				],
+				[
+					1.5393191124662702,
+					-15.39323523333397
+				],
+				[
+					1.3194226833526863,
+					-15.613139013892756
+				],
+				[
+					1.0995115513486986,
+					-15.613139013892756
+				],
+				[
+					1.0995115513486986,
+					-15.833042794451542
+				],
+				[
+					0.8796151222351432,
+					-16.052946575010328
+				],
+				[
+					0.8796151222351432,
+					-16.272850355569112
+				],
+				[
+					0.6597039902311269,
+					-16.4927541361279
+				],
+				[
+					0.6597039902311269,
+					-16.712657916686684
+				],
+				[
+					0.4398075611175716,
+					-16.932561697245472
+				],
+				[
+					0.4398075611175716,
+					-17.152465477804256
+				],
+				[
+					0.2199111320039877,
+					-17.37236925836304
+				],
+				[
+					0,
+					-17.592273038921828
+				],
+				[
+					0,
+					-17.812176819480612
+				],
+				[
+					0,
+					-18.03208060003937
+				],
+				[
+					-0.21989642911358387,
+					-18.03208060003937
+				],
+				[
+					-0.21989642911358387,
+					-18.03208060003937
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 169,
+			"versionNonce": 547279202,
+			"isDeleted": true,
+			"id": "knKmNnstQb4gXzamTZoQf",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 264.960789173112,
+			"y": -133.91589933025458,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 4.617972040289243,
+			"height": 20.670925966744743,
+			"seed": 1757945150,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985300785,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
 					0
 				],
 				[
-					-8.10936098504257,
-					0.6575163496239043
+					0,
+					0.6597113416763288
 				],
 				[
-					-14.246165594227989,
-					0.8766884661652057
+					0,
+					0.8796151222351146
 				],
 				[
-					-21.040493880022765,
-					0.8766884661652057
+					0,
+					2.4189342347013847
 				],
 				[
-					-23.889724068074173,
-					0.8766884661652057
+					0,
+					4.178164479171671
 				],
 				[
-					-25.643101000404556,
-					0.8766884661652057
+					0,
+					6.157291152755513
 				],
 				[
-					-26.519789466569748,
-					0.43834423308260284
+					0,
+					6.817009845877044
 				],
 				[
-					-26.738968910096517,
-					0.43834423308260284
+					0,
+					7.476713836108199
 				],
 				[
-					-26.95813369965235,
-					0.43834423308260284
+					0,
+					7.916521397225742
 				],
 				[
-					-27.17731314317912,
-					0.43834423308260284
+					0,
+					8.136432529229758
 				],
 				[
-					-27.17731314317912,
-					0.43834423308260284
+					0,
+					8.796136519460886
+				],
+				[
+					-0.21989642911358387,
+					10.115559202813586
+				],
+				[
+					-0.43979285822713926,
+					10.995174325048714
+				],
+				[
+					-0.43979285822713926,
+					11.874789447283844
+				],
+				[
+					-0.43979285822713926,
+					12.314597008401416
+				],
+				[
+					-0.43979285822713926,
+					12.534493437514985
+				],
+				[
+					-0.43979285822713926,
+					12.754404569518986
+				],
+				[
+					-0.43979285822713926,
+					12.974300998632556
+				],
+				[
+					-0.6597186931215593,
+					13.634019691754116
+				],
+				[
+					-0.8796151222351432,
+					14.073827252871673
+				],
+				[
+					-0.8796151222351432,
+					14.513620111098826
+				],
+				[
+					-1.0995115513486986,
+					15.173338804220386
+				],
+				[
+					-1.0995115513486986,
+					15.393235233333955
+				],
+				[
+					-1.3194079804622825,
+					15.833042794451528
+				],
+				[
+					-1.3194079804622825,
+					16.272850355569084
+				],
+				[
+					-1.5393338153567024,
+					16.712657916686656
+				],
+				[
+					-1.7592302444702579,
+					17.152465477804213
+				],
+				[
+					-1.9791266735838418,
+					17.372376609808214
+				],
+				[
+					-1.9791266735838418,
+					17.592273038921785
+				],
+				[
+					-2.199023102697397,
+					17.81218417092577
+				],
+				[
+					-2.199023102697397,
+					18.032080600039357
+				],
+				[
+					-2.418948937591817,
+					18.251991732043344
+				],
+				[
+					-2.638845366705401,
+					18.251991732043344
+				],
+				[
+					-2.638845366705401,
+					18.691799293160916
+				],
+				[
+					-2.8587417958189563,
+					18.911695722274484
+				],
+				[
+					-3.0786382249325404,
+					19.131592151388055
+				],
+				[
+					-3.29856405982696,
+					19.35150328339204
+				],
+				[
+					-3.5184604889405158,
+					19.35150328339204
+				],
+				[
+					-3.5184604889405158,
+					19.571399712505627
+				],
+				[
+					-3.7383569180540994,
+					19.791310844509614
+				],
+				[
+					-4.178149776281239,
+					20.231118405627186
+				],
+				[
+					-4.398075611175659,
+					20.451014834740754
+				],
+				[
+					-4.617972040289243,
+					20.670925966744743
+				],
+				[
+					-4.617972040289243,
+					20.451014834740754
+				],
+				[
+					-4.617972040289243,
+					20.231118405627186
+				],
+				[
+					-4.617972040289243,
+					20.231118405627186
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-27.17731314317912,
-				0.43834423308260284
-			]
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 189,
+			"versionNonce": 1322491902,
+			"isDeleted": true,
+			"id": "FxvicR49EVNb4LJSwu94Y",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 265.79512115564955,
+			"y": -150.17318549490682,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 15.908489837878184,
+			"height": 13.502819232302317,
+			"seed": 1452131710,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.3104101146321169,
+					0.15520505731607626
+				],
+				[
+					0.9312303438963507,
+					0.5432177006062099
+				],
+				[
+					1.8624606877927015,
+					1.5520505731605916
+				],
+				[
+					3.0265012119374997,
+					2.7936884374147115
+				],
+				[
+					3.4921111953369692,
+					3.3369035437465744
+				],
+				[
+					3.957726367285148,
+					3.8025187156947458
+				],
+				[
+					4.11293142460121,
+					4.035326301668832
+				],
+				[
+					4.656146530933065,
+					5.199361637264943
+				],
+				[
+					4.733751653865444,
+					5.432169223239
+				],
+				[
+					4.811351588249121,
+					5.587374280555076
+				],
+				[
+					4.888956711181506,
+					5.742579337871124
+				],
+				[
+					4.966556645565182,
+					5.8977843951872
+				],
+				[
+					4.966556645565182,
+					5.9753869238452095
+				],
+				[
+					4.966556645565182,
+					6.208194509819324
+				],
+				[
+					4.656146530933065,
+					6.829012144809196
+				],
+				[
+					4.345736416300949,
+					7.294627316757368
+				],
+				[
+					4.035331490217526,
+					7.8378424230892305
+				],
+				[
+					3.4921111953369692,
+					8.536267775285836
+				],
+				[
+					3.104101146321176,
+					9.001877758685312
+				],
+				[
+					2.716091097305383,
+					9.389892996249822
+				],
+				[
+					1.7072608190253484,
+					10.24351821721378
+				],
+				[
+					1.0088406553774312,
+					10.631533454778289
+				],
+				[
+					0.38802042611319737,
+					11.174748561110151
+				],
+				[
+					-0.07759993438368355,
+					11.40755355280989
+				],
+				[
+					-1.0864302126637106,
+					11.950773847690447
+				],
+				[
+					-1.940060622176385,
+					12.416383831089895
+				],
+				[
+					-3.1816907036074626,
+					12.959604125970454
+				],
+				[
+					-3.8025109328716966,
+					13.19240911767022
+				],
+				[
+					-4.888951522632811,
+					13.425219297918654
+				],
+				[
+					-5.354561506032288,
+					13.502819232302317
+				],
+				[
+					-6.208191915544955,
+					13.425219297918654
+				],
+				[
+					-6.673801898944432,
+					13.347614174986267
+				],
+				[
+					-6.984212013576556,
+					13.19240911767022
+				],
+				[
+					-7.372222062592343,
+					12.959604125970454
+				],
+				[
+					-7.993042291856576,
+					12.571588888405973
+				],
+				[
+					-8.381052340872376,
+					12.261183962322571
+				],
+				[
+					-8.76907276698558,
+					11.950773847690447
+				],
+				[
+					-9.312282684768734,
+					11.485158675742248
+				],
+				[
+					-9.622692799400845,
+					11.097143438177767
+				],
+				[
+					-10.165913094281402,
+					10.010713225514042
+				],
+				[
+					-10.553923143297203,
+					9.312287873317436
+				],
+				[
+					-10.864333257929326,
+					8.303457595037402
+				],
+				[
+					-10.941933192313002,
+					7.8378424230892305
+				],
+				[
+					-10.786733323545635,
+					6.44100209579341
+				],
+				[
+					-10.476323208913525,
+					5.35456669458099
+				],
+				[
+					-10.088313159897725,
+					4.65614653093308
+				],
+				[
+					-9.467492930633492,
+					3.8025187156947458
+				],
+				[
+					-9.157082816001367,
+					3.56971112972066
+				],
+				[
+					-8.924272635752933,
+					3.3369035437465744
+				],
+				[
+					-8.613862521120824,
+					3.0264960233887974
+				],
+				[
+					-7.9154423574729,
+					2.405675794124578
+				],
+				[
+					-7.294622128208665,
+					1.78485556486033
+				],
+				[
+					-6.673801898944432,
+					1.3968455158445439
+				],
+				[
+					-5.8977818009128455,
+					0.853627815238334
+				],
+				[
+					-5.354561506032288,
+					0.6208202292642481
+				],
+				[
+					-4.81134121115173,
+					0.38801264329016216
+				],
+				[
+					-4.423331162135931,
+					0.23280758597408588
+				],
+				[
+					-3.9577211787364535,
+					0.15520505731607626
+				],
+				[
+					-3.4921008182395723,
+					0.15520505731607626
+				],
+				[
+					-2.4056706055758617,
+					0.15520505731607626
+				],
+				[
+					-1.940060622176385,
+					0.15520505731607626
+				],
+				[
+					-1.629650507544268,
+					0.15520505731607626
+				],
+				[
+					-1.3968403272958347,
+					0.23280758597408588
+				],
+				[
+					-1.1640301470473942,
+					0.23280758597408588
+				],
+				[
+					-1.0864302126637106,
+					0.23280758597408588
+				],
+				[
+					-1.0864302126637106,
+					0.23280758597408588
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 160,
+			"versionNonce": 1907680994,
+			"isDeleted": true,
+			"id": "rYT-wfJuvmFSfPp1SVMOh",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 269.8304526458671,
+			"y": -142.8009556494914,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 13.270014240602585,
+			"height": 1.78485556486033,
+			"seed": 99902910,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.15520505731604775
+				],
+				[
+					-0.07760512293237845,
+					-0.31041011463212403
+				],
+				[
+					-0.07760512293237845,
+					-0.46561517194817176
+				],
+				[
+					-0.15520505731605488,
+					-0.5432177006062099
+				],
+				[
+					-0.23281018024843333,
+					-0.6208202292642481
+				],
+				[
+					-0.38801523756449535,
+					-0.6984227579222576
+				],
+				[
+					-1.0088302782800271,
+					-1.0088302782800342
+				],
+				[
+					-1.7072504419279444,
+					-1.2416378642541201
+				],
+				[
+					-2.483280917056942,
+					-1.474445450228206
+				],
+				[
+					-3.1817010807048525,
+					-1.6296505075442822
+				],
+				[
+					-3.414511260953293,
+					-1.707253036202292
+				],
+				[
+					-3.8025213099690935,
+					-1.707253036202292
+				],
+				[
+					-4.190531358984887,
+					-1.78485556486033
+				],
+				[
+					-4.966551457016481,
+					-1.78485556486033
+				],
+				[
+					-5.432171817513361,
+					-1.78485556486033
+				],
+				[
+					-5.975392112393911,
+					-1.78485556486033
+				],
+				[
+					-6.363402161409712,
+					-1.78485556486033
+				],
+				[
+					-6.673812276041829,
+					-1.78485556486033
+				],
+				[
+					-7.682642554321856,
+					-1.6296505075442822
+				],
+				[
+					-7.99305266895398,
+					-1.474445450228206
+				],
+				[
+					-8.458662652353457,
+					-1.3968429215701963
+				],
+				[
+					-8.846672701369258,
+					-1.2416378642541201
+				],
+				[
+					-9.700303110881924,
+					-0.853627815238334
+				],
+				[
+					-10.165913094281402,
+					-0.5432177006062099
+				],
+				[
+					-10.476323208913525,
+					-0.38801264329016216
+				],
+				[
+					-10.786733323545635,
+					-0.23280758597408588
+				],
+				[
+					-11.174753749658839,
+					-0.07760252865803813
+				],
+				[
+					-11.640363733058317,
+					0
+				],
+				[
+					-12.028373782074103,
+					0
+				],
+				[
+					-12.493994142570983,
+					0
+				],
+				[
+					-12.804404257203108,
+					0
+				],
+				[
+					-13.037204060354137,
+					-0.07760252865803813
+				],
+				[
+					-13.114803994737814,
+					-0.07760252865803813
+				],
+				[
+					-13.192414306218893,
+					-0.07760252865803813
+				],
+				[
+					-13.192414306218893,
+					-0.15520505731604775
+				],
+				[
+					-13.270014240602585,
+					-0.15520505731604775
+				],
+				[
+					-13.270014240602585,
+					-0.15520505731604775
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 133,
+			"versionNonce": 1570435134,
+			"isDeleted": true,
+			"id": "NvM1pBEqRTNl-hdDh9DIi",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 250.47276091041556,
+			"y": -144.17170535964047,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.15520505731605488,
+			"height": 4.500936285068309,
+			"seed": 136117758,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.6984201636479103
+				],
+				[
+					0,
+					2.5608782571662783
+				],
+				[
+					0.07760512293237845,
+					3.724916187036708
+				],
+				[
+					0.07760512293237845,
+					4.112926236052522
+				],
+				[
+					0.07760512293237845,
+					4.1905261704361845
+				],
+				[
+					0.07760512293237845,
+					4.268131293368571
+				],
+				[
+					0.07760512293237845,
+					4.345731227752261
+				],
+				[
+					0.07760512293237845,
+					4.423336350684618
+				],
+				[
+					0.15520505731605488,
+					4.500936285068309
+				],
+				[
+					0.15520505731605488,
+					4.500936285068309
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 124,
+			"versionNonce": 301578914,
+			"isDeleted": true,
+			"id": "lL9EM_MGQOkaL4Oi6jAQx",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 249.8519406811514,
+			"y": -148.6726468332575,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 0.00010033383079427738,
+			"height": 0.00010033383079427738,
+			"seed": 570986046,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985292162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.00010033383079427738,
+					0.00010033383079427738
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 198,
+			"versionNonce": 1518005694,
+			"isDeleted": true,
+			"id": "14yZzKVsVW_synvs-Iw2L",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 250.31755585309952,
+			"y": -129.66005584905812,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 15.830889903494501,
+			"height": 13.813224158385745,
+			"seed": 1352144510,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985300785,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.23281018024844047,
+					0.3880100490157862
+				],
+				[
+					0.4656151719481789,
+					0.9312303438963435
+				],
+				[
+					0.7760252865802958,
+					1.7072504419279444
+				],
+				[
+					1.0088302782800342,
+					2.0952656794924542
+				],
+				[
+					1.1640353355960962,
+					2.405675794124578
+				],
+				[
+					1.3192403929121512,
+					3.181695892156179
+				],
+				[
+					1.3968455158445297,
+					3.414506072404584
+				],
+				[
+					1.3968455158445297,
+					3.56971112972066
+				],
+				[
+					1.3968455158445297,
+					4.5009414736170035
+				],
+				[
+					1.3968455158445297,
+					4.888951522632818
+				],
+				[
+					1.3968455158445297,
+					5.1217565143325565
+				],
+				[
+					1.3968455158445297,
+					5.35456669458099
+				],
+				[
+					1.1640353355960962,
+					5.975386923845224
+				],
+				[
+					1.0864354012124127,
+					6.1305919811612855
+				],
+				[
+					1.0088302782800342,
+					6.285791849928639
+				],
+				[
+					0.8536304095126742,
+					6.596201964560763
+				],
+				[
+					0.5432202948805573,
+					6.984217202125244
+				],
+				[
+					0,
+					7.682637365773168
+				],
+				[
+					-0.23280499169973845,
+					8.070647414788969
+				],
+				[
+					-1.0864302126637106,
+					8.769072766985573
+				],
+				[
+					-1.7848555648603228,
+					9.157082816001374
+				],
+				[
+					-2.4832757285082403,
+					9.700297922333222
+				],
+				[
+					-2.716080720207979,
+					9.855502979649298
+				],
+				[
+					-3.4921060067882674,
+					10.32111815159747
+				],
+				[
+					-3.9577211787364464,
+					10.553928331845905
+				],
+				[
+					-4.656141342384363,
+					10.941938380861705
+				],
+				[
+					-5.121756514332535,
+					11.097143438177767
+				],
+				[
+					-5.742576743596776,
+					11.252348495493814
+				],
+				[
+					-6.285791849928632,
+					11.329948429877504
+				],
+				[
+					-7.294627316757361,
+					11.252348495493814
+				],
+				[
+					-8.691472832601898,
+					10.864338446478028
+				],
+				[
+					-9.389892996249808,
+					10.709133389161966
+				],
+				[
+					-10.243513028665078,
+					10.165913094281409
+				],
+				[
+					-10.70913338916196,
+					9.93310810258167
+				],
+				[
+					-11.485153487193552,
+					9.545092865017175
+				],
+				[
+					-11.873163536209345,
+					9.23468793893376
+				],
+				[
+					-12.649194011338343,
+					8.381057529421092
+				],
+				[
+					-13.425214109369938,
+					7.13942225944132
+				],
+				[
+					-13.813224158385731,
+					6.285791849928639
+				],
+				[
+					-14.123634273017855,
+					5.276961571648605
+				],
+				[
+					-14.356444453266288,
+					3.9577211787364464
+				],
+				[
+					-14.43404438764997,
+					2.4832757285082403
+				],
+				[
+					-14.43404438764997,
+					2.0176605565600685
+				],
+				[
+					-14.356444453266288,
+					1.6296505075442822
+				],
+				[
+					-14.356444453266288,
+					1.5520453846118967
+				],
+				[
+					-14.278844518882611,
+					1.474445450228206
+				],
+				[
+					-14.123634273017855,
+					1.3192403929121583
+				],
+				[
+					-13.813224158385731,
+					1.0088302782800342
+				],
+				[
+					-12.72679394572202,
+					0.15520505731607626
+				],
+				[
+					-11.79556360182567,
+					-0.46561517194817176
+				],
+				[
+					-10.553923143297196,
+					-1.164035335596082
+				],
+				[
+					-9.312282684768727,
+					-1.7072556304766393
+				],
+				[
+					-8.381062717969774,
+					-1.9400606221763779
+				],
+				[
+					-7.605032242840783,
+					-2.1728656138761164
+				],
+				[
+					-6.596201964560748,
+					-2.328070671192164
+				],
+				[
+					-5.897781800912831,
+					-2.4832757285082403
+				],
+				[
+					-5.354566694580976,
+					-2.4832757285082403
+				],
+				[
+					-4.57854140800068,
+					-2.4832757285082403
+				],
+				[
+					-3.9577211787364464,
+					-2.4832757285082403
+				],
+				[
+					-3.0264908348400956,
+					-2.4832757285082403
+				],
+				[
+					-2.4056706055758617,
+					-2.4056757941245497
+				],
+				[
+					-1.629650507544268,
+					-2.1728656138761164
+				],
+				[
+					-1.164035335596089,
+					-2.017665745108763
+				],
+				[
+					-0.9312251553476486,
+					-1.862460687792687
+				],
+				[
+					-0.8536252209639722,
+					-1.862460687792687
+				],
+				[
+					-0.7760200980315938,
+					-1.862460687792687
+				],
+				[
+					-0.6984201636479103,
+					-1.78485556486033
+				],
+				[
+					-0.6984201636479103,
+					-1.7072556304766393
+				],
+				[
+					-0.6208202292642337,
+					-1.2416404585284675
+				],
+				[
+					-0.6208202292642337,
+					-0.23281018024843333
+				],
+				[
+					-0.6208202292642337,
+					0.31041011463212403
+				],
+				[
+					-0.5432151063318553,
+					0.9312303438963435
+				],
+				[
+					-0.5432151063318553,
+					1.0864354012124198
+				],
+				[
+					-0.5432151063318553,
+					1.1640353355961106
+				],
+				[
+					-0.5432151063318553,
+					1.1640353355961106
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 155,
+			"versionNonce": 1363301666,
+			"isDeleted": true,
+			"id": "9MoxAHYgHDAB2AtpY55ky",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 250.0847508613998,
+			"y": -124.38309427740953,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 11.717968855990687,
+			"height": 2.0952656794924254,
+			"seed": 1284282046,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985300785,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.07759993438367643
+				],
+				[
+					-0.15520505731605488,
+					-0.31041011463212403
+				],
+				[
+					-0.23281018024843333,
+					-0.46561517194817176
+				],
+				[
+					-0.38801523756449535,
+					-0.6208202292642195
+				],
+				[
+					-1.0088302782800271,
+					-1.0088302782800342
+				],
+				[
+					-1.8624606877927015,
+					-1.3968403272958205
+				],
+				[
+					-3.4921111953369692,
+					-1.8624554992440208
+				],
+				[
+					-3.802516121420384,
+					-1.9400606221763779
+				],
+				[
+					-4.423336350684625,
+					-2.0952656794924254
+				],
+				[
+					-4.7337464653167425,
+					-2.0952656794924254
+				],
+				[
+					-4.966556645565182,
+					-2.0952656794924254
+				],
+				[
+					-5.664976809213092,
+					-2.0952656794924254
+				],
+				[
+					-6.052986858228893,
+					-2.0176605565600685
+				],
+				[
+					-6.673807087493127,
+					-1.9400606221763779
+				],
+				[
+					-6.984217202125244,
+					-1.78485556486033
+				],
+				[
+					-7.527432308457099,
+					-1.6296505075442538
+				],
+				[
+					-7.915447546021602,
+					-1.474445450228206
+				],
+				[
+					-8.536267775285836,
+					-1.2416352699797726
+				],
+				[
+					-8.92427782430163,
+					-1.0864302126636964
+				],
+				[
+					-9.234687938933746,
+					-1.0088302782800342
+				],
+				[
+					-9.777908233814303,
+					-1.0088302782800342
+				],
+				[
+					-10.01070803696534,
+					-1.0088302782800342
+				],
+				[
+					-10.321118151597457,
+					-1.0088302782800342
+				],
+				[
+					-10.47632839746222,
+					-1.0088302782800342
+				],
+				[
+					-10.63152826622958,
+					-1.0088302782800342
+				],
+				[
+					-10.709128200613257,
+					-1.0088302782800342
+				],
+				[
+					-10.864338446478014,
+					-1.0088302782800342
+				],
+				[
+					-11.40755874135857,
+					-1.2416352699797726
+				],
+				[
+					-11.640358544509608,
+					-1.3968403272958205
+				],
+				[
+					-11.717968855990687,
+					-1.474445450228206
+				],
+				[
+					-11.717968855990687,
+					-1.5520453846118967
+				],
+				[
+					-11.717968855990687,
+					-1.5520453846118967
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "freedraw",
+			"version": 298,
+			"versionNonce": 445810174,
+			"isDeleted": true,
+			"id": "hbWkXrg4kHHG0jSTJASkl",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 232.4690002044963,
+			"y": -130.66888612733814,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 8.225852472105016,
+			"height": 12.02837378207411,
+			"seed": 243732222,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985300785,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.23280499169973845
+				],
+				[
+					0,
+					0.6984201636479387
+				],
+				[
+					0,
+					0.9312251553476486
+				],
+				[
+					0,
+					1.3968403272958205
+				],
+				[
+					0,
+					1.5520453846118967
+				],
+				[
+					0,
+					1.7072504419279444
+				],
+				[
+					0,
+					1.78485556486033
+				],
+				[
+					0,
+					2.172865613876145
+				],
+				[
+					0,
+					3.1040959577724885
+				],
+				[
+					-0.07759993438367643,
+					3.647311064104351
+				],
+				[
+					-0.23279980315104354,
+					4.268131293368571
+				],
+				[
+					-0.23279980315104354,
+					4.656141342384385
+				],
+				[
+					-0.31041011463212403,
+					5.276961571648605
+				],
+				[
+					-0.38801004901580044,
+					5.820176677980467
+				],
+				[
+					-0.4656099833994769,
+					6.130586792612591
+				],
+				[
+					-0.5432099177831533,
+					6.596201964560763
+				],
+				[
+					-0.5432099177831533,
+					6.75140702187681
+				],
+				[
+					-0.5432099177831533,
+					6.829012144809196
+				],
+				[
+					-0.5432099177831533,
+					6.906612079192873
+				],
+				[
+					-0.6208202292642337,
+					7.061817136508934
+				],
+				[
+					-0.6208202292642337,
+					7.217022193824996
+				],
+				[
+					-0.7760200980316009,
+					7.605032242840797
+				],
+				[
+					-0.8536200324152773,
+					7.8378424230892305
+				],
+				[
+					-0.8536200324152773,
+					7.993047480405278
+				],
+				[
+					-0.8536200324152773,
+					8.148252537721355
+				],
+				[
+					-0.8536200324152773,
+					8.225852472105016
+				],
+				[
+					-0.8536200324152773,
+					8.303457595037402
+				],
+				[
+					-0.8536200324152773,
+					8.381057529421092
+				],
+				[
+					-0.8536200324152773,
+					8.303457595037402
+				],
+				[
+					-0.8536200324152773,
+					8.225852472105016
+				],
+				[
+					-0.8536200324152773,
+					8.148252537721355
+				],
+				[
+					-0.8536200324152773,
+					7.915442357472907
+				],
+				[
+					-0.8536200324152773,
+					7.8378424230892305
+				],
+				[
+					-0.8536200324152773,
+					7.682637365773168
+				],
+				[
+					-0.8536200324152773,
+					7.605032242840797
+				],
+				[
+					-0.8536200324152773,
+					7.449827185524721
+				],
+				[
+					-0.8536200324152773,
+					7.294622128208673
+				],
+				[
+					-0.9312303438963578,
+					6.906612079192873
+				],
+				[
+					-1.0088302782800342,
+					6.75140702187681
+				],
+				[
+					-1.0088302782800342,
+					6.596201964560763
+				],
+				[
+					-1.0088302782800342,
+					6.440996907244701
+				],
+				[
+					-1.0088302782800342,
+					6.285791849928639
+				],
+				[
+					-1.0088302782800342,
+					6.208191915544963
+				],
+				[
+					-1.0864302126637106,
+					5.820176677980467
+				],
+				[
+					-1.164030147047387,
+					5.432166628964652
+				],
+				[
+					-1.2416300814310635,
+					5.1217565143325565
+				],
+				[
+					-1.2416300814310635,
+					4.966551457016481
+				],
+				[
+					-1.2416300814310635,
+					4.888951522632818
+				],
+				[
+					-1.2416300814310635,
+					4.811346399700433
+				],
+				[
+					-1.2416300814310635,
+					4.7337464653167425
+				],
+				[
+					-1.2416300814310635,
+					4.656141342384385
+				],
+				[
+					-1.2416300814310635,
+					4.578541408000694
+				],
+				[
+					-1.319240392912144,
+					4.500936285068309
+				],
+				[
+					-1.319240392912144,
+					4.578541408000694
+				],
+				[
+					-1.319240392912144,
+					4.7337464653167425
+				],
+				[
+					-1.319240392912144,
+					4.888951522632818
+				],
+				[
+					-1.319240392912144,
+					5.044156579948866
+				],
+				[
+					-1.319240392912144,
+					5.199361637264943
+				],
+				[
+					-1.319240392912144,
+					5.276961571648605
+				],
+				[
+					-1.319240392912144,
+					5.432166628964652
+				],
+				[
+					-1.319240392912144,
+					5.587371686280728
+				],
+				[
+					-1.319240392912144,
+					5.664971620664419
+				],
+				[
+					-1.319240392912144,
+					5.742576743596776
+				],
+				[
+					-1.319240392912144,
+					5.975381735296515
+				],
+				[
+					-1.2416300814310635,
+					6.285791849928639
+				],
+				[
+					-1.0864302126637106,
+					7.294622128208673
+				],
+				[
+					-0.9312303438963578,
+					8.225852472105016
+				],
+				[
+					-0.8536200324152773,
+					9.234682750385051
+				],
+				[
+					-0.7760200980316009,
+					9.545092865017175
+				],
+				[
+					-0.7760200980316009,
+					9.700297922333236
+				],
+				[
+					-0.7760200980316009,
+					9.777903045265608
+				],
+				[
+					-0.7760200980316009,
+					9.933108102581684
+				],
+				[
+					-0.7760200980316009,
+					10.088313159897732
+				],
+				[
+					-0.7760200980316009,
+					10.32111815159747
+				],
+				[
+					-0.7760200980316009,
+					10.55392314329721
+				],
+				[
+					-0.7760200980316009,
+					10.709128200613257
+				],
+				[
+					-0.7760200980316009,
+					10.786733323545642
+				],
+				[
+					-0.7760200980316009,
+					10.864333257929333
+				],
+				[
+					-0.7760200980316009,
+					11.01953831524538
+				],
+				[
+					-0.7760200980316009,
+					11.174743372561442
+				],
+				[
+					-0.7760200980316009,
+					11.252348495493814
+				],
+				[
+					-0.7760200980316009,
+					11.329948429877504
+				],
+				[
+					-0.7760200980316009,
+					11.40755355280989
+				],
+				[
+					-0.7760200980316009,
+					11.485153487193552
+				],
+				[
+					-0.7760200980316009,
+					11.562758610125938
+				],
+				[
+					-0.7760200980316009,
+					11.64035854450963
+				],
+				[
+					-0.7760200980316009,
+					11.717963667442
+				],
+				[
+					-0.7760200980316009,
+					11.795563601825677
+				],
+				[
+					-0.8536200324152773,
+					11.873168724758061
+				],
+				[
+					-0.8536200324152773,
+					11.950768659141739
+				],
+				[
+					-0.8536200324152773,
+					12.02837378207411
+				],
+				[
+					-0.8536200324152773,
+					11.950768659141739
+				],
+				[
+					-0.8536200324152773,
+					11.873168724758061
+				],
+				[
+					-0.8536200324152773,
+					11.717963667442
+				],
+				[
+					-0.8536200324152773,
+					11.40755355280989
+				],
+				[
+					-0.8536200324152773,
+					11.174743372561442
+				],
+				[
+					-0.8536200324152773,
+					10.786733323545642
+				],
+				[
+					-0.8536200324152773,
+					10.631528266229594
+				],
+				[
+					-0.8536200324152773,
+					9.545092865017175
+				],
+				[
+					-0.8536200324152773,
+					8.458662652353464
+				],
+				[
+					-0.6984201636479103,
+					7.217022193824996
+				],
+				[
+					-0.6984201636479103,
+					6.829012144809196
+				],
+				[
+					-0.6984201636479103,
+					6.596201964560763
+				],
+				[
+					-0.6984201636479103,
+					6.518602030177072
+				],
+				[
+					-0.6984201636479103,
+					6.3633969728610245
+				],
+				[
+					-0.6984201636479103,
+					5.975381735296515
+				],
+				[
+					-0.8536200324152773,
+					5.199361637264943
+				],
+				[
+					-0.9312303438963578,
+					4.966551457016481
+				],
+				[
+					-1.0088302782800342,
+					4.811346399700433
+				],
+				[
+					-1.0088302782800342,
+					4.656141342384385
+				],
+				[
+					-1.0088302782800342,
+					4.578541408000694
+				],
+				[
+					-1.0088302782800342,
+					4.423336350684618
+				],
+				[
+					-1.319240392912144,
+					3.880121244352784
+				],
+				[
+					-1.5520401960631875,
+					3.3369009494722266
+				],
+				[
+					-1.7848503763116208,
+					2.948890900456412
+				],
+				[
+					-1.7848503763116208,
+					2.871285777524055
+				],
+				[
+					-1.8624503106953116,
+					2.716080720207979
+				],
+				[
+					-1.8624503106953116,
+					2.560875662891931
+				],
+				[
+					-1.940060622176392,
+					2.560875662891931
+				],
+				[
+					-1.940060622176392,
+					2.4832757285082403
+				],
+				[
+					-2.0176605565600685,
+					2.4832757285082403
+				],
+				[
+					-2.095260490943745,
+					2.4832757285082403
+				],
+				[
+					-2.1728604253274213,
+					2.4832757285082403
+				],
+				[
+					-2.5608808514406256,
+					2.2504707368085017
+				],
+				[
+					-2.8712805889753317,
+					1.9400606221763779
+				],
+				[
+					-3.259301015088536,
+					1.7072504419279444
+				],
+				[
+					-3.3369009494722124,
+					1.7072504419279444
+				],
+				[
+					-3.414500883855889,
+					1.6296505075442822
+				],
+				[
+					-3.56971112972066,
+					1.6296505075442822
+				],
+				[
+					-4.268131293368571,
+					1.3968403272958205
+				],
+				[
+					-4.57854140800068,
+					1.3192403929121583
+				],
+				[
+					-5.044151391400157,
+					1.2416352699797726
+				],
+				[
+					-5.509771751897038,
+					1.0864302126637249
+				],
+				[
+					-5.587371686280714,
+					1.0864302126637249
+				],
+				[
+					-5.742571555048081,
+					1.0864302126637249
+				],
+				[
+					-5.975381735296515,
+					1.0864302126637249
+				],
+				[
+					-6.363391784312316,
+					1.0864302126637249
+				],
+				[
+					-6.518602030177072,
+					1.0864302126637249
+				],
+				[
+					-6.829012144809196,
+					1.0864302126637249
+				],
+				[
+					-7.0618119479602255,
+					1.1640353355961106
+				],
+				[
+					-7.1394222594413055,
+					1.1640353355961106
+				],
+				[
+					-7.217022193824982,
+					1.2416352699797726
+				],
+				[
+					-7.294622128208658,
+					1.2416352699797726
+				],
+				[
+					-7.527432308457106,
+					1.3968403272958205
+				],
+				[
+					-7.760232111608135,
+					1.5520453846118967
+				],
+				[
+					-7.837842423089216,
+					1.6296505075442822
+				],
+				[
+					-7.915442357472907,
+					1.78485556486033
+				],
+				[
+					-7.993042291856583,
+					1.8624554992440208
+				],
+				[
+					-8.07064222624026,
+					1.9400606221763779
+				],
+				[
+					-8.14825253772134,
+					2.0176605565600685
+				],
+				[
+					-8.14825253772134,
+					2.172865613876145
+				],
+				[
+					-8.225852472105016,
+					2.2504707368085017
+				],
+				[
+					-8.225852472105016,
+					2.4832757285082403
+				],
+				[
+					-8.225852472105016,
+					2.6384807858243167
+				],
+				[
+					-8.225852472105016,
+					2.793685843140364
+				],
+				[
+					-8.225852472105016,
+					2.948890900456412
+				],
+				[
+					-8.225852472105016,
+					3.0264908348401027
+				],
+				[
+					-8.225852472105016,
+					3.181695892156179
+				],
+				[
+					-8.225852472105016,
+					3.3369009494722266
+				],
+				[
+					-8.225852472105016,
+					3.4145060724046123
+				],
+				[
+					-8.225852472105016,
+					3.4921060067882745
+				],
+				[
+					-8.14825253772134,
+					3.56971112972066
+				],
+				[
+					-8.07064222624026,
+					3.56971112972066
+				],
+				[
+					-8.07064222624026,
+					3.724916187036736
+				],
+				[
+					-7.993042291856583,
+					3.8025161214203984
+				],
+				[
+					-7.993042291856583,
+					3.880121244352784
+				],
+				[
+					-7.915442357472907,
+					4.035321113120137
+				],
+				[
+					-7.915442357472907,
+					4.112926236052522
+				],
+				[
+					-7.915442357472907,
+					4.190526170436213
+				],
+				[
+					-7.915442357472907,
+					4.268131293368571
+				],
+				[
+					-7.915442357472907,
+					4.345731227752261
+				],
+				[
+					-7.915442357472907,
+					4.423336350684618
+				],
+				[
+					-7.915442357472907,
+					4.345731227752261
+				],
+				[
+					-7.915442357472907,
+					4.268131293368571
+				],
+				[
+					-7.915442357472907,
+					4.268131293368571
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "text",
+			"version": 158,
+			"versionNonce": 1811869026,
+			"isDeleted": true,
+			"id": "h7KsEKFC",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 215.3230995690837,
+			"y": -274.2700079919251,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 347.29529165300863,
+			"height": 25.083457698569344,
+			"seed": 1524670462,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717985281551,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.066766158855476,
+			"fontFamily": 1,
+			"text": "I have skinny calves and im mr ace",
+			"rawText": "I have skinny calves and im mr ace",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "I have skinny calves and im mr ace",
+			"lineHeight": 1.25,
+			"baseline": 17
 		}
 	],
 	"appState": {
@@ -5269,10 +8260,10 @@ I have skinny calves and im mr ace ^CNCOod8s
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 772.6839434933659,
-		"scrollY": 423.4794552832187,
+		"scrollX": 494.46144853143994,
+		"scrollY": 479.59970272680044,
 		"zoom": {
-			"value": 1.370267078903399
+			"value": 1.0929099132326354
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
