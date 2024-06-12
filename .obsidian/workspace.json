@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "db060313bfa9937e",
+            "id": "fb672964fbe22407",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Physics 11.4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "Physics 11.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md",
+                "file": "Physics 11.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "Physics 11.4.md"
               }
             }
           },
@@ -160,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.3 Reflection of light.md"
+                "file": "Physics 11.4.md"
               }
             }
           },
@@ -195,10 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db060313bfa9937e",
+  "active": "fb672964fbe22407",
   "lastOpenFiles": [
-    "Physics Grade 11 IA3.md",
     "Physics 11.3 Reflection of light.md",
+    "Physics 11.4.md",
+    "Physics Grade 11 IA3.md",
     "English IA3.md",
     "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/Physisc More mirrors.md",
@@ -225,7 +228,6 @@
     "surface area.md",
     "Excalidraw/Physics 8.4 eamaple.md",
     "Physics 8.4 Transformers.md",
-    "Untitled 17.md",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
     "Pasted Image 20240523221028_200.png",
