@@ -38,9 +38,19 @@
                 "file": "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "8c1a9511b3789a13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md"
               }
             }
           },
@@ -185,9 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4d3b2f1958989af",
+  "active": "8c1a9511b3789a13",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-06-12 08.37.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "untitled 19.md",
     "untitled 18.md",
@@ -222,7 +233,6 @@
     "Excalidraw/RIght hand rule 2 example 2.md",
     "Excalidraw/Physics Stupidest questione ver.md",
     "Excalidraw/Physics Examples 7.2B.md",
-    "Excalidraw/Physics 8.4 eamaple.md",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
