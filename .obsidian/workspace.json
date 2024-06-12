@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md"
               }
             }
           },
@@ -175,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5188e727c85d051b",
+  "active": "5a9d2ee264b55f64",
   "lastOpenFiles": [
+    "Physics Grade 11 IA3.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
@@ -191,7 +193,6 @@
     "The red sun robs their beauty.md",
     "Sophie Fraser.md",
     "Physics IA2 Report.md",
-    "Physics Grade 11 IA3.md",
     "Physics 8.4 Transformers.md",
     "Physics 8.3 Lenz's Law.md",
     "Physics 8.1 Magnetic Flux.md",
