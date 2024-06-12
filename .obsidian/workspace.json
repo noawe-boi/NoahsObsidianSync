@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "Physics 11.3 Reflection of light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "Physics 11.3 Reflection of light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md"
+                "file": "Physics 11.3 Reflection of light.md"
               }
             }
           },
@@ -162,20 +162,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md"
+                "file": "Physics 11.3 Reflection of light.md"
               }
-            }
-          },
-          {
-            "id": "5222ebf41e3b20fa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb672964fbe22407",
+  "active": "ff2af5483776c9d9",
   "lastOpenFiles": [
+    "Physics 11.4 Refraction of light.md",
+    "Physics 11.3 Reflection of light.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
@@ -206,8 +200,6 @@
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
-    "Physics 11.3 Reflection of light.md",
-    "Physics 11.4 Refraction of light.md",
     "Physics Grade 11 IA3.md",
     "English IA3.md",
     "Excalidraw/Physics worked example 11.3.1.md",
