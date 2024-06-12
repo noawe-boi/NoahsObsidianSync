@@ -14,6 +14,10 @@ This is caused by the change in density between the mediums.
 - $r = \theta$ (refracted angle)
 - $i > r$ if $n_1 < n_2$
 
+### Example 
+
+
+
  
 
 
