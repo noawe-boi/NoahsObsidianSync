@@ -22,7 +22,9 @@ $c = 3.00*10^8 m/s^-1$
 $v=$ speed of light in the medium
 
 Light will bend towards the normal if going to a higher n-value
-Light will bend away from the normal
+Light will bend away from the normal if going to a lower n-value
+
+$
 
 
 
