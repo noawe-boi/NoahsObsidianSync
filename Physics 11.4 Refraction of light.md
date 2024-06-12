@@ -17,8 +17,12 @@ This is caused by the change in density between the mediums.
 
 $n =$ refractive indext
 $n=\frac{c}{v}$
-where$v
+where
 $c = 3.00*10^8 m/s^-1$
+$v=$ speed of light in the medium
+
+Light will bend towards the normal if going to a higher n-value
+Light will bend away from the normal
 
 
 
