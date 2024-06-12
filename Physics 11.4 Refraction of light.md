@@ -16,7 +16,12 @@ This is caused by the change in density between the mediums.
 
 ### Example 11.4.1
  $n=\frac{c}{v}$ 
- $=\frac{3.00*10^8}{2.25*10^8}$$= 
+ $=\frac{3.00*10^8}{2.25*10^8}$
+ $= 1.33$
+
+### 11.4.2
+
+ 
  
  
 
