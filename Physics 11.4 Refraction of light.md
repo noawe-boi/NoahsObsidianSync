@@ -10,6 +10,7 @@ This is caused by the change in density between the mediums.
 
 ![[Physics 11.4 Refraction digram]]
 
-$i = \theta$
+- $i = \theta$ (incident angle)
+- $r = \theta$ (refracted angle)
 
 
