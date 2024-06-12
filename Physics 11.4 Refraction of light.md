@@ -15,6 +15,8 @@ This is caused by the change in density between the mediums.
 - $i > r$ if $n_1 < n_2$
 
 
+$n =$ refractive index
+$n=\frac{c}{v}$
 
 
 
