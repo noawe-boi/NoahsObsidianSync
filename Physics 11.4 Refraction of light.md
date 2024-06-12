@@ -12,5 +12,6 @@ This is caused by the change in density between the mediums.
 
 - $i = \theta$ (incident angle)
 - $r = \theta$ (refracted angle)
+- $i > r$ 
 
 
