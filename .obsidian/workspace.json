@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb672964fbe22407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 11.4 Refraction of light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +176,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff2af5483776c9d9",
+  "active": "ac322977eb9c832f",
   "lastOpenFiles": [
-    "Physics 11.4 Refraction of light.md",
-    "Physics 11.3 Reflection of light.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/TAFE FLOW CHART 2423.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
+    "Excalidraw/TAFE FLOW CHART 2423.md",
+    "Physics 11.3 Reflection of light.md",
+    "Physics 11.4 Refraction of light.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
