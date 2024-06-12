@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db060313bfa9937e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac322977eb9c832f",
+  "active": "db060313bfa9937e",
   "lastOpenFiles": [
     "Physics Grade 11 IA3.md",
     "Physics 11.3 Reflection of light.md",
