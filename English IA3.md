@@ -1,8 +1,8 @@
 
-Inspiration text: "The story of Fred Hollows"
+### Inspiration text: "The story of Fred Hollows"
 
-Central idea
-
+## Central idea
+ 
 ## Orientation
 ### Who
 ### When
@@ -14,5 +14,7 @@ Central idea
 ## Resolution
 
 ## Motif or Metaphor
+
+
 
 
