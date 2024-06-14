@@ -17,6 +17,7 @@ Jeshua runs away to find 'The Doctor'
 
 ## Resolution
 
+
 ## Motif or Metaphor
 
 
