@@ -1,2 +1,2 @@
 
-Inspiration text: "Australia's Unsung Wildlife heroe"
+Inspiration text: "The story of Fred Hollows"
