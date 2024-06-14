@@ -3,15 +3,16 @@ Inspiration text: "The story of Fred Hollows"
 
 Central idea
 
-##Orientation
+## Orientation
 ### Who
-When
-Where
-What 
+### When
+### Where
+### What 
 
-Complication
+## Complication
 
-Resolution
+## Resolution
 
-Motif or metaphor
+## Motif or Metaphor
+
 
