@@ -7,11 +7,13 @@
  
 ## Orientation
 ### Who
+
 ### When
 ### Where
 ### What 
 
 ## Complication
+Jeshua runs away to find 'The Doctor'
 
 ## Resolution
 
