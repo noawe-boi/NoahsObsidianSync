@@ -1,5 +1,6 @@
 
-### Inspiration text: "The story of Fred Hollows"
+## Inspiration text
+"The story of Fred Hollows"
 
 ## Central idea
  
