@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "English IA3.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "English IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "English IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md"
+                "file": "English IA3.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md"
+                "file": "English IA3.md"
               }
             }
           }
@@ -185,9 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-tts:Text to Speech": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,14 +192,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
   "active": "3168a3d37b08348a",
   "lastOpenFiles": [
+    "Physics 11.3 Reflection of light.md",
+    "English IA3.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
     "Physics 11.4 Refraction of light.md",
-    "Physics 11.3 Reflection of light.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
     "conflict-files-obsidian-git.md",
@@ -211,7 +211,6 @@
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "Physics Grade 11 IA3.md",
-    "English IA3.md",
     "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/physics consider this mirror.md",
