@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f34c0a7dcf7e9be8",
+        "id": "439e1cc9c4da06b9",
         "type": "tabs",
+        "dimension": 33.86178861788618,
         "children": [
           {
             "id": "6492ac3087d9fb37",
@@ -18,7 +19,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f34c0a7dcf7e9be8",
+        "type": "tabs",
+        "dimension": 66.13821138211382,
+        "children": [
           {
             "id": "cc8ac7bfd186bbfe",
             "type": "leaf",
@@ -31,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
