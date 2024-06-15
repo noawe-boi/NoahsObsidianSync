@@ -1,1 +1,1 @@
-The weight on his shoulders was greater than that of any physical weight he could have described. The beat of the sun on his back like a blanket of hot coals that seemed to weigh him down and made his mouth dryer than the grass he walked on. 
+The weight on his shoulders was greater than that of any physical weight he could have described. The beat of the sun on his back like a blanket of hot coals that seemed to weigh him down and made his mouth dryer than the grass he walked on. Not even the kangaroos travelled such distances 
