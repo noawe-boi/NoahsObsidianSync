@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cc8ac7bfd186bbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English IA3 Attempt 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "31466cfd7fdb8dcf",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA3.md",
+                "file": "English IA3 Attempt 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA3.md",
+                "file": "English IA3 Attempt 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA3.md"
+                "file": "English IA3 Attempt 2.md"
               }
             }
           },
@@ -203,8 +216,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6492ac3087d9fb37",
+  "active": "cc8ac7bfd186bbfe",
   "lastOpenFiles": [
+    "English IA3.md",
+    "English IA3 Attempt 2.md",
     "Physics 8.1 Magnetic Flux.md",
     "Untitled 17.md",
     "The red sun robs their beauty.md",
@@ -234,8 +249,6 @@
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
