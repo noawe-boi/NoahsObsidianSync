@@ -1,1 +1,1 @@
-The weight on his shoulders was greater than that any physical weight he could have described. The beat of the sun on his back like a blanket of hot coals that seemed to weigh him down. 
+The weight on his shoulders was greater than that of any physical weight he could have described. The beat of the sun on his back like a blanket of hot coals that seemed to weigh him down and turned his mouth into 
