@@ -38,8 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c998d5b05fe2eb84",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +204,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cc8ac7bfd186bbfe",
+  "active": "c998d5b05fe2eb84",
   "lastOpenFiles": [
     "English IA3.md",
     "English IA3 Attempt 2.md",
