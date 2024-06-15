@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60544a88b9dbc2cf",
+        "id": "f34c0a7dcf7e9be8",
         "type": "tabs",
         "children": [
           {
-            "id": "3168a3d37b08348a",
+            "id": "6492ac3087d9fb37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,36 @@
                 "file": "English IA3.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "31466cfd7fdb8dcf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-23 22.10.08.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "13725bba3390e23c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-23 21.54.05.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "38e238f291727d03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Stupidest questione ver.md"
               }
             }
           }
@@ -48,17 +78,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angle of ",
+                "query": "development",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
           {
-            "id": "ae095e00f2d876bf",
+            "id": "42b7f7975c130eb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,7 +111,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3ffe682e8f5f782",
+            "id": "ff2af5483776c9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca6dd9e625427e30",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,7 +139,7 @@
             }
           },
           {
-            "id": "ba8d7c5ab42dcae4",
+            "id": "792f57cfc7b03fc7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,28 +151,7 @@
             }
           },
           {
-            "id": "ff2af5483776c9d9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "785ae84c2804b639",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "English IA3.md"
-              }
-            }
-          },
-          {
-            "id": "5d1c41294afb977e",
+            "id": "4983d28ef4fb017a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -143,26 +163,33 @@
             }
           },
           {
-            "id": "ffb8d3b618b625b0",
+            "id": "88fc3c084371e78f",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
                 "file": "English IA3.md"
               }
             }
+          },
+          {
+            "id": "99213a04b4a3f295",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 371.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,42 +199,43 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-tts:Text to Speech": false
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3168a3d37b08348a",
+  "active": "6492ac3087d9fb37",
   "lastOpenFiles": [
-    "Physics 11.3 Reflection of light.md",
-    "English IA3.md",
-    "Excalidraw/Physics 11.4 Refraction digram.md",
+    "Physics 8.1 Magnetic Flux.md",
+    "Untitled 17.md",
+    "The red sun robs their beauty.md",
+    "Sophie Fraser.md",
+    "Physics Grade 11 IA3.md",
+    "Physics 8.4 Transformers.md",
     "Physics 11.4 Refraction of light.md",
-    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
+    "Physics 11.3 Reflection of light.md",
+    "Physics 11.1 Light as a wave.md",
+    "Pasted image 20240603093159.png",
+    "Pasted Image 20240610094522_589.png",
+    "Pasted Image 20240527123253_874.png",
+    "Pasted Image 20240527122646_869.png",
+    "Excalidraw/physics consider this mirror.md",
+    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
+    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
+    "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
+    "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
+    "Excalidraw/Physisc More mirrors.md",
+    "Excalidraw/Physics worked example 11.3.1.md",
+    "Excalidraw/Physics 8.4 eamaple.md",
+    "Excalidraw/Physics 11.4 Refraction digram.md",
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
-    "Physics Grade 11 IA3.md",
-    "Excalidraw/Physics worked example 11.3.1.md",
-    "Excalidraw/Physisc More mirrors.md",
-    "Excalidraw/physics consider this mirror.md",
-    "Excalidraw/mr ace mirror diagram.md",
-    "9.4 Refraction.md",
-    "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
-    "Excalidraw/Transverse Reflection DIagram.md",
-    "9.3 Reflection.md",
-    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
-    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
-    "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
     "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
-    "Pasted Image 20240610094522_589.png",
-    "Physics IA2 Report.md",
-    "Physics 11.1 Light as a wave.md",
-    "Excalidraw/Displacement Time Graph.md",
-    "Pasted image 20240603093159.png",
-    "Pasted Image 20240527123253_874.png",
-    "Pasted Image 20240527122646_869.png",
+    "Excalidraw/Drawing 2024-05-27 12.32.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-23 09.50.36.excalidraw.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
