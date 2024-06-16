@@ -47,6 +47,6 @@ The Doctor said as he quickly swapped a new pair of crystal domes in front of hi
 
 Jeshua interjected.
 
-The Doctor retreated to another room, returning only when what seemed like an eternity had passed. His hands held a spider like contraption contains a pair of lenses. As they took their place over his eyes, the world became as it was before... better than before. A new clarity took over 
+The Doctor retreated to another room, returning only when what seemed like an eternity had passed. His hands held a spider like contraption contains a pair of lenses. As they took their place over his eyes, the world became as it was before... better than before. A new clarity took over his vision and revealed details in thing
 
 
