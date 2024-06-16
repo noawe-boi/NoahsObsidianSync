@@ -10,5 +10,7 @@ Finally, as the sun rose, the horizon revealed the outline of a dusty settlement
 
 Stepping into the building, the cool air chilled his bare skin. A guff voice laced with a foreign accent came from the corner of the room. "You really should knock little fella." it chuckled. 
 
-"Please! My Nana, the light has left her eyes and I've come this whole way to try and get help but she doesn't believe"
+"Please! My Nana, the light has left her eyes, and I've come this whole way to try and get help, but she doesn't believe you can bring it back. No one believes you can bring it back. So I came this whole way to come see you and now the light is leaving my eyes too!"
+
+"woah woah, slow down. Come here a moment..." the doctor beckon
 
