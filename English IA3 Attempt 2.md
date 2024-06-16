@@ -10,14 +10,32 @@ The journey was long and arduous. The light he so desperately wanted to bring ba
 
 Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. His approached further revealed a whitewashed building with a sign at its entrance. Jeshua cautiously approached, as he did so, the text revealing itself to his once perfect eyes. "Dr Fred Hollows: Optometrist". Could this be The Doctor his elders spoke of?
 
-Stepping into the building, the cool air chilled his bare skin. A guff voice laced with a foreign accent came from the corner of the room. "You really should knock little fella." it chuckled. 
+Stepping into the building, the cool air chilled his bare skin. A guff voice laced with a foreign accent came from the corner of the room. 
 
-"Please! My Nana, the light has left her eyes, and I've come this whole way to try and get help, but she doesn't believe you can bring it back. No one believes you can bring it back. So I came this whole way to come see you and now the light is leaving my eyes too!"
+"You really should knock little fella." it chuckled. 
 
-"woah woah, slow down. Come here a moment..." The Doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. As Jeshua cautiously approached, The Doctor pulled a glass spectacle from his box. He had never seen anything like it before. As The Doctor inspected his eyes, Jeshua couldn't help but inspect the new world around him through the glass dome. "Hey, hey, I need you to look straight at my nose, okay? How am I supposed to focus on one spot when you're moving so much?" The Doctor chuckled. "Now look at my ear. Now my mouth. Aaaaannnd, yep, just what I thought. Bet the sun was pretty bright on the way here, hey? Bet there was a lot of dust too?" Jeshua nodded silently. The Doctor closed the box and handed Jeshua the lens. "I'll be a minute" he said as he searched his shelves for the solution. The doctor pulled a wad of cotton and a jar from his collection. Dipping the cotton in the solution he gently lifted Jeshua chin to the sky. "This might feel a little funny" The Doctor warned. As The Doctor squeezed the cotton, drops of the solution filled his eyes. A new sensation came accros the boys entire face. It felt as if a breeze was blowing across his wet body.
+"Please! My Nana, the light has left her eyes, and I've come this whole way to try and get help, but she doesn't believe you can bring it back. No one believes you can bring it back. 
+So I came this whole way to come see you and now the light is leaving my eyes too!"
+
+"woah woah, slow down. Come here a moment..." 
+
+The Doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. As Jeshua cautiously approached, The Doctor pulled a glass spectacle from his box. He had never seen anything like it before. As The Doctor inspected his eyes, Jeshua couldn't help but inspect the new world around him through the glass dome. "Hey, hey, I need you to look straight at my nose, okay? How am I supposed to focus on one spot when you're moving so much?" The Doctor chuckled. 
+"Now look at my ear. Now my mouth. Aaaaannnd, yep, just what I thought. Bet the sun was pretty bright on the way here, hey? Bet there was a lot of dust too?" 
+Jeshua nodded silently. The Doctor closed the box and handed Jeshua the lens. 
+
+"I'll be a minute" 
+
+he said as he searched his shelves for the solution. The doctor pulled a wad of cotton and a jar from his collection. Dipping the cotton in the solution he gently lifted Jeshua chin to the sky. 
+
+"This might feel a little funny" 
+
+The Doctor warned. As The Doctor squeezed the cotton, drops of the solution filled his eyes. A new sensation came accros the boys entire face. It felt as if a breeze was blowing across his wet body.
 
 Another box appeared and Jeshua was once again torn from his new world as his attention was ordered to it. 
-"Just tell me which one is better, this one, or this one." The Doctor said as he quickly swapped a new pair of crystal domes in front of his eyes.
+
+"Just tell me which one is better, this one, or this one." 
+\
+The Doctor said as he quickly swapped a new pair of crystal domes in front of his eyes.
 "That one!" Jeshua interjected.
 The Doctor retreated to another room, returning only when what seemed like an eternity had passed. His hands held a spider like contraption with of the lenses that 
 
