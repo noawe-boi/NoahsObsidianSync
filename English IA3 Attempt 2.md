@@ -15,6 +15,6 @@ Stepping into the building, the cool air chilled his bare skin. A guff voice lac
 "woah woah, slow down. Come here a moment..." The Doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. As Jeshua cautiously approached, The Doctor pulled a glass spectacle from his box. He had never seen anything like it before. As The Doctor inspected his eyes, Jeshua couldn't help but inspect the new world around him through the glass dome. "Hey, hey, I need you to look straight at my nose, okay? How am I supposed to focus on one spot when you're moving so much?" The Doctor chuckled. "Now look at my ear. Now my mouth. Aaaaannnd, yep, just what I thought. Bet the sun was pretty bright on the way here, hey? Bet there was a lot of dust too?" Jeshua nodded silently. The Doctor closed the box and handed Jeshua the lens. "I'll be a minute" he said as he searched his shelves for the solution. Another box appeared and Jeshua was once again torn from his new world as his attention was ordered to it. 
 "Just tell me which one is better, this one, or this one." The Doctor said as he quickly swapped a new pair of crystal domes in front of his eyes.
 "That one!" Jeshua interjected.
-The Doctor once again +
+The Doctor retreated to another room, returning 
 
 
