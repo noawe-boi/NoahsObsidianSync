@@ -6,6 +6,5 @@ Jeshua didn't understand the whispers of ancient rituals, the fear of the unknow
 
 The journey was long and ardious. The light he so desperately wanted to bring back into his elders lives, was mercilessly molesting him. Days of walking in the dust and taking in the full strength of the sun began to take their toll. It seemed that the darkness was now taking his sight.
 
-As night fell, the stars showed their faces. What once were pins of light tha
-
+As night fell, the stars showed their faces. What once were pins of light were now dim and blurry, like 
 Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. 
