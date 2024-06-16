@@ -7,3 +7,5 @@ Jeshua didn't understand the whispers of ancient rituals, the fear of the unknow
 The journey was long and arduous. The light he so desperately wanted to bring back into his elders lives, was mercilessly molesting him. Days of walking in the dust and taking in the full strength of the sun began to take their toll. As night fell, the stars showed their faces. What once were pins of light were now dim and smeared. It seemed that his own light was now dimming. 
 
 Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. His approached further  revealed a whitewashed building with a sign at its entrance. "Dr Fred Hollows: Optomitrist". Could this be the doctor his elders spoke of?
+
+Jeshua cautiously approached, as he did so, the text revealing itself to his once perfect eyes.
