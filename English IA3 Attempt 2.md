@@ -35,7 +35,7 @@ he said as he searched his shelves for the solution. The doctor pulled a wad of 
 
 "This might feel a little funny" 
 
-The Doctor warned. As The Doctor squeezed the cotton, drops of the solution filled his eyes. A new sensation came accros the boys entire face. It felt as if a breeze was blowing across his wet body.
+The Doctor warned. As The Doctor squeezed the cotton, drops of the solution filled his eyes. A new sensation came across the boys entire face. It felt as if a breeze was blowing across his wet body.
 
 Another box appeared and Jeshua was once again torn from his new world as his attention was ordered to it. 
 
