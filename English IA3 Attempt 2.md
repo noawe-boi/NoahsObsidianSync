@@ -4,7 +4,7 @@ The weight on his shoulders was greater than that of any physical weight he coul
 
 Jeshua didn't understand the whispers of ancient rituals, the fear of the unknown. He only knew the ache in his own heart. He saw their world, their stories, their knowledge, slowly fading into darkness. The only beacon of light that could bring their world back now was the reason he was still going. He was their only hope now. 
 
-The journey was long and ardious. The light he so desperately wanted to bring back into his elders lives, was mercilessly molesting him. Days of walking in the dust and taking in the full strength of the sun began to take their toll. It seemed that the darkness was now taking his sight.
+The journey was long and ardious. The light he so desperately wanted to bring back into his elders lives, was mercilessly molesting him. Days of walking in the dust and taking in the full strength of the sun began to take their toll. 
 
-As night fell, the stars showed their faces. What once were pins of light were now dim and blurry, like 
+As night fell, the stars showed their faces. What once were pins of light were now dim and smeared. 
 Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. 
