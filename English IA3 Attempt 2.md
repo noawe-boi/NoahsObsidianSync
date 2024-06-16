@@ -6,11 +6,11 @@ Jeshua didn't understand the whispers of ancient rituals, the fear of the unknow
 
 The journey was long and arduous. The light he so desperately wanted to bring back into his elders lives, was mercilessly molesting him. Days of walking in the dust and taking in the full strength of the sun began to take their toll. As night fell, the stars showed their faces. What once were pins of light were now dim and smeared. It seemed that his own light was now dimming. 
 
-Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. His approached further revealed a whitewashed building with a sign at its entrance. Jeshua cautiously approached, as he did so, the text revealing itself to his once perfect eyes. "Dr Fred Hollows: Optomitrist". Could this be the doctor his elders spoke of?
+Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. His approached further revealed a whitewashed building with a sign at its entrance. Jeshua cautiously approached, as he did so, the text revealing itself to his once perfect eyes. "Dr Fred Hollows: Optomitrist". Could this be The Doctor his elders spoke of?
 
 Stepping into the building, the cool air chilled his bare skin. A guff voice laced with a foreign accent came from the corner of the room. "You really should knock little fella." it chuckled. 
 
 "Please! My Nana, the light has left her eyes, and I've come this whole way to try and get help, but she doesn't believe you can bring it back. No one believes you can bring it back. So I came this whole way to come see you and now the light is leaving my eyes too!"
 
-"woah woah, slow down. Come here a moment..." the doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. 
+"woah woah, slow down. Come here a moment..." The Doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. As Jeshua cautiously approached, The Doctor pulled a glass spectacle from his 
 
