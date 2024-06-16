@@ -52,6 +52,6 @@ He knew his journey was far from over, He had to bring the doctors light to his 
 
 "Now about your Nana" 
 
-The Doctor inquired, almost as if he had read Jehsua mind.
+The Doctor inquired, almost as if he had read Jeshuas mind.
 
 
