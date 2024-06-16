@@ -8,5 +8,5 @@ The journey was long and arduous. The light he so desperately wanted to bring ba
 
 Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. His approached further revealed a whitewashed building with a sign at its entrance. Jeshua cautiously approached, as he did so, the text revealing itself to his once perfect eyes. "Dr Fred Hollows: Optomitrist". Could this be the doctor his elders spoke of?
 
-Stepping into the building, the cool air chilled him
+Stepping into the building, the cool air chilled his bare skin. A guff voice laced with a foreign accent came from the corner of the room. "You really shou"
 
