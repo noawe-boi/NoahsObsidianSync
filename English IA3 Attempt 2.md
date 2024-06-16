@@ -12,5 +12,5 @@ Stepping into the building, the cool air chilled his bare skin. A guff voice lac
 
 "Please! My Nana, the light has left her eyes, and I've come this whole way to try and get help, but she doesn't believe you can bring it back. No one believes you can bring it back. So I came this whole way to come see you and now the light is leaving my eyes too!"
 
-"woah woah, slow down. Come here a moment..." The Doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. As Jeshua cautiously approached, The Doctor pulled a glass spectacle from his box. He had never seen anything like it before. As The Doctor inspected his eyes, Jeshua couldn't help but inspect the new world around him through the glass dome. "Hey, hey, I need you to look straight at my nose okay? "
+"woah woah, slow down. Come here a moment..." The Doctor beckoned as he pulled an engraved wooden box from a shelf carved into the wall. As Jeshua cautiously approached, The Doctor pulled a glass spectacle from his box. He had never seen anything like it before. As The Doctor inspected his eyes, Jeshua couldn't help but inspect the new world around him through the glass dome. "Hey, hey, I need you to look straight at my nose, okay? How am I supposed to focus on one spot when you're moving so much?" The Doctor chuckled
 
