@@ -3,6 +3,7 @@ The weight on his shoulders was greater than that of any physical weight he coul
 'Not like I had a choice though', he thought to himself, kicking up some dust from the ground in his frustration. The air around him became hazy, reminding him of why he ran away. His Nana's eyes, once as clear as the night sky, too became hazy. The old ways, the whispers of the ancestors, offered no cure to her ailment. What once were rumors soon became her only hope, a hope that she was determined to remain blind to. 'No white man is going to touch me, and that's the last I want to hear of it! Nut' you can do now boy, always been this way, just too old.'
 
 Jeshua didn't understand the whispers of ancient rituals, the fear of the unknown. He only knew the ache in his own heart. He saw their world, their stories, their knowledge, slowly fading into darkness. The only beacon of light that could bring their world back now was the reason he was still going. He was their only hope now. 
+
 The journey was long and ardious. The light he so desperately wanted to bring back into his elders lives, was mercilessly molesting him. Days of walking in the dust and taking in the full strength of the sun had not 
 
 Finally, as the sun rose, the horizon revealed the outline of a dusty settlement. 
