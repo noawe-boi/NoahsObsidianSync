@@ -48,6 +48,10 @@ The Doctor said as he quickly swapped a new pair of crystal domes in front of hi
 Jeshua interjected.
 
 The Doctor retreated to another room, returning only when what seemed like an eternity had passed. His hands held a spider like contraption contains a pair of lenses. As they took their place over his eyes, the world became as it was before... better than before. A new clarity took over his vision and revealed details in things he had never seen.
-He knew his journey was far from over, He hass to bring the doctors light to his elders now. He had to show them these new secrets and the shimmer of the newfound world The doctor had revealed to him.
+He knew his journey was far from over, He had to bring the doctors light to his elders now. He had to show them these new secrets and the shimmer of the newfound world The doctor had revealed to him.
+
+"Now about your Nana" 
+
+The Doctor inquired, almost as if he had read Jehsua mind.
 
 
