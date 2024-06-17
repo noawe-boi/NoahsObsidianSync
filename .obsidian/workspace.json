@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30d7706ca6ac4921",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics Grade 11 IA3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Physics Grade 11 IA3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3168a3d37b08348a",
+  "active": "30d7706ca6ac4921",
   "lastOpenFiles": [
+    "Physics Grade 11 IA3.md",
     "English IA3.md",
     "Physics 11.4 Refraction of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
@@ -189,7 +193,6 @@
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
-    "Physics Grade 11 IA3.md",
     "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/physics consider this mirror.md",
