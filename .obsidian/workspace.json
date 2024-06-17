@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac322977eb9c832f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 11.3 Reflection of light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3168a3d37b08348a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English IA3.md",
+                "file": "Physics Grade 11 IA3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4625bdac0d017656",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics 11.4 Refraction digram.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA3.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA3.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA3.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -172,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English IA3.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           }
@@ -201,6 +178,7 @@
   },
   "active": "3168a3d37b08348a",
   "lastOpenFiles": [
+    "English IA3.md",
     "Physics 11.4 Refraction of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
     "Physics 11.3 Reflection of light.md",
@@ -212,7 +190,6 @@
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "Physics Grade 11 IA3.md",
-    "English IA3.md",
     "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/physics consider this mirror.md",
