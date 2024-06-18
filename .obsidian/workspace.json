@@ -23,12 +23,28 @@
             "id": "30d7706ca6ac4921",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "392bb3316b464de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics Grade 11 IA3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics Grade 11 IA3.md"
+              }
             }
           },
           {
@@ -153,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Physics Grade 11 IA3.md"
+              }
             }
           }
         ],
@@ -179,8 +201,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d7706ca6ac4921",
+  "active": "392bb3316b464de0",
   "lastOpenFiles": [
+    "Untitled 20.md",
     "Physics Grade 11 IA3.md",
     "English IA3.md",
     "Physics 11.4 Refraction of light.md",
@@ -208,7 +231,6 @@
     "Pasted Image 20240610094522_589.png",
     "Physics IA2 Report.md",
     "Physics 11.1 Light as a wave.md",
-    "Excalidraw/Displacement Time Graph.md",
     "Pasted image 20240603093159.png",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
