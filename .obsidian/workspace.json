@@ -18,6 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3af12f6af4e67afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arthur Packing List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d76583caea778e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105ce3eb029c5230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA3.md",
+                "file": "Arthur Packing List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA3.md",
+                "file": "Arthur Packing List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA3.md"
+                "file": "Arthur Packing List.md"
               }
             }
           },
@@ -148,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English IA3.md"
+                "file": "Arthur Packing List.md"
               }
             }
           }
@@ -175,10 +202,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "3168a3d37b08348a",
+  "active": "3af12f6af4e67afc",
   "lastOpenFiles": [
-    "Physics 11.3 Reflection of light.md",
     "English IA3.md",
+    "Arthur Packing List.md",
+    "Physics 11.3 Reflection of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
     "Physics 11.4 Refraction of light.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
@@ -204,7 +232,6 @@
     "Pasted Image 20240610094522_589.png",
     "Physics IA2 Report.md",
     "Physics 11.1 Light as a wave.md",
-    "Excalidraw/Displacement Time Graph.md",
     "Pasted image 20240603093159.png",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
