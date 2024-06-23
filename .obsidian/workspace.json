@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "882c8af74d6ae04a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "d8dd8e6d36cff6ee",
             "type": "leaf",
             "state": {
@@ -40,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d76583caea778e21",
@@ -197,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,7 +220,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "3af12f6af4e67afc",
+  "active": "882c8af74d6ae04a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "English IA3 Attempt 2.md",
