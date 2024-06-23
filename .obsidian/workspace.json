@@ -4,55 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "60544a88b9dbc2cf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3168a3d37b08348a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af12f6af4e67afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arthur Packing List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "882c8af74d6ae04a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "d8dd8e6d36cff6ee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "d76583caea778e21",
         "type": "tabs",
         "children": [
@@ -63,8 +14,21 @@
               "type": "markdown-table-editor-view",
               "state": {}
             }
+          },
+          {
+            "id": "b087c7cb8e0c4567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arthur Packing List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angle of ",
+                "query": "arthur",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,11 +184,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "882c8af74d6ae04a",
+  "active": "b087c7cb8e0c4567",
   "lastOpenFiles": [
+    "English IA3.md",
     "conflict-files-obsidian-git.md",
     "English IA3 Attempt 2.md",
-    "English IA3.md",
     "Arthur Packing List.md",
     "Physics 11.3 Reflection of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
