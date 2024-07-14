@@ -9,5 +9,10 @@ What do I know about India?
 - Their food smells weird
 - Butter chicken
 
-What makes p the identity of a person?
-- 
+What makes the identity of a person?
+- Their interactions with people
+- their parents
+- their name
+- their interetsts
+Definition?
+The identity of a person is a set of traits or features 
