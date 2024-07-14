@@ -11,8 +11,12 @@
             "id": "25428d7d803e26fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "India Activity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#physics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "India Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "India Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "India Activity.md"
+              }
             }
           },
           {
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "India Activity.md"
+              }
             }
           },
           {
@@ -174,6 +184,7 @@
   },
   "active": "25428d7d803e26fc",
   "lastOpenFiles": [
+    "India Activity.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
@@ -199,7 +210,6 @@
     "Excalidraw/mr ace mirror diagram.md",
     "9.4 Refraction.md",
     "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
-    "Excalidraw/Transverse Reflection DIagram.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
