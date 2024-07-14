@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "73d2b584a325f960",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6048a28ed8690cd0",
+  "active": "73d2b584a325f960",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "gitkey.pub",
