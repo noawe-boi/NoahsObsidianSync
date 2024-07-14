@@ -3,17 +3,24 @@
 <br/>
 <br/>
 ### Claim
-"Electromagnetic Radiation from mobile phones can 
-ignite flammable materials such as petroleum"
+Electromagnetic radiation around the home, such as inductive chargers or WiFi, is dangerous to human health.
 
+<<<<<<< HEAD
 This claim is very broad, as it does not specify petroleum exclusively as a substance that electromagnetic radiation could ignite. Additionally, the before it can be found whether Electromagnetic Radiation (EMF) emitted from phones has the ability to ignite flammable materials, the nature of the waves that phones could possible emit must be found.
 
+=======
+### Background
+
+#### What kinds of EMR do these devices emit. 
+
+The term 'Electromagnetic Radiation' covers an entire spectrum, not all of which is harmful to human health. For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which we are constantly absorbing every day. 
+
+#### Ionizing vs non ionizing radiation.
+>>>>>>> origin/main
 
 
-`Cell phones emit radiation in the radiofrequency region of the electromagnetic spectrum. Second-, third-, and fourth-generation cell phones (2G, 3G, 4G) emit radiofrequency in the frequency range of 0.7–2.7 GHz. Fifth-generation (5G) cell phones are anticipated to use the frequency spectrum up to 80 GHz.`
-https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet#:~:text=Cell%20phones%20emit%20radiation%20in,spectrum%20up%20to%2080%20GHz.
 
+
+https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons.
 
 ### Research Question:
-Can EMF *within spectrum and intensity that phones can emit* cause ignition
-
