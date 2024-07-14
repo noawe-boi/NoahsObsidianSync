@@ -13,6 +13,9 @@ What makes the identity of a person?
 - Their interactions with people
 - their parents
 - their name
-- their interetsts
-Definition?
-The identity of a person is a set of traits or features 
+- their interests
+
+	Definition?
+The identity of a person is a set of traits or features that come together 
+
+What is cultural heritage? 
