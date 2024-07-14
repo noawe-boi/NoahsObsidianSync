@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "60544a88b9dbc2cf",
+        "id": "4634bd104be06619",
         "type": "tabs",
         "children": [
           {
-            "id": "3168a3d37b08348a",
+            "id": "25428d7d803e26fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Grade 11 IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d7706ca6ac4921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "392bb3316b464de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Grade 11 IA3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angle of ",
+                "query": "tag:#physics",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -95,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -112,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics Grade 11 IA3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,18 +139,23 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Physics Grade 11 IA3.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "44b83a1e8732720a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,17 +172,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "392bb3316b464de0",
+  "active": "25428d7d803e26fc",
   "lastOpenFiles": [
-    "Untitled 20.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
+    "Excalidraw/TAFE FLOW CHART 2423.md",
     "Physics Grade 11 IA3.md",
+    "Physics 6.2 Electric Fields.md",
+    "Excalidraw/Displacement Time Graph.md",
+    "Excalidraw/Constructive Interference.md",
+    "Physics 11.1 Light as a wave.md",
+    "Untitled 20.md",
+    "Excalidraw/Physics 10.2 Review.md",
+    "English IA3 Attempt 2.md",
     "English IA3.md",
     "Physics 11.4 Refraction of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
     "Physics 11.3 Reflection of light.md",
-    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
-    "Excalidraw/TAFE FLOW CHART 2423.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
@@ -223,14 +200,8 @@
     "9.4 Refraction.md",
     "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
     "Excalidraw/Transverse Reflection DIagram.md",
-    "9.3 Reflection.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
-    "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
-    "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
-    "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
     "Pasted Image 20240610094522_589.png",
-    "Physics IA2 Report.md",
-    "Physics 11.1 Light as a wave.md",
     "Pasted image 20240603093159.png",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
