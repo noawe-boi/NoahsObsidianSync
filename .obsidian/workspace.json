@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "91c62c63991c1d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -175,6 +187,10 @@
   },
   "active": "6048a28ed8690cd0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "gitkey.pub",
+    "gitkey",
+    "Arthur Packing List.md",
     "English IA3.md",
     "English IA3 Attempt 2.md",
     "Physics 8.1 Magnetic Flux.md",
@@ -204,8 +220,6 @@
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
