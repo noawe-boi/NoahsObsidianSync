@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "73d2b584a325f960",
+  "active": "6048a28ed8690cd0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "gitkey.pub",
