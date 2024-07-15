@@ -36,4 +36,7 @@ What is cultural heritage?
 - we see his current (adopted) family fighting with him for a par tin his life with his real family and his search for them
 
 4. how does he get seperated from his family 
-- 
+- he accidentally gets on a train 
+
+5. how does the trailer illustrate his challenges with his biological family 
+- they fight with him over ther place in his life and their relation to him with respect to his real family
