@@ -1,5 +1,31 @@
 The sun bled across the red earth, painting the gum trees in hues of orange and crimson. Jeshua, ten years old and barefoot, walked towards the setting sun, his small frame a silhouette against the vastness of the Australian outback. His heart pounded with a fear he couldn't name, a fear deeper than the dust that clung to his skin. He carried a burden heavier than the water-bag slung across his shoulder, a burden etched in the fading sight of his elders.
 
+<<<<<<< HEAD
+## Inspiration text
+"The story of Fred Hollows"
+
+## Central idea
+ Jeshua sees elders and other kids having vision problems. Hears about doctor who can fix it. Kid goes to find doctor
+ 
+## Orientation
+### Who
+
+### When
+### Where
+### What 
+
+## Complication
+Jeshua runs away to find 'The Doctor'
+
+## Resolution
+
+
+## Motif or Metaphor
+
+
+
+
+=======
 Their eyes, once clear as the desert sky, were dimming, clouded by an unseen ailment. The old ways, the whispers of the ancestors, offered no cure. The elders spoke of the "doctor," a white man who came from the distant city, bearing a strange light that could mend failing vision. They spoke with skepticism, their voices tinged with the bitter taste of tradition betrayed.
 
 Jeshua didn't understand the whispers of ancient rituals, the fear of the unknown. He only knew the ache in his own heart, a reflection of the sorrow etched on his elders' faces. He saw their world, their stories, slowly fading into darkness. He was their only hope, a small boy venturing into the unknown, his faith in the "doctor" a beacon in the twilight of his elders' lives.
@@ -25,3 +51,4 @@ Jeshua knew then, that his journey was far from over. He had to bring the "docto
 He left the "doctor's" house, the setting sun painting his path with a golden glow. He walked towards home, carrying not just water in his bag, but a new understanding, a newfound hope, a belief in the "doctor's" light.
 
 He was a small boy, a single thread in the fabric of a vast and ancient culture. But in his small hands, he carried the power to change the world, to bridge the divide between two worlds, to bring the light back into the eyes of his elders.
+>>>>>>> origin/main

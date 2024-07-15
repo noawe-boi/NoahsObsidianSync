@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "439e1cc9c4da06b9",
+        "id": "dfbdd55255d655d2",
         "type": "tabs",
         "children": [
           {
-            "id": "6048a28ed8690cd0",
+            "id": "caf343429a138dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "15-07-2024.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "73d2b584a325f960",
+            "id": "6c5a3b7afde38216",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "15-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "15-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "15-07-2024.md"
               }
             }
           },
@@ -183,9 +185,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6048a28ed8690cd0",
+  "active": "caf343429a138dbf",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Physics Grade 11 IA3.md",
+    "Untitled 20.md",
+    "Physics 11.5 Interference and diffraction.md",
+    "Lion Activity.md",
+    "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
+    "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md",
+    "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
+    "15-7-2024 TODO.md",
+    "15-07-2024.md",
     "gitkey.pub",
     "gitkey",
     "Arthur Packing List.md",
@@ -195,7 +207,6 @@
     "Untitled 17.md",
     "The red sun robs their beauty.md",
     "Sophie Fraser.md",
-    "Physics Grade 11 IA3.md",
     "Physics 8.4 Transformers.md",
     "Physics 11.4 Refraction of light.md",
     "Physics 11.3 Reflection of light.md",
@@ -209,15 +220,6 @@
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
     "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
-    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
-    "Excalidraw/Sophie Fraser ia3 ENGLISH BINGO.md",
-    "Excalidraw/Physisc More mirrors.md",
-    "Excalidraw/Physics worked example 11.3.1.md",
-    "Excalidraw/Physics 8.4 eamaple.md",
-    "Excalidraw/Physics 11.4 Refraction digram.md",
-    "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
