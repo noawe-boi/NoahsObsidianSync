@@ -43,4 +43,4 @@ What is cultural heritage?
 
 
 
-1. Unemployment,poverty, starvation, illiteracy, increasing accident with woman such as rape
+1. Unemployment,poverty, starvation, illiteracy, rape, girl-baby mortality
