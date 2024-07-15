@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b355d176a8c5673d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-15 12.19.12.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.5 Interference and diffraction.md",
+                "file": "Excalidraw/Drawing 2024-07-15 12.19.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.5 Interference and diffraction.md",
+                "file": "Excalidraw/Drawing 2024-07-15 12.19.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.5 Interference and diffraction.md"
+                "file": "Excalidraw/Drawing 2024-07-15 12.19.12.excalidraw.md"
               }
             }
           },
@@ -149,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.5 Interference and diffraction.md"
+                "file": "Excalidraw/Drawing 2024-07-15 12.19.12.excalidraw.md"
               }
             }
           },
@@ -184,11 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c72a3e87b98858a",
+  "active": "b355d176a8c5673d",
   "lastOpenFiles": [
+    "Physics 11.5 Interference and diffraction.md",
+    "Excalidraw/Drawing 2024-07-15 12.19.12.excalidraw.md",
     "15-07-2024.md",
     "15-7-2024 TODO.md",
-    "Physics 11.5 Interference and diffraction.md",
     "Lion Activity.md",
     "conflict-files-obsidian-git.md",
     "gitkey.pub",
@@ -213,7 +225,6 @@
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
-    "Excalidraw/Physics worked example 11.3.1.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",

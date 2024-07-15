@@ -2,9 +2,9 @@
 tags:
   - physics
 ---
-## Diffracton
+## Diffraction
 
-Wavelength < Width (Wavelenghts smaller than the appeature)
-Wavelengths > WIdth (Wavelengths larger than the appeature )
+Wavelength < Width (Wavelengths smaller than the aperture) = Small diffraction
+Wavelengths > Width (Wavelengths larger than the aperture) = Large Diffraction
 
-The realtionship can be expressed as the ratio $\frac{\lambda}{w}$
+The relationship can be expressed as the ratio $\frac{\lambda}{w}$
