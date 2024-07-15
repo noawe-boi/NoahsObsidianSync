@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-7-2024 TODO.md",
+                "file": "Lion Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-7-2024 TODO.md",
+                "file": "Lion Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-7-2024 TODO.md"
+                "file": "Lion Activity.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "15-7-2024 TODO.md"
+                "file": "Lion Activity.md"
               }
             }
           },
@@ -209,7 +208,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec41c03ca84b9cef",
+  "active": "25428d7d803e26fc",
   "lastOpenFiles": [
     "Physics 11.5 Interference and diffraction.md",
     "15-7-2024 TODO.md",
