@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4e6f596872d69ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-07-2024.md",
+                "file": "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-07-2024.md",
+                "file": "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-07-2024.md"
+                "file": "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md"
               }
             }
           },
@@ -173,8 +184,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "caf343429a138dbf",
+  "active": "c4e6f596872d69ad",
   "lastOpenFiles": [
+    "15-07-2024.md",
+    "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Physics Grade 11 IA3.md",
     "Untitled 20.md",
@@ -185,7 +198,6 @@
     "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
     "15-7-2024 TODO.md",
-    "15-07-2024.md",
     "gitkey.pub",
     "gitkey",
     "Arthur Packing List.md",
@@ -207,7 +219,6 @@
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.md",
     "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
-    "Excalidraw/TAFE FLOW CHART 2423.md",
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
