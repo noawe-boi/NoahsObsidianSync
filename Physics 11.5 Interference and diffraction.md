@@ -4,8 +4,11 @@ tags:
 ---
 ## Diffraction
 
-Wavelength < Width (Wavelengths smaller than the aperture) = Small diffraction
-Wavelengths > Width (Wavelengths larger than the aperture) = Large Diffraction
+**Wavelength < Width (Wavelengths smaller than the aperture) = Small diffraction**
+
+b
+**Wavelengths > Width (Wavelengths larger than the aperture) = Large Diffraction**
+
 
 ![[Physics 11.5.1 DIffaraciton exaple b]]
 
