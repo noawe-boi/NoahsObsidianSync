@@ -25,12 +25,21 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple.md"
+                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md"
+              }
+            }
+          },
+          {
+            "id": "d1abbd15ecd676b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple.md",
+                "file": "Physics 11.5 Interference and diffraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple.md",
+                "file": "Physics 11.5 Interference and diffraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple.md"
+                "file": "Physics 11.5 Interference and diffraction.md"
               }
             }
           },
@@ -160,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple.md"
+                "file": "Physics 11.5 Interference and diffraction.md"
               }
             }
           },
@@ -195,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b355d176a8c5673d",
+  "active": "3c72a3e87b98858a",
   "lastOpenFiles": [
+    "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
+    "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md",
     "Physics 11.5 Interference and diffraction.md",
-    "Excalidraw/Physics 11.5.1 DIffaraciton exaple.md",
     "15-07-2024.md",
     "15-7-2024 TODO.md",
     "Lion Activity.md",
@@ -224,7 +234,6 @@
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.47.32.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
