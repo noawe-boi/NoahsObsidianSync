@@ -33,4 +33,7 @@ What is cultural heritage?
 - He uses a computer to find every possible train station and Google Earth
 
 3. how does the trailer convey the themes of identify and belonging
-- we see his curren
+- we see his current (adopted) family fighting with him for a par tin his life with his real family and his search for them
+
+4. how does he get seperated from his family 
+- 
