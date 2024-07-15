@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25428d7d803e26fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lion Activity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c72a3e87b98858a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physics 11.5 Interference and diffraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec41c03ca84b9cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15-7-2024 TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lion Activity.md",
+                "file": "Physics 11.5 Interference and diffraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lion Activity.md",
+                "file": "Physics 11.5 Interference and diffraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lion Activity.md"
+                "file": "Physics 11.5 Interference and diffraction.md"
               }
             }
           },
@@ -173,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lion Activity.md"
+                "file": "Physics 11.5 Interference and diffraction.md"
               }
             }
           },
@@ -208,10 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25428d7d803e26fc",
+  "active": "3c72a3e87b98858a",
   "lastOpenFiles": [
-    "Physics 11.5 Interference and diffraction.md",
+    "15-07-2024.md",
     "15-7-2024 TODO.md",
+    "Physics 11.5 Interference and diffraction.md",
     "Lion Activity.md",
     "conflict-files-obsidian-git.md",
     "gitkey.pub",
@@ -237,7 +214,6 @@
     "Excalidraw/Drawing 2024-06-12 10.31.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 10.05.31.excalidraw.md",
     "Excalidraw/Physics worked example 11.3.1.md",
-    "Excalidraw/Physisc More mirrors.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
