@@ -30,5 +30,6 @@ What is cultural heritage?
 - Indian villages
 
 2. What role does the technology in Saloons search for his family, as hinted in the trailer
-- He uses a computer to find every possible train station and google earth
-- 
+- He uses a computer to find every possible train station and Google Earth
+
+3. how does the trailer identify 
