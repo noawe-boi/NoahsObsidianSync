@@ -32,4 +32,5 @@ What is cultural heritage?
 2. What role does the technology in Saloons search for his family, as hinted in the trailer
 - He uses a computer to find every possible train station and Google Earth
 
-3. how does the trailer identify 
+3. how does the trailer convey the themes of identify and belonging
+- we see his curren
