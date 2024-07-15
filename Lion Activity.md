@@ -46,3 +46,8 @@ What is cultural heritage?
 1. What are the 5 biggest problems in India
 - Unemployment, poverty, starvation, illiteracy, rape, girl-baby mortality
 
+2. Why do people leave india for other countries
+- see 1. 
+
+3. 
+
