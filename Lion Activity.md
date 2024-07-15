@@ -26,4 +26,8 @@ What is cultural heritage?
 
 1. What are the main locations shown in the trailer
 - Train stations
-- 
+- beachers
+- indian villages
+
+2. What role does the technology plh in Saloons search for his family, as hinted in the trailer
+- He uses a computer to find every possible train station and google earch
