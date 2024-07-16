@@ -13,39 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 11.5 Interference and diffraction.md",
+                "file": "test 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea7dace3c231482d",
+            "id": "61329beeb2a11816",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b355d176a8c5673d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md"
-              }
-            }
-          },
-          {
-            "id": "d1abbd15ecd676b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md"
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
+                "file": "test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
+                "file": "test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md"
+                "file": "test 2.md"
               }
             }
           },
@@ -180,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md"
+                "file": "test 2.md"
               }
             }
           },
@@ -215,13 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea7dace3c231482d",
+  "active": "61329beeb2a11816",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
+    "Excalidraw/Huygens Principle Diagram.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
-    "Physics 11.5 Interference and diffraction.md",
-    "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
+    "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md",
+    "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
+    "Physics 11.5 Interference and diffraction.md",
+    "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
     "15-07-2024.md",
     "15-7-2024 TODO.md",
     "Lion Activity.md",
@@ -243,8 +225,6 @@
     "English IA3.md",
     "Physics 11.4 Refraction of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
-    "Physics 11.3 Reflection of light.md",
-    "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
