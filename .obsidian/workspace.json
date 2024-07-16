@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4634bd104be06619",
+        "id": "57b056e164f4e397",
         "type": "tabs",
         "children": [
           {
-            "id": "3c72a3e87b98858a",
+            "id": "a5506b903e604cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 2.md",
+                "file": "16-07-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "61329beeb2a11816",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 2.md",
+                "file": "16-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test 2.md",
+                "file": "16-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test 2.md"
+                "file": "16-07-2024.md"
               }
             }
           },
@@ -160,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "test 2.md"
+                "file": "16-07-2024.md"
               }
             }
           },
@@ -195,8 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61329beeb2a11816",
+  "active": "a5506b903e604cd2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
+    "16-07-2024.md",
     "Excalidraw/Huygens Principle Diagram.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
@@ -207,7 +199,6 @@
     "15-07-2024.md",
     "15-7-2024 TODO.md",
     "Lion Activity.md",
-    "conflict-files-obsidian-git.md",
     "gitkey.pub",
     "gitkey",
     "Arthur Packing List.md",
@@ -223,8 +214,6 @@
     "Excalidraw/Physics 10.2 Review.md",
     "English IA3 Attempt 2.md",
     "English IA3.md",
-    "Physics 11.4 Refraction of light.md",
-    "Excalidraw/Physics 11.4 Refraction digram.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
