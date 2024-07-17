@@ -11,6 +11,7 @@ Electromagnetic radiation around the home, such as inductive chargers or WiFi, i
 
 EMF spectrum: part about how light is emf
 
+What kinds of EMF is harmful??
 Ionizing vs non ionizing radiation: 
 
 EMF with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionizing'.  This means that they have enough energy remove electrons from atoms. 
