@@ -13,7 +13,8 @@ EMF spectrum: part about how light is emf
 
 Ionizing vs non ionizing radiation: 
 EMF with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionizing'.  This means that they have enough energy remove electrons from atoms. 
- While  confirmed to be harmful to human health, the only types of EMF that have enough energy to do this are alpha, beta, gamma and X-rays. 
+While ionizing radiation is confirmed to be harmful to human health, the only types of EMF that have enough energy to do this are alpha, beta, gamma and X-rays. 
+
 
 What types of radiation do phones emit. 
 
