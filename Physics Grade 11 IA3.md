@@ -7,9 +7,11 @@ Electromagnetic radiation around the home, such as inductive chargers or WiFi, i
 
 
 
-
 ### Background
 
+EMF spectrum: part about how light is emf
+
+Ionizing vs non ionizing radiation:
 
 
 
