@@ -11,7 +11,8 @@ Electromagnetic radiation around the home, such as inductive chargers or WiFi, i
 
 EMF spectrum: part about how light is emf
 
-Ionizing vs non ionizing radiation:
+Ionizing vs non ionizing radiation: 
+EMF can exist at diff
 
 
 
