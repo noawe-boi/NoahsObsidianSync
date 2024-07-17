@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-07-2024.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18-07-2024.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18-07-2024.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -161,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "18-07-2024.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -196,11 +197,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5506b903e604cd2",
+  "active": "03c874f4522cef69",
   "lastOpenFiles": [
+    "18-07-2024.md",
     "16-07-2024.md",
     "Physics Grade 11 IA3.md",
-    "18-07-2024.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
     "Excalidraw/Huygens Principle Diagram.md",
