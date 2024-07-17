@@ -7,7 +7,7 @@ Electromagnetic radiation around the home, such as inductive chargers or WiFi, i
 
 
 
-### Background
+### Background`
 
 EMF spectrum: part about how light is emf
 
