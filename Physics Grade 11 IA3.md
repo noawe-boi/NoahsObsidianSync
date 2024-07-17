@@ -3,7 +3,7 @@
 <br/>
 <br/>
 ### Claim
-
+The claim 
 
 
 ### Background
