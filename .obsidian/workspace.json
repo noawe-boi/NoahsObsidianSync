@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12df976ee6055ace",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arthur Packing List.md",
+                "file": "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arthur Packing List.md",
+                "file": "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arthur Packing List.md"
+                "file": "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md"
               }
             }
           },
@@ -157,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Arthur Packing List.md"
+                "file": "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md"
               }
             }
           }
@@ -184,12 +195,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b087c7cb8e0c4567",
+  "active": "12df976ee6055ace",
   "lastOpenFiles": [
+    "Arthur Packing List.md",
+    "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
     "English IA3.md",
     "conflict-files-obsidian-git.md",
     "English IA3 Attempt 2.md",
-    "Arthur Packing List.md",
     "Physics 11.3 Reflection of light.md",
     "Excalidraw/Physics 11.4 Refraction digram.md",
     "Physics 11.4 Refraction of light.md",
@@ -213,7 +225,6 @@
     "Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
     "Excalidraw/Drawing 2024-06-05 01.58.01.excalidraw.md",
     "Pasted Image 20240610094522_589.png",
-    "Physics IA2 Report.md",
     "Pasted image 20240603093159.png",
     "Pasted Image 20240527123253_874.png",
     "Pasted Image 20240527122646_869.png",
