@@ -43,4 +43,4 @@ https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=N
 
 
 ### Research Question
-Can Electromagnetic Fields between 
+Can Electromagnetic Fields between 2.4-5GHz and 87-205kHz be harmful to human health. 
