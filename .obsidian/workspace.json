@@ -16,6 +16,18 @@
                 "currentVersion": "1.6.7"
               }
             }
+          },
+          {
+            "id": "ea5346ca6c6db02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,5 +170,7 @@
     }
   },
   "active": "2e4be315c3a02ff9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md"
+  ]
 }
