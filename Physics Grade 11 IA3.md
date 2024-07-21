@@ -1,17 +1,25 @@
 <br/>
-
+<br/>
+<br/>
 <br/>
 ### Claim
-"Electromagnetic Radiation from mobile phones can 
-ignite flammable materials such as petroleum"
-
-This claim is very broad, as it does not specify petroleum exclusively as a substance that electromagnetic radiation could ignite. Additionally, the before it can be found whether Electromagnetic Radiation (EMF) emitted from phones has the ability to ignite flammable materials, the nature of the waves that phones could possible emit must be found. 
+Electromagnetic radiation around the home, such as inductive chargers or WiFi, is dangerous to human health.
 
 
-`Cell phones emit radiation in the radiofrequency region of the electromagnetic spectrum. Second-, third-, and fourth-generation cell phones (2G, 3G, 4G) emit radiofrequency in the frequency range of 0.7–2.7 GHz. Fifth-generation (5G) cell phones are anticipated to use the frequency spectrum up to 80 GHz.`
-https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet#:~:text=Cell%20phones%20emit%20radiation%20in,spectrum%20up%20to%2080%20GHz.
+
+### Background`
+
+EMF spectrum: part about how light is emf
+
+What kinds of EMF is harmful??
+Ionizing vs non ionizing radiation: 
+
+EMF with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionizing'.  This means that they have enough energy remove electrons from atoms. 
+While ionizing radiation is confirmed to be harmful to human health, the only types of EMF that have enough energy to do this are alpha, beta, gamma and X-rays. It should also be mentioned that while these types of radiation are harmful, they are only harmful with sufficient exposure. 
+
+
+What types of radiation do devices such as inductive chargers or Wi-Fi emit?
+
 
 
 ### Research Question:
-Can EMF *within spectrum and intensity that phones can emit* cause ignition
-
