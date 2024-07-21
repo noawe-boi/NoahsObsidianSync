@@ -12,7 +12,7 @@ Electromagnetic radiation around the home, such as inductive chargers or WiFi, i
 
 What is EMF
 
-Why do these devices emit EMF
+W do these devices emit EMF
 
 
 
