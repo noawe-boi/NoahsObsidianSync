@@ -40,6 +40,9 @@ qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-cha
 
 
 
+Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
+
+
 
 https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons.
 
