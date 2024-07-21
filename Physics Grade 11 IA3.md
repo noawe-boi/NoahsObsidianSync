@@ -13,8 +13,7 @@ Electromagnetic radiation around the home, such as inductive chargers or WiFi, i
 What is EMF
 
 What are these devices and why do these devices emit EMF?
-Wi-Fi 
-
+Wireless Fidelity (Wi-Fi )is a wireless communication and networking system that 
 
 
 What kinds of EMF is harmful??
