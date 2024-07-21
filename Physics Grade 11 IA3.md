@@ -39,3 +39,8 @@ What types of radiation do devices such as inductive chargers or Wi-Fi emit?
 
 
 https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons.
+
+
+
+### Research Question
+Can Electromagnetic Fields between 
