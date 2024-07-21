@@ -34,6 +34,7 @@ While ionizing radiation is confirmed to be harmful to human health, the only ty
 What types of radiation do devices such as inductive chargers or Wi-Fi emit?
 
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
+qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
 
 
 
