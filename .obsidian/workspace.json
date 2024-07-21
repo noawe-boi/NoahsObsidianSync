@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "5ab7f63fc4f1bec1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "f0d797f9187dc7de",
             "type": "leaf",
             "state": {
