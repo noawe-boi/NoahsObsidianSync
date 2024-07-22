@@ -2,6 +2,7 @@
 tags:
   - physics
 ---
+**Polar**
 
 | Polarized light<br>  | Unpolarized light<br>  |
 | :------------------- | :--------------------- |
