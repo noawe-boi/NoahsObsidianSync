@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/polarizing filters.md",
+                "file": "Physics 11.7 Polarisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/polarizing filters.md",
+                "file": "Physics 11.7 Polarisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/polarizing filters.md"
+                "file": "Physics 11.7 Polarisation.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/polarizing filters.md"
+                "file": "Physics 11.7 Polarisation.md"
               }
             }
           },
@@ -215,10 +214,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6b18c9d628fb9a3",
+  "active": "c4ad8c83799b160f",
   "lastOpenFiles": [
-    "Physics 11.7 Polarisation.md",
     "Excalidraw/polarizing filters.md",
+    "Physics 11.7 Polarisation.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/unpolarized light.md",
     "Excalidraw/polarized light.md",
