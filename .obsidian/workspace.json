@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "78649672742dc30f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/11.7 Review.md"
+              }
+            }
+          },
+          {
             "id": "a6b18c9d628fb9a3",
             "type": "leaf",
             "state": {
@@ -49,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 11.7 Polarisation.md",
+                "file": "Excalidraw/11.7 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 11.7 Polarisation.md",
+                "file": "Excalidraw/11.7 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 11.7 Polarisation.md"
+                "file": "Excalidraw/11.7 Review.md"
               }
             }
           },
@@ -179,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 11.7 Polarisation.md"
+                "file": "Excalidraw/11.7 Review.md"
               }
             }
           },
@@ -214,10 +225,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4ad8c83799b160f",
+  "active": "78649672742dc30f",
   "lastOpenFiles": [
-    "Excalidraw/polarizing filters.md",
     "Physics 11.7 Polarisation.md",
+    "Excalidraw/11.7 Review.md",
+    "Excalidraw/polarizing filters.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/unpolarized light.md",
     "Excalidraw/polarized light.md",
@@ -243,7 +255,6 @@
     "gitkey",
     "Arthur Packing List.md",
     "India Activity.md",
-    "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
