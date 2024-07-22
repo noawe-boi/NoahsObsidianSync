@@ -8,53 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5506b903e604cd2",
+            "id": "c4ad8c83799b160f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-07-2024.md",
+                "file": "Physics 11.7 Polarisation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "03c874f4522cef69",
+            "id": "602eaa0312e41bd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/unpolarized light.md"
               }
             }
           },
           {
-            "id": "5ab7f63fc4f1bec1",
+            "id": "a1fdc190ebb97c0d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "f0d797f9187dc7de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grade 11 Chemistry IA3.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/polarized light.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "ea78cd726d8bc258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401e0a5bcfc11848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "Physics 11.7 Polarisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "Physics 11.7 Polarisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "Physics 11.7 Polarisation.md"
               }
             }
           },
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "Physics 11.7 Polarisation.md"
               }
             }
           },
@@ -219,14 +218,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03c874f4522cef69",
+  "active": "c4ad8c83799b160f",
   "lastOpenFiles": [
-    "Sophie Fraser.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/unpolarized light.md",
+    "Excalidraw/polarized light.md",
+    "Physics 11.7 Polarisation.md",
+    "Transverse Waves.md",
     "Physics Grade 11 IA3.md",
+    "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
+    "Sophie Fraser.md",
     "Grade 11 Chemistry IA3.md",
     "18-07-2024.md",
     "16-07-2024.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
     "Excalidraw/Huygens Principle Diagram.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
@@ -244,11 +248,6 @@
     "India Activity.md",
     "Excalidraw/TAFE CIRCUIT DIAGRAM 2342.md",
     "Excalidraw/TAFE FLOW CHART 2423.md",
-    "Physics 6.2 Electric Fields.md",
-    "Excalidraw/Displacement Time Graph.md",
-    "Excalidraw/Constructive Interference.md",
-    "Physics 11.1 Light as a wave.md",
-    "Untitled 20.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
