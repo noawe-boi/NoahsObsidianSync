@@ -11,3 +11,6 @@ tags:
 
 
 ### Polarising Unpolairised light
+![[polarizing filters]]
+
+
