@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "bc5b54525801d676",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mr sonter yapping.md"
+              }
+            }
+          },
+          {
             "id": "e23f4031d24bb8b4",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-07-2024.md",
+                "file": "Excalidraw/Mr sonter yapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22-07-2024.md",
+                "file": "Excalidraw/Mr sonter yapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-07-2024.md"
+                "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
           },
@@ -161,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "22-07-2024.md"
+                "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
           },
@@ -196,10 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "133fb84e2283f722",
+  "active": "bc5b54525801d676",
   "lastOpenFiles": [
-    "Chemistry IA3.md",
     "22-07-2024.md",
+    "Chemistry IA3.md",
     "Physics Grade 11 IA3.md",
     "conflict-files-obsidian-git.md",
     "Physics 11.7 Polarisation.md",
