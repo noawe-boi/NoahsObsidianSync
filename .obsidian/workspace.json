@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01e0f4722eebf40d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mr sonter yapping.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-07-2024.md",
+                "file": "Excalidraw/Mr sonter yapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22-07-2024.md",
+                "file": "Excalidraw/Mr sonter yapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-07-2024.md"
+                "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
           },
@@ -172,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "22-07-2024.md"
+                "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
           },
@@ -207,10 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ba76a2085f4aa5d",
+  "active": "01e0f4722eebf40d",
   "lastOpenFiles": [
-    "Excalidraw/Mr sonter yapping.md",
+    "Chemistry Chapter 3 M R. sonter-heimer.md",
     "22-07-2024.md",
+    "Excalidraw/Mr sonter yapping.md",
     "Excalidraw/11.7 Review.md",
     "Physics 11.7 Polarisation.md",
     "Excalidraw/polarizing filters.md",
@@ -234,7 +245,6 @@
     "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
     "15-07-2024.md",
     "15-7-2024 TODO.md",
-    "Lion Activity.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
