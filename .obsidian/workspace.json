@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-07-2024.md",
+                "file": "Excalidraw/Mr sonter yapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22-07-2024.md",
+                "file": "Excalidraw/Mr sonter yapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-07-2024.md"
+                "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "22-07-2024.md"
+                "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
           },
@@ -229,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ba76a2085f4aa5d",
+  "active": "01e0f4722eebf40d",
   "lastOpenFiles": [
     "23-07-2024.md",
     "22-07-2024.md",
