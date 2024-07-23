@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "fb07b80e780cdd75",
+        "id": "57b056e164f4e397",
         "type": "tabs",
         "children": [
           {
-            "id": "133fb84e2283f722",
+            "id": "c4ad8c83799b160f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 11.7 Polarisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78649672742dc30f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/11.7 Review.md"
+              }
+            }
+          },
+          {
+            "id": "3ba76a2085f4aa5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +42,7 @@
             }
           },
           {
-            "id": "bc5b54525801d676",
+            "id": "01e0f4722eebf40d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -28,21 +50,9 @@
                 "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
-          },
-          {
-            "id": "e23f4031d24bb8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +82,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md",
+                "file": "22-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md",
+                "file": "22-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
+                "file": "22-07-2024.md"
               }
             }
           },
@@ -172,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
+                "file": "22-07-2024.md"
               }
             }
           },
@@ -207,20 +217,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc5b54525801d676",
+  "active": "3ba76a2085f4aa5d",
   "lastOpenFiles": [
+    "23-07-2024.md",
     "22-07-2024.md",
     "Chemistry IA3.md",
-    "Physics Grade 11 IA3.md",
-    "conflict-files-obsidian-git.md",
-    "Physics 11.7 Polarisation.md",
-    "Grade 11 Chemistry IA3.md",
-    "Excalidraw/unpolarized light.md",
-    "Excalidraw/polarizing filters.md",
-    "Excalidraw/polarized light.md",
     "Excalidraw/Mr sonter yapping.md",
+    "Chemistry Chapter 3 M R. sonter-heimer.md",
     "Excalidraw/11.7 Review.md",
+    "Physics 11.7 Polarisation.md",
+    "Excalidraw/polarizing filters.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/unpolarized light.md",
+    "Excalidraw/polarized light.md",
+    "Transverse Waves.md",
+    "Physics Grade 11 IA3.md",
     "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
+    "Sophie Fraser.md",
+    "Grade 11 Chemistry IA3.md",
     "18-07-2024.md",
     "16-07-2024.md",
     "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
@@ -231,12 +245,8 @@
     "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
     "Physics 11.5 Interference and diffraction.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
-    "15-07-2024.md",
-    "15-7-2024 TODO.md",
-    "Lion Activity.md",
     "gitkey.pub",
     "gitkey",
-    "Arthur Packing List.md",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
