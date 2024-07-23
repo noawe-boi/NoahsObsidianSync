@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md",
+                "file": "22-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md",
+                "file": "22-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
+                "file": "22-07-2024.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
+                "file": "22-07-2024.md"
               }
             }
           },
@@ -207,8 +206,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc5b54525801d676",
+  "active": "133fb84e2283f722",
   "lastOpenFiles": [
+    "Excalidraw/Mr sonter yapping.md",
     "22-07-2024.md",
     "Chemistry IA3.md",
     "Physics Grade 11 IA3.md",
@@ -218,7 +218,6 @@
     "Excalidraw/unpolarized light.md",
     "Excalidraw/polarizing filters.md",
     "Excalidraw/polarized light.md",
-    "Excalidraw/Mr sonter yapping.md",
     "Excalidraw/11.7 Review.md",
     "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
     "18-07-2024.md",
