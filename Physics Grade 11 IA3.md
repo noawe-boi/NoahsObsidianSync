@@ -11,7 +11,7 @@ tags:
 <br/>
 <br/>
 ### Claim
-Electromagnetic radiation around the home, such as inductive chargers or WiFi, is dangerous to human health.
+Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
 
 
@@ -23,9 +23,6 @@ What is EMF
 What are these devices and why do these devices emit EMF?
 
 Wireless Fidelity (Wi-Fi )is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs. 
-
-
-What kinds of EMF is harmful??
 
 EMF spectrum: part about how light is emf
 
@@ -55,4 +52,4 @@ Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging
 
 
 ### Research Question
-Can Electromagnetic Fields between 2-5GHz and 87-205kHz be harmful to human health. 
+At what amplitude do Electromagnetic Fields between 2-5GHz and 87-205kHz become harmful to human health. 
