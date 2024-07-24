@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "57b056e164f4e397",
+        "id": "4d7e3bc28fb89b62",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ad8c83799b160f",
+            "id": "4218dd82a579b6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 11.7 Polarisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78649672742dc30f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/11.7 Review.md"
-              }
-            }
-          },
-          {
-            "id": "3ba76a2085f4aa5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22-07-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04c111c802cb927c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23-07-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01e0f4722eebf40d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
-              }
-            }
-          },
-          {
-            "id": "31573811d6a42717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Physics Grade 11 IA3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -206,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -241,13 +184,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31573811d6a42717",
+  "active": "4218dd82a579b6d2",
   "lastOpenFiles": [
+    "23-07-2024.md",
     "Excalidraw/Mr sonter yapping.md",
     "conflict-files-obsidian-git.md",
     "25-07-2024.md",
     "24-07-2024.md",
-    "23-07-2024.md",
     "22-07-2024.md",
     "Chemistry IA3.md",
     "Chemistry Chapter 3 M R. sonter-heimer.md",
