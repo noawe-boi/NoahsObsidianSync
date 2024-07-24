@@ -33,25 +33,17 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 ### Background`
 
+wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
+qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
 
-What is EMF
-
-What are these devices and why do these devices emit EMF?
+#### What are these devices and why do these devices emit EMF?
 
 Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 5Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
 
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilizes frequencies between 87kHz and 207kHz
 
-
-
-
-
-
-#### What types of radiation do devices such as inductive chargers or Wi-Fi emit?
-
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
 qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
-
 
 
 
