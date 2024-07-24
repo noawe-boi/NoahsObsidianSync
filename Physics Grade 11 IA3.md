@@ -95,7 +95,8 @@ At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz b
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 
-
+cool table 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
 
 
