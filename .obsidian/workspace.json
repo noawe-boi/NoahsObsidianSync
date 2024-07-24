@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a88604338c7ad4aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24-07-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc5b54525801d676",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "24-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "24-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "24-07-2024.md"
               }
             }
           },
@@ -171,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "24-07-2024.md"
               }
             }
           },
@@ -206,14 +219,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "133fb84e2283f722",
+  "active": "a88604338c7ad4aa",
   "lastOpenFiles": [
+    "25-07-2024.md",
+    "24-07-2024.md",
+    "Chemistry IA3.md",
+    "Physics Grade 11 IA3.md",
     "Excalidraw/Physics 4.1.2.md",
     "22-07-2024.md",
     "23-07-2024.md",
     "Excalidraw/Mr sonter yapping.md",
-    "Chemistry IA3.md",
-    "Physics Grade 11 IA3.md",
     "conflict-files-obsidian-git.md",
     "Physics 11.7 Polarisation.md",
     "Grade 11 Chemistry IA3.md",
@@ -232,8 +247,6 @@
     "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
     "Physics 11.5 Interference and diffraction.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
-    "15-07-2024.md",
-    "15-7-2024 TODO.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
