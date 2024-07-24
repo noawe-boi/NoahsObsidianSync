@@ -58,7 +58,10 @@ Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that n
 
 
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
+
+
 qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
+
 https://www.edn.com/wireless-charging-the-state-of-disunion/
 
 
