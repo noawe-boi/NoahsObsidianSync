@@ -36,7 +36,8 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 #### EMF spectrum: part about how light is emf
 
-The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of which is harmful to human health* ***maybe instead make the research question about whether any forms of radiation are harmful to human health??***
+The term 'Electromagnetic Radiation' covers an entire spectrum, not all of which is harmful to human health.
+m
 
 For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which we are constantly absorbing every day. 
 
