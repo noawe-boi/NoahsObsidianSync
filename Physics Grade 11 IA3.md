@@ -38,7 +38,7 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of which is harmful to human health* ***maybe instead make the research question about whether any forms of radiation are harmful to human health??***
 
-. For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which we are constantly absorbing every day. 
+For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which we are constantly absorbing every day. 
 
 
 
@@ -47,7 +47,7 @@ The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of whic
 EMF with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionizing'.  This means that they have enough energy remove electrons from atoms. 
 Ionizing radiation can be in the form of alpha, beta, gamma or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons)
 
-
+https://www.co.monmouth.nj.us/documents/118/RADIATION%20HEALTH%20BASICS.pdf
 
 #### What are these devices and why do these devices emit EMF?
 
