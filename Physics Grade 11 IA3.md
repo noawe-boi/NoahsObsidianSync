@@ -80,6 +80,8 @@ https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007658/pdf/brjindmed00169-0051.pdf
 https://www.princeton.edu/~ota/disk1/1989/8905/8905.PDF
+
+
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-5GHz and 87kHz-205kHz become harmful to human health. 
 
@@ -89,7 +91,8 @@ At what amplitude do Electromagnetic Fields between 2GHz-5GHz and 87kHz-205kHz b
 
 
 
-
+#### Source 1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 
 
