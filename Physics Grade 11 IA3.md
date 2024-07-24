@@ -40,7 +40,7 @@ What are these devices and why do these devices emit EMF?
 
 Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 5Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
 
-Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilizes frequencies between 87
+Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilizes frequencies between 87kHz and 207kHz
 
 
 
@@ -74,7 +74,7 @@ Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging
 
 
 ### Research Question
-At what amplitude do Electromagnetic Fields between 2-5GHz and 87-205kHz become harmful to human health. 
+At what amplitude do Electromagnetic Fields at frequencies between 2GHz-5GHz and 87kHz-205kHz become harmful to human health. 
 
 
 
