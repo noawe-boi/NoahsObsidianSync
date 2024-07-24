@@ -10,6 +10,11 @@ tags:
 <br/>
 <br/>
 <br/>
+
+
+##
+
+
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
@@ -22,7 +27,10 @@ What is EMF
 
 What are these devices and why do these devices emit EMF?
 
-Wireless Fidelity (Wi-Fi )is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs. 
+Wireless Fidelity (Wi-Fi )is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs betwen the frequencies 2Ghz and 5Ghz (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
+
+
+
 
 EMF spectrum: part about how light is emf
 
