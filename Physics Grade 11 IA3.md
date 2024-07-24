@@ -3,7 +3,7 @@ tags:
   - assignment
   - physics
 ---
-<br/>
+--`0<br/>
 <br/>
 <br/>
 <br/>
@@ -33,7 +33,7 @@ The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of whic
 Ionizing vs non ionizing radiation: 
 
 EMF with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionizing'.  This means that they have enough energy remove electrons from atoms. 
-Ionizing radiation can be alpha, beta, gamma and X-rays. It should also be mentioned that while these types of radiation are harmful, they are only harmful with sufficient exposure. 
+Ionizing radiation can be 1alpha, beta, gamma and X-rays. It should also be mentioned that while these types of radiation are harmful, they are only harmful with sufficient exposure. 
 
 
 What types of radiation do devices such as inductive chargers or Wi-Fi emit?
