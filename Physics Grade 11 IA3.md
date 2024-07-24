@@ -43,8 +43,9 @@ Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that 
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The standard 
 
 
-
-
+QI SPECS
+https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications/
+https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
 #### EMF spectrum: part about how light is emf
 
 The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of which is harmful to human health* ***maybe instead make the research question about whether any forms of radiation are harmful to human health??***
