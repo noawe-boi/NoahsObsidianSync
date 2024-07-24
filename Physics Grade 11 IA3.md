@@ -33,7 +33,7 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 ### Background`
 
-#### Short intro saying how there is wifi and 5g bill gates vaccine everywh
+#### Short intro saying how there is wifi and 5g bill gates nano cip vaccine everywhere now??
 
 
 #### What is EMF:
