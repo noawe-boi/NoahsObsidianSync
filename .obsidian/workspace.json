@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "bc5b54525801d676",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
-              }
-            }
-          },
-          {
             "id": "e23f4031d24bb8b4",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25-07-2024.md",
+                "file": "Chemistry IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25-07-2024.md",
+                "file": "Chemistry IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25-07-2024.md"
+                "file": "Chemistry IA3.md"
               }
             }
           },
@@ -184,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "25-07-2024.md"
+                "file": "Chemistry IA3.md"
               }
             }
           },
@@ -219,16 +209,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a88604338c7ad4aa",
+  "active": "e23f4031d24bb8b4",
   "lastOpenFiles": [
-    "24-07-2024.md",
     "25-07-2024.md",
+    "Excalidraw/Mr sonter yapping.md",
+    "24-07-2024.md",
     "Chemistry IA3.md",
     "Physics Grade 11 IA3.md",
     "Excalidraw/Physics 4.1.2.md",
     "22-07-2024.md",
     "23-07-2024.md",
-    "Excalidraw/Mr sonter yapping.md",
     "conflict-files-obsidian-git.md",
     "Physics 11.7 Polarisation.md",
     "Grade 11 Chemistry IA3.md",
