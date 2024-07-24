@@ -58,7 +58,7 @@ Ionizing radiation can be in the form of alpha, beta, gamma or X-rays, with alph
 ) These distinctions
 
 
-What types of radiation do devices such as inductive chargers or Wi-Fi emit?
+#### What types of radiation do devices such as inductive chargers or Wi-Fi emit?
 
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
 qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
