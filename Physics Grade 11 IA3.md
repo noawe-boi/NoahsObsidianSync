@@ -31,10 +31,10 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 #### What is EMF:
 
-The term 'Electromagnetic Radiation' covers an entire spectrum, not all of which is harmful to human health.
 
-Electromagnetic Radiation, Electromagnetic waves, or EMF, are all terms used to describe the excitation of charged particles
+Electromagnetic Radiation, Electromagnetic waves, or EMF, are all terms used to describe 
 
+'Electromagnetic Radiation' is not a single type of wave, but is an entire spectrum, not all of which is harmful to human health.
 
 
 For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which people constantly absorb every day. 
