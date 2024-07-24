@@ -12,8 +12,8 @@ tags:
 <br/>
 
 
-## Draft Notes:
-Will remove funky colors in final submission and cite all sources that are currently links
+## **Draft Notes:**
+**Will remove funky colors in final submission and cite all sources that are currently links**
 
 
 
