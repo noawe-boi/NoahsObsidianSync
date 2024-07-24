@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 ---
 tags:
-  - assignment
   - physics
+  - assignment
 ---
 
-=======
+---
+
 <br/>
->>>>>>> origin/main
 <br/>
 <br/>
 <br/>
