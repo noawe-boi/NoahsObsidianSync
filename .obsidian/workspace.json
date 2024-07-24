@@ -62,9 +62,21 @@
                 "file": "Excalidraw/Mr sonter yapping.md"
               }
             }
+          },
+          {
+            "id": "31573811d6a42717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Mr sonter yapping.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -229,17 +241,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01e0f4722eebf40d",
+  "active": "31573811d6a42717",
   "lastOpenFiles": [
+    "Excalidraw/Mr sonter yapping.md",
+    "conflict-files-obsidian-git.md",
+    "25-07-2024.md",
+    "24-07-2024.md",
     "23-07-2024.md",
     "22-07-2024.md",
     "Chemistry IA3.md",
-    "Excalidraw/Mr sonter yapping.md",
     "Chemistry Chapter 3 M R. sonter-heimer.md",
     "Excalidraw/11.7 Review.md",
     "Physics 11.7 Polarisation.md",
     "Excalidraw/polarizing filters.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/unpolarized light.md",
     "Excalidraw/polarized light.md",
     "Transverse Waves.md",
@@ -255,8 +269,6 @@
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md",
     "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
-    "Physics 11.5 Interference and diffraction.md",
-    "Excalidraw/Drawing 2024-07-15 12.35.49_0.excalidraw.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
