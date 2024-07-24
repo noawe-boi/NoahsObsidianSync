@@ -13,7 +13,7 @@ tags:
 
 
 ## **Draft Notes:**
-**Will remove funky colors in final submission and cite all sources that are currently links**
+**Will remove funky colors/font in final submission and cite all sources that are currently links**
 
 
 
