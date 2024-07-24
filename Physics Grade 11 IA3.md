@@ -36,7 +36,8 @@ The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of whic
 Ionizing vs non ionizing radiation: 
 
 EMF with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionizing'.  This means that they have enough energy remove electrons from atoms. 
-Ionizing radiation can be in the form of alpha, beta, gamma or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma These distinctions
+Ionizing radiation can be in the form of alpha, beta, gamma or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons.
+) These distinctions
 
 
 What types of radiation do devices such as inductive chargers or Wi-Fi emit?
@@ -50,9 +51,6 @@ qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-cha
 
 Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
 
-
-
-https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons.
 
 
 
