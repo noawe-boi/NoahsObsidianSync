@@ -59,7 +59,7 @@ Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that n
 
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
 qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
-
+https://www.edn.com/wireless-charging-the-state-of-disunion/
 
 
 Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
@@ -68,7 +68,7 @@ Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging
 
 
 ### Research Question
-At what amplitude do Electromagnetic Fields between 2GHz-5GHz and 87kHz-205kHz become harmful to human health. 
+At what amplitude do Electromagnetic Fields between 2GHz-5GHz, 87kHz-205kHz, and 50Hz-60Hz become harmful to human health. 
 
 
 
