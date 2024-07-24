@@ -8,17 +8,10 @@ tags:
 
 
 # INSERT COVER PAGE HERE
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
-
-
-
 
 
 ## **Draft Notes:**
