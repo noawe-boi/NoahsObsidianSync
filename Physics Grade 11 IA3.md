@@ -54,8 +54,8 @@ https://www.co.monmouth.nj.us/documents/118/RADIATION%20HEALTH%20BASICS.pdf
 Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 5Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
 
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. 
-
-#### lINK 
+# **REMEMBER TO CITE THE PDF**
+##### Link Dump
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
 
 
@@ -66,7 +66,7 @@ https://www.edn.com/wireless-charging-the-state-of-disunion/
 
 Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
 
-# **REMEMBER TO CITE THE PDF**
+
 
 Qi Power usage??/
 https://www.edn.com/wireless-charging-the-state-of-disunion/
@@ -81,6 +81,11 @@ https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
 
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-5GHz, 87kHz-205kHz, and 50Hz-60Hz become harmful to human health. 
+
+
+
+## Body
+
 
 
 
