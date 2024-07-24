@@ -34,10 +34,9 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 ### Background`
 
 
-#### EMF spectrum: part about how light is emf
+#### What is EMF:
 
 The term 'Electromagnetic Radiation' covers an entire spectrum, not all of which is harmful to human health.
-m
 
 For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which we are constantly absorbing every day. 
 
@@ -50,11 +49,11 @@ Ionizing radiation can be in the form of alpha, beta, gamma or X-rays, with alph
 
 https://www.co.monmouth.nj.us/documents/118/RADIATION%20HEALTH%20BASICS.pdf
 
-#### What are these devices and why do these devices emit EMF?
+#### Why do these devices emit EMF and at what frequencies:
 
 Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 5Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
 
-Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating  the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. 
+Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. 
 
 
 wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
