@@ -33,7 +33,7 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 The term 'Electromagnetic Radiation' covers an entire spectrum, not all of which is harmful to human health.
 
-Electromagnetic Radiation, Electromagnetic waves, or EMF, are all terms used to describe 
+Electromagnetic Radiation, Electromagnetic waves, or EMF, are all terms used to describe the excitation of charged particles
 
 
 
