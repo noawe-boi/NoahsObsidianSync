@@ -40,12 +40,10 @@ What are these devices and why do these devices emit EMF?
 
 Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 5Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
 
-Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The standard 
+Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises 
 
 
-QI SPECS
-https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications/
-https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
+
 #### EMF spectrum: part about how light is emf
 
 The term 'Electromagnetic Radiation' covers an entire spectrum, *not all of which is harmful to human health* ***maybe instead make the research question about whether any forms of radiation are harmful to human health??***
@@ -91,3 +89,10 @@ At what amplitude do Electromagnetic Fields between 2-5GHz and 87-205kHz become 
 
 Qi Power usage??/
 https://www.edn.com/wireless-charging-the-state-of-disunion/
+
+QI SPECS
+file:///C:/Users/CRACKH~1/AppData/Local/Temp/7zO8B2A392B/qi-v1.3-power-delivery.pdf
+
+https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications/
+
+https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
