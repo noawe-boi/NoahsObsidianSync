@@ -55,6 +55,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 *Figure 1*
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
+Figure 1 shows the effects of 
+
+
+
 
 from that source:
 *RF fields do not ionise cell genome or damage cells and tissues in any direct way, but research indicates that they affect living organisms via thermal effects (tissue heating) and non-thermal effects such as vibration and rotation of molecules (especially those that have an asymmetric charge or that are polar in structure), oxidative stress, genetic damage, or altered cell membrane permeability ([13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/#j_aiht-2022-73-3402_ref_013)).*
