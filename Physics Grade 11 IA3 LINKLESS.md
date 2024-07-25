@@ -51,9 +51,6 @@ Figure 1 shows conductivity and skin depth penetration of waves at frequencies r
 
 It can be observed that as the frequency of the wave increases, the conductivity or S/m value decreases, however, penetration decreases.
 
-**Why is penetration decreasing if conduction increasing?**
-
-From that source: _RF fields do not ionise cell genome or damage cells and tissues in any direct way, but research indicates that they affect living organisms via thermal effects (tissue heating) and non-thermal effects such as vibration and rotation of molecules (especially those that have an asymmetric charge or that are polar in structure), oxidative stress, genetic damage, or altered cell membrane permeability._ _Exposure to EMFs can damage biological tissues by inducing changes, which can be explained in terms of thermal or non-thermal mechanisms. Thermal effects can occur with the conversion and absorption of heat by the body's electromagnetic energy. Increased body temperature is stabilized and alleviated by blood circulation. Although non-thermal effects do not raise the body temperature sufficiently to impair the structure of tissues, their effects can still be seen as an increase in free radical production in tissues. EMFs, no matter where they occur in the frequency spectrum, are reported to cause a rise in levels of oxygen free radicals in an experimental environment in plants and humans._
 
 ### Source 2
 
