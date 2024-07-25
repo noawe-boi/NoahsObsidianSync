@@ -47,7 +47,7 @@ Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that n
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health INCLUDE AT WHAT STRENGTH. 
 
 ## Body
-#### Source 1
+### Source 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 **TODO: CROP**
@@ -58,6 +58,22 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_t
 
 from that source:
 *RF fields do not ionise cell genome or damage cells and tissues in any direct way, but research indicates that they affect living organisms via thermal effects (tissue heating) and non-thermal effects such as vibration and rotation of molecules (especially those that have an asymmetric charge or that are polar in structure), oxidative stress, genetic damage, or altered cell membrane permeability ([13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/#j_aiht-2022-73-3402_ref_013)).*
+
+
+
+
+
+
+
+### Source 2
+
+
+
+### Source 3
+
+
+
+
 
 
 
