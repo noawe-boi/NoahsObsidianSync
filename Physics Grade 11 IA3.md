@@ -90,7 +90,7 @@ https://www.princeton.edu/~ota/disk1/1989/8905/8905.PDF
 
 
 ### Research Question
-At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health. 
+At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health INCLUDE AT WHAT STRENGTH. 
 
 
 
