@@ -56,8 +56,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
 Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. EMFs at these frequencies do not possess enough energy to ionise, however, as stated previously, they still have the ability to cause harm. 
+The more conduction and penetration through tissue is possible, the higher the absopt
 
-The
 
 
 
