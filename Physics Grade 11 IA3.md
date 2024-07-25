@@ -44,7 +44,7 @@ Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that 
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices to create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring. (https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet#:~:text=A%20magnetic%20field%20results%20from,increasing%20distance%20from%20its%20source).
 
 
-maybe mention that in future there will likley be higher frequency wifi. Like how 
+maybe mention that in future there will likley be higher frequency wifi. Like how cellular also became higher frequency. 
 
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health **INCLUDE AT WHAT STRENGTH/AMPLITUDE/WATTAGE??.** 
