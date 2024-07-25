@@ -36,7 +36,7 @@ For example, waves between wavelengths 380 to 700 nanometers (https://science.na
 EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionising'.  This means that they have enough energy remove electrons from atoms, or 'ionise' them. 
 Ionising radiation can be in the form of alpha, beta, gamma or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons)
 
-Ionising radiation's ability to ionise poses high risk to DNA and cells within the body. Doses of exposure to ionising radiation excess of 100 mSv has been linked to the development of cancer (https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects) and intense doses can destroy DNA, making it impossible for cells to reproduce.
+Ionising radiation's ability to ionise poses high risk to DNA and cells within the body. Doses of exposure to ionising radiation excess of 100mSv has been linked to the development of cancer (https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects) and intense doses can destroy DNA, making it impossible for cells to reproduce.
 Non ionising radiation cannot directly alter DNA, but can pose risk to the body. For example, microwaves are a common household appliance that most commonly operate at 2.45GHz. This frequency creates am optimal wavelength for polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating can could cause burns (https://today.tamu.edu/2022/04/22/exposure-to-high-powered-microwave-frequencies-may-cause-brain-injuries/) , brain injury, or impairment of DNA cells (https://theijes.com/papers/vol7-issue5/Version-2/C0705021620.pdf). Aditionally, the World Health Organisation has classified non-ionizing radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they has the potential to cause cancer in humans ()
 #### Why do these devices emit EMF and at what frequencies:
 
@@ -44,7 +44,7 @@ Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that 
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices to create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring (https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet#:~:text=A%20magnetic%20field%20results%20from,increasing%20distance%20from%20its%20source).
 
 ### Research Question
-At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health INCLUDE AT WHAT STRENGTH. 
+At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health **INCLUDE AT WHAT STRENGTH/AMPLITUDE/WATTAGE??.** 
 
 ## Body
 ### Source 1
