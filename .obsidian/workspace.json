@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "354547f28553c42c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24-07-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a88604338c7ad4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25-07-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e23f4031d24bb8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d9e0d3263c620e23",
             "type": "leaf",
             "state": {
@@ -67,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26-07-2024.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26-07-2024.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26-07-2024.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -198,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "26-07-2024.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -233,14 +196,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9e0d3263c620e23",
+  "active": "133fb84e2283f722",
   "lastOpenFiles": [
-    "25-07-2024.md",
-    "26-07-2024.md",
-    "24-07-2024.md",
-    "Physics Grade 11 IA3.md",
-    "Pasted image 20240725084934.png",
     "Chemistry IA3.md",
+    "Physics Grade 11 IA3.md",
+    "24-07-2024.md",
+    "26-07-2024.md",
+    "25-07-2024.md",
+    "Pasted image 20240725084934.png",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Mr sonter yapping.md",
     "Excalidraw/Physics 4.1.2.md",
