@@ -20,7 +20,8 @@
     "EMFs",
     "ionising",
     "Ionising",
-    "Ionising"
+    "Ionising",
+    "ionise"
   ],
   "tabSize": 4,
   "readableLineLength": true,
