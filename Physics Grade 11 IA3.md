@@ -55,8 +55,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 *Figure 1*
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
-Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. 
-
+Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues.
 
 
 
