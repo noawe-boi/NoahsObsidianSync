@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26-07-2024.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26-07-2024.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26-07-2024.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "26-07-2024.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -197,13 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9e0d3263c620e23",
+  "active": "133fb84e2283f722",
   "lastOpenFiles": [
+    "26-07-2024.md",
     "Pasted image 20240725230829.png",
     "Physics Grade 11 IA3.md",
     "Chemistry IA3.md",
     "24-07-2024.md",
-    "26-07-2024.md",
     "25-07-2024.md",
     "Pasted image 20240725084934.png",
     "conflict-files-obsidian-git.md",
@@ -236,7 +235,6 @@
     "Pasted Image 20240523221028_200.png",
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
-    "Pasted image 20240513123624.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
