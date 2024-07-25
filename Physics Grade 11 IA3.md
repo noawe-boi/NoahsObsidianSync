@@ -44,8 +44,10 @@ For example, waves between wavelengths 380 to 700 nanometers (https://science.na
 
 #### Ionising vs non ionising radiation: 
 
-EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionising'.  This means that they have enough energy remove electrons from atoms. 
+EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionising'.  This means that they have enough energy remove electrons from atoms, or 'ionise' them. 
 Ionising radiation can be in the form of alpha, beta, gamma or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons)
+
+Ionising radiation's ability to 
 
 *State which of these can harm people??*
 
