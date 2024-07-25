@@ -13,34 +13,23 @@ tags:
 <br/>
 <br/>
 
-
 ## **Draft Notes:**
 **Will remove funky colors/fonts/titles in final submission and cite all sources that are currently links**
 
-
-
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
-
-
 
 ### Background`
 
 #### Short intro saying how there is wifi and 5g bill gates nano chip vaccine everywhere now??
 
-
 #### What is EMF:
 
-EMFs and electromagnetic radiation are not the same thing. 
+*EMFs and electromagnetic radiation are not the same thing.* 
 
 Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through waves called photons (https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html). Photons have no mass and are generated when electrons or other charged particles are excited enough to change energy levels. Particles emit photons when this change in energy level occurs.
-
 EMFs are not a single type of wave, but is an entire spectrum, not all of which is harmful to human health.
 For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which people constantly absorb every day. 
-
-
-
-
 
 #### Ionising vs non ionising radiation: 
 
@@ -49,21 +38,13 @@ Ionising radiation can be in the form of alpha, beta, gamma or X-rays, with alph
 
 Ionising radiation's ability to ionise poses high risk to DNA and cells within the body. Doses of exposure to ionising radiation excess of 100 mSv has been linked to the development of cancer (https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects) and intense doses can destroy DNA, making it impossible for cells to reproduce.
 Non ionising radiation cannot directly alter DNA, but can pose risk to the body. For example, microwaves are a common household appliance that most commonly operate at 2.45GHz. This frequency creates am optimal wavelength for polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating can could cause burns (https://today.tamu.edu/2022/04/22/exposure-to-high-powered-microwave-frequencies-may-cause-brain-injuries/) , brain injury, or impairment of DNA cells (https://theijes.com/papers/vol7-issue5/Version-2/C0705021620.pdf). Aditionally, the World Health Organisation has classified non-ionizing radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they has the potential to cause cancer in humans ()
-
-
-
-
-
-
 #### Why do these devices emit EMF and at what frequencies:
 
 Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 6Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices to create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring (https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet#:~:text=A%20magnetic%20field%20results%20from,increasing%20distance%20from%20its%20source).
 
-
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health INCLUDE AT WHAT STRENGTH. 
-
 
 ## Body
 #### Source 1
