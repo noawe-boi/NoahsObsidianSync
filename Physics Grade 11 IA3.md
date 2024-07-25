@@ -49,6 +49,9 @@ Ionising radiation can be in the form of alpha, beta, gamma or X-rays, with alph
 
 Ionising radiation's ability to ionise poses high risk to DNA and cells within the body. Exposure to ionising radiation has been linked to 
 
+
+non ionizing
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/
 *State which of these can harm people??*
 
 https://www.co.monmouth.nj.us/documents/118/RADIATION%20HEALTH%20BASICS.pdf
