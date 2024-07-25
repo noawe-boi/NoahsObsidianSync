@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7e3bc28fb89b62",
+        "id": "fb07b80e780cdd75",
         "type": "tabs",
         "children": [
           {
-            "id": "4218dd82a579b6d2",
+            "id": "133fb84e2283f722",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,36 @@
             }
           },
           {
-            "id": "6e4c7169f2c01eea",
+            "id": "354547f28553c42c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24-07-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a88604338c7ad4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "25-07-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e23f4031d24bb8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry IA3.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -196,27 +220,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4218dd82a579b6d2",
+  "active": "133fb84e2283f722",
   "lastOpenFiles": [
+    "Pasted image 20240725084934.png",
     "25-07-2024.md",
     "Physics Grade 11 IA3.md",
-    "Pasted image 20240725084934.png",
-    "23-07-2024.md",
-    "Excalidraw/Mr sonter yapping.md",
-    "conflict-files-obsidian-git.md",
     "24-07-2024.md",
-    "22-07-2024.md",
     "Chemistry IA3.md",
-    "Chemistry Chapter 3 M R. sonter-heimer.md",
-    "Excalidraw/11.7 Review.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Mr sonter yapping.md",
+    "Excalidraw/Physics 4.1.2.md",
+    "22-07-2024.md",
+    "23-07-2024.md",
     "Physics 11.7 Polarisation.md",
-    "Excalidraw/polarizing filters.md",
-    "Excalidraw/unpolarized light.md",
-    "Excalidraw/polarized light.md",
-    "Transverse Waves.md",
-    "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
-    "Sophie Fraser.md",
     "Grade 11 Chemistry IA3.md",
+    "Excalidraw/unpolarized light.md",
+    "Excalidraw/polarizing filters.md",
+    "Excalidraw/polarized light.md",
+    "Excalidraw/11.7 Review.md",
+    "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
     "18-07-2024.md",
     "16-07-2024.md",
     "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
@@ -224,6 +246,8 @@
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "Excalidraw/Physics 11.5.1 DIffaraciton exaple a.md",
+    "Excalidraw/Physics 11.5.1 DIffaraciton exaple b.md",
+    "Physics 11.5 Interference and diffraction.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
@@ -235,6 +259,7 @@
     "Pasted Image 20240523215435_813.png",
     "Pasted Image 20240523210031_876.png",
     "Pasted image 20240513123624.png",
+    "Pasted image 20240513122853.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
