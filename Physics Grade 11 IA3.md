@@ -33,7 +33,7 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 EMFs and electromagnetic radiation are not the same thing. 
 
-Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through particles called photons (https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html). Photons have no mass and are generated when electrons or other charged particles are excited enough to change velocity. Particles emit energy when this change in velocity 
+Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through particles called photons (https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html). Photons have no mass and are generated when electrons or other charged particles are excited enough to change velocity. Particles emit energy when this change in velocity with 
 
 **emit electromagnetic radiation (photons) when they undergo changes in velocity**. These photons carry energy proportional to their frequency, facilitating the transmission of energy through the electromagnetic wave.
 
