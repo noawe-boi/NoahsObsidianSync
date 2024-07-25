@@ -55,15 +55,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 *Figure 1*
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
-Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues.
+Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. As stated earlier
 
 
 
 from that source:
 *RF fields do not ionise cell genome or damage cells and tissues in any direct way, but research indicates that they affect living organisms via thermal effects (tissue heating) and non-thermal effects such as vibration and rotation of molecules (especially those that have an asymmetric charge or that are polar in structure), oxidative stress, genetic damage, or altered cell membrane permeability ([13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/#j_aiht-2022-73-3402_ref_013)).*
 
-
-
+Exposure to EMFs can damage biological tissues by inducing changes, which can be explained in terms of thermal or non-thermal mechanisms [[25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025786/#ref25)]. Thermal effects can occur with the conversion and absorption of heat by the body's electromagnetic energy. Increased body temperature is stabilized and alleviated by blood circulation. Although non-thermal effects do not raise the body temperature sufficiently to impair the structure of tissues, their effects can still be seen as an increase in free radical production in tissues [[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025786/#ref3)]. EMFs, no matter where they occur in the frequency spectrum, are reported to causes a rise in levels of oxygen free radicals in an experimental environment in plants and humans [[26](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025786/#ref26)].
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025786/#:~:text=Exposure%20to%20EMFs%20can%20damage,by%20the%20body%27s%20electromagnetic%20energy.
 
 
 
