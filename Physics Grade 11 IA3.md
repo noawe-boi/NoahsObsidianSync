@@ -61,37 +61,6 @@ Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that 
 
 Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices to create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring (https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet#:~:text=A%20magnetic%20field%20results%20from,increasing%20distance%20from%20its%20source).
 
-# **REMEMBER TO CITE THE PDF**
-##### Link Dump
-wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
-
-
-qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
-
-https://www.edn.com/wireless-charging-the-state-of-disunion/
-
-
-Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
-
-
-
-Qi Power usage??/
-https://www.edn.com/wireless-charging-the-state-of-disunion/
-
-QI SPECS
-file:///C:/Users/CRACKH~1/AppData/Local/Temp/7zO8B2A392B/qi-v1.3-power-delivery.pdf
-
-https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications/ 
-
-
-https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
-
-
-50Hz stuff in case i need it
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007658/pdf/brjindmed00169-0051.pdf
-https://www.princeton.edu/~ota/disk1/1989/8905/8905.PDF
-
 
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health INCLUDE AT WHAT STRENGTH. 
@@ -123,6 +92,37 @@ from that source:
 
 
 # Real Sources
+# **REMEMBER TO CITE THE PDF's**
+##### Link Dump
+wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
+
+
+qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
+
+https://www.edn.com/wireless-charging-the-state-of-disunion/
+
+
+Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
+
+
+
+Qi Power usage??/
+https://www.edn.com/wireless-charging-the-state-of-disunion/
+
+QI SPECS
+file:///C:/Users/CRACKH~1/AppData/Local/Temp/7zO8B2A392B/qi-v1.3-power-delivery.pdf
+
+https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications/ 
+
+
+https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
+
+
+50Hz stuff in case i need it
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007658/pdf/brjindmed00169-0051.pdf
+https://www.princeton.edu/~ota/disk1/1989/8905/8905.PDF
+
 
 
 
