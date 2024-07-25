@@ -50,8 +50,8 @@ Ionising radiation can be in the form of alpha, beta, gamma or X-rays, with alph
 Ionising radiation's ability to ionise poses high risk to DNA and cells within the body. Doses of exposure to ionising radiation excess of 100 mSv has been linked to the development of cancer (https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects) and intense doses can destroy DNA, making it impossible for cells to reproduce.
 Non ionising radiation cannot directly alter DNA, but can pose risk to cells 
 
-
-The working group reached the conclusion that RF radiation from devices that emit non-ionizing RF radiation in the frequency range 30 kHz-300 GHz, is a Group 2B, i.e. a 'possible', human carcinogen ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b3-ijo-51-02-0405),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b4-ijo-51-02-0405)). Later studies have corroborated these findings and have thus strengthened the evidence ([5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b5-ijo-51-02-0405)–[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b8-ijo-51-02-0405)).
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/)
+*The working group reached the conclusion that RF radiation from devices that emit non-ionizing RF radiation in the frequency range 30 kHz-300 GHz, is a Group 2B, i.e. a 'possible', human carcinogen ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b3-ijo-51-02-0405),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b4-ijo-51-02-0405)). Later studies have corroborated these findings and have thus strengthened the evidence ([5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b5-ijo-51-02-0405)–[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/#b8-ijo-51-02-0405)).*
 
 
 
