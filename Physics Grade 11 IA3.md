@@ -31,6 +31,7 @@ Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to
 EMFs are not a single type of wave, but is an entire spectrum, not all of which is harmful to human health.
 For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which people constantly absorb every day. 
 
+Talk about how waves with higher frequencies are absorbed easier
 #### Ionising vs non ionising radiation: 
 
 EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionising'.  This means that they have enough energy remove electrons from atoms, or 'ionise' them. 
@@ -63,7 +64,7 @@ The more conduction and penetration through tissue is possible, the higher the a
 
 It can be observed that as the frequency of the wave increases, the conductivity or S/m value decreases, however, penetration decreases. 
 \
-**why is pen**
+**why is pennetration decreasing if conduction increasing??**
 
 
 
