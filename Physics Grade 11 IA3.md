@@ -86,7 +86,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025786/#:~:text=Exposure%20to%20EM
 https://www.tandfonline.com/doi/epdf/10.1080/095530096145814?needAccess=true
 file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbraincellsafteracuteexposuretoradiofrequencyelectromagneticradiation..pdf
 
-The study 'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation', conducted by Taylor & Francis Ltd (1996), found 
+![[Pasted image 20240728172152.png]]
+![[Pasted image 20240728172202.png]]
+
+The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), found 
 
 
 
