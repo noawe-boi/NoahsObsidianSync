@@ -48,7 +48,7 @@ Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that n
 maybe mention that in future there will likley be higher frequency wifi. Like how cellular also became higher frequency. 
 
 #### At what amplitude do these devices emit EMFs
-Regulations in Australia limit the power that devices that utalise Wi-Fi can emit to 30 
+Regulations in Australia limit the power that devices that utalise Wi-Fi can emit to 30dBm or ~1W
 
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health **INCLUDE AT WHAT STRENGTH/AMPLITUDE/WATTAGE??.** 
