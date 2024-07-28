@@ -45,6 +45,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "6146edb49526913e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ffefc3602392f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +223,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33dc6307391bdcee",
+  "active": "d2ffefc3602392f7",
   "lastOpenFiles": [
     "Physics Grade 11 IA3.md",
     "Pasted image 20240728172202.png",
