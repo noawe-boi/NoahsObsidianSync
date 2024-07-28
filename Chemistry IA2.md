@@ -4,7 +4,10 @@ tags:
   - assignment
 ---
 
-What is caloremitery
+What 
+
+What is calorimetry
+
 
 What happens when reaction occurs
 
@@ -52,6 +55,12 @@ what is the effect of varying metal oxide (MgCO3) quantities on the temperature 
 |            |                                    |             |
 
 
+
+| Limitation | Exetmntion |
+| :--------- | :--------- |
+|            |            |
+|            |            |
+|            |            |
 ### Conclusion
 
 To answer the research question...
