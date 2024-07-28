@@ -4,10 +4,11 @@ tags:
   - assignment
 ---
 ### Introduction
-Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the changes that occur through chemical reactions. This experiment aims to investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$)
+Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$) by modifying a previous experiment. 
 
-What is bond enthalpy
+#### Background
 
+gCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)
 What is calorimetry
 
 
