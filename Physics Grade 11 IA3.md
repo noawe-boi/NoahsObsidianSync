@@ -89,7 +89,7 @@ file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbrainc
 ![[Pasted image 20240728172152.png]]
 ![[Pasted image 20240728172202.png]]
 
-The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), found 
+The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuious exposure to 2450MHz (2.45Ghz) EMF
 
 
 
