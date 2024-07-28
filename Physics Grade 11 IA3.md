@@ -47,6 +47,7 @@ Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that n
 
 maybe mention that in future there will likley be higher frequency wifi. Like how cellular also became higher frequency. 
 
+#### W
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health **INCLUDE AT WHAT STRENGTH/AMPLITUDE/WATTAGE??.** 
 
