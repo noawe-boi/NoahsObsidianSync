@@ -45,10 +45,12 @@ Safety + Ethics/Environment
 what is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?
 
 ### Limitations, improvement and Extentions
-| Limitation | Effect On Reliability and validity | Improvement |     |     |     |
-| :--------- | :--------------------------------- | :---------- | --- | --- | --- |
-|            |                                    |             |     |     |     |
-|            |                                    |             |     |     |     |
+| Limitation | Effect On Reliability and validity | Improvement |     |
+| :--------- | :--------------------------------- | :---------- | --- |
+|            |                                    |             |     |
+|            |                                    |             |     |
+|            |                                    |             |     |
+
 
 ### Conclusion
 
