@@ -4,7 +4,7 @@ tags:
   - assignment
 ---
 ### Introduction
-Understanding changes in enthalpy $(\Delta H)$ is crucual when understanding the changes that occur through chemical reactions 
+Understanding changes in enthalpy $(\Delta H)$ is crucual when understanding the changes that occur through chemical reactions. This experiment aims to investigate the change in enthalpy when varying ammounts of magnesium carbonate 
 
 What is bond enthalpy
 
