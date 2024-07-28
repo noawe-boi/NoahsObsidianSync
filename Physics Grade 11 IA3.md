@@ -49,7 +49,7 @@ maybe mention that in future there will likley be higher frequency wifi. Like ho
 
 #### At what amplitude do these devices emit EMFs
 Regulations in Australia limit the power that devices that utalise Wi-Fi can emit to 30dBm (https://www.digi.com/resources/documentation/Digidocs/90001476/reference/r_certs_xtc_australia.htm#:~:text=Power%20requirements,cannot%20not%20exceed%2030%20dBm.&text=Note%20The%20maximum%20EIRP%20for,(Canada)%20is%2036%20dBm.) or ~1 Watt (https://www.cpcstech.com/dbm-to-watt-conversion-information.htm#:~:text=As%20defined%20in%20FCC%20part%2015.247(i)%2C%20the%20power,of%201%20watt%20or%2030dBm.)
-
+The Qi Charging standard can transmit a maxi
 ### Research Question
 At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health **INCLUDE AT WHAT STRENGTH/AMPLITUDE/WATTAGE??.** 
 
