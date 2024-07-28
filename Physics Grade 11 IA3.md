@@ -50,7 +50,7 @@ Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that n
 Regulations in Australia limit the power that devices that utilise Wi-Fi can emit to 30dBm (https://www.digi.com/resources/documentation/Digidocs/90001476/reference/r_certs_xtc_australia.htm#:~:text=Power%20requirements,cannot%20not%20exceed%2030%20dBm.&text=Note%20The%20maximum%20EIRP%20for,(Canada)%20is%2036%20dBm.) or ~1 Watt (https://www.cpcstech.com/dbm-to-watt-conversion-information.htm#:~:text=As%20defined%20in%20FCC%20part%2015.247(i)%2C%20the%20power,of%201%20watt%20or%2030dBm).
 The Qi Charging standard can transmit a maximum of 15 Watts (https://us.moshi.com/blogs/news/the-ultimate-guide-to-wireless-charging#:~:text=Fast%2Dcharging%20with%20Qi&text=All%20wireless%20charging%20products%20for,that's%20not%20necessarily%20the%20case.).
 ### Research Question
-At what amplitude do Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz become harmful to human health **INCLUDE AT WHAT STRENGTH/AMPLITUDE/WATTAGE??.** 
+Are Electromagnetic Fields between 2GHz-6GHz at 1 Watt and 87kHz-205kHz at  harmful to human health.
 
 ## Body
 ### Source 1
