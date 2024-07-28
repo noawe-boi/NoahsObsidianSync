@@ -3,8 +3,8 @@ tags:
   - chem
   - assignment
 ---
-What happens when these metal react
-
+### Introduction
+Understanding changes in enthalpy $\delta h$ 
 
 What is bond enthalpy
 
