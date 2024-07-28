@@ -2,5 +2,7 @@
   "theme": "obsidian",
   "cssTheme": "Tokyo Night",
   "textFontFamily": "Hack Nerd Font",
-  "interfaceFontFamily": "Consolas"
+  "interfaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }
