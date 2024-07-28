@@ -89,8 +89,10 @@ file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbrainc
 ![[Pasted image 20240728172152.png]]
 ![[Pasted image 20240728172202.png]]
 
-The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuous exposure to 2450MHz (2.45Ghz) EMFs on the DNA strand breaks in rat brain cells at an average-specific absorption rate of 1.2W/Kg. 
-It was hypothesized that 2.45Ghz EMFs emitted from cellular devices, such as phones, were similar enough to those used in industrial processing and in microwaves to cause harm to cells. 
+The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuous exposure to 2450MHz (2.45GHz) EMFs on the DNA strand breaks in rat brain cells at an average-specific absorption rate of 1.2W/Kg. 
+It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as phones, were similar enough to those used in industrial processing and in microwaves to cause harm to cells. 
+
+Rats were exposed to 1.2W/Kg of 2.45GHz EMFs 
 
 
 
