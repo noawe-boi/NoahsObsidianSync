@@ -4,11 +4,12 @@ Hi Noah, please see some feedback on your draft below.
  - [ ] 
  
  - [ ] You have presented **a lot of information that would be better placed in more of a 'background'** *after* the research question. I would not get rid of it, but re- [ ]structure.
-#### Your rationale could include:
-	- [ ] Introduction of electromagnetic radiation and introduce that they can be dangerous at ionixing levels
-	  - [ ] A discussion WIFI and QI and can include the frequencies of operation as you have
-	 - [ ] Result in a research question that focuses on those two items (not just mentioning the frequencies)
+#### Your rationale could include
+- [ ] Introduction of electromagnetic radiation and introduce that they can be dangerous at ionixing levels
+- [ ] A discussion WIFI and QI and can include the frequencies of operation as you have
+ - [ ] Result in a research question that focuses on those two items (not just mentioning the frequencies)
 
+## Rationale continued...
 
 - [ ] Then most of what you have presented is information and theory that could sit after the research question
 
