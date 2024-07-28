@@ -4,7 +4,7 @@ tags:
   - assignment
 ---
 ### Introduction
-Understanding changes in enthalpy $\delta h$ 
+Understanding changes in enthalpy $(\Delta H)$ is crucual when understanding the changes that occur through chemical reactions 
 
 What is bond enthalpy
 
