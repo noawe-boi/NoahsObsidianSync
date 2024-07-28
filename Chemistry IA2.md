@@ -17,6 +17,8 @@ What happens when reaction occurs
 One sentence of a real world use
 
 
+Assumptions
+
 
 Variables
 - Independent
