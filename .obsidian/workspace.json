@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "331e3ec6da8c095e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c35f007bdbe07e7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240728172152.png"
+              }
+            }
+          },
+          {
             "id": "33dc6307391bdcee",
             "type": "leaf",
             "state": {
@@ -210,10 +232,15 @@
   },
   "active": "133fb84e2283f722",
   "lastOpenFiles": [
-    "Chemistry IA2.md",
+    "conflict-files-obsidian-git.md",
     "Physics Grade 11 IA3.md",
-    "Pasted image 20240728172202.png",
     "Pasted image 20240728172152.png",
+    "Physics 11.1 Wave model for light.md",
+    "Excalidraw/Physics 11.11 edample A.md",
+    "Excalidraw/Physcis q11.1 random quest.md",
+    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
+    "Chemistry IA2.md",
+    "Pasted image 20240728172202.png",
     "Physics Grade 11 IA3 Draft Feedback.md",
     "Physics Grade 11 IA3 LINKLESS.md",
     "26-07-2024.md",
@@ -221,7 +248,6 @@
     "24-07-2024.md",
     "25-07-2024.md",
     "Pasted image 20240725084934.png",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Mr sonter yapping.md",
     "Excalidraw/Physics 4.1.2.md",
     "22-07-2024.md",
@@ -235,10 +261,6 @@
     "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
     "18-07-2024.md",
     "16-07-2024.md",
-    "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
-    "Excalidraw/Huygens Principle Diagram.md",
-    "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 11.00.32.excalidraw.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
