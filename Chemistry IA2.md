@@ -135,7 +135,7 @@ $q=mc\Delta C$
 
 Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2 molar $HCL$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
 
-
+This change in enthalpy value was then brought into excel, and graphed against 
 
 
 
