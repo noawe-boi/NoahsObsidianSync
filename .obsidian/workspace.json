@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ecce2339a72b1ab",
+        "id": "1db4bb3be1e4dac0",
         "type": "tabs",
         "children": [
           {
-            "id": "9af1debd7a0a03e6",
+            "id": "2335ae15e102b9d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 11.1 Wave model for light.md",
+                "file": "Physics Grade 11 IA3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9cea529197a20da",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physcis q11.1 random quest.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physcis q11.1 random quest.md",
+                "file": "Physics Grade 11 IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physcis q11.1 random quest.md",
+                "file": "Physics Grade 11 IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physcis q11.1 random quest.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -160,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physcis q11.1 random quest.md"
+                "file": "Physics Grade 11 IA3.md"
               }
             }
           },
@@ -195,11 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9cea529197a20da",
+  "active": "2335ae15e102b9d9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
+    "Excalidraw/Physics 4.1.2.md",
     "Excalidraw/Physcis q11.1 random quest.md",
     "Physics 11.1 Wave model for light.md",
+    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
     "Excalidraw/Physics 11.11 edample A.md",
     "Chemistry IA2.md",
     "25-07-2024.md",
@@ -226,7 +216,6 @@
     "Transverse Waves.md",
     "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
     "Sophie Fraser.md",
-    "Grade 11 Chemistry IA3.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
