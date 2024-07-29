@@ -9,14 +9,14 @@ Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the
 #### Background
 Compounds store energy in the bonds of their components. This bond energy is a component of the compound's enthalpy, or sum of its total energy. 
 When Chemical reactions occur, the energy contained in the product(s) often do not contain or sum the same amount of energy as its reactant(s). Since energy cannot be created or destroyed, this difference in energy is either absorbed from or released into the environment in the form of heat. 
-This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measuring the change in tempeature 
+This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measuring the change in temperature or a sybstance with a known specific heat.  
 
 ### Rationale
 
 
 
 $MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
-What is calorimetry
+
 
 
 What happens when reaction occurs
