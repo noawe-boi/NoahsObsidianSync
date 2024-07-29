@@ -127,8 +127,8 @@ what is the effect of varying metal oxide (MgCO3) quantities on the temperature 
 
 
 
-
-
+#### Processing of data
+Raw data was pr
 
 
 
@@ -143,7 +143,7 @@ what is the effect of varying metal oxide (MgCO3) quantities on the temperature 
 
 
 
-| Limitation | Exetmntion |
+| Limitation | Exetention |
 | :--------- | :--------- |
 |            |            |
 |            |            |
