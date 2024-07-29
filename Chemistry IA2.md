@@ -38,7 +38,7 @@ Variables
 Justified Modifications (table)
 
 
-| Nature | Modification | Justification |
+| **Nature** | **Modification** | **Justification** |
 | :----- | :----------- | :------------ |
 |        |              |               |
 |        |              |               |
@@ -56,11 +56,11 @@ Safety + Ethics/Environment
 what is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?
 
 ### Limitations, improvement and Extentions
-| Limitation | Effect on Reliability and Validity | Improvement |
-| :--------- | :--------------------------------- | :---------- |
-|            |                                    |             |
-|            |                                    |             |
-|            |                                    |             |
+| **Limitation** | **Effect on Reliability and Validity** | **Improvement** |
+| :------------- | :------------------------------------- | :-------------- |
+|                |                                        |                 |
+|                |                                        |                 |
+|                |                                        |                 |
 
 
 
