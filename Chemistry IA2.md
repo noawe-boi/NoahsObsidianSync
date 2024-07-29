@@ -37,7 +37,7 @@ Assumptions
 
 Variables
 - Independent
-	- 
+	- Ammount of $MgCO
 - Dependent
 	- 
 - Controlled/Constant
