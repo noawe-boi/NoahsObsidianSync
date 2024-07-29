@@ -33,38 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "8efb1e76a8dbd130",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6047541cea74007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "0ce827f0646fa9f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff9b90b45ef2c9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6047541cea74007",
+  "active": "9d75b11da2124335",
   "lastOpenFiles": [
     "Pasted image 20240729193751.png",
     "Untitled 21.md",
