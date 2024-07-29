@@ -57,6 +57,8 @@ Variables
 |        |              |               |
 
 
+![[Pasted image 20240729193751.png]]
+https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view_desktop
 Risk Assessment
 
 Safety + Ethics/Environment
