@@ -1,3 +1,5 @@
 ---
 tags:
+  - physics
+  - assignment
 ---
