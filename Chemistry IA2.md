@@ -8,7 +8,7 @@ Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the
 
 #### Background
 Compounds store 
-When Chemical reactions occur, the energy contained in the product(s) often do not contain or sum the same amount of energy as its reactant(s). W
+When Chemical reactions occur, the energy contained in the product(s) often do not contain or sum the same amount of energy as its reactant(s). Since energy cannot be created or destoryed, this difference in energy is either absorbed or released 
 
 
 $MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
