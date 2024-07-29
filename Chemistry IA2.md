@@ -5,7 +5,7 @@ tags:
 ---
 Hey Mr Sonter! 
 Sorry for the late submission, and lack of substance in this report. 
-I understand what you've asked us 
+I understand what you've asked us to do, and have began my report based on what you've told us and the QCAA Example report (as w)
 
 
 - [[#Rationale|Rationale]]
