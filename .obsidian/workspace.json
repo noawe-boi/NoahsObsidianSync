@@ -45,20 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "6146edb49526913e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d2ffefc3602392f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
