@@ -37,9 +37,9 @@ Assumptions
 
 Variables
 - Independent
-	- Ammount of $MgCO
+	- Ammount of $MgCO_3$ added (0-3.5g)
 - Dependent
-	- 
+	- Temperature increase $\implies$ $\Delta H$ 
 - Controlled/Constant
 	- 
 
