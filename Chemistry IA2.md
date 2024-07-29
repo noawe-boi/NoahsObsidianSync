@@ -115,20 +115,21 @@ what is the effect of varying metal oxide (MgCO3) quantities on the temperature 
 
 #### Raw Data
 
-| MgCO3 | Trial 1 | Trial 2 | Trial 3 | Average DT (oC) |
-| ----- | ------- | ------- | ------- | --------------- |
-| 3.5   | 29      | 30      | 29      | 29.33           |
-| 3     | 30      | 30      | 29      | 29.67           |
-| 2.5   | 27      | 29      | 30      | 28.67           |
-| 2     | 23      | 25      | 26      | 24.67           |
-| 1.5   | 17      | 21      | 18      | 18.67           |
-| 1     | 13      | 12      | 12      | 12.33           |
+| MgCO3 | Trial 1 | Trial 2 | Trial 3 | Average D$\Delta T\degree$ (oC) |
+| ----- | ------- | ------- | ------- | ------------------------------- |
+| 3.5   | 29      | 30      | 29      | 29.33                           |
+| 3     | 30      | 30      | 29      | 29.67                           |
+| 2.5   | 27      | 29      | 30      | 28.67                           |
+| 2     | 23      | 25      | 26      | 24.67                           |
+| 1.5   | 17      | 21      | 18      | 18.67                           |
+| 1     | 13      | 12      | 12      | 12.33                           |
+| 0     | 0       | 0       | 0       | 0                               |
 
 
 
 
 #### Processing of data
-Raw data was pr
+Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature 
 
 
 
