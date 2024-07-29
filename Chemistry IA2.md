@@ -5,21 +5,13 @@ tags:
 ---
 Hey Mr Sonter! 
 Sorry for the late submission, and lack of substance in this report. 
-I understand what you've asked us to do, and have began my report based on what you've told us and the QCAA Example report (as w)
+I understand what you've asked us to do, and have began my report based on what you've told us and the QCAA Example report (as well as its marking guide). 
+I don't mind if I get this back a little later than the others do, I've got plenty to work on in the meantime and we still have a week till this is due. 
+
+Thanks, Noah
 
 
-- [[#Rationale|Rationale]]
-	- [[#Rationale#Introduction|Introduction]]
-	- [[#Rationale#Background|Background]]
-	- [[#Rationale#Original Experiment|Original Experiment]]
-	- [[#Rationale#Justified Modifications (table)|Justified Modifications (table)]]
-	- [[#Rationale#Risk Assessment|Risk Assessment]]
-	- [[#Rationale#Research Question|Research Question]]
-- [[#Results|Results]]
-	- [[#Rationale#Raw Data|Raw Data]]
-- [[#Discussion|Discussion]]
-	- [[#Rationale#Limitations, improvement and Extensions|Limitations, improvement and Extensions]]
-- [[#Discussion#Conclusion|Conclusion]]
+
 
 
 ### Rationale
