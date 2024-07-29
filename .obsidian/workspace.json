@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7e3bc28fb89b62",
+        "id": "1ecce2339a72b1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "4218dd82a579b6d2",
+            "id": "9af1debd7a0a03e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e4c7169f2c01eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25-07-2024.md",
+                "file": "Physics 11.1 Wave model for light.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "Physics 11.1 Wave model for light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "Physics 11.1 Wave model for light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "Physics 11.1 Wave model for light.md"
               }
             }
           },
@@ -161,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "Physics 11.1 Wave model for light.md"
               }
             }
           },
@@ -196,8 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4218dd82a579b6d2",
+  "active": "9af1debd7a0a03e6",
   "lastOpenFiles": [
+    "Physics 11.1 Wave model for light.md",
+    "25-07-2024.md",
+    "Physics Grade 11 IA3.md",
     "conflict-files-obsidian-git.md",
     "Physics Grade 11 IA3 LINKLESS.md",
     "Physics Grade 11 IA3 Draft Feedback.md",
@@ -206,8 +197,6 @@
     "Pasted image 20240725230829.png",
     "Chemistry IA2.md",
     "26-07-2024.md",
-    "25-07-2024.md",
-    "Physics Grade 11 IA3.md",
     "Pasted image 20240725084934.png",
     "23-07-2024.md",
     "Excalidraw/Mr sonter yapping.md",
@@ -227,7 +216,6 @@
     "18-07-2024.md",
     "16-07-2024.md",
     "Excalidraw/Drawing 2024-07-15 19.40.11.excalidraw.md",
-    "Excalidraw/Huygens Principle Diagram.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
