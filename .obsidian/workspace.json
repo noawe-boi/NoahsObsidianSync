@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0ce827f0646fa9f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9b90b45ef2c9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,9 +217,10 @@
   },
   "active": "9d75b11da2124335",
   "lastOpenFiles": [
+    "Untitled 21.md",
+    "Chemistry IA2.md",
     "29-07-2024.md",
     "Physics Grade 11 IA3.md",
-    "Chemistry IA2.md",
     "26-07-2024.md",
     "25-07-2024.md",
     "Pasted image 20240728172152.png",
@@ -228,7 +247,6 @@
     "Excalidraw/11.7 Review.md",
     "Excalidraw/Drawing 2024-07-17 01.22.23.excalidraw.md",
     "18-07-2024.md",
-    "16-07-2024.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
