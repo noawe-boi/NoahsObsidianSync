@@ -92,10 +92,25 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 **Note that this will later be partially placed in an appendix**
 
-### Research Question
+#### Research Question
 what is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?
 
-### Limitations, improvement and Extensions
+## Results
+
+
+#### Ra
+
+
+
+
+
+
+
+
+
+
+## Discussion
+#### Limitations, improvement and Extensions
 | **Limitation** | **Effect on Reliability and Validity** | **Improvement** |
 | :------------- | :------------------------------------- | :-------------- |
 |                |                                        |                 |
