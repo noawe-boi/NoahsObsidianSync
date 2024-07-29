@@ -131,7 +131,7 @@ what is the effect of varying metal oxide (MgCO3) quantities on the temperature 
 #### Processing of data
 Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula
 $q=mc\Delta C$ 
-Where $q$ is the change in enthalpy, or $De
+Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of $HCL$, approxamat used in each trial 
 
 
 
