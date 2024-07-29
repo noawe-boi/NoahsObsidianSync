@@ -3,6 +3,10 @@ tags:
   - chem
   - assignment
 ---
+Hey Mr Sonter! 
+Sorry for the late submission, and lack of substance in this report. 
+I understand what you've asked us 
+
 
 - [[#Rationale|Rationale]]
 	- [[#Rationale#Introduction|Introduction]]
