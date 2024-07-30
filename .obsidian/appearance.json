@@ -1,4 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "textFontFamily": "Hack Nerd Font",
+  "interfaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }

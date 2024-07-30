@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3c9553ab601302e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -164,9 +177,29 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "08d18ff67a56cba5",
+  "active": "c3c9553ab601302e",
   "lastOpenFiles": [
+    "Physics Grade 11 IA3.md",
     "conflict-files-obsidian-git.md",
+    "risk assessment.pdf",
+    "Untitled 21.md",
+    "Physics Grade 11 IA3 LINKLESS.md",
+    "Physics Grade 11 IA3 Draft Feedback.md",
+    "Physics 11.1 Wave model for light.md",
+    "Pasted image 20240729193751.png",
+    "Pasted image 20240728172202.png",
+    "Pasted image 20240728172152.png",
+    "Pasted image 20240725230829.png",
+    "Pasted image 20240725084934.png",
+    "Excalidraw/Physics 11.11 edample A.md",
+    "Excalidraw/Physcis q11.1 random quest.md",
+    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
+    "Chemistry IA2.md",
+    "30-07-2024.md",
+    "29-07-2024.md",
+    "26-07-2024.md",
+    "25-07-2024.md",
+    "24-07-2024.md",
     "Physics 11.7 Polarisation.md",
     "Grade 11 Chemistry IA3.md",
     "Excalidraw/unpolarized light.md",
