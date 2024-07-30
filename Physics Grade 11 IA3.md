@@ -95,12 +95,12 @@ Rats were exposed to an environment with a density of Electromagnetic Radiation 
 It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as phones, were similar enough to those used in industrial processing and in microwaves to cause harm to cells. 
 
 
-This investigation revealed that the rats exposed to EMFs had significantly more DNA breaks. This type damage to DNA is known to cause cell death, cancer or neurodegenerative disease. 
+This investigation revealed that the rats exposed to EMFs had significantly more DNA breaks when compared to the control group, or 'SHAM'. This type damage to DNA is known to cause cell death, cancer or neurodegenerative disease. 
 
 ![[Pasted image 20240728172202.png]]
 Figure 2 
 
-Figure 2 shows the frequency disribution of 
+Figure 2 plots the frequency disribution of single strand lenghts against the percentage of which occured in SHAM
 
 
 ### Source 3
