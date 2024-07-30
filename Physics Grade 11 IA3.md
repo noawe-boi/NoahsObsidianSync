@@ -143,8 +143,10 @@ Cancer cell one???
 
 ## Interpretation
 <p style="font-family:Arial">
+The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
+The scientific argument communicates sound reasoning and draws upon valid and reliable evidence.
 
-
+</p>
 ## Evaluation
 <p style="font-family:Arial">
 The discussion communicates understanding of the features of the evidence that affect how well it can be used to respond to the research question.
