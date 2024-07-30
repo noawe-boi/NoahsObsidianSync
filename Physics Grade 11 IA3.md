@@ -103,7 +103,7 @@ Figure 2
 Figure 2 plots the frequency distribution of single strand lengths against the percentage abundance in both EMF exposed, and SHAM rats.
 
 
-The paper suggests that the effects of the EMFs on brain cell DNA was a direct effect of the EMFs, as opposed to the result of absorption in other parts of the body. 
+The paper suggests that the effects of the EMFs on brain cell DNA was a direct effect of the EMFs, as opposed to the result of absorption in other parts of the body. In addition
 
 While Observable damage was observed to have occured in rat brain cells due to their exposure to 2.45Ghz EMFs, 
 ### Source 3
