@@ -111,7 +111,7 @@ While Observable damage was observed to have occurred in rat brain cells due to 
 
 <div>
 <p style="font-family: Arial">
-<p style="line-height:2" >
+
 • systematic and effective analysis of qualitative data and/or
 
 quantitative data within the sources about special relativity, 
@@ -128,10 +128,12 @@ limitations of evidence
 
 • insightful interpretation of research evidence about special 
 
-relativity,
-</p>
+
 </p>
 </div>
+
+
+The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
 ### Source 3
 TODO
 
@@ -143,8 +145,11 @@ Cancer cell one???
 
 ## Interpretation
 <p style="font-family:Arial">
-The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
+
+
 The scientific argument communicates sound reasoning and draws upon valid and reliable evidence.
+
+Does research support the claim??
 
 </p>
 ## Evaluation
