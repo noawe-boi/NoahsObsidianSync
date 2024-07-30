@@ -19,6 +19,8 @@ tags:
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
+### Rationale
+
 ### Background`
 
 #### Short intro saying how there is wifi and 5g bill gates nano chip vaccine everywhere now??
@@ -110,7 +112,7 @@ While Observable damage was observed to have occurred in rat brain cells due to 
 
 <div>
 <p style="font-family: Arial">
-<p style="line-height:2">
+<p style="line-height:2" >
 • systematic and effective analysis of qualitative data and/or
 
 quantitative data within the sources about special relativity, 
