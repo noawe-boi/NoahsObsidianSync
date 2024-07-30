@@ -108,10 +108,11 @@ The paper suggests that the effects of the EMFs on brain cell DNA was a direct e
 While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is much larger than what could be emitted by consumer Wi-Fi devices.\
 
 
-
-
-• systematic and effective analysis of qualitative data and/or quantitative data within the sources about special relativity, quantum theory or the Standard Model demonstrated by - the identification of sufficient and relevant evidence - thorough identification of relevant trends, patterns or relationships - thorough and appropriate identification of the uncertainty and limitations of evidence • insightful interpretation of research evidence about special relativity, q
-**
+<div>
+<font font=Arial>
+*• systematic and effective analysis of qualitative data and/or quantitative data within the sources about special relativity, quantum theory or the Standard Model demonstrated by - the identification of sufficient and relevant evidence - thorough identification of relevant trends, patterns or relationships - thorough and appropriate identification of the uncertainty and limitations of evidence* 
+*• insightful interpretation of research evidence about special relativity,* 
+</div>
 ### Source 3
 TODO
 
