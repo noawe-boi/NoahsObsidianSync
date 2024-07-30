@@ -87,7 +87,7 @@ https://www.tandfonline.com/doi/epdf/10.1080/095530096145814?needAccess=true
 file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbraincellsafteracuteexposuretoradiofrequencyelectromagneticradiation..pdf
 
 ![[Pasted image 20240728172152.png]]
-![[Pasted image 20240728172202.png]]
+
 
 The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuous exposure to 2450MHz (2.45GHz) EMFs on the DNA strand lengths in rat brain cells at an average-specific absorption rate of 1.2W/Kg. 
 Rats were exposed to an environment with a density of Electromagnetic Radiation of 1mW/cm$^2$ at 2.45GHz for 2 hours 
@@ -97,8 +97,10 @@ It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as pho
 
 This investigation revealed that the rats exposed to EMFs had significantly more DNA breaks. This type damage to DNA is known to cause cell death, cancer or neurodegenerative disease. 
 
+![[Pasted image 20240728172202.png]]
+Figure 2 
 
-
+Figure 2 shows the frequency disribution of 
 
 
 ### Source 3
