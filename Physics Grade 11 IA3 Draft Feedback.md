@@ -1,7 +1,7 @@
 Hi Noah, please see some feedback on your draft below.
 ## Rationale
- - [ ] The purpose of the rationale is to break down the claim and identify key aspects that you will focus your report on, resulting in a specific research question that includes the aspects that you have identified. [] 
- - [ ] 
+ - [ ] The purpose of the rationale is to break down the claim and identify key aspects that you will focus your report on, resulting in a specific research question that includes the aspects that you have identified. 
+ 
  
  - [ ] You have presented **a lot of information that would be better placed in more of a 'background'** *after* the research question. I would not get rid of it, but re- [ ]structure.
 #### Your rationale could include
