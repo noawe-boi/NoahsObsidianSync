@@ -109,7 +109,8 @@ While Observable damage was observed to have occurred in rat brain cells due to 
 
 
 <div>
-<p style="font-family: Arial", line-height>
+<p style="font-family: Arial">
+<p style="line-height:2">
 • systematic and effective analysis of qualitative data and/or
 
 quantitative data within the sources about special relativity, 
@@ -127,6 +128,7 @@ limitations of evidence
 • insightful interpretation of research evidence about special 
 
 relativity,
+</p>
 </p>
 </div>
 ### Source 3
