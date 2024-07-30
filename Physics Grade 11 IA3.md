@@ -16,6 +16,7 @@ tags:
 ## **Draft Notes:**
 **Will remove funky colors/fonts/titles in final submission and cite all sources that are currently links**
 
+## Introduciton
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
@@ -140,7 +141,18 @@ Cancer cell one???
 
 
 
+## Interpretation
 
+
+
+## Evaluation
+
+
+
+## Conclusion
+
+
+### Impro
 
 
 
