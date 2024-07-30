@@ -100,7 +100,7 @@ This investigation revealed that the rats exposed to EMFs had significantly more
 ![[Pasted image 20240728172202.png]]
 Figure 2 
 
-Figure 2 plots the frequency disribution of single strand lenghts against the percentage of which occured in SHAM
+Figure 2 plots the frequency distribution of single strand lengths against the percentage abundance in both exposed, and SHAM test subjects. 
 
 
 ### Source 3
