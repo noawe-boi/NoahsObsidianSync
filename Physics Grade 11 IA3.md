@@ -94,7 +94,7 @@ Rats were exposed to an environment with a density of  Electromagnetic Radiation
 
 It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as phones, were similar enough to those used in industrial processing and in microwaves to cause harm to cells. 
 
-Research uncovered that as 
+This investigation revealed that  
 
 
 
