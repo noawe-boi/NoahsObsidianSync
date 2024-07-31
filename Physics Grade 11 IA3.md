@@ -67,12 +67,13 @@ The more conduction and penetration through tissue is possible, the higher the a
 
 It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. 
 
+**effect of this??**
+
 In addition to this, tissues containing higher water content, such as skin and muscle, have the highest conductivity at all frequencies. 
 
 
 
-
-At sufficient power levels and short enough distance 
+##### Limitatio
 
 
 
