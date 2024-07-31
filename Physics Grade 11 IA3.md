@@ -123,11 +123,15 @@ While Observable damage was observed to have occurred in rat brain cells due to 
 
 quantitative data within the sources about special relativity, 
 
-quantum theory or the Standard Model demonstrated by - the 
+quantum theory or the Standard Model demonstrated by 
+<br>
+- the 
 
 identification of sufficient and relevant evidence - thorough
 
-identification of relevant trends, patterns or relationships - 
+identification of relevant trends, patterns or relationships 
+<br>
+- 
 
 thorough and appropriate identification of the uncertainty and 
 
