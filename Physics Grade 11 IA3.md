@@ -52,7 +52,9 @@ Regulations in Australia limit the power that devices that utilise Wi-Fi can emi
 ### Research Question
 
 Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?
-## Body
+
+
+## Evidence
 ### Exposure to Wi-Fi
 #### Source 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
@@ -71,7 +73,7 @@ It can be observed that as the frequency of the wave increases, the conductivity
 
 In addition to increase conductivity the impact of higher energy waves could be increased since higher frequency waves also contain more energy than lower frequency waves with the same amplitude. 
 
-It should also be mentioned that tissues containing higher water content, such as skin and muscle, have the highe conductivity at all frequencies. 
+It should also be mentioned that tissues containing higher water content, such as skin and muscle, have the highest conductivity at all frequencies.
 
 
 
