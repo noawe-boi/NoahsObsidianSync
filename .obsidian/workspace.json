@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "11.5 The Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 IA3.md",
+                "file": "11.5 The Photoelectric Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "11.5 The Photoelectric Effect.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics Grade 11 IA3.md"
+                "file": "11.5 The Photoelectric Effect.md"
               }
             }
           },
@@ -195,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "931d250da62bcf29",
   "lastOpenFiles": [
-    "11.5 The Photoelectric Effect.md",
     "Physics Grade 11 IA3.md",
+    "11.5 The Photoelectric Effect.md",
     "git fetch.md",
     "conflict-files-obsidian-git.md",
     "test1.md",
