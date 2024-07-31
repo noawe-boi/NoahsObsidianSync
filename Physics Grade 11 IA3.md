@@ -67,7 +67,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_t
 Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. EMFs at these frequencies do not possess enough energy to ionise, however, as stated previously, they still have the ability to cause harm. 
 The more conduction and penetration through tissue is possible, the higher the absorption and potential for damage in said tissue. 
 
-It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. Since higher frequency waves also contain more energy than lower frequency waves with the same amplitude, the impact of higher ener
+It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. In addition to increase conductivity the impact of higher energy waves could be increased since higher frequency waves also contain more energy than lower frequency waves with the same amplitude.
 
 **Effect of this??**
 
@@ -115,33 +115,6 @@ The paper suggests that the effects of the EMFs on brain cell DNA were directly 
 
 While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is much larger than what could be emitted by consumer Wi-Fi devices.\
 
-
-<div>
-<p style="font-family: Arial">
-
-• systematic and effective analysis of qualitative data and/or
-
-quantitative data within the sources about special relativity, 
-
-quantum theory or the Standard Model demonstrated by - the 
-
-identification of sufficient and relevant evidence - thorough
-
-identification of relevant trends, patterns or relationships - 
-
-thorough and appropriate identification of the uncertainty and 
-
-limitations of evidence
-
-<br>
-<br>
-
-
-• insightful interpretation of research evidence about special 
-
-
-</p>
-</div>
 
 
 The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
