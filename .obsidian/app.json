@@ -1,33 +1,7 @@
 {
-  "livePreview": true,
-  "alwaysUpdateLinks": true,
-  "promptDelete": true,
-  "focusNewTab": false,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 75
-  },
   "spellcheckDictionary": [
-    "natured",
-    "Kassin",
-    "Kassin",
-    "HiChord",
-    "betwen",
-    "utilises",
-    "EMFs",
-    "ionising",
-    "Ionising",
-    "Ionising",
     "ionise",
-    "polarised"
-  ],
-  "tabSize": 4,
-  "readableLineLength": true,
-  "strictLineBreaks": false,
-  "rightToLeft": false,
-  "foldIndent": true,
-  "foldHeading": true
+    "Ionising",
+    "Ionising"
+  ]
 }
