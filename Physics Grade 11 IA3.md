@@ -140,7 +140,6 @@ limitations of evidence
 
 The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
 ### Source 3
-Research conducted by Calvente et al. (2010) examined the effects of exposure to magnetic fields from inductive chargers and found that the ex
 
 
 
