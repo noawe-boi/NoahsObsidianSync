@@ -77,7 +77,9 @@ In addition to this, tissues containing higher water content, such as skin and m
 
 ##### Limitations
 
-- What 
+- No way to correlate these values with quantity of exposure
+- No effects of this conductivity listed in paper
+- 
 
 
 
