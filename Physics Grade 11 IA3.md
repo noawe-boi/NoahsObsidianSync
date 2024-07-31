@@ -119,18 +119,18 @@ While Observable damage was observed to have occurred in rat brain cells due to 
 <div>
 <p style="font-family: Arial">
 
-• systematic and effective analysis of qualitative data and/or
+- systematic and effective analysis of qualitative data and/or
 
 quantitative data within the sources about special relativity, 
 
 quantum theory or the Standard Model demonstrated by 
-<br>
+<br> <br>
 - the 
 
 identification of sufficient and relevant evidence - thorough
 
 identification of relevant trends, patterns or relationships 
-<br>
+<br> <br>
 - 
 
 thorough and appropriate identification of the uncertainty and 
@@ -141,7 +141,7 @@ limitations of evidence
 <br>
 
 
-• insightful interpretation of research evidence about special 
+- insightful interpretation of research evidence about special 
 
 
 </p>
