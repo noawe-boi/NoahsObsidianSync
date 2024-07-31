@@ -24,35 +24,31 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 ### Background`
 
-#### What is EMF:
+### What is EMF
 
-*EMFs and electromagnetic radiation are not the same thing.* 
+_EMFs and electromagnetic radiation are not the same thing._
 
-Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through waves called photons (https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html). 
+Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through waves called photons (NASA, 2013).
 
-Photons have no mass and are generated when electrons or other charged particles are excited enough to change energy levels. Particles emit photons when this change in energy level occurs.
-EMFs are not a single type of wave, but is an entire spectrum, not all of which is harmful to human health.
-For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which people constantly absorb every day. 
+Photons have no mass and are generated when electrons or other charged particles are excited enough to change energy levels. Particles emit photons when this change in energy level occurs. EMFs are not a single type of wave but an entire spectrum, not all of which is harmful to human health. For example, waves between wavelengths 380 to 700 nanometers (NASA, 2010) make up the visible spectrum of light, which people constantly absorb every day.
 
-Talk about how waves with higher frequencies are absorbed easier
-#### Ionising vs non ionising radiation: 
+#### Ionizing vs Non-ionizing Radiation
 
-EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths. (https://www.healthline.com/health/emf#types). EMF waves that carry enough energy can be considered 'Ionising'.  This means that they have enough energy remove electrons from atoms, or 'ionise' them. 
-Ionising radiation can be in the form of alpha, beta, gamma or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from,enough%20energy%20to%20remove%20electrons)
+EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths (Cirino & Lamoreux, 2018). EMF waves that carry enough energy can be considered 'Ionizing.' This means that they have enough energy to remove electrons from atoms, or 'ionize' them. Ionizing radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024).
 
-Ionising radiation's ability to ionise poses high risk to DNA and cells within the body. Doses of exposure to ionising radiation excess of 100mSv has been linked to the development of cancer (https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects) and intense doses can destroy DNA, making it impossible for cells to reproduce.
-Non ionising radiation cannot directly alter DNA, but can pose risk to the body. For example, microwaves are a common household appliance that most commonly operate at 2.45GHz. This frequency creates am optimal wavelength for polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating can could cause burns (https://today.tamu.edu/2022/04/22/exposure-to-high-powered-microwave-frequencies-may-cause-brain-injuries/) , brain injury, or impairment of DNA cells (https://theijes.com/papers/vol7-issue5/Version-2/C0705021620.pdf). Aditionally, the World Health Organisation has classified non-ionizing radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they has the potential to cause cancer in humans ()
-#### Why do these devices emit EMF and at what frequencies:
+Ionizing radiation's ability to ionize poses a high risk to DNA and cells within the body. Doses of exposure to ionizing radiation in excess of 100mSv have been linked to the development of cancer (WHO, 2023), and intense doses can destroy DNA, making it impossible for cells to reproduce. Non-ionizing radiation cannot directly alter DNA but can pose a risk to the body. For example, microwaves are a common household appliance that most commonly operates at 2.45GHz. This frequency creates an optimal wavelength for polarized water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating could cause burns (Clark, 2022), brain injury, or impairment of DNA cells (Rahman, 2018). Additionally, the World Health Organization has classified non-ionizing radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they have the potential to cause cancer in humans (Lohnes, 2022).
 
-Wireless Fidelity (Wi-Fi)is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2Ghz and 6Ghz. (https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves,just%20a%20measurement%20of%20frequency.)
-Wireless Power Consortium's 'Qi' is a set of specifications, or standard, that nearly every phone equipped with wireless charging. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower power, devices may use inductive coupled wireless changing, which relies on, and operating using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices to create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring. (https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet#:~:text=A%20magnetic%20field%20results%20from,increasing%20distance%20from%20its%20source).
+#### Why do these devices emit EMF and at what frequencies
+
+Wireless Fidelity (Wi-Fi) is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2GHz and 6GHz (Lohnes, 2017). The Wireless Power Consortium's 'Qi' is a set of specifications, or standards, that nearly every phone equipped with wireless charging adheres to. The Qi charging standard utilizes frequencies between 87kHz and 207kHz. Other, lower-power devices may use inductively coupled wireless charging, which relies on, and operates using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring (Lohnes, 2022).
 
 #### At what amplitude do these devices emit EMFs
-Regulations in Australia limit the power that devices that utilise Wi-Fi can emit to 30dBm (https://www.digi.com/resources/documentation/Digidocs/90001476/reference/r_certs_xtc_australia.htm#:~:text=Power%20requirements,cannot%20not%20exceed%2030%20dBm.&text=Note%20The%20maximum%20EIRP%20for,(Canada)%20is%2036%20dBm.) or ~1 Watt (https://www.cpcstech.com/dbm-to-watt-conversion-information.htm#:~:text=As%20defined%20in%20FCC%20part%2015.247(i)%2C%20the%20power,of%201%20watt%20or%2030dBm).
-The Qi Charging standard can transmit a maximum of 15 Watts (https://us.moshi.com/blogs/news/the-ultimate-guide-to-wireless-charging#:~:text=Fast%2Dcharging%20with%20Qi&text=All%20wireless%20charging%20products%20for,that's%20not%20necessarily%20the%20case.).
-### Research Question
-Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health.
 
+Regulations in Australia limit the power that devices that utilize Wi-Fi can emit to 30dBm (ACMA, n.d.) or ~1 Watt (Clark, 2022). The Qi Charging standard can transmit a maximum of 15 Watts (The Ultimate Guide to Wireless Charging, 2022).
+
+### Research Question
+
+Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?
 ## Body
 ### Exposure to Wi-Fi
 #### Source 1
