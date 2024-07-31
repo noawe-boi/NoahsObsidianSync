@@ -24,6 +24,11 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 ### Background`
 
+
+
+
+### Scientific Concepts
+#### 
 ### What is EMF
 
 _EMFs and electromagnetic radiation are not the same thing._
