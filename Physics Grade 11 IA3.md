@@ -54,7 +54,8 @@ The Qi Charging standard can transmit a maximum of 15 Watts (https://us.moshi.co
 Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health.
 
 ## Body
-### Source 1
+### Exposure to Wi-Fi
+#### Source 1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 **TODO: CROP**
@@ -83,7 +84,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6025786/#:~:text=Exposure%20to%20EM
 
 
 
-### Source 2
+#### Source 2
 https://www.tandfonline.com/doi/epdf/10.1080/095530096145814?needAccess=true
 file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbraincellsafteracuteexposuretoradiofrequencyelectromagneticradiation..pdf
 
