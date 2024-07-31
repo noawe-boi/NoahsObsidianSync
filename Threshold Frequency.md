@@ -4,4 +4,4 @@
 
 - Higher intensity levels (greater than $f_0$) $\implies$ Higher Current
 
-*different metals $\implies$ different $f_0$ values*
+- different metals $\implies$ different $f_0$ values
