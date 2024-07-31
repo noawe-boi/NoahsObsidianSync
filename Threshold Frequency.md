@@ -1,0 +1,1 @@
+The minumum frequency of a photon re
