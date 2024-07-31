@@ -1,1 +1,3 @@
-also known as the *reverse cut-off voltage*,
+Also known as the *reverse cut-off voltage*...
+
+When voltage becomes high enough to completely oppose the photoelectric effect and cause no current to flow. 
