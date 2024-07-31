@@ -173,7 +173,7 @@ The discussion communicates understanding of the features of the evidence that a
 ## Conclusion
 
 
-### Improvements and extentions
+### Improvements and extensions
 
 
 
