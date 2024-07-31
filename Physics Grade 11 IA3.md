@@ -69,10 +69,12 @@ The more conduction and penetration through tissue is possible, the higher the a
 
 It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. 
 
-This trend suggests that while the frequencies associated with Wi-Fi have the potential to be absorbed by and affect the body, frequencies emitted by Qi wireless chargers between 87kHz and 205kHz may not have enough energy
-
 
 In addition to increase conductivity the impact of higher energy waves could be increased since higher frequency waves also contain more energy than lower frequency waves with the same amplitude. 
+
+
+This trend suggests that while the frequencies associated with Wi-Fi have the potential to be absorbed by and affect the body, frequencies emitted by Qi wireless chargers between 87kHz and 205kHz may not have enough energy or have too large of a wavelength to affect cells to the same degree as 
+
 
 
 
