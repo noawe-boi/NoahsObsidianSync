@@ -1,0 +1,1 @@
+The emission of electrons (or other charge carriers) when light is shone on a metal

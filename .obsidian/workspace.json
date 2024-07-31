@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8377d35e1998b38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Photoelectric Effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "df22be97f88d9df9",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,6 +253,7 @@
   "active": "df22be97f88d9df9",
   "lastOpenFiles": [
     "11.5 The Photoelectric Effect.md",
+    "The Photoelectric Effect.md",
     "Threshold Frequency.md",
     "Untitled 23.md",
     "Physics Grade 11 IA3.md",
@@ -271,7 +284,6 @@
     "23-07-2024.md",
     "Excalidraw/Mr sonter yapping.md",
     "24-07-2024.md",
-    "22-07-2024.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
