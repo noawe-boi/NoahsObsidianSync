@@ -69,6 +69,10 @@ It can be observed that as the frequency of the wave increases, the conductivity
 
 
 
+At sufficient power levels and short enough distance 
+
+
+
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
