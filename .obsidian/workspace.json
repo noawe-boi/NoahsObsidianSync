@@ -32,6 +32,26 @@
             }
           },
           {
+            "id": "a3b5c7edda276c1e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "acc01f0b03c5224d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stopping Potential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8377d35e1998b38f",
             "type": "leaf",
             "state": {
@@ -252,13 +272,14 @@
   },
   "active": "931d250da62bcf29",
   "lastOpenFiles": [
+    "Physics Grade 11 IA3.md",
+    "11.5 The Photoelectric Effect.md",
+    "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "The Photoelectric Effect.md",
     "Threshold Frequency.md",
-    "11.5 The Photoelectric Effect.md",
     "Untitled 23.md",
-    "Physics Grade 11 IA3.md",
     "Excalidraw/cathode ray tube physics.md",
     "git fetch.md",
     "conflict-files-obsidian-git.md",
