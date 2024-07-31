@@ -25,7 +25,8 @@
     "polarised",
     "hypothesised",
     "Non-ionising",
-    "Organisation"
+    "Organisation",
+    "non-ionising"
   ],
   "tabSize": 4,
   "readableLineLength": true,
