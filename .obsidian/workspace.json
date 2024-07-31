@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "$E=",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -196,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2335ae15e102b9d9",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
     "11.5 The Photoelectric Effect.md",
     "Physics Grade 11 IA3.md",
