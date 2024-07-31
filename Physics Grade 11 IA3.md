@@ -35,7 +35,7 @@ Photons have no mass and are generated when electrons or other charged particles
 
 #### Ionising vs Non-ionising Radiation
 
-EMFs with very short wavelengths are considered to carry higher energy than EMF with larger wavelengths (Cirino & Lamoreux, 2018). EMF waves that carry enough energy can be considered 'Ionising.' This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024). Lower frequency waves can also ionise if they carry enough energy.
+EMFs with very short wavelengths are considered to carry higher energy than EMF with larger wavelengths at the same amplitude (Cirino & Lamoreux, 2018). EMF waves that carry enough energy can be considered 'Ionising.' This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024). Lower frequency waves can also ionise if they carry enough energy.
 
 Ionising radiation's ability to ionise poses a high risk to DNA and cells within the body. Doses in excess of 100mSv have been linked to the development of cancer (WHO, 2023), and intense doses can destroy DNA, making it impossible for cells to reproduce. 
 
@@ -67,7 +67,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_t
 Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. EMFs at these frequencies do not possess enough energy to ionise, however, as stated previously, they still have the ability to cause harm. 
 The more conduction and penetration through tissue is possible, the higher the absorption and potential for damage in said tissue. 
 
-It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. Since higher frequency waves also contain more energy than lower frequency waves with the same amplitude, higher frequency waves that are already potnetially absorbed more readyily,
+It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. Since higher frequency waves also contain more energy than lower frequency waves with the same amplitude, higher frequency waves that are already potnetially absorbed more readily could 
 
 **effect of this??**
 
