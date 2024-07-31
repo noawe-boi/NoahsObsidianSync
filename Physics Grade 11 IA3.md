@@ -92,6 +92,7 @@ This trend suggests that while the frequencies associated with Wi-Fi have the po
 
 - No way to correlate these values with quantity of exposure
 - No effects of this conductivity listed in paper
+- conductivity not quantified against absorption
 
 
 
@@ -171,6 +172,7 @@ The response identifies limitations of evidence that affect how well it can be u
 
 
 ## Interpretation
+
 <p style="font-family:Arial">
 
 
