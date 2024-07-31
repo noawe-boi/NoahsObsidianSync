@@ -128,8 +128,8 @@ The paper suggests that the effects of the EMFs on brain cell DNA were directly 
 
 
 ##### Limitations
-- While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is much larger than what could be emitted by consumer Wi-Fi devices. It is unclear what effects lower doses could result in. 
-- Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how 
+- While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is 1.2W/Kg/ This is much larger than what could be emitted by consumer Wi-Fi devices. It is unclear what effects lower doses could result in. 
+- Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how EMFs effect human brain cells cannot be known for certain unless further investigation is conducted.
 
 <div>
 <p style="font-family: Arial">
