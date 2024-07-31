@@ -16,7 +16,7 @@ tags:
 ## **Draft Notes:**
 **Will remove funky colors/fonts/titles in final submission and cite all sources that are currently links**
 
-## Introduciton
+## Introduction
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
@@ -33,11 +33,11 @@ Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to
 
 Photons have no mass and are generated when electrons or other charged particles are excited enough to change energy levels. Particles emit photons when this change in energy level occurs. EMFs are not a single type of wave but an entire spectrum, not all of which is harmful to human health. For example, waves between wavelengths 380 to 700 nanometers (NASA, 2010) make up the visible spectrum of light, which people constantly absorb every day.
 
-#### Ionizing vs Non-ionizing Radiation
+#### Ionising vs Non-ionising Radiation
 
 EMFs with very short wavelengths are considered to have higher energy than EMF with larger wavelengths (Cirino & Lamoreux, 2018). EMF waves that carry enough energy can be considered 'Ionising.' This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024).
 
-Ionizing radiation's ability to ionise poses a high risk to DNA and cells within the body. Doses of exposure to ionising radiation in excess of 100mSv have been linked to the development of cancer (WHO, 2023), and intense doses can destroy DNA, making it impossible for cells to reproduce. Non-ionizing radiation cannot directly alter DNA but can pose a risk to the body. For example, microwaves are a common household appliance that most commonly operates at 2.45GHz. This frequency creates an optimal wavelength for polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating could cause burns (Clark, 2022), brain injury, or impairment of DNA cells (Rahman, 2018). Additionally, the World Health Organization has classified non-ionizing radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they have the potential to cause cancer in humans (Lohnes, 2022).
+Ionizing radiation's ability to ionise poses a high risk to DNA and cells within the body. Doses of exposure to ionising radiation in excess of 100mSv have been linked to the development of cancer (WHO, 2023), and intense doses can destroy DNA, making it impossible for cells to reproduce. Non-ionising radiation cannot directly alter DNA but can pose a risk to the body. For example, microwaves are a common household appliance that most commonly operates at 2.45GHz. This frequency creates an optimal wavelength for polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating could cause burns (Clark, 2022), brain injury, or impairment of DNA cells (Rahman, 2018). Additionally, the World Health Organisation has classified non-ionising radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they have the potential to cause cancer in humans (Lohnes, 2022).
 
 #### Why do these devices emit EMF and at what frequencies
 
@@ -45,7 +45,7 @@ Wireless Fidelity (Wi-Fi) is a wireless communication and networking system that
 
 #### At what amplitude do these devices emit EMFs
 
-Regulations in Australia limit the power that devices that utilize Wi-Fi can emit to 30dBm (ACMA, n.d.) or ~1 Watt (Clark, 2022). The Qi Charging standard can transmit a maximum of 15 Watts (The Ultimate Guide to Wireless Charging, 2022).
+Regulations in Australia limit the power that devices that utilise Wi-Fi can emit to 30dBm (ACMA, n.d.) or ~1 Watt (Clark, 2022). The Qi Charging standard can transmit a maximum of 15 Watts (The Ultimate Guide to Wireless Charging, 2022).
 
 ### Research Question
 
