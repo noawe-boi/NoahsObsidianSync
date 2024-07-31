@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "44b83a1e8732720a",
+            "id": "bd2fda190556b421",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -174,12 +174,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "931d250da62bcf29",
+  "active": "bd2fda190556b421",
   "lastOpenFiles": [
     "Physics Grade 11 IA3.md",
     "11.5 The Photoelectric Effect.md",
