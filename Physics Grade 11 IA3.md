@@ -28,7 +28,9 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 *EMFs and electromagnetic radiation are not the same thing.* 
 
-Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through waves called photons (https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html). Photons have no mass and are generated when electrons or other charged particles are excited enough to change energy levels. Particles emit photons when this change in energy level occurs.
+Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through waves called photons (https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html). 
+
+Photons have no mass and are generated when electrons or other charged particles are excited enough to change energy levels. Particles emit photons when this change in energy level occurs.
 EMFs are not a single type of wave, but is an entire spectrum, not all of which is harmful to human health.
 For example, waves between wavelengths 380 to 700 nanometers (https://science.nasa.gov/ems/09_visiblelight/) are what make up the visible spectrum of light, in which people constantly absorb every day. 
 
