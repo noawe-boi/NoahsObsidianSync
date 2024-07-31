@@ -35,7 +35,7 @@ Photons have no mass and are generated when electrons or other charged particles
 
 #### Ionising vs Non-ionising Radiation
 
-EMFs with very short wavelengths are considered to carry higher energy than EMF with larger wavelengths (Cirino & Lamoreux, 2018). EMF waves that carry enough energy can be considered 'Ionising.' This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024).
+EMFs with very short wavelengths are considered to carry higher energy than EMF with larger wavelengths (Cirino & Lamoreux, 2018). EMF waves that carry enough energy can be considered 'Ionising.' This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024). Lower frequency waves can also ionise if they carry enough energy.
 
 Ionising radiation's ability to ionise poses a high risk to DNA and cells within the body. Doses in excess of 100mSv have been linked to the development of cancer (WHO, 2023), and intense doses can destroy DNA, making it impossible for cells to reproduce. 
 
