@@ -85,7 +85,7 @@ This trend suggests that while the frequencies associated with Wi-Fi have the po
 
 
 ##### Limitations
-While the conductivity of different frequencies would
+While conductivity could be a useful metric in determining what tissues are most effected b
 
 - No way to correlate these values with quantity of exposure
 - No effects of this conductivity listed in paper
