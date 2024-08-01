@@ -150,7 +150,7 @@ While this study did show the effects of short term, high intensity, exposure, t
 
 Overall, the claim that Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health is partially true. 
 Source 1 shows that waves at the frequencies used by Wi-Fi can be easily penetrate skin and muslce up to **INSERT HOW FAR THEY CAN PENETRATE**, and conduct up to **ISERT CONDUCTION AMMOUNT**. 
-Sour
+Source 2 further demonstrate the non thermal effects of 
 
 
 This investigation aimed to answer the research question 
@@ -161,6 +161,7 @@ This investigation aimed to answer the research question
 
 All studies mentioned are at higher power levels that research question. lack of evidence. 
 
+one study on rat cells however it was in living rats. more accurate as thermal effects more easily ma
 ### improvements and extensions
 
 - While this paper only measured the effects of 2.45GHz EMFs, investigation into higher frequency waves could yield higher resuts
