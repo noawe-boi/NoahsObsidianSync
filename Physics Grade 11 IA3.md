@@ -177,7 +177,7 @@ power level: 1.t kW.
 individual cells revieved 0.3 to 1.2 mT based on location
 
 
-<div style="color:blue">
+<div style="color:grey">
 Compared to the
 standards issued by ICNIRP 2010 (the limit is 27 μT), the experimental settings exceed
 the limit in range 11–44 times. These increased values of induction were set to test more
@@ -191,7 +191,7 @@ There are many studies indicating the negative bio-effect of EMF on various type
 
 
 
-![[Pasted image 20240801113946.png]] 
+ 
 
 ![[Pasted image 20240801114708.png]]
 ##### Identification of patterns/analysis
