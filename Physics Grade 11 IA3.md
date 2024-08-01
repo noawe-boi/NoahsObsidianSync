@@ -196,6 +196,7 @@ The study "The Biocompatibility of Wireless Power Charging System on Human Neura
 
 ![[Pasted image 20240801114708.png]]
 
+Add title to this
 HA: Normal cells
 SH-SY5Y: Cancer
 T98G: Glial
@@ -224,7 +225,7 @@ Does research support the claim??
 <p style="font-family:Arial">
 The discussion communicates understanding of the features of the evidence that affect how well it can be used to respond to the research question.
 </p>
-- No papers on 205khz, 
+- No papers on 205khz
 ## Conclusion
 
 
