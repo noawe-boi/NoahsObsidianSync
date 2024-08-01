@@ -149,15 +149,17 @@ While this study did show the effects of short term, high intensity, exposure, t
 ### Interpretation of evidence
 
 Overall, the claim that Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health is partially true. 
+
+
 Source 1 shows that waves at the frequencies used by Wi-Fi can be easily penetrate skin and muslce up to **INSERT HOW FAR THEY CAN PENETRATE**, and conduct up to **ISERT CONDUCTION AMMOUNT**. 
 
 Source 2 further demonstrates the thermal and non-thermal effects of EMFs on cells in vivo, which gave insight into how cells react when thermal effects can be better managed through the circulation of heat throughout the organism. It put forward evidence that the EMFs emitted by Wi-Fi devices can cause significant breakage in DNA and the possibility impair and slow down the repair of this damage in cells at high enough intensities. It is assumed that the higher overall energy and conductivity of 6GHz EMFs could have a larger impact however further investigation is required to confirm this 
 
-Source 3 indicated that intense, short term exposure to EMFs with a frequency of 87kHz has no measurable effect on HA, TG98G, and SH-ST5Y cells. No sources studied frequencies between 87kHz and 205kHz 
+Source 3 indicated that intense, short term exposure to EMFs with a frequency of 87kHz has no measurable effect on HA, TG98G, and SH-ST5Y cells. No sources studied frequencies between 87kHz and 205kHz.
 
-Emerging cellular technologies such as 5G utilise significantly higher frequencies such as 24GHz (Team Celona, 2022). An extention to this investigation could determine the effects of these higher energy and frequency waves and
+Emerging cellular technologies such as 5G utilise significantly higher frequencies such as 24GHz (Team Celona, 2022). An extention to this investigation could determine the effects of these higher energy and frequency waves on humans.
 
-This investigation aimed to answer the research question 
+
 ## Evaluation
 ### Evaluation of research process, claims and conclusions
 
