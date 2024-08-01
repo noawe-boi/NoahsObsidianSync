@@ -50,7 +50,6 @@ Regulations in Australia limit the power that devices that utilise Wi-Fi can emi
 
 ![[Pasted image 20240801211638.png]]
 <span style="color:grey">Figure 1. (Prlić et al., 2022)</span>
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
 ##### Background
 
