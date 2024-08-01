@@ -198,7 +198,7 @@ The study "The Biocompatibility of Wireless Power Charging System on Human Neura
 
 HA: Normal cells
 SH-SY5Y: Cancer
-T98G
+T98G: Glial
 ##### Identification of patterns/analysis
 
 
