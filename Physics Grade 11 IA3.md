@@ -92,7 +92,9 @@ Figure 2 plots the frequency distribution of single strand lengths against the p
 The paper suggests that the effects of the EMFs on brain cell DNA were directly caused by interaction with the EMFs, as opposed to the result of absorption in other parts of the body. In addition, the paper further implies that the presence of DNA strand breaks remaining long enough after exposure to be measured may suggest that EMFs not only caused this damage, but impaired brain cells ability to repair it. 
 ##### Limitations
 While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is 1.2W/Kg. This is much larger than what could be emitted by consumer Wi-Fi devices, as they are limited to a transmit power of 1 Watt. Furthermore, only a portion of this energy will be absorbed by nearby cells. It is unclear what effects these lower doses could result in. 
-<div style="Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how EMFs effect human brain cells cannot be known for certain unless further investigation is conducted.
+<div style="page-break-after: always">Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how EMFs effect human brain cells cannot be known for certain unless further investigation is conducted.
+</div>
+
 #### Source 3
 ##### Background
 The study *"The Biocompatibility of Wireless Power Charging System on Human Neural Cells"* (Skovierova et al., 2021) investigates the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a self-destructive sequence that cells execute when they detect that they are abnormal or unneeded. 
@@ -129,7 +131,7 @@ Emerging cellular technologies such as 5G utilise significantly higher frequenci
 
 No sources suggested that Wi-Fi or Qi devices were capable of emitting ionising radiation.
 
-Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
+<div style="page-break-after: alwaysConsidering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
 
 # References
 
