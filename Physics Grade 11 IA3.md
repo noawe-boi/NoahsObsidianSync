@@ -151,7 +151,7 @@ While this study did show the effects of short term, high intensity, exposure, t
 Overall, the claim that Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health is partially true. 
 Source 1 shows that waves at the frequencies used by Wi-Fi can be easily penetrate skin and muslce up to **INSERT HOW FAR THEY CAN PENETRATE**, and conduct up to **ISERT CONDUCTION AMMOUNT**. 
 
-Source 2 further demonstrates the thermal and non-thermal effects of EMFs on cells in vivo, which gave insight into how cells react when thermal effects can be better managed through the circulation of heat throughout the organism. It put forward evidence that the EMFs emitted by Wi-Fi devices can cause significant breakage in DNA and the possibility impair and slow down the repair of this damage in cells at high enough intensities. It is assumed that 
+Source 2 further demonstrates the thermal and non-thermal effects of EMFs on cells in vivo, which gave insight into how cells react when thermal effects can be better managed through the circulation of heat throughout the organism. It put forward evidence that the EMFs emitted by Wi-Fi devices can cause significant breakage in DNA and the possibility impair and slow down the repair of this damage in cells at high enough intensities. It is assumed that the higher overall energy and conductivity of 6GHz EMFs could have larger
 
 Source 3 indicated that intense, short term exposure to EMFs with a frequency of 87kHz have little to no effects on HA, TG98G, and SH-ST5Y cells. No sources studied frequencies between 87kHz and 205kHz 
 
