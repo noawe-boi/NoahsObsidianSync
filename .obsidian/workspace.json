@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work.md",
+                "file": "11.5 The Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work.md",
+                "file": "11.5 The Photoelectric Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work.md"
+                "file": "11.5 The Photoelectric Effect.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Work.md"
+                "file": "11.5 The Photoelectric Effect.md"
               }
             }
           },
@@ -208,12 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "672a1771df923d97",
+  "active": "931d250da62bcf29",
   "lastOpenFiles": [
-    "11.5 The Photoelectric Effect.md",
-    "Work.md",
-    "Stopping Potential.md",
     "Physics Grade 11 IA3.md",
+    "Work.md",
+    "11.5 The Photoelectric Effect.md",
+    "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "The Photoelectric Effect.md",
