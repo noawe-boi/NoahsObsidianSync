@@ -41,17 +41,17 @@ Photons have no mass and are generated when electrons or other charged particles
 
 #### Ionising vs Non-ionising Radiation
 
-Since $E=\frac{hc}{\lambda}$, when $hc$ remians constant, smaller wavelengths will cause the wave to have higher energy.Since EMFs with shorter wavelengths carry more energy than EMFs with larger wavelengths at the same amplitude (Cirino & Lamoreux, 2018). EMFs that carry enough energy, usually those with incredibly small wavelengths, become 'Ionising.' This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024). Lower frequency waves can also ionise if they carry enough energy.
+Since $E=\frac{hc}{\lambda}$, when $hc$ remians constant, smaller wavelengths will cause the wave to have higher energy.Since EMFs with shorter wavelengths carry more energy than EMFs with larger wavelengths at the same amplitude (Cirino & Lamoreux, 2018). EMFs that carry enough energy, usually those with incredibly small wavelengths, become ionising. This means that they have enough energy to remove electrons from atoms, or 'ionise' them. Ionising radiation can be in the form of alpha, beta, gamma, or X-rays, with alpha having the least amount of energy and potential to penetrate barriers, and gamma having the highest (CDC, 2024). Lower frequency waves can also ionise if they carry enough energy.
 
 Ionising radiation's ability to ionise poses a high risk to DNA and cells within the body. Doses in excess of 100mSv have been linked to the development of cancer (WHO, 2023), and intense doses can destroy DNA, making it impossible for cells to reproduce. 
 
 Non-ionising radiation cannot directly alter DNA but can pose a risk to the body. For example, microwaves are a common household appliance that most commonly operates at 2.45GHz. This frequency's wavelength causes polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating could cause burns (Clark, 2022), brain injury, cell oxidative stress, genetic damage and impairment of the body's cells (Rahman, 2018). Additionally, the World Health Organisation has classified non-ionising radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they have the potential to cause cancer in humans (Lohnes, 2022).
 
-#### Why do these devices emit EMFs and at what frequencies
+#### Why do these devices emit EMFs and at what frequencies?
 
 Wireless Fidelity (Wi-Fi) is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2GHz and 6GHz (Lohnes, 2017). The Wireless Power Consortium's 'Qi' is a set of specifications, or standards, that nearly every phone equipped with wireless charging adheres to. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower-power devices may use inductively coupled wireless charging, which relies on, and operates using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring Lohnes, 2022).
 
-#### At what amplitude do these devices emit EMFs
+#### At what amplitude do these devices create EMFs?
 
 Regulations in Australia limit the power that devices that utilise Wi-Fi can emit to 30dBm (ACMA, n.d.) or ~1 Watt (Clark, 2022). The Qi Charging standard can transmit a maximum of 15 Watts (The Ultimate Guide to Wireless Charging, 2022).
 
