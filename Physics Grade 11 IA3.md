@@ -209,7 +209,7 @@ T98G: Glial
 
 ##### Limitations
 - Does not show effects of chronic exposure. Which is common now as we sleep next to wifi
-- 
+- Did not study effects on brain cells. 
 
 ## Interpretation
 
