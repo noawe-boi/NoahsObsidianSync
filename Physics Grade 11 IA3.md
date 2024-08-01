@@ -19,13 +19,6 @@ ____________________
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
-### Rationale
-
-
-### Background
-
-
-
 
 ### Scientific Concepts
 #### EMFs and Electromagnetic Radiation
@@ -162,7 +155,7 @@ Source 3 indicated that intense, short term exposure to EMFs with a frequency of
 Emerging cellular technologies such as 5G utilise significantly higher frequencies such as 24GHz (Team Celona, 2022). An extention to this investigation could determine the effects of these higher energy and frequency waves on humans.
 
 
-
+Considering this, the answer to the research question 
 
 # Real Sources
 # **REMEMBER TO CITE THE PDF's**
