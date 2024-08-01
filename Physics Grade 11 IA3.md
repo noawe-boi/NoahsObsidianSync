@@ -191,7 +191,7 @@ There are many studies indicating the negative bio-effect of EMF on various type
 
 The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy, and cancerous human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe.
 
-
+What is apoptotic
  
 
 ![[Pasted image 20240801114708.png]]
@@ -203,13 +203,14 @@ T98G: Glial
 
 apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
-Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the 
+Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state.
 
 
 
 ##### Limitations
 - Does not show effects of chronic exposure. Which is common now as we sleep next to wifi
 - Did not study effects on brain cells. 
+- maybe use more cells?
 
 ## Interpretation
 
