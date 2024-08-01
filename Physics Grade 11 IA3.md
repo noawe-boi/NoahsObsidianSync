@@ -8,24 +8,9 @@ tags:
 
 # The Effects of EMF Emitting Devices in the Home
 
-<br>
-<br>
-<br>
-<br>
-<br><br><br><br><br><br><br><br><br><br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
 ____________________
-By Noah Alexiou
+
+<div style="page-break-before: always">By Noah Alexiou</div>
 ___________________________
 ## Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
