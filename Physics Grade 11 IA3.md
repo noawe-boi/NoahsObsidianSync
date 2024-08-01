@@ -189,12 +189,13 @@ While this study did show the effects of short term, high intensity, exposure, t
 
 
 ## Conclusion
-### 
+### Interpretation of evidence
+
 Overall, the claim that 
 
 
-
 ## Evaluation
+### Evaluation of research process, claims and conclusions
 
 ### Quality of evidence
 
