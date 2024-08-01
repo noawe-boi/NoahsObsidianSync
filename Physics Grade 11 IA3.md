@@ -203,14 +203,14 @@ T98G: Glial
 
 apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
-Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of HA, or 'normal' cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. In addition to this, they varied in 
-
+Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of HA, or 'normal' cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. The percentage of dead cells in these trials also increased in unconventi
 
 
 ##### Limitations
 - Does not show effects of chronic exposure. Which is common now as we sleep next to wifi
 - Did not study effects on brain cells. 
 - maybe use more cells?
+- Possible EMF exposure in control group
 
 ## Interpretation
 
