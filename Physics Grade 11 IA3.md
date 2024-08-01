@@ -12,16 +12,26 @@ tags:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+###### By Noah Alexiou
+<br/>
+<br/>
+<br/>
+<br/>
 
 ____________________
 
-
+## Claim
+Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
 ## Introduction
-
-
-
-
 
 ### Scientific Concepts
 #### EMFs and Electromagnetic Radiation
