@@ -107,7 +107,6 @@ It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as pho
 
 ##### Identification of Patterns and Analysis
 This investigation revealed that the rats exposed to EMFs had significantly more DNA breaks when compared to the control group, or 'SHAM'. This type damage to DNA is known to cause cell death, cancer or neurodegenerative disease. 
-<img src="Pasted image 20240728172202.png">
 ![[Pasted image 20240728172202.png]]
 
 
