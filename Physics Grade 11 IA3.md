@@ -131,7 +131,8 @@ Emerging cellular technologies such as 5G utilise significantly higher frequenci
 
 No sources suggested that Wi-Fi or Qi devices were capable of emitting ionising radiation.
 
-<div style="page-break-after: alwaysConsidering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
+<div style="page-break-after: always">Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
+</div>
 
 # References
 
