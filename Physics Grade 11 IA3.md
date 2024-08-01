@@ -156,7 +156,7 @@ This investigation aimed to answer the research question
 
 ### Quality of evidence
 
-All studies mentioned are at higher power levels that research 
+All studies mentioned are at higher power levels that research question. lack of evidence. 
 
 ### improvements and extensions
 
