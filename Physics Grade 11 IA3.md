@@ -153,9 +153,9 @@ While this study did show the effects of short term, high intensity, exposure, t
 ### Interpretation of evidence
 
 Overall, the claim that Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health is partially true. 
-While there is evidence to suggest that the waves emitted from wifi 
+While there is evidence to suggest that the waves emitted from Wi-Fi 
 
-
+This investigation aimed to answer the research questionL 
 ## Evaluation
 ### Evaluation of research process, claims and conclusions
 
