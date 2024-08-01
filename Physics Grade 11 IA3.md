@@ -20,12 +20,12 @@ tags:
 <br/>
 <br/>
 <br/>
-###### By Noah Alexiou
-<br/>
-<br/>
-<br/>
-<br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+By Noah Alexiou
 ____________________
 
 ## Claim
