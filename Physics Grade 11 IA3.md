@@ -19,7 +19,6 @@ ____________________
 ### Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
-
 ### Scientific Concepts
 #### EMFs and Electromagnetic Radiation
 Electromagnetic Radiation, Electromagnetic waves, or EMFs, are all terms used to describe the transmission of energy through waves called photons (NASA, 2013).
@@ -54,7 +53,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 **TODO: CROP**
 ![[Pasted image 20240801211638.png]]
-*Figure 1*
+<span style="color:grey">Figure 1</span>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
 ##### Background
