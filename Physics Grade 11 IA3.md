@@ -198,10 +198,17 @@ The scientific argument communicates sound reasoning and draws upon valid and re
 Does research support the claim??
 
 </p>
+
+\
 ## Evaluation
 <p style="font-family:Arial">
 The discussion communicates understanding of the features of the evidence that affect how well it can be used to respond to the research question.
 </p>
+
+
+
+
+
 - No papers on 205khz
 - Exposure units differ from paper to paper. not consistient. 
 ## 
