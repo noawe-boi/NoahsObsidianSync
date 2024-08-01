@@ -131,7 +131,7 @@ PDF: https://www.mdpi.com/2076-3417/11/8/3611/pdf
 
 
 
-The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a pre-programmed self-destruct sequence that cells execute when they detect that they are abnormal or unneeded. 
+The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a self-destructive sequence that cells execute when they detect that they are abnormal or unneeded. 
 
  
 
