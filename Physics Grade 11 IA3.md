@@ -150,3 +150,33 @@ Emerging cellular technologies such as 5G utilise significantly higher frequenci
 Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
 
 # References
+
+_ACMA (Australia)_. (n.d.). Www.digi.com. Retrieved July 31, 2024, from https://www.digi.com/resources/documentation/Digidocs/90001476/reference/r_certs_xtc_australia.htm#:~:text=Power%20requirements
+
+CDC. (2024, February 22). _About Non-Ionizing Radiation_. Radiation and Your Health. https://www.cdc.gov/radiation-health/about/non-ionizing-radiation.html#:~:text=Non%2Dionizing%20radiation%20differs%20from
+
+Cirino , E., & Lamoreux, K. (2018, October 23). _EMF Exposure: Danger Levels, Symptoms, Protection, and More_. Healthline. https://www.healthline.com/health/emf#types
+
+Clark, C. (2022, April 22). _Exposure To High-Powered Microwave Frequencies May Cause Brain Injuries_. Texas A&M Today. https://today.tamu.edu/2022/04/22/exposure-to-high-powered-microwave-frequencies-may-cause-brain-injuries/
+
+LAI, H. (1996). Single-and double-strand DNA breaks in rat brain cells after acute exposure to radiofrequency electromagnetic radiation. _International Journal of Radiation Biology_, _69_(4), 513–521. https://doi.org/10.1080/095530096145814
+
+Lohnes, K. (2017, October 25). _How Does Wi-Fi Work?_ Encyclopedia Britannica. https://www.britannica.com/story/how-does-wi-fi-work#:~:text=Wi%2DFi%20uses%20radio%20waves
+
+Lohnes, K. (2022, June 3). _Electromagnetic Fields and Cancer - NCI_. Www.cancer.gov. https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet#:~:text=A%20magnetic%20field%20results%20from
+
+NASA. (2010). _Visible Light - NASA Science_. Science.nasa.gov; NASA. https://science.nasa.gov/ems/09_visiblelight/
+
+NASA. (2013, March). _Electromagnetic Spectrum - Introduction_. Nasa.gov; NASA. https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html
+
+Prlić, I., Šiško, J., Varnai, V. M., Pavelić, L., Macan, J., Kobešćak, S., Hajdinjak, M., Jurdana, M., Cerovac, Z., Zauner, B., Mihić, M. S., & Avdagić, S. C. (2022). Wi-Fi technology and human health impact: a brief review of current knowledge. _Archives of Industrial Hygiene and Toxicology_, _73_(2), 94–106. https://doi.org/10.2478/aiht-2022-73-3402
+
+Rahman, Z.-A. S. (2018). Microwave Radiations and Its Effects on Human Health-A Review. _The IJES_, _7_(5). https://doi.org/10.9790/1813-0705021620
+
+Skovierova, H., Pavelek, M., Okajcekova, T., Palesova, J., Strnadel, J., Spanik, P., Halašová, E., & Frivaldsky, M. (2021). The Biocompatibility of Wireless Power Charging System on Human Neural Cells. _Applied Sciences_, _11_(8), 3611. https://doi.org/10.3390/app11083611
+
+Team Celona. (2022, December 12). _5G Bands Explained: How They Work & Why They Matter_. Www.celona.io. https://www.celona.io/5g-lan/5g-bands
+
+_The Ultimate Guide to Wireless Charging_. (2022, March 28). Us.moshi (US). https://us.moshi.com/blogs/news/the-ultimate-guide-to-wireless-charging#:~:text=Fast%2Dcharging%20with%20Qi&text=All%20wireless%20charging%20products%20for
+
+WHO. (2023, July 27). _Ionizing Radiation and Health Effects_. Www.who.int. https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects
