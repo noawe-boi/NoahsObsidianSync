@@ -63,16 +63,15 @@ Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 
 ## Evidence
 ### Exposure to Wi-Fi
 #### Source 1
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 **TODO: CROP**
 ![[Pasted image 20240801211638.png]]
-<span style="color:grey">Figure 1</span>
+<span style="color:grey">Figure 1. (Prlić et al., 2022)</span>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
 ##### Background
 
-The paper *"Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge"*, by Arh Hig Rada Toksikol (2022), compiles a number of other studies and aims to discuss the possible effects of Electromagnetic Radiation emitted by devices that utilise Wi-Fi technology. 
+The paper *"Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge"* (Prlić et al., 2022) compiles a number of other studies and aims to discuss the possible effects of Electromagnetic Radiation emitted by devices that utilise Wi-Fi technology. 
 
 ##### Identification of Patterns and Analysis
 
@@ -103,9 +102,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 
 #### Source 2
-https://www.tandfonline.com/doi/epdf/10.1080/095530096145814?needAccess=true
-file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbraincellsafteracuteexposuretoradiofrequencyelectromagneticradiation..pdf
-
 ##### Background
 
 The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuous exposure to 2450MHz (2.45GHz) EMFs on the DNA strand lengths in rat brain cells at an average-specific absorption rate of 1.2W/Kg. 
@@ -128,11 +124,7 @@ Another factor that limits the reliability of this study is difference in rat br
 
 The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
 ### Source 3
-
-
-
-
-
+##### bac
 The study *"The Biocompatibility of Wireless Power Charging System on Human Neural Cells"* (Skovierova et al., 2021) investigates the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a self-destructive sequence that cells execute when they detect that they are abnormal or unneeded. 
 
  
