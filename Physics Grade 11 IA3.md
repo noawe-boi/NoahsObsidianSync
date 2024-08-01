@@ -153,7 +153,7 @@ Source 1 shows that waves at the frequencies used by Wi-Fi can be easily penetra
 
 Source 2 further demonstrates the thermal and non-thermal effects of EMFs on cells in vivo, which gave insight into how cells react when thermal effects can be better managed through the circulation of heat throughout the organism. It put forward evidence that the EMFs emitted by Wi-Fi devices can cause significant breakage in DNA and the possibility impair and slow down the repair of this damage in cells at high enough intensities.
 
-Source 3 indicated that EMFs with a frequency of 87kHz have little to no effects on HA, TG98G, and 
+Source 3 indicated that intense, short term exposure to EMFs with a frequency of 87kHz have little to no effects on HA, TG98G, and SH-ST5Y cells. While no sources studied f
 
 This investigation aimed to answer the research question 
 ## Evaluation
