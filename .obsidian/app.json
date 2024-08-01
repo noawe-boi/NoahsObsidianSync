@@ -6,5 +6,11 @@
     "EMFs on",
     "Non-Ionising",
     "utilise"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  }
 }
