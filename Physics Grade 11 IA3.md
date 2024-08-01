@@ -153,7 +153,7 @@ Source 3 indicated that intense, short term exposure to EMFs with a frequency of
 Emerging cellular technologies such as 5G utilise significantly higher frequencies such as 24GHz (Team Celona, 2022). An extension to this investigation could determine the effects of these higher energy and frequency waves on humans.
 
 
-Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not emit 
+Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
 
 # Real Sources
 # **REMEMBER TO CITE THE PDF's**
