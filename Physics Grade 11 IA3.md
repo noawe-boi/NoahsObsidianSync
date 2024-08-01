@@ -10,7 +10,7 @@ tags:
 
 ____________________
 
-<div style="page-break-before: always">By Noah Alexiou</div>
+<div style="page-break-after: always"></div>
 ___________________________
 ## Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
@@ -44,6 +44,7 @@ Regulations in Australia limit the power that devices that utilise Wi-Fi can emi
 Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?
 
 
+<div style="page-break-after: always"></div>
 ## Evidence
 #### Source 1
 
