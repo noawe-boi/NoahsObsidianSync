@@ -203,7 +203,7 @@ T98G: Glial
 
 apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
-Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of the T98G, or glial, cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. The percentage of dead cells in these trials also increased in unconventional ways. The 
+Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of the T98G, or glial, cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. The percentage of dead cells in these trials also increased in different proportion across all trials. The same can be said about the rates of Early and late apopto
 
 
 ##### Limitations
