@@ -207,7 +207,7 @@ T98G: Glial
 
 
 ##### Limitations
-
+- Does not show effects of chronic exposure. Whis is common now
 
 ## Interpretation
 
