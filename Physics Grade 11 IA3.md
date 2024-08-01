@@ -190,21 +190,11 @@ While this study did show the effects of short term, high intensity, exposure, t
 
 ## Conclusion
 
-<p style="font-family:Arial">
-
-
-The scientific argument communicates sound reasoning and draws upon valid and reliable evidence.
-
-Does research support the claim??
-
-</p>
 
 
 
 ## Evaluation
-<p style="font-family:Arial">
-The discussion communicates understanding of the features of the evidence that affect how well it can be used to respond to the research question.
-</p>
+
 
 
 
