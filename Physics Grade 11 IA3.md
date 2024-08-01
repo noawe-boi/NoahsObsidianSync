@@ -12,6 +12,10 @@ ____________________
 
 <div style="page-break-after: always">By Noah Alexiou</div>
 ___________________________
+
+
+
+
 ## Claim
 Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health.
 
