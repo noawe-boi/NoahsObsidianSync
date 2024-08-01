@@ -47,7 +47,7 @@ Ionising radiation's ability to ionise poses a high risk to DNA and cells within
 
 Non-ionising radiation cannot directly alter DNA but can pose a risk to the body. For example, microwaves are a common household appliance that most commonly operates at 2.45GHz. This frequency's wavelength causes polarised water molecules to rapidly rotate and create friction between each other, which then creates heat. This heating could cause burns (Clark, 2022), brain injury, cell oxidative stress, genetic damage and impairment of the body's cells (Rahman, 2018). Additionally, the World Health Organisation has classified non-ionising radiation between the frequencies of 30kHz to 300GHz as Group 2B carcinogens, meaning that they have the potential to cause cancer in humans (Lohnes, 2022).
 
-#### Why do these devices emit EMF and at what frequencies
+#### Why do these devices emit EMFs and at what frequencies
 
 Wireless Fidelity (Wi-Fi) is a wireless communication and networking system that encodes information into radio waves to provide internet access to devices such as phones or computers. By design, it creates significant EMFs between the frequencies 2GHz and 6GHz (Lohnes, 2017). The Wireless Power Consortium's 'Qi' is a set of specifications, or standards, that nearly every phone equipped with wireless charging adheres to. The Qi charging standard utilises frequencies between 87kHz and 207kHz. Other, lower-power devices may use inductively coupled wireless charging, which relies on, and operates using, the 50Hz to 60Hz oscillation of the AC power it is supplied from the grid. While these devices create EMFs, any other appliances running on grid power will also create the same fields via the flow of current in house wiring Lohnes, 2022).
 
@@ -129,7 +129,7 @@ Figure 2 presents the location and percentage of cells in various states. In all
 
 ##### Limitations
 
-While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electrical signals, such as neurons. Finally, it cannot be known what amounts of EMF or these cells were exposed to before these trials occurred. It must be assumed that the effects of previous exposure are negligible.
+While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electrical signals, such as neurons. Finally, it cannot be known what exact exposure to EMF these cells were exposed to before these trials occurred. It must be assumed that the effects of previous exposure are negligible.
 
 
 ## Conclusion/Evaluation
