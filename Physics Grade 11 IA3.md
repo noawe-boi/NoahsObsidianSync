@@ -63,6 +63,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 *Figure 1*
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
+
+
+The paper
+
+
+
 ##### Identification of patterns/analysis
 
 Figure 1 shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. EMFs at these frequencies do not possess enough energy to ionise, however, as stated previously, they still have the ability to cause harm. 
@@ -107,14 +113,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 https://www.tandfonline.com/doi/epdf/10.1080/095530096145814?needAccess=true
 file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbraincellsafteracuteexposuretoradiofrequencyelectromagneticradiation..pdf
 
+##### Background
 
-##### Identification of patterns/analysis
 The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuous exposure to 2450MHz (2.45GHz) EMFs on the DNA strand lengths in rat brain cells at an average-specific absorption rate of 1.2W/Kg. 
 Rats were exposed to an environment with a density of Electromagnetic Radiation of 1mW/cm$^2$ at 2.45GHz for 2 hours 
 
 It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as phones, were similar enough to those used in industrial processing and in microwaves to cause harm to cells. 
 
-
+##### Identification of patterns/analysis
 This investigation revealed that the rats exposed to EMFs had significantly more DNA breaks when compared to the control group, or 'SHAM'. This type damage to DNA is known to cause cell death, cancer or neurodegenerative disease. 
 
 ![[Pasted image 20240728172202.png]]
@@ -207,7 +213,7 @@ While there is evidence to suggest that the waves emitted from wifi
 - While this paper only measured the effects of 2.45GHz EMFs, investigation into higher frequency waves could yield higher resuts
 
 - No papers on 205khz or 6GHz
-- Exposure units differ from paper to paper. not consistient. no direct comparison. 
+- Exposure units differ from paper to paper. not consistent. no direct comparison. 
 ## 
 
 
