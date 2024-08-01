@@ -205,11 +205,8 @@ Figure 2 presents the location and percentage of cells in various states. In all
 
 ##### Limitations
 
-While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electical signals, such as neurons.
-- Does not show effects of chronic exposure. Which is common now as we sleep next to wifi
-- Did not study effects on brain cells. 
-- maybe use more cells?
-- Possible EMF exposure in control group
+While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electrical signals, such as neurons. 
+
 
 ## Interpretation
 
