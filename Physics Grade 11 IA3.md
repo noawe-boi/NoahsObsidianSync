@@ -125,6 +125,8 @@ Figure 2 plots the frequency distribution of single strand lengths against the p
 
 The paper suggests that the effects of the EMFs on brain cell DNA were directly caused by interaction with the EMFs, as opposed to the result of absorption in other parts of the body. In addition, the paper further implies that the presence of DNA strand breaks remaining long enough after exposure to be measured may suggest that EMFs not only caused this damage, but impaired brain cells ability to repair it. 
 
+While this paper only measured the effects of 2.45GHz 
+
 
 ##### Limitations
 - While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is 1.2W/Kg. This is much larger than what could be emitted by consumer Wi-Fi devices, as they are limited to a transmit power of 1 Watt. Furthermore, only a portion of this energy will be absorbed by nearby cells. It is unclear what effects these lower doses could result in. 
@@ -191,7 +193,8 @@ While this study did show the effects of short term, high intensity, exposure, t
 ## Conclusion
 ### Interpretation of evidence
 
-Overall, the claim that 
+Overall, the claim that Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health is partially true. 
+While there is evidence to suggest that the waves emitted from wifi 
 
 
 ## Evaluation
