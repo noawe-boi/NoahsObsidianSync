@@ -109,7 +109,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 https://www.tandfonline.com/doi/epdf/10.1080/095530096145814?needAccess=true
 file:///C:/Users/Crackhead/Downloads/Single-anddouble-strandDNAbreaksinratbraincellsafteracuteexposuretoradiofrequencyelectromagneticradiation..pdf
 
-![[Pasted image 20240728172152.png]]
 
 ##### Identification of patterns/analysis
 The study *'Single- and double-strand DNA breaks in rat brain cells after acute exposure to radio frequency electromagnetic radiation'*, conducted by Taylor & Francis Ltd (1996), aimed to investigate the effects of continuous exposure to 2450MHz (2.45GHz) EMFs on the DNA strand lengths in rat brain cells at an average-specific absorption rate of 1.2W/Kg. 
@@ -207,6 +206,7 @@ Does research support the claim??
 The discussion communicates understanding of the features of the evidence that affect how well it can be used to respond to the research question.
 </p>
 - No papers on 205khz
+- Exposure units differ from paper to paper. not consistient. 
 ## Conclusion
 
 
