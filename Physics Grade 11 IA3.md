@@ -8,22 +8,13 @@ tags:
 
 # The Effects of EMF Emitting Devices in the Home
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 By Noah Alexiou
 ____________________
 
