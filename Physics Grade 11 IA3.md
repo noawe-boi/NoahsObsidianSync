@@ -59,11 +59,11 @@ Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
 
 **TODO: CROP**
-![[Pasted image 20240725084934.png]]
+![[Pasted image 20240801211638.png]]
 *Figure 1*
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
 
-
+##### Background
 
 The paper "Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge", by Arh Hig Rada Toksikol (2022), compiles a number of other studies and aims to discuss the possible effects of Electromagnetic Radiation emitted by devices that utilise Wi-Fi technology. 
 
@@ -80,14 +80,7 @@ It should also be mentioned that tissues containing higher water content, such a
 
 
 
-
-
-
-**Effect of this??**
-
 This trend suggests that while the frequencies associated with Wi-Fi have the potential to be absorbed by and affect the body, frequencies emitted by Qi wireless chargers between 87kHz and 205kHz may not have enough energy or have too large of a wavelength to affect cells to the same degree.
-
-
 
 
 
@@ -96,6 +89,7 @@ This trend suggests that while the frequencies associated with Wi-Fi have the po
 - No way to correlate these values with quantity of exposure
 - No effects of this conductivity listed in paper
 - conductivity not quantified against absorption
+- 
 
 
 
