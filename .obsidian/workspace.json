@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1db4bb3be1e4dac0",
+        "id": "fb07b80e780cdd75",
         "type": "tabs",
         "children": [
           {
-            "id": "2335ae15e102b9d9",
+            "id": "739c74817756d9a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physics Grade 11 IA3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931d250da62bcf29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672a1771df923d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -178,7 +154,7 @@
             }
           },
           {
-            "id": "bd2fda190556b421",
+            "id": "44b83a1e8732720a",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -186,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,49 +184,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2335ae15e102b9d9",
+  "active": "739c74817756d9a8",
   "lastOpenFiles": [
-    "Pasted image 20240801114708.png",
-    "Pasted image 20240801113946.png",
+    "git fetch.md",
     "Work function.md",
-    "Physics Grade 11 IA3.md",
-    "11.5 The Photoelectric Effect.md",
-    "Work.md",
+    "Untitled 23.md",
+    "Threshold Frequency.md",
+    "The Photoelectric Effect.md",
     "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
-    "The Photoelectric Effect.md",
-    "Threshold Frequency.md",
-    "Untitled 23.md",
+    "Pasted image 20240801114708.png",
+    "Pasted image 20240801113946.png",
     "Excalidraw/cathode ray tube physics.md",
-    "git fetch.md",
+    "11.5 The Photoelectric Effect.md",
     "conflict-files-obsidian-git.md",
     "test1.md",
     "Untitled 22.md",
+    "Physics Grade 11 IA3.md",
     "30-07-2024.md",
-    "risk assessment.pdf",
-    "Untitled 21.md",
-    "Pasted image 20240729193751.png",
-    "29-07-2024.md",
-    "Excalidraw/Physics 4.1.2.md",
-    "Excalidraw/Physcis q11.1 random quest.md",
-    "Physics 11.1 Wave model for light.md",
-    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
-    "Excalidraw/Physics 11.11 edample A.md",
-    "Chemistry IA2.md",
-    "25-07-2024.md",
     "Physics Grade 11 IA3 LINKLESS.md",
     "Physics Grade 11 IA3 Draft Feedback.md",
-    "Pasted image 20240728172202.png",
+    "29-07-2024.md",
+    "Chemistry IA2.md",
+    "Physics IA2 Report.md",
+    "risk assessment.pdf",
+    "Pasted image 20240729193751.png",
+    "Untitled 21.md",
+    "26-07-2024.md",
+    "25-07-2024.md",
     "Pasted image 20240728172152.png",
+    "Physics 11.1 Wave model for light.md",
+    "Excalidraw/Physics 11.11 edample A.md",
+    "Excalidraw/Physcis q11.1 random quest.md",
+    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
+    "Pasted image 20240728172202.png",
     "Pasted image 20240725230829.png",
+    "24-07-2024.md",
     "Pasted image 20240725084934.png",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
     "Pasted Image 20240610094522_589.png",
     "Pasted image 20240603093159.png",
-    "Pasted Image 20240527123253_874.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
