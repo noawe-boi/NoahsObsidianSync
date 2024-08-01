@@ -65,7 +65,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_t
 
 ##### Background
 
-The paper "Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge", by Arh Hig Rada Toksikol (2022), compiles a number of other studies and aims to discuss the possible effects of Electromagnetic Radiation emitted by devices that utilise Wi-Fi technology. 
+The paper *"Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge"*, by Arh Hig Rada Toksikol (2022), compiles a number of other studies and aims to discuss the possible effects of Electromagnetic Radiation emitted by devices that utilise Wi-Fi technology. 
 
 ##### Identification of Patterns and Analysis
 
@@ -126,7 +126,7 @@ PDF: https://www.mdpi.com/2076-3417/11/8/3611/pdf
 
 
 
-The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a self-destructive sequence that cells execute when they detect that they are abnormal or unneeded. 
+The study *"The Biocompatibility of Wireless Power Charging System on Human Neural Cells"*, by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a self-destructive sequence that cells execute when they detect that they are abnormal or unneeded. 
 
  
 
@@ -155,6 +155,8 @@ This investigation aimed to answer the research question
 ### Evaluation of research process, claims and conclusions
 
 ### Quality of evidence
+
+All studies mentioned are at higher power levels that research 
 
 ### improvements and extensions
 
