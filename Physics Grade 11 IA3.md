@@ -203,7 +203,7 @@ T98G: Glial
 
 apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
-
+Figure 2 presents the location and 
 
 
 
