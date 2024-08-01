@@ -6,13 +6,14 @@ tags:
 
 ---
 
+# The Effect of EMF 
 
-# INSERT COVER PAGE HERE
 <br/>
 <br/>
 <br/>
 <br/>
 
+____________________
 
 ## Introduction
 ### Claim
