@@ -62,7 +62,6 @@ Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 
 ## Evidence
 #### Source 1
 
-**TODO: CROP**
 ![[Pasted image 20240801211638.png]]
 <span style="color:grey">Figure 1. (Prlić et al., 2022)</span>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_tab_001/?report=objectonly
