@@ -188,7 +188,7 @@ Figure 2 presents the location and percentage of cells in various states. In all
 While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electrical signals, such as neurons. Finally, it cannot be known what amounts of EMF or these cells were exposed to before these trials occurred. It must be assumed that the effects of previous exposure are negligible.
 
 
-## Interpretation
+## Conclusion
 
 <p style="font-family:Arial">
 
@@ -204,7 +204,7 @@ The discussion communicates understanding of the features of the evidence that a
 </p>
 - No papers on 205khz
 - Exposure units differ from paper to paper. not consistient. 
-## Conclusion
+## 
 
 
 ### Improvements and extensions
