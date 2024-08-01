@@ -83,13 +83,7 @@ This trend suggests that while the frequencies associated with Wi-Fi have the po
 
 
 ##### Limitations
-While conductivity could be a useful metric in determining what tissues are most affected by EMFs and Electromagnetic Raidation, these metrics alone do not provide sufficient evidence to support negative effects other than the thermal effects mentioned.
-
-- No way to correlate these values with quantity of exposure
-- No effects of this conductivity listed in paper
-- conductivity not quantified against absorption
-- 
-
+While conductivity could be a useful metric in determining what tissues are most affected by EMFs and Electromagnetic Radiation, these metrics alone do not provide sufficient evidence to support negative effects other than the thermal effects mentioned.
 
 
 
@@ -127,38 +121,6 @@ The paper suggests that the effects of the EMFs on brain cell DNA were directly 
 ##### Limitations
 - While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is 1.2W/Kg. This is much larger than what could be emitted by consumer Wi-Fi devices, as they are limited to a transmit power of 1 Watt. Furthermore, only a portion of this energy will be absorbed by nearby cells. It is unclear what effects these lower doses could result in. 
 - Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how EMFs effect human brain cells cannot be known for certain unless further investigation is conducted.
-
-
-<div>
-<p style="font-family: Arial">
-
-- systematic and effective analysis of qualitative data and/or
-
-quantitative data within the sources about special relativity, 
-
-quantum theory or the Standard Model demonstrated by 
-<br> <br>
-- the 
-
-identification of sufficient and relevant evidence - thorough
-
-identification of relevant trends, patterns or relationships 
-<br> <br>
-- 
-
-thorough and appropriate identification of the uncertainty and 
-
-limitations of evidence
-
-<br>
-<br>
-
-
-- insightful interpretation of research evidence about special 
-
-
-</p>
-</div>
 
 
 The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
