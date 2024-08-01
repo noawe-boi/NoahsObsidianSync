@@ -196,7 +196,7 @@ There are many studies indicating the negative bio-effect of EMF on various type
 
 ![[Pasted image 20240801113946.png]] 
 
-
+![[Pasted image 20240801114708.png]]
 ##### Identification of patterns/analysis
 
 
