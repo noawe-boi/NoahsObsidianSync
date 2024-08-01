@@ -150,12 +150,10 @@ Source 2 further demonstrates the thermal and non-thermal effects of EMFs on cel
 
 Source 3 indicated that intense, short term exposure to EMFs with a frequency of 87kHz has no measurable effect on HA, TG98G, and SH-ST5Y cells. No sources studied frequencies between 87kHz and 205kHz.
 
+Emerging cellular technologies such as 5G utilise significantly higher frequencies such as 24GHz (Team Celona, 2022). An extension to this investigation could determine the effects of these higher energy and frequency waves on humans.
 
 
-Emerging cellular technologies such as 5G utilise significantly higher frequencies such as 24GHz (Team Celona, 2022). An extention to this investigation could determine the effects of these higher energy and frequency waves on humans.
-
-
-Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not emit nearly enough 
+Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not emit 
 
 # Real Sources
 # **REMEMBER TO CITE THE PDF's**
