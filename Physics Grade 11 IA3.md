@@ -204,16 +204,10 @@ While there is evidence to suggest that the waves emitted from wifi
 
 ### improvements and extensions
 
-
-## Extentions??
-
 - While this paper only measured the effects of 2.45GHz EMFs, investigation into higher frequency waves could yield higher resuts
 
-
-
-
-- No papers on 205khz
-- Exposure units differ from paper to paper. not consistient. 
+- No papers on 205khz or 6GHz
+- Exposure units differ from paper to paper. not consistient. no direct comparison. 
 ## 
 
 
