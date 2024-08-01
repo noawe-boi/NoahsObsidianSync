@@ -173,7 +173,7 @@ PDF: https://www.mdpi.com/2076-3417/11/8/3611/pdf
 
 
 
-The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell dead, is a pre-programmed self destruct sequence that cells execute when they detect that they are abnormal or unneeded. 
+The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell dead, is a pre-programmed self-destruct sequence that cells execute when they detect that they are abnormal or unneeded. 
 
 What is apoptotic
  
@@ -189,7 +189,7 @@ Figure 2 presents the location and percentage of cells in various states. In all
 
 ##### Limitations
 
-While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electrical signals, such as neurons. Finally, it cannot be known what amounts of EMF or these cells were exposed to before these trials occurred. It must be assumed that 
+While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of wireless chargers. While the cells used in these trials are human, further investigation may be required to fully understand the effects on cells that transmit electrical signals, such as neurons. Finally, it cannot be known what amounts of EMF or these cells were exposed to before these trials occurred. It must be assumed that the effects of previous exposure are negligible.
 
 
 ## Interpretation
