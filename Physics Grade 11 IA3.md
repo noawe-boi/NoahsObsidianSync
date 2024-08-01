@@ -201,7 +201,7 @@ HA: Normal cells
 SH-SY5Y: Cancer
 T98G: Glial
 
-
+apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
 
 
