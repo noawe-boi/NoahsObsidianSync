@@ -85,6 +85,7 @@ In addition to increase conductivity the impact of higher energy waves could be 
 
 It should also be mentioned that tissues containing higher water content, such as skin and muscle, have the highest conductivity at all frequencies.
 
+
 This trend suggests that while the frequencies associated with Wi-Fi have the potential to be absorbed by and affect the body, frequencies emitted by Qi wireless chargers between 87kHz and 205kHz may not have enough energy or have too large of a wavelength to affect cells to the same degree.
 
 
