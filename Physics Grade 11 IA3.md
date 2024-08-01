@@ -191,7 +191,7 @@ There are many studies indicating the negative bio-effect of EMF on various type
 
 The study "The Biocompatibility of Wireless Power Charging System on Human Neural Cells", by Skovierova et al. (2021), the effects of 87kHz EMFs on various healthy, and cancerous human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe.
 
-Rates of Living cell
+The percentage of dead, early apoptotic, and late apoptotic cells were recorded
 
 What is apoptotic
  
@@ -205,7 +205,7 @@ T98G: Glial
 
 apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
-Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of the T98G, or glial, cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. The percentage of dead cells in these trials also increased in different proportion across all trials. The same can be said about the rates of Early and late apoptoisis. 
+Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of the T98G cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. The percentage of dead cells in these trials also increased in different proportion across all trials. The same can be said about the rates of Early and late apoptoisis. 
 
 
 ##### Limitations
