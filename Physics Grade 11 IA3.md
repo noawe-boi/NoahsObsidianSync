@@ -61,7 +61,6 @@ Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 
 
 
 ## Evidence
-### Exposure to Wi-Fi
 #### Source 1
 
 **TODO: CROP**
@@ -78,7 +77,7 @@ The paper *"Wi-Fi Technology and Human Health Impact: A Brief Review of Current 
 Figure 1 is an extract from the aforementioned paper, and shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. EMFs at these frequencies do not possess enough energy to ionise, however, as stated previously, they still have the ability to cause harm. 
 The more conduction and penetration through tissue is possible, the higher the absorption and potential for damage in said tissue. 
 
-It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed at the surface of the skin, resulting in reduced penetration. 
+It can be observed that as the frequency of the wave increases, the conductivity, or S/m value, increases, while penetration, or the $\delta$/mm value, decreases. This inverse relationship could suggest that higher frequencies are more readily absorbed in the surface of the skin, resulting in reduced penetration. 
 
 In addition to increase conductivity the impact of higher energy waves could be increased since higher frequency waves also contain more energy than lower frequency waves with the same amplitude. 
 
@@ -87,18 +86,8 @@ It should also be mentioned that tissues containing higher water content, such a
 
 This trend suggests that while the frequencies associated with Wi-Fi have the potential to be absorbed by and affect the body, frequencies emitted by Qi wireless chargers between 87kHz and 205kHz may not have enough energy or have too large of a wavelength to affect cells to the same degree.
 
-
-
 ##### Limitations
 While conductivity could be a useful metric in determining what tissues are most affected by EMFs and Electromagnetic Radiation, these metrics alone do not provide sufficient evidence to support negative effects other than the thermal effects mentioned.
-
-
-
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/
-
-
-
 
 
 #### Source 2
@@ -123,8 +112,8 @@ Another factor that limits the reliability of this study is difference in rat br
 
 
 The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
-### Source 3
-##### bac
+#### Source 3
+##### Background
 The study *"The Biocompatibility of Wireless Power Charging System on Human Neural Cells"* (Skovierova et al., 2021) investigates the effects of 87kHz EMFs on various healthy (HA and T98G), and cancerous (SH-SY5Y) human cells. Cells were exposed to 87kHz fields for 30 minutes at strengths varying from 0.3mT to 1.2mT based on their location. This exposure is 11-44 times larger than International Commission on Non-Ionising Radiation Protection (ICNIRP) standards condone as safe. The percentage of dead, early apoptotic, and late apoptotic cells were recorded. Apoptosis, or programmed cell death, is a self-destructive sequence that cells execute when they detect that they are abnormal or unneeded. 
 
  
