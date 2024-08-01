@@ -189,7 +189,7 @@ While this study did show the effects of short term, high intensity, exposure, t
 
 
 ## Conclusion
-
+Overall, the claim that 
 
 
 
