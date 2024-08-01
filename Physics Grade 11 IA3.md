@@ -177,7 +177,7 @@ PDF: https://www.mdpi.com/2076-3417/11/8/3611/pdf
 
 background
 power level: 1.t kW. 
-individual cells revieved 0.3 to 1.2 mT based on locati
+individual cells revieved 0.3 to 1.2 mT based on location
 
 
 <div style="color:blue">
