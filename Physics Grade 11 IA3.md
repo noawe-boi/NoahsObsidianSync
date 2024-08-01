@@ -13,8 +13,6 @@ tags:
 <br/>
 <br/>
 
-## **Draft Notes:**
-**Will remove funky colors/fonts/titles in final submission and cite all sources that are currently links**
 
 ## Introduction
 ### Claim
@@ -24,7 +22,6 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 
 ### Background`
-
 
 
 
