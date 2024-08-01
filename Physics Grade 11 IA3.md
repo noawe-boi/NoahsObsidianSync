@@ -158,7 +158,7 @@ While this study did show the effects of short term, high intensity, exposure, t
 Overall, the claim that Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, is dangerous to human health is partially true. 
 
 
-Source 1 shows that waves at the frequencies used by Wi-Fi (5GHz) can be easily penetrate skin and muslce up to 9.3mm and 10.5mm, and cond 
+Source 1 shows that waves at the frequencies used by Wi-Fi (5GHz) can easily penetrate skin and muscle up to 9.3mm and 10.5mm, and have conductivity of 4.0S/m and 3.1S/m respectively. 
 
 Source 2 further demonstrates the thermal and non-thermal effects of EMFs on cells in vivo, which gave insight into how cells react when thermal effects can be better managed through the circulation of heat throughout the organism. It put forward evidence that the EMFs emitted by Wi-Fi devices can cause significant breakage in DNA and the possibility impair and slow down the repair of this damage in cells at high enough intensities. It is assumed that the higher overall energy and conductivity of 6GHz EMFs could have a larger impact however further investigation is required to confirm this 
 
@@ -169,47 +169,4 @@ Emerging cellular technologies such as 5G utilise significantly higher frequenci
 
 Considering this, the answer to the research question *"Are Electromagnetic Fields between 2GHz-6GHz and 87kHz-205kHz, at 1 Watt and 15 Watt transmit powers respectively, harmful to human health?"* is No. These devices do not create EMFs with enough intensity to cause measurable harm.
 
-# Real Sources
-# **REMEMBER TO CITE THE PDF's**
-##### Link Dump
-wifi: https://www.epa.ie/environment-and-you/radiation/emf/emf-and-your-health/wifi-and-your-health/
-
-
-qi: https://www.rokform.com/blogs/rokform-blog/the-pros-and-cons-of-wireless-charging
-
-https://www.edn.com/wireless-charging-the-state-of-disunion/
-
-
-Cool research paper?: https://ec.europa.eu/health/scientific_committees/emerging/docs/scenihr_o_041.pdf
-
-
-
-Qi Power usage??/
-https://www.edn.com/wireless-charging-the-state-of-disunion/
-
-QI SPECS
-file:///C:/Users/CRACKH~1/AppData/Local/Temp/7zO8B2A392B/qi-v1.3-power-delivery.pdf
-
-https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications/ 
-
-
-https://www.wirelesspowerconsortium.com/media/rwfpapjq/qi-v13-public.zip
-
-
-50Hz stuff in case i need it
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007658/pdf/brjindmed00169-0051.pdf
-https://www.princeton.edu/~ota/disk1/1989/8905/8905.PDF
-
-
-
-
-
-
-## Extra Sources 
-
-non ionizing
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5504984/
-
-
-https://www.co.monmouth.nj.us/documents/118/RADIATION%20HEALTH%20BASICS.pdf
+## RE
