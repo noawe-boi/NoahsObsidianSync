@@ -67,7 +67,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_t
 
 The paper "Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge", by Arh Hig Rada Toksikol (2022), compiles a number of other studies and aims to discuss the possible effects of Electromagnetic Radiation emitted by devices that utilise Wi-Fi technology. 
 
-##### Identification of patterns/analysis
+##### Identification of Patterns and Analysis
 
 Figure 1 is an extract from the aforementioned paper, and shows conductivity and skin depth penetration of waves at frequencies ranging from 150MHz to 10GHz in different types of tissues. EMFs at these frequencies do not possess enough energy to ionise, however, as stated previously, they still have the ability to cause harm. 
 The more conduction and penetration through tissue is possible, the higher the absorption and potential for damage in said tissue. 
@@ -105,22 +105,17 @@ Rats were exposed to an environment with a density of Electromagnetic Radiation 
 
 It was hypothesised that 2.45GHz EMFs emitted from cellular devices, such as phones, were similar enough to those used in industrial processing and in microwaves to cause harm to cells. 
 
-##### Identification of patterns/analysis
+##### Identification of Patterns and Analysis
 This investigation revealed that the rats exposed to EMFs had significantly more DNA breaks when compared to the control group, or 'SHAM'. This type damage to DNA is known to cause cell death, cancer or neurodegenerative disease. 
 
 ![[Pasted image 20240728172202.png]]
-Figure 2 
+
 
 Figure 2 plots the frequency distribution of single strand lengths against the percentage abundance in both EMF exposed, and SHAM rats.
-
-
 The paper suggests that the effects of the EMFs on brain cell DNA were directly caused by interaction with the EMFs, as opposed to the result of absorption in other parts of the body. In addition, the paper further implies that the presence of DNA strand breaks remaining long enough after exposure to be measured may suggest that EMFs not only caused this damage, but impaired brain cells ability to repair it. 
-
-
-
 ##### Limitations
-- While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is 1.2W/Kg. This is much larger than what could be emitted by consumer Wi-Fi devices, as they are limited to a transmit power of 1 Watt. Furthermore, only a portion of this energy will be absorbed by nearby cells. It is unclear what effects these lower doses could result in. 
-- Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how EMFs effect human brain cells cannot be known for certain unless further investigation is conducted.
+While Observable damage was observed to have occurred in rat brain cells due to their exposure to 2.45Ghz EMFs, the power of waves used in this experiment and the total average-specific absorption is 1.2W/Kg. This is much larger than what could be emitted by consumer Wi-Fi devices, as they are limited to a transmit power of 1 Watt. Furthermore, only a portion of this energy will be absorbed by nearby cells. It is unclear what effects these lower doses could result in. 
+Another factor that limits the reliability of this study is difference in rat brain cells when compared to humans. While they are similar, the differences in how EMFs effect human brain cells cannot be known for certain unless further investigation is conducted.
 
 
 The response identifies limitations of evidence that affect how well it can be used to develop a response to the research question.
@@ -140,7 +135,7 @@ The study "The Biocompatibility of Wireless Power Charging System on Human Neura
 Add title to this
 
 
-##### Identification of patterns/analysis
+##### Identification of Patterns and Analysis
 Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of the T98G cells, the percent of dead cells at the end of trials only varied by $\pm$ 0.1% in comparison to the control group. The percentage of dead cells in these trials also increased in different proportion across all trials. The same can be said about the rates of Early and late apoptosis.
 
 
