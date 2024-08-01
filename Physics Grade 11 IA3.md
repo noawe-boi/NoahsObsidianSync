@@ -205,7 +205,7 @@ Figure 2 presents the location and percentage of cells in various states. In all
 
 ##### Limitations
 
-While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Long term exposure to smaller intensities is more likely to occur 
+While this study did show the effects of short term, high intensity, exposure, the effects of chronic exposure may differ. Aditioanlly, long term exposure to smaller intensities would more closley resemble the actual use case of these 
 - Does not show effects of chronic exposure. Which is common now as we sleep next to wifi
 - Did not study effects on brain cells. 
 - maybe use more cells?
