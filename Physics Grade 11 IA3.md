@@ -203,7 +203,7 @@ T98G: Glial
 
 apototcopie is programmed death/self destruct
 ##### Identification of patterns/analysis
-Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of HA, or 'normal' cells, the ammount of dead cells increased 
+Figure 2 presents the location and percentage of cells in various states. In all cell types there appears to be no correlation between the location of the cells and the percentage of cells in each state. In the case of HA, or 'normal' cells, the percent of dead cells at the end of the trial increased from 2.3% to 3.0% when EM
 
 
 
