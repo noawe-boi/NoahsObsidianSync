@@ -36,7 +36,7 @@ Photons have no mass and are generated when electrons or other charged particles
 
 #### Ionising vs Non-ionising Radiation
 
-Since $E=\frac{hc}{\lambda}$, where 
+Since $E=\frac{hc}{\lambda}$, when $hc$ remians constant, smaller wavelengths will cause the wave to have higher energy.
 
 
 
