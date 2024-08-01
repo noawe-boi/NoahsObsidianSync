@@ -85,7 +85,7 @@ This trend suggests that while the frequencies associated with Wi-Fi have the po
 
 
 ##### Limitations
-While conductivity could be a useful metric in determining what tissues are most effected b
+While conductivity could be a useful metric in determining what tissues are most affected by EMFs and Electromagnetic Raidation, these metrics alone do not provide sufficient evidence to support 
 
 - No way to correlate these values with quantity of exposure
 - No effects of this conductivity listed in paper
