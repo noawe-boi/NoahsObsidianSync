@@ -22,6 +22,7 @@ Electromagnetic radiation around the home, such as inductive chargers or Wi-Fi, 
 
 ### Rationale
 
+
 ### Background`
 
 
