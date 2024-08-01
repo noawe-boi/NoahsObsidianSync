@@ -6,7 +6,7 @@ tags:
 
 ---
 
-# The Effect of EMF 
+# The Effects of EMF Emmiting Devices in the Home
 
 <br/>
 <br/>
