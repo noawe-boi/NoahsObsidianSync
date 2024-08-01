@@ -32,81 +32,19 @@
             }
           },
           {
-            "id": "a3b5c7edda276c1e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "acc01f0b03c5224d",
+            "id": "672a1771df923d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stopping Potential.md",
+                "file": "Work.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8377d35e1998b38f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Photoelectric Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df22be97f88d9df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threshold Frequency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8fff4fc13708e25",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "623ec44231cdc451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5144f87be605c649",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/cathode ray tube physics.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.5 The Photoelectric Effect.md",
+                "file": "Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.5 The Photoelectric Effect.md",
+                "file": "Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.5 The Photoelectric Effect.md"
+                "file": "Work.md"
               }
             }
           },
@@ -235,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "11.5 The Photoelectric Effect.md"
+                "file": "Work.md"
               }
             }
           },
@@ -270,10 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "931d250da62bcf29",
+  "active": "672a1771df923d97",
   "lastOpenFiles": [
-    "Stopping Potential.md",
     "11.5 The Photoelectric Effect.md",
+    "Work.md",
+    "Stopping Potential.md",
     "Physics Grade 11 IA3.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
@@ -305,7 +244,6 @@
     "26-07-2024.md",
     "Pasted image 20240725084934.png",
     "23-07-2024.md",
-    "Excalidraw/Mr sonter yapping.md",
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",

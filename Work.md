@@ -1,7 +1,7 @@
 #physics 
 Aka Mechanical Work 
 
-
+## 
 ### Definition
 When [[Force]] is applied to an object and is actually moves
 
