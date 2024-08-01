@@ -65,9 +65,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287836/table/j_aiht-2022-73-3402_t
 
 
 
-The paper "Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge"
-
-
+The paper "Wi-Fi Technology and Human Health Impact: A Brief Review of Current Knowledge", by Arh Hig Rada Toksikol (2022), comppiles a number of other studies and aims to discuss the possible effects of Wi
 
 ##### Identification of patterns/analysis
 
