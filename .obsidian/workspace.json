@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "fb07b80e780cdd75",
+        "id": "1db4bb3be1e4dac0",
         "type": "tabs",
         "children": [
           {
-            "id": "739c74817756d9a8",
+            "id": "2335ae15e102b9d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physics Grade 11 IA3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931d250da62bcf29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "672a1771df923d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +73,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -154,7 +178,7 @@
             }
           },
           {
-            "id": "44b83a1e8732720a",
+            "id": "bd2fda190556b421",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -162,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,42 +208,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "739c74817756d9a8",
+  "active": "2335ae15e102b9d9",
   "lastOpenFiles": [
     "Pasted image 20240801211638.png",
     "01-08-2024.md",
-    "Physics Grade 11 IA3.md",
-    "git fetch.md",
+    "Pasted image 20240801114708.png",
+    "Pasted image 20240801113946.png",
     "Work function.md",
-    "Untitled 23.md",
-    "Threshold Frequency.md",
-    "The Photoelectric Effect.md",
+    "Physics Grade 11 IA3.md",
+    "11.5 The Photoelectric Effect.md",
+    "Work.md",
     "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
-    "Pasted image 20240801114708.png",
-    "Pasted image 20240801113946.png",
+    "The Photoelectric Effect.md",
+    "Threshold Frequency.md",
+    "Untitled 23.md",
     "Excalidraw/cathode ray tube physics.md",
-    "11.5 The Photoelectric Effect.md",
+    "git fetch.md",
     "conflict-files-obsidian-git.md",
     "test1.md",
     "Untitled 22.md",
     "30-07-2024.md",
-    "Physics Grade 11 IA3 LINKLESS.md",
-    "Physics Grade 11 IA3 Draft Feedback.md",
-    "29-07-2024.md",
-    "Chemistry IA2.md",
-    "Physics IA2 Report.md",
     "risk assessment.pdf",
-    "Pasted image 20240729193751.png",
     "Untitled 21.md",
-    "26-07-2024.md",
-    "25-07-2024.md",
-    "Pasted image 20240728172152.png",
-    "Physics 11.1 Wave model for light.md",
-    "Excalidraw/Physics 11.11 edample A.md",
+    "Pasted image 20240729193751.png",
+    "29-07-2024.md",
+    "Excalidraw/Physics 4.1.2.md",
     "Excalidraw/Physcis q11.1 random quest.md",
+    "Physics 11.1 Wave model for light.md",
+    "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
+    "Excalidraw/Physics 11.11 edample A.md",
+    "Chemistry IA2.md",
+    "25-07-2024.md",
+    "Physics Grade 11 IA3 LINKLESS.md",
     "Pasted image 20240728172202.png",
+    "Pasted image 20240728172152.png",
     "Pasted image 20240725230829.png",
     "Pasted image 20240725084934.png",
     "gitkey.pub",
