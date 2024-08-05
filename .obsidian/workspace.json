@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1db4bb3be1e4dac0",
+        "id": "afa311bf750c089d",
         "type": "tabs",
         "children": [
           {
-            "id": "2335ae15e102b9d9",
+            "id": "579d6509f7ebda07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-08-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931d250da62bcf29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672a1771df923d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-08-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-08-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-08-2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01-08-2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,17 +174,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2335ae15e102b9d9",
+  "active": "579d6509f7ebda07",
   "lastOpenFiles": [
+    "Work.md",
+    "Work function.md",
+    "01-08-2024.md",
     "02-08-2024.md",
     "Physics Grade 11 IA3.md",
     "Pasted image 20240801211638.png",
-    "01-08-2024.md",
     "Pasted image 20240801114708.png",
     "Pasted image 20240801113946.png",
-    "Work function.md",
     "11.5 The Photoelectric Effect.md",
-    "Work.md",
     "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
