@@ -3,23 +3,12 @@ tags:
   - chem
   - assignment
 ---
-**Hey Mr Sonter!** 
-
-Sorry for the late submission, and lack of substance in this report. 
-*I understand what you've asked us to do, and have began my report based on what you've told us* and the QCAA Example report (as well as its marking guide). 
-**I don't mind if I get this back a little later than the others do**, *I've got plenty to work on in the meantime* and we still have a *week* till this is due. 
-
-**Thanks, Noah**
-
-
-
-
 
 ### Rationale
 
 
 #### Introduction
-Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$) by modifying a previous experiment. 
+Understanding changes in enthalpy $(\Delta H)$ is crucial when interpreting the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$) by modifying a previous experiment. 
 
 #### Background
 Compounds store energy in the bonds of their components. This bond energy is a component of the compound's enthalpy, or sum of its total energy. 
