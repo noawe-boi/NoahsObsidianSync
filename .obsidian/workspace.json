@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "685830f1ce55b002",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "aef600df6327c8a7",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md"
               }
             }
           },
@@ -161,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md"
               }
             }
           },
@@ -196,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bb06cb6934d4dea",
+  "active": "685830f1ce55b002",
   "lastOpenFiles": [
-    "Rutherford's Model of the Atom.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
+    "Rutherford's Model of the Atom.md",
     "Chemistry IA2.md",
     "Work.md",
     "Work function.md",
@@ -230,7 +242,6 @@
     "Excalidraw/Physcis q11.1 random quest.md",
     "Physics 11.1 Wave model for light.md",
     "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
-    "Excalidraw/Physics 11.11 edample A.md",
     "Pasted image 20240728172202.png",
     "Pasted image 20240728172152.png",
     "Pasted image 20240725230829.png",
