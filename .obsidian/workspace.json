@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 24.md",
+                "file": "Rutherford's Model of the Atom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 24.md",
+                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 24.md",
+                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 24.md"
+                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 24.md"
+                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
               }
             }
           },
@@ -197,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aef600df6327c8a7",
+  "active": "6bb06cb6934d4dea",
   "lastOpenFiles": [
+    "Rutherford's Model of the Atom.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Untitled 24.md",
     "Chemistry IA2.md",
     "Work.md",
     "Work function.md",

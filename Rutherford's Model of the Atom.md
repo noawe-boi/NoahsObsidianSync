@@ -1,0 +1,1 @@
+Rutherford modelled the atom as a small, central, positively charged nucleus with electrons orbiting around it
