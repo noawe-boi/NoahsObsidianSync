@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bb06cb6934d4dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 12.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry IA2.md",
+                "file": "Physics 12.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry IA2.md",
+                "file": "Physics 12.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry IA2.md"
+                "file": "Physics 12.1.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chemistry IA2.md"
+                "file": "Physics 12.1.md"
               }
             }
           },
@@ -184,8 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "579d6509f7ebda07",
+  "active": "6bb06cb6934d4dea",
   "lastOpenFiles": [
+    "Chemistry IA2.md",
+    "Physics 12.1.md",
     "Work.md",
     "Work function.md",
     "01-08-2024.md",
@@ -216,9 +231,7 @@
     "Physics 11.1 Wave model for light.md",
     "Excalidraw/Drawing 2024-07-29 12.34.05.excalidraw.md",
     "Excalidraw/Physics 11.11 edample A.md",
-    "Chemistry IA2.md",
     "25-07-2024.md",
-    "Physics Grade 11 IA3 LINKLESS.md",
     "Pasted image 20240728172202.png",
     "Pasted image 20240728172152.png",
     "Pasted image 20240725230829.png",
