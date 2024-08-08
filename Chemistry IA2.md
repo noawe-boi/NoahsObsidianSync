@@ -78,6 +78,25 @@ Additionally, the amount of $MgCl_3$ was varied across multiple trials. The aim 
 ![[Pasted image 20240729193751.png]]
 https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view_desktop
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Risk Assessment
 ![[Chem IA2 Risk Assessment]]
 
@@ -85,6 +104,11 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 Considering these modifications, the research question for this experiment is:
 
 "What is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?"
+
+
+
+
+
 
 ## Results
 
