@@ -71,14 +71,7 @@ Variables
 #### Justified Modifications (table)
 
 
-| **Nature** | **Modification** | **Justification** |
-| :--------- | :--------------- | :---------------- |
-|            |                  |                   |
-|            |                  |                   |
-|            |                  |                   |
-|            |                  |                   |
-|            |                  |                   |
-|            |                  |                   |
+
 
 
 ![[Pasted image 20240729193751.png]]
