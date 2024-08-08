@@ -110,6 +110,8 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 **Note that this will later be partially placed in an appendix**
 
 #### Research Question
+Considering this, the research question for this experiment is:
+
 what is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?
 
 ## Results
