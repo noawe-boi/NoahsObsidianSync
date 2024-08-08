@@ -101,7 +101,7 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 3. Add the $MgCO_3$ to the $HCl$ in the calorimeter and stir constantly for one minute, then record the maximum temperature that the solution reaches in the calorimeter in the data table.
 
-4.  Repeat for all quantities of $MgCO_3$ in 0.5g increments.
+4.  Repeat for remaining quantities of $MgCO_3$ in 0.5g increments.
 
 
 
