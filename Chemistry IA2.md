@@ -32,11 +32,11 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 
 
 
-$MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
-
-
 
 What happens when reaction occurs
+
+The equation of this reaction is:
+$MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
 
 
 
