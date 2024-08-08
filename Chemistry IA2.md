@@ -149,7 +149,21 @@ Considering these modifications, the research question for this experiment is:
 | 17    | 3.500g           | 50ml           | 18            | 48          | 30         |
 | 18    | 3.500g           | 50ml           | 18            | 47          | 29         |
 | 19    | 3.504g           | 50ml           | 18            | 47          | 29         |
-<div style="color=red">Figure 3: Raw data from the experiment</divv> 
+<div style="color:grey">Figure 3: Raw data from the experiment</div> 
+
+
+
+
+| $MgCO3$ | Trial 1 | Trial 2 | Trial 3 | Average $\Delta T\degree$ ($C\degree$) |
+| ------- | ------- | ------- | ------- | -------------------------------------- |
+| 3.5     | 29      | 30      | 29      | 29.33                                  |
+| 3       | 30      | 30      | 29      | 29.67                                  |
+| 2.5     | 27      | 29      | 30      | 28.67                                  |
+| 2       | 23      | 25      | 26      | 24.67                                  |
+| 1.5     | 17      | 21      | 18      | 18.67                                  |
+| 1       | 13      | 12      | 12      | 12.33                                  |
+| 0       | 0       | 0       | 0       | 0                                      |
+<div style="color:grey">Figure 4: Trunked and formatted raw data from the experiment</div> 
 
 #### Processing of data
 Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula
