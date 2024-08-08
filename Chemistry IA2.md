@@ -91,6 +91,14 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 
 
+#### Methodology
+**Part A: Measure the enthalpy of a neutralisation reaction**
+
+1. Add 50 mL of 2.0 M HCl to the calorimeter and record the temperature until it remains stable for 2 minutes. Record this as the initial temperature.
+
+2. Accurately weigh desired ammount of MgO, using an electronic balance and weigh boat.
+
+3. Add the MgO to the HCl in the calorimeter and stir constantly, recording the maximum temperature that the solution reaches in the calorimeter in the data table.
 
 
 
