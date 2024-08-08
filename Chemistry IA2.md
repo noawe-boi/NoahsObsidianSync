@@ -21,10 +21,12 @@ Understanding changes in enthalpy $(\Delta H)$ is crucial when interpreting the 
 Compounds store energy in the bonds of their components. This bond energy is a component of the compound's enthalpy, or sum of its total energy. 
 When Chemical reactions occur, the energy contained in the product(s) often do not contain or sum the same amount of energy as its reactant(s). Since energy cannot be created or destroyed, this difference in energy is either absorbed from or released into the environment in the form of heat. 
 
-
+For example, when $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$, $H_2O$ and $CO_2$. The equation of this reaction is:
+$MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$. 
+The 
 
 This change in total energy, or enthalpy $(\Delta H)$, can be measured by measuring the change in temperature or a substance with a known specific heat, then substituting all known values into the equation $q=mc\Delta T$, where:
-- $q$ is the amount of energy
+- $q$ is the amount of energy absorbed or released in order for the change in tempeature to occur
 - $m$ is the mass of the sample
 - $c$ is the specific heat of the sample
 - $\Delta T$ is the change in temperature 
