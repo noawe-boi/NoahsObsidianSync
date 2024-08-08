@@ -18,7 +18,7 @@ Investigate phenomena associated with chemical equilibrium systems or oxidation 
 
 
 
-
+## a considered rationale for the experiment
 #### Introduction
 Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$) by modifying a previous experiment. 
 
@@ -27,7 +27,7 @@ Compounds store energy in the bonds of their components. This bond energy is a c
 When Chemical reactions occur, the energy contained in the product(s) often do not contain or sum the same amount of energy as its reactant(s). Since energy cannot be created or destroyed, this difference in energy is either absorbed from or released into the environment in the form of heat. 
 This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measuring the change in temperature or a substance with a known specific heat.  
 
-
+## Justified modifications to the methodology
 #### Original Experiment
 
 
