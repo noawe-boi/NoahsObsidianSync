@@ -153,6 +153,7 @@ Considering these modifications, the research question for this experiment is:
 
 
 
+These trials were 'trimmed' and reformatted to 
 
 | $MgCO3$ | Trial 1 | Trial 2 | Trial 3 | Average $\Delta T\degree$ ($C\degree$) |
 | ------- | ------- | ------- | ------- | -------------------------------------- |
@@ -163,7 +164,7 @@ Considering these modifications, the research question for this experiment is:
 | 1.5     | 17      | 21      | 18      | 18.67                                  |
 | 1       | 13      | 12      | 12      | 12.33                                  |
 | 0       | 0       | 0       | 0       | 0                                      |
-<div style="color:grey">Figure 4: Trunked and formatted raw data from the experiment</div> 
+<div style="color:grey">Figure 4: trimmed and formatted raw data from the experiment</div> 
 
 #### Processing of data
 Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula
