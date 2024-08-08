@@ -25,6 +25,7 @@ For example, when $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$, $H_2O
 
 $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$.
 
+### INSERT SECTION ABOUT HOW TO FIND ESTIMATED $\Delta H$ 
 The 
 
 This change in total energy, or enthalpy $(\Delta H)$, can be measured by measuring the change in temperature or a substance with a known specific heat, then substituting all known values into the equation $q=mc\Delta T$, where:
