@@ -31,10 +31,10 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measu
 #### Original Experiment
 
 ##### Changes to methodology
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri dish.
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri dish. Adiotnally 
 ##### Justification
 The results of the original experiment fell short of 
-It was hypothesised that the calorimeter used did not sufficiently insulate the 
+It was hypothesized that the calorimeter used did not sufficiently insulate the reaction mixture, which lead to loss of heat over the course of the experiment and an overall lower $\Delta H$ value than what was predicted.
 
 
 ![[Pasted image 20240808195927.png]]
