@@ -37,7 +37,7 @@ What happens when reaction occurs
 
 The equation of this reaction is:
 $MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
-This means that for every 
+The estima
 
 
 talk about molar ammount
@@ -65,7 +65,7 @@ Variables
 #### Original Experiment
 
 ##### Changes to methodology
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri dish. 
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. 
 
 ##### Justification
 The results of the original experiment fell short of 
@@ -103,7 +103,7 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 3. Add the $MgCO_3$ to the $HCl$ in the calorimeter and stir constantly for one minute, then record the maximum temperature that the solution reaches in the calorimeter in the data table.
 
-4.  Repeat for all quantities of $MgCO_3$
+4.  Repeat for all quantities of $MgCO_3$ in 0.5g increments.
 
 
 
