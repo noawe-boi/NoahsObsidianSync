@@ -29,7 +29,7 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measu
 
 ## Justified modifications to the methodology
 #### Original Experiment
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of 2 mol $HCL$ were added to 
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ 2 mol $HCL$ were added to 
 
 
 
@@ -50,7 +50,7 @@ Assumptions
 
 Variables
 - Independent
-	- Ammount of $MgCO_3$ added (0-3.5g)
+	- Amount of $MgCO_3$ added (0-3.5g)
 - Dependent
 	- Temperature increase $\implies$ $\Delta H$ 
 - Controlled/Constant
