@@ -92,13 +92,12 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 
 #### Methodology
-**Part A: Measure the enthalpy of a neutralisation reaction**
 
 1. Add 50 mL of 2.0 M $HCl$ to the calorimeter and record the temperature until it remains stable for 2 minutes. Record this as the initial temperature.
 
 2. Accurately weigh desired amount of $MgCO_3$, using an electronic balance and weigh boat.
 
-3. Add the $MgCO_3$ to the $HCl$ in the calorimeter and stir constantly for one minutek, then record the maximum temperature that the solution reaches in the calorimeter in the data table.
+3. Add the $MgCO_3$ to the $HCl$ in the calorimeter and stir constantly for one minute, then record the maximum temperature that the solution reaches in the calorimeter in the data table.
 
 
 
@@ -111,7 +110,7 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 #### Research Question
 Considering these modifications, the research question for this experiment is:
 
-"What is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?"
+"What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid ($HCL$)?"
 
 
 
