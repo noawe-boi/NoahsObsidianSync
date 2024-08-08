@@ -26,7 +26,7 @@ For example, when $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$, $H_2O
 $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$.
 
 ### INSERT SECTION ABOUT HOW TO FIND ESTIMATED $\Delta H$ 
-The 
+*something to do with summing $\Delta H$ values of each product*
 
 This change in total energy, or enthalpy $(\Delta H)$, can be measured by measuring the change in temperature or a substance with a known specific heat, then substituting all known values into the equation $q=mc\Delta T$, where:
 - $q$ is the amount of energy absorbed or released in order for the change in temperature to occur
@@ -36,16 +36,9 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 
 
 
-
-
-
-
 What happens when reaction occurs
 
-
-
-
-talk about molar ammount
+*talk about molar ammount*
 for this reason the maximum amount of $MgCO_3$ was limited to 3.5g
 
 
