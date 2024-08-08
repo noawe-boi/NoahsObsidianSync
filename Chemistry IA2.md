@@ -29,7 +29,9 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measu
 
 ## Justified modifications to the methodology
 #### Original Experiment
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ 2 mol $HCL$ were added to 
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ were added to 50ml of 2 mol $HCL$. The largest modification what is the equipment used 
+
+![[Pasted image 20240808195927.png]]
 
 
 
