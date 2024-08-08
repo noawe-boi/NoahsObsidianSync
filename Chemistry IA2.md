@@ -29,7 +29,7 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measu
 
 ## Justified modifications to the methodology
 #### Original Experiment
-The orignal experiement aimed to quantify the $\delta H$ 
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of 
 
 
 
