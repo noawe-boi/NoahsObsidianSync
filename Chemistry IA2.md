@@ -37,7 +37,11 @@ What happens when reaction occurs
 
 The equation of this reaction is:
 $MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
+This means that for every 
 
+
+talk about molar ammount
+for this reason the maximum amount of $MgCO_3$ was limited to 3.5g
 
 
 
