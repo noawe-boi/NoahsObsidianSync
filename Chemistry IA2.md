@@ -173,7 +173,7 @@ $q=mc\Delta C$
 
 Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2 molar $HCL$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
 
-These values were compat
+These values were compared to the premade 
 
 Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
 
