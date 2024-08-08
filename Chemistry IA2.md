@@ -10,10 +10,6 @@ tags:
 
 ### Rationale
 
-apply understanding of chemical equilibrium systems or oxidation and reduction to modify experimental methodologies and process primary data
-
-Investigate phenomena associated with chemical equilibrium systems or oxidation and reduction through an experiment
-
 
 
 
