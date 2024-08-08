@@ -37,7 +37,7 @@ What happens when reaction occurs
 
 The equation of this reaction is:
 $MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
-The estima
+
 
 
 talk about molar ammount
