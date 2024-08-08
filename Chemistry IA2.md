@@ -35,6 +35,7 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 
 What happens when reaction occurs
 
+When $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$ 
 The equation of this reaction is:
 $MgCO3​(s)+2HCl(aq)→MgCl2​(aq)+H2​O(l)+CO2​(g)$
 
