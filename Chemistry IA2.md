@@ -149,7 +149,7 @@ Considering these modifications, the research question for this experiment is:
 | 17    | 3.500g           | 50ml           | 18            | 48          | 30         |
 | 18    | 3.500g           | 50ml           | 18            | 47          | 29         |
 | 19    | 3.504g           | 50ml           | 18            | 47          | 29         |
-<span style='color=grey'>Figure 3: Raw data from the experiment</span> 
+<div style="color=red">Figure 3: Raw data from the experiment</divv> 
 
 #### Processing of data
 Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula
