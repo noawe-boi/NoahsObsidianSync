@@ -10,6 +10,14 @@ tags:
 
 ### Rationale
 
+apply understanding of chemical equilibrium systems or oxidation and reduction to modify experimental methodologies and process primary data
+
+Investigate phenomena associated with chemical equilibrium systems or oxidation and reduction through an experiment
+
+
+
+
+
 
 #### Introduction
 Understanding changes in enthalpy $(\Delta H)$ is crucial when understanding the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$) by modifying a previous experiment. 
