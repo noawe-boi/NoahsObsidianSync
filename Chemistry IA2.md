@@ -27,20 +27,7 @@ Compounds store energy in the bonds of their components. This bond energy is a c
 When Chemical reactions occur, the energy contained in the product(s) often do not contain or sum the same amount of energy as its reactant(s). Since energy cannot be created or destroyed, this difference in energy is either absorbed from or released into the environment in the form of heat. 
 This change in total energy, or enthalpy $(\Delta H)$, can be measuring by measuring the change in temperature or a substance with a known specific heat.  
 
-## Justified modifications to the methodology
-#### Original Experiment
 
-##### Changes to methodology
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri dish. 
-
-##### Justification
-The results of the original experiment fell short of 
-It was hypothesized that the calorimeter used did not sufficiently insulate the reaction mixture, which lead to loss of heat over the course of the experiment and an overall lower $\Delta H$ value than what was predicted.
-
-Additionally, the amount of $MgCl_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately. 
-
-
-![[Pasted image 20240808195927.png]]
 
 
 
@@ -69,7 +56,20 @@ Variables
 
 
 #### Justified Modifications (table)
+## Justified modifications to the methodology
+#### Original Experiment
 
+##### Changes to methodology
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCl_2$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri dish. 
+
+##### Justification
+The results of the original experiment fell short of 
+It was hypothesized that the calorimeter used did not sufficiently insulate the reaction mixture, which lead to loss of heat over the course of the experiment and an overall lower $\Delta H$ value than what was predicted.
+
+Additionally, the amount of $MgCl_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately. 
+
+
+![[Pasted image 20240808195927.png]]
 
 
 
@@ -110,9 +110,9 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 **Note that this will later be partially placed in an appendix**
 
 #### Research Question
-Considering this, the research question for this experiment is:
+Considering these modifications, the research question for this experiment is:
 
-what is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?
+"What is the effect of varying metal oxide (MgCO3) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid (HCL)?"
 
 ## Results
 
