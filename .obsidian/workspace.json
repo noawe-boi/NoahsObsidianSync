@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "afa311bf750c089d",
+        "id": "122d1427939036ad",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb06cb6934d4dea",
+            "id": "9f9b55de7500a8a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "685830f1ce55b002",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "aef600df6327c8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rutherford's Model of the Atom.md",
+                "file": "Chemistry IA2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rutherford's Model of the Atom.md",
+                "file": "Chemistry IA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rutherford's Model of the Atom.md",
+                "file": "Chemistry IA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rutherford's Model of the Atom.md"
+                "file": "Chemistry IA2.md"
               }
             }
           },
@@ -172,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Rutherford's Model of the Atom.md"
+                "file": "Chemistry IA2.md"
               }
             }
           },
@@ -207,14 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aef600df6327c8a7",
+  "active": "9f9b55de7500a8a2",
   "lastOpenFiles": [
+    "Rutherford's Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
     "conflict-files-obsidian-git.md",
     "chemist.md",
     "Excalidraw/Maths Chapter 8 review.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
-    "Rutherford's Model of the Atom.md",
     "Chemistry IA2.md",
     "Work.md",
     "Work function.md",

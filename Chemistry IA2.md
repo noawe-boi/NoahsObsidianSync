@@ -3,13 +3,7 @@ tags:
   - chem
   - assignment
 ---
-<<<<<<< HEAD
-=======
 
-
-
-
->>>>>>> origin/main
 
 ### Rationale
 
