@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "Rutherford's Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "Rutherford's Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
+                "file": "Rutherford's Model of the Atom.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
+                "file": "Rutherford's Model of the Atom.md"
               }
             }
           },
@@ -206,10 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bb06cb6934d4dea",
+  "active": "aef600df6327c8a7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
+    "conflict-files-obsidian-git.md",
     "chemist.md",
     "Excalidraw/Maths Chapter 8 review.md",
     "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
