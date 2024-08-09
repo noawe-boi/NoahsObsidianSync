@@ -15,13 +15,8 @@ tags:
 
 
 
-### Rationale
 
-
-
-
-
-## a considered rationale for the experiment
+## Rationale
 #### Introduction
 
 Understanding changes in enthalpy $(\Delta H)$ is crucial when interpreting the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCl$) by modifying a previous experiment. 
