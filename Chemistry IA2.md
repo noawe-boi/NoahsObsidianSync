@@ -200,7 +200,7 @@ Once these values were removed, the relationship becomes highly linear as can be
 |            |            |
 |            |            |
 |            |            |
-Extention, measure rate of tempreature change of differnet reactants??
+Extention, do outside factors influince enthalpy. can bonds with more enthalpy be formed in differnte cond
 
 ### Conclusion
 
