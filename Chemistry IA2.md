@@ -14,7 +14,7 @@ tags:
 ## a considered rationale for the experiment
 #### Introduction
 
-Understanding changes in enthalpy $(\Delta H)$ is crucial when interpreting the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCL$) by modifying a previous experiment. 
+Understanding changes in enthalpy $(\Delta H)$ is crucial when interpreting the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCl$) by modifying a previous experiment. 
 
 
 #### Background
@@ -58,7 +58,7 @@ Variables
 #### Original Experiment
 
 ##### Changes to methodology
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2M $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. The amount of $MgCO_3$ added was limited to 3.5 grams to prevent the $HCL$ from becoming the limiting reactant.
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2M $HCl$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. The amount of $MgCO_3$ added was limited to 3.5 grams to prevent the $HCl$ from becoming the limiting reactant.
 
 ##### Justification
 The results of the original experiment fell short of 
@@ -68,7 +68,7 @@ Additionally, the amount of $MgCO_3$ was varied across multiple trials. The aim 
 
 Considering 50ml of 2M HCL was used, there is $2mol/L*0.05L=0.1$ moles of HCL in the solution. 
 Considering a maximum of 3.5g $MgCO3$ used, there is $\frac{3.5g}{84.3g/mol}\approx 0.04$ moles of $MgCO_3$
-Consider chemical equation is: *$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$*, ratio of $HCL$ to $MgCO_3$ is $2:1$. The number of moles (nnn) of $MgCO_3$ is still smaller than the number of moles of $HCl$, **which means that $MgCO_3$ will be the limiting reactant in this reaction.**
+Consider chemical equation is: *$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$*, ratio of $HCl$ to $MgCO_3$ is $2:1$. The number of moles (nnn) of $MgCO_3$ is still smaller than the number of moles of $HCl$, which means that $MgCO_3$ will be the limiting reactant in this reaction.
 
 
 
@@ -101,7 +101,7 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 #### Research Question
 Considering these modifications, the research question for this experiment is:
 
-"What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCL$)?"
+"What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?"
 
 
 
@@ -159,7 +159,7 @@ Raw data was processed to find the $\Delta H$ value for each trial based on the 
 
 $q=mc\Delta C$ 
 
-Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCL$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
+Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
 
 These values were compared to calculated $\Delta H$ values\
 
@@ -194,7 +194,7 @@ To answer the research question...
 
 
 
-For example, when $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$, $H_2O$ and $CO_2$. The equation of this reaction is:*
+For example, when $MgCO_3$ reacts with $HCl$, they react to form $MgCL_2$, $H_2O$ and $CO_2$. The equation of this reaction is:*
 
 *$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ 
 Using the standard enthalpy values for these
