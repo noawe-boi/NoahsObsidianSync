@@ -4,7 +4,7 @@ tags:
   - assignment
 ---
 Investigating the relationship between change in enthalpy and amount of reactant
-By Noah Alexiou
+*By Noah Alexiou*
 <br/>
 <br/>
 <br/>
@@ -35,7 +35,18 @@ By Noah Alexiou
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
