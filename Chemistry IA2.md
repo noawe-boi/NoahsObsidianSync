@@ -171,6 +171,12 @@ Raw data was brought into Excel and values for Absolute Error and % Error were f
 <div style="color:grey">Figure 5: Sample calculations</div> 
 
 
+
+
+#### Analysis of trends/patterns
+
+
+
 ## Discussion
 #### Limitations, improvement and Extensions
 | **Limitation**                                                | **Effect on Reliability and Validity** | **Improvement** |
