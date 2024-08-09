@@ -161,7 +161,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Absolute Error        | $\|Value_{measured}-Value_{actual}\|$                    |
 | % Error               | $\frac{Value_{measured}-Value_{actual}}{Value_{actual}}$ |
 | Change in temperature | $T_{final}-T_{initial}$                                  |
-| Change in enthalpy    |                                                          |
+| Change in enthalpy    | $q=mc\Delta C$                                           |
 
 
 
