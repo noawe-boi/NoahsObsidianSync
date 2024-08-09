@@ -146,13 +146,13 @@ The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl
 
 Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
 
-
-
+ 
 ![[Pasted image 20240809210037.png]]
 <div style="color:grey">Figure 6: Graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
 
 
 During this process, it was found that as the mass of $MgCO_3$ added reached 3 grams, the increase in temperature stopped increasing. To linearise the graph, these values were removed and the intercept of the graph was manually set to 0.
+
 
 
 
@@ -176,6 +176,7 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the average $\Delta T$ almost exactly doubles from 12.33 to 24.67. This suggests a highly linear relationship between these two variables. 
 However, as the mass of $MgCO_3$ increases to and past 3g, the relationship resembles as asymptote at roughly $\Delta T=30$ as seen in *Figure 7*. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
 Once these values were removed, the relationship becomes highly linear as can be observed in *Figure 8*.
+Furthermore, using the calculated relationship 
 
 
 
