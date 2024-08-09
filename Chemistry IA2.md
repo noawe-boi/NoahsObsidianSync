@@ -165,8 +165,7 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 | % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |
 | Change in temperature | $T_{final}-T_{initial}$                    |
 | Change in enthalpy    | $q=mc\Delta C$                             |
-|                       |                                            |
-|                       |                                            |
+
 <div style="color:grey">Figure 5: Sample calculations</div> 
 
 
