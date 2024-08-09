@@ -184,12 +184,12 @@ Once these values were removed, the relationship becomes highly linear as can be
 
 ## Discussion
 #### Limitations, improvement and Extensions
-| **Limitation**                                                | **Effect on Reliability and Validity**                           | **Improvement**                                                                             |
-| :------------------------------------------------------------ | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| Limited time                                                  | It was observed that masses of $MgCO_3$ higher or equal than 3g, | It is suggested that an automatic stirring device is used in future to more reliably and vi |
-| Limiting reactant graph shape (possible impurities in mgco3). |                                                                  |                                                                                             |
-| stirring bad                                                  |                                                                  |                                                                                             |
-|                                                               |                                                                  |                                                                                             |
+| **Limitation**                                                | **Effect on Reliability and Validity**                                                                                                             | **Improvement**                                                                                      |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| Limited time                                                  | It was observed that masses of $MgCO_3$ higher or equal than 3g did not increase the $\Delta T$. This was likely not the effect of a limiting reac | It is suggested that an automatic stirring device is used in future to more reliably and effectively |
+| Limiting reactant graph shape (possible impurities in mgco3). |                                                                                                                                                    |                                                                                                      |
+| stirring bad                                                  |                                                                                                                                                    |                                                                                                      |
+|                                                               |                                                                                                                                                    |                                                                                                      |
 
 
 
