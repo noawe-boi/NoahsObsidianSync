@@ -150,12 +150,6 @@ Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ 
 
 
 
-| Calculation           | Formula                                    |
-| :-------------------- | :----------------------------------------- |
-| Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |
-| % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |
-| Change in temperature | $T_{final}-T_{initial}$                    |
-| Change in enthalpy    | $q=mc\Delta C$                             |
 
 Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
  
@@ -171,7 +165,13 @@ The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl
 
 
 
-
+| Calculation           | Formula                                    |
+| :-------------------- | :----------------------------------------- |
+| Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |
+| % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |
+| Change in temperature | $T_{final}-T_{initial}$                    |
+| Change in enthalpy    | $q=mc\Delta C$                             |
+<div style="color:grey">Figure 5: Sample calculations</div> 
 
 
 ## Discussion
