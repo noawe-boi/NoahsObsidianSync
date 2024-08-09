@@ -63,7 +63,7 @@ Considering a maximum of 3.5g $MgCO3$ used, there is $\frac{3.5g}{84.3g/mol}\app
 Considering the reaction taking place: $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$, the number of moles of $MgCO_3$ is smaller than the number of moles of $HCl$. This means that $MgCO_3$ will be the limiting reactant in this reaction.
 
 
-
+<img src="Pasted image 20240809182441.png">
 
 ![[Pasted image 20240809182441.png]]
 <div style="color:grey">Figure 1: Diagram of the calorimeter used in original experiment</div> 
@@ -201,7 +201,7 @@ Extention, do outside factors influince enthalpy. can bonds with more enthalpy b
 
 ### Conclusion
 
-To answer the research question
+To answer the research question ''
 
 
 
