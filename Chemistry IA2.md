@@ -148,10 +148,8 @@ $q=mc\Delta C$
 
 Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
 
-These values were compared to calculated $\Delta H$ values\
 
-Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
- 
+
 | Calculation           | Formula                                    |
 | :-------------------- | :----------------------------------------- |
 | Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |
@@ -159,10 +157,21 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Change in temperature | $T_{final}-T_{initial}$                    |
 | Change in enthalpy    | $q=mc\Delta C$                             |
 
-finding the 
+Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
+ 
 
 
 The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law). 
+
+
+
+
+
+
+
+
+
+
 
 
 ## Discussion
