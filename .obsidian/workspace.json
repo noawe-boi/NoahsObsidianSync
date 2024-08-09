@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a68629a7d2013b93",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240809182441.png"
+              }
+            }
           }
         ]
       }
@@ -186,14 +196,14 @@
   },
   "active": "f5269c03c954322b",
   "lastOpenFiles": [
+    "Pasted image 20240809182441.png",
+    "Chemistry IA2.md",
     "Pasted image 20240809214836.png",
     "Pasted image 20240809210037.png",
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "Pasted image 20240809182441.png",
     "Chem IA2 Risk Assessment.md",
-    "Chemistry IA2.md",
     "conflict-files-obsidian-git.md",
     "Rutherford's Model of the Atom.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
@@ -224,7 +234,6 @@
     "30-07-2024.md",
     "Physics Grade 11 IA3 LINKLESS.md",
     "risk assessment.pdf",
-    "Pasted image 20240729193751.png",
     "gitkey.pub",
     "gitkey",
     "Maths assignment solution .pdf",
