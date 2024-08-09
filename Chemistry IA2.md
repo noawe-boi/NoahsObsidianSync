@@ -159,7 +159,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Change in temperature | $T_{final}-T_{initial}$                    |
 | Change in enthalpy    | $q=mc\Delta C$                             |
 
-The accepted value for the change in enthalpy of the reaction 
+The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is 
 
 
 ## Discussion
@@ -192,3 +192,14 @@ For example, when $MgCO_3$ reacts with $HCl$, they react to form $MgCL_2$, $H_2O
 
 *$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ 
 Using the standard enthalpy values for these
+
+
+
+
+
+
+
+
+
+
+# References
