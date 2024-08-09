@@ -176,7 +176,7 @@ It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the avera
 However, as the mass of $MgCO_3$ increases to and past 3g, the relationship resembles as asymptote at roughly $\Delta T=30$ as seen in *Figure 7*. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
 Once these values were removed, the relationship becomes highly linear as can be observed in *Figure 8*.
 Furthermore, using the line of best fit in *Figure 8*, the relationship between $\Delta H$ and mass of $MgCO_3$ can be found. 
-In the equation $y=11.952x$ by substituting $y=$
+In the equation $y=11.952x$ by substituting and change in temperature, for the change in  $y=\Delta T * mc = \Delta H$, and letting $x$ remain the amount of 
 
 
 
