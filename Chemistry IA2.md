@@ -37,15 +37,10 @@ While it would be ideal for the reaction to go all the way to completion over th
 Variables
 - Independent
 
-- Dependent
-	- Temperature increase $\implies$ $\Delta H$ 
-- Controlled/Constant
-	- 
-
-
-#### Justified Modifications (table)
-## Justified modifications to the methodology
-#### Original Experiment
+| Independent variables   | Dependent variables         | Assumed Constant Variables |
+|:------------------------|:----------------------------|:---------------------------|
+| Weight of $MgCO_3$ used | $\Delta T$ after one minute |                            |
+|                         |                             |                            |  
 
 ##### Changes to methodology
 The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2M $HCl$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. The amount of $MgCO_3$ added was limited to 3.5 grams to prevent the $HCl$ from becoming the limiting reactant.
