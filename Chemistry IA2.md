@@ -68,8 +68,8 @@ Additionally, the amount of $MgCO_3$ was varied across multiple trials. The aim 
 
 Considering 50ml of 2M HCL was used, there is $2mol/L*0.05L=0.1$ moles of HCL in the solution. 
 Considering a maximum of 3.5g $MgCO3$ used, there is $\frac{3.5g}{84.3g/mol}\approx 0.04$ moles of $MgCO_3$
-Consider chemical equation is *$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ 
-
+Consider chemical equation is: *$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$
+Twice a much 
 Therefore $MgCO_3$ will be the limiting reactant
 
 
@@ -196,7 +196,7 @@ To answer the research question...
 
 
 
-*For example, when $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$, $H_2O$ and $CO_2$. The equation of this reaction is:*
+For example, when $MgCO_3$ reacts with $HCL$, they react to form $MgCL_2$, $H_2O$ and $CO_2$. The equation of this reaction is:*
 
-*$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$.*
-*Using the standard enthalpy values for these*
+*$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ 
+Using the standard enthalpy values for these
