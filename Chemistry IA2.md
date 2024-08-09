@@ -58,7 +58,7 @@ Variables
 #### Original Experiment
 
 ##### Changes to methodology
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2 MOL $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. The amount of $MgCO_3$ added was limited to 3.5 grams to prevent the $HCL$ from becoming the limiting reactant.
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2M $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. The amount of $MgCO_3$ added was limited to 3.5 grams to prevent the $HCL$ from becoming the limiting reactant.
 
 ##### Justification
 The results of the original experiment fell short of 
@@ -111,7 +111,7 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 #### Research Question
 Considering these modifications, the research question for this experiment is:
 
-"What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2 molar, hydrochloric acid ($HCL$)?"
+"What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCL$)?"
 
 
 
@@ -169,7 +169,7 @@ Raw data was processed to find the $\Delta H$ value for each trial based on the 
 
 $q=mc\Delta C$ 
 
-Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2 molar $HCL$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
+Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCL$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
 
 These values were compared to calculated $\Delta H$ values\
 
