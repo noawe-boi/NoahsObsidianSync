@@ -153,7 +153,7 @@ Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ 
 The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law). 
 
 
-Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
+Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. During this process, it was found that as the mass of $MgCO_3$ addde3 
 
 
 
