@@ -159,7 +159,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Change in temperature | $T_{final}-T_{initial}$                                  |
 | Change in enthalpy    | $q=mc\Delta C$                                           |
 
-The standard enthalpy formation of 
+The standard enthalpy formation of $MgCO_3​(s)+2HCl(aq)$ sums to 	−1113 kJ/mol
 
 
 
