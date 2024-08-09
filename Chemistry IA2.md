@@ -64,10 +64,10 @@ The original experiment aimed to quantify the $\Delta H$ value when varying amou
 The results of the original experiment fell short of 
 It was hypothesized that the calorimeter used did not sufficiently insulate the reaction mixture, which lead to loss of heat over the course of the experiment and an overall lower $\Delta H$ value than what was predicted.
 
-Additionally, the amount of $MgCl_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately.
+Additionally, the amount of $MgCO_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately.
 
 Considering 50ml of 2M HCL was used, there is $2*0.05=0.1$ moles of HCL in the solution. 
-Considering a maximum of 3.5g $MgCl_3$ used, there is $\frac{3.5}{130.664}\approx0.026$
+Considering a maximum of 3.5g $MgCO3$ used, there is $\frac{3.5}{130.664}\approx0.026$ moles of $MgCO_3$
 
 
 
