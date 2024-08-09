@@ -158,12 +158,22 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
  
 | Calculation           | Formula |
 | :-------------------- | :------ |
-| Absolute Error        |         |
-| % Error               |         |
+| Absolute Error        | $       |
+| % Error               | $       |
 | Change in temperature |         |
 | Change in enthalpy    |         |
 |                       |         |
+|                       |         |
 
+
+
+| Calculation           | Formula                                                                                                                                                               |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Absolute Error        | (\left                                                                                                                                                                |
+| % Error               | (\frac{\left                                                                                                                                                          |
+| Change in temperature | ΔT=Tfinal−Tinitial\Delta T = T_{\text{final}} - T_{\text{initial}}ΔT=Tfinal​−Tinitial​                                                                                |
+| Change in enthalpy    | ΔH=qn\Delta H = \frac{q}{n}ΔH=nq​, where q=mcΔTq = mc\Delta Tq=mcΔT                                                                                                   |
+| Total % Error         | ∑(Absolute ErrorTheoretical Value×100%)\sum \left( \frac{\text{Absolute Error}}{\text{Theoretical Value}} \times 100\%\right)∑(Theoretical ValueAbsolute Error​×100%) |
 ## Discussion
 #### Limitations, improvement and Extensions
 | **Limitation**                                                | **Effect on Reliability and Validity** | **Improvement** |
