@@ -177,7 +177,7 @@ Excess trials and were removed, and the table was reformatted to ensure only use
 
 Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula $q=mc\Delta C$, 
 where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
-The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (). 
+The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol(_8.4: Standard Enthalpy and Hess’ Law_, 2020). 
 
 Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
 
@@ -268,3 +268,12 @@ This experiment showed some error accross all masses but generally trended to de
 
 
 # References
+
+
+_8.4: Standard Enthalpy and Hess’ Law_. (2020, June 29). Chemistry LibreTexts. https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law
+
+_Calorimeters - SolidsWiki_. (n.d.). Www.solidswiki.com. https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view_desktop
+
+StudySmarter. (n.d.). _Enthalpy Changes: Definition, Formula & Types I StudySmarter_. StudySmarter UK. https://www.studysmarter.co.uk/explanations/chemistry/physical-chemistry/enthalpy-changes/#:~:text=Enthalpy%20change%20(%E2%88%86H)%20is
+
+University of Calgary. (2018). _Specific heat capacity - Energy Education_. Energyeducation.ca. https://energyeducation.ca/encyclopedia/Specific_heat_capacity#:~:text=Water%20has%20a%20specific%20heat
