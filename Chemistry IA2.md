@@ -159,8 +159,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Change in temperature | $T_{final}-T_{initial}$                    |
 | Change in enthalpy    | $q=mc\Delta C$                             |
 
-Usinge standard enthalpy of formation, the theoretical enthalpy of the products and reactants can be found. $MgCO_3​(s)+2HCl(aq)$ sums to 	$(−1113 kJ/mol) + (-93.2 kJ/mol) = 1299.4kJ$
-
+The accepted value for the change in enthalpy of the reaction 
 
 
 ## Discussion
