@@ -170,10 +170,12 @@ Raw data was brought into Excel and values for Absolute Error and % Error were f
 
 
 ![[Pasted image 20240809210037.png]]
+<div style="color:grey">Figure 6: </div> 
 
 
 
 ![[Pasted image 20240809210029.png]]
+<div style="color:grey">Figure 7: Realised graph demonstraing relationship between Mass of MgC</div> 
 
 
 
