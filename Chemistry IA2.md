@@ -179,7 +179,7 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 
 #### Analysis of trends/patterns
 It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the average $\Delta T$ almost exactly doubles from 12.33 to 24.67. This suggests a highly linear relationship between these two variables. 
-Howev
+
 
 *Figure 7* and *Figure 8* further supports these claims
 
