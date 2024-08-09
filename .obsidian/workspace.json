@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "4cd1844ac2bbb06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5b2089c134b4675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5269c03c954322b",
+  "active": "c5b2089c134b4675",
   "lastOpenFiles": [
     "Pasted image 20240809182441.png",
     "Chem IA2 Risk Assessment.md",
