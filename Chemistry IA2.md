@@ -152,12 +152,12 @@ These values were compared to calculated $\Delta H$ values\
 
 Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
  
-| Calculation           | Formula                                                      |
-| :-------------------- | :----------------------------------------------------------- |
-| Absolute Error        | $\|Value_{max}-Value_{min}\|$                                |
-| % Error               | $\frac{Value_{max measured}-Value_{actual}}{Value_{actual}}$ |
-| Change in temperature | $T_{final}-T_{initial}$                                      |
-| Change in enthalpy    | $q=mc\Delta C$                                               |
+| Calculation           | Formula                                       |
+| :-------------------- | :-------------------------------------------- |
+| Absolute Error        | $\|Value_{max}-Value_{min}\|$                 |
+| % Error               | $\frac{Value_{max}-Value_{min}}{Value_{min}}$ |
+| Change in temperature | $T_{final}-T_{initial}$                       |
+| Change in enthalpy    | $q=mc\Delta C$                                |
 
 Usinge standard enthalpy of formation, the theoretical enthalpy of the products and reactants can be found. $MgCO_3​(s)+2HCl(aq)$ sums to 	$(−1113 kJ/mol) + (-93.2 kJ/mol) = 1299.4kJ$
 
