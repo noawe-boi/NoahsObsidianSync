@@ -29,7 +29,9 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 
 
 #### Assumptions
-It is assumed that the specific heat capacity of the reaction mixture is the same as water. This is because 2M $HCl$ is mostly water. Another assumption is that the calorimeter used is perfect and does not lose any heat over the course of the reaction. If this were not assumed then the slight loss of heat would have to be accounted for. 
+It is assumed that the specific heat capacity of the reaction mixture is the same as water. This is because 2M $HCl$ is mostly water. 
+Another assumption is that the calorimeter used is perfect and does not lose any heat over the course of the reaction. If this were not assumed then the slight loss of heat would have to be accounted for. 
+While it would be ideal for the reaction to go all the way to completion over the 
 
 Variables
 - Independent
