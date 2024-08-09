@@ -79,18 +79,6 @@ Considering 50ml of 2M HCL, Concentration
 https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view_desktop
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #### Methodology
 
 1. Add 50 mL of 2.0 M $HCl$ to the calorimeter and record the temperature until it remains stable for 2 minutes. Record this as the initial temperature.
