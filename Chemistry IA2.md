@@ -28,8 +28,8 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 - $\Delta T$ is the change in temperature 
 
 
-Assumptions
-
+#### Assumptions
+It is assumed that the specific heat capacity of the reaction mixture is the same as water. This is because 2M $HCl$ is mostly wa
 
 Variables
 - Independent
