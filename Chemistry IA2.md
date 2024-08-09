@@ -79,6 +79,7 @@ Considering the reaction taking place: $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_
 
 
 ![[Pasted image 20240729193751.png]]
+<div style="color:grey">Figure 2: Diagram of the new calorimeter used in this extention</div> 
 https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view_desktop
 
 
