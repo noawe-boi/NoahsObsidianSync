@@ -16,7 +16,7 @@ tags:
 
 
 
-## Rationale
+### Rationale
 #### Introduction
 
 Understanding changes in enthalpy $(\Delta H)$ is crucial when interpreting the changes that occur through chemical reactions. This experiment aims to further investigate the change in enthalpy when varying amounts of magnesium carbonate ($MgCO_3$) react with a constant volume of hydrochloric acid ($HCl$) by modifying a previous experiment. 
@@ -196,7 +196,7 @@ Extention, do outside factors influince enthalpy. can bonds with more enthalpy b
 
 ### Conclusion
 
-To answer the research question ''
+To answer the research question 'What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?', the experiment showed that the change in enthalpy 
 
 
 
