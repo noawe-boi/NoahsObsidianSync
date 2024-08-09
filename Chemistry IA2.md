@@ -42,7 +42,7 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 It is assumed that the specific heat capacity of the reaction mixture is the same as water. This is because 2M $HCl$ is mostly water. 
 Another assumption is that the calorimeter used is perfect and does not lose any heat over the course of the reaction. If this were not assumed then the slight loss of heat would have to be accounted for. 
 While it would be ideal for the reaction to go all the way to completion over the course of the minute that stirring occurred, this cannot be guaranteed. Therefore, it must be assumed that the reaction goes to competition.
-It was also assumed that readings from equipment such as stopwatches or thermometers were exactly as what they were recorded as. 
+It was also assumed that readings from equipment such as stopwatches or thermometers were exactly as what they were recorded as while human error may have occurred, it was not measured and would be inefficient to account for.
 
 | Independent variables   | Dependent variables         | Assumed Constant Variables |
 | :---------------------- | :-------------------------- | :------------------------- |
