@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf5af2ca1aa5a2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry IA2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry IA2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry IA2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chemistry IA2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -184,15 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f9b55de7500a8a2",
+  "active": "bf5af2ca1aa5a2e4",
   "lastOpenFiles": [
+    "Chemistry IA2.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20240808195927.png",
+    "Chem IA2 Risk Assessment.md",
     "Rutherford's Model of the Atom.md",
     "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
-    "conflict-files-obsidian-git.md",
     "chemist.md",
     "Excalidraw/Maths Chapter 8 review.md",
-    "Chemistry IA2.md",
     "Work.md",
     "Work function.md",
     "01-08-2024.md",
@@ -217,8 +232,6 @@
     "Untitled 21.md",
     "Pasted image 20240729193751.png",
     "29-07-2024.md",
-    "Excalidraw/Physics 4.1.2.md",
-    "Excalidraw/Physcis q11.1 random quest.md",
     "Pasted image 20240728172202.png",
     "Pasted image 20240728172152.png",
     "Pasted image 20240725230829.png",
@@ -226,7 +239,6 @@
     "gitkey.pub",
     "gitkey",
     "Excalidraw/TAFE Liquid Level Control System Diagram 6-5-2024.png",
-    "Pasted Image 20240610094522_589.png",
     "Maths assignment solution .pdf",
     "Calculated max distance .pdf",
     "Recording 20240215094430.webm",
