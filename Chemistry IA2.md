@@ -155,9 +155,7 @@ Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ 
 These values were compared to calculated $\Delta H$ values\
 
 Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
-
-
-
+ 
 
 
 ## Discussion
