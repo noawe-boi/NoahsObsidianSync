@@ -125,7 +125,7 @@ Considering these modifications, the research question for this experiment is:
 <div style="color:grey">Figure 3: Raw data from the experiment</div> 
 
 
-Excess trials were removed, and the table was reformatted to ensure only useful data was provided. 
+Excess trials and were removed, and the table was reformatted to ensure only useful data was provided. 
 
 | $MgCO3$ | Trial 1 | Trial 2 | Trial 3 | Average $\Delta T\degree$ ($C\degree$) |
 | ------- | ------- | ------- | ------- | -------------------------------------- |
@@ -205,20 +205,6 @@ Theoretical
 absolute error
 oercentage error 
 uncertanty
-
-
-
-
-
-
-For example, when $MgCO_3$ reacts with $HCl$, they react to form $MgCL_2$, $H_2O$ and $CO_2$. The equation of this reaction is:*
-
-*$MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ 
-Using the standard enthalpy values for these
-
-
-
-
 
 
 
