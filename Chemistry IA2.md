@@ -147,6 +147,7 @@ The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl
 Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
 
 
+
 ![[Pasted image 20240809210037.png]]
 <div style="color:grey">Figure 6: Graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
 
