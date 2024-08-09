@@ -153,10 +153,26 @@ Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ 
 The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law). 
 
 
-Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. During this process, it was found that as the mass of $MgCO_3$ added reached 3 grams, the increase in temperature stopped increasing. To linearise the graph, these values were removed and a 
+Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
+
+
+![[Pasted image 20240809210037.png]]
+<div style="color:grey">Figure 6: Graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
+
+
+During this process, it was found that as the mass of $MgCO_3$ added reached 3 grams, the increase in temperature stopped increasing. To linearise the graph, these values were removed and the intercept of the graph was manually set to 0.
 
 
 
+
+
+<div style="color:grey">Figure 5: Sample calculations</div> 
+
+
+
+
+![[Pasted image 20240809210029.png]]
+<div style="color:grey">Figure 7: Linearised graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
 
 | Calculation           | Formula                                    |
 | :-------------------- | :----------------------------------------- |
@@ -166,20 +182,9 @@ Raw data was brought into Excel and values for Absolute Error and % Error were f
 | Change in enthalpy    | $q=mc\Delta C$                             |
 |                       |                                            |
 |                       |                                            |
-<div style="color:grey">Figure 5: Sample calculations</div> 
-
-
-![[Pasted image 20240809210037.png]]
-<div style="color:grey">Figure 6: Graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
-
-
-
-![[Pasted image 20240809210029.png]]
-<div style="color:grey">Figure 7: Linearised graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
-
-
 
 #### Analysis of trends/patterns
+
 
 
 
