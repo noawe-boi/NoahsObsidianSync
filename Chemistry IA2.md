@@ -28,19 +28,6 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 - $\Delta T$ is the change in temperature 
 
 
-
-What happens when reaction occurs
-
-*talk about molar amount*
-
-
-for this reason the maximum amount of $MgCO_3$ was limited to 3.5g
-
-
-
-One sentence of a real world use
-
-
 Assumptions
 
 
