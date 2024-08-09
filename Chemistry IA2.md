@@ -192,7 +192,10 @@ Extention, do outside factors influince enthalpy. can bonds with more enthalpy b
 
 ### Conclusion
 
-To answer the research question 'What is the effect of varying metal oxide ($MgCO_3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?', the experiment showed that the relationship betweenn the change in temperature, and therefore enthalpy was directly proportional, and highly linear, to the mass of $MgCO_3$ added. The line of best fit for the relationship was found to be 
+This experiment answered the research question 'What is the effect of varying metal oxide ($MgCO_3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?', by demonsrating the relationship[ between the mass of $MgCO_3$ ]
+
+
+the experiment showed that the relationship betweenn the change in temperature, and therefore enthalpy was directly proportional, and highly linear, to the mass of $MgCO_3$ added. The line of best fit for the relationship was found to be 
 
 Theoretical 
 absolute error
