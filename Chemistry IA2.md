@@ -108,7 +108,7 @@ Considering the reaction taking place: $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_
 
 ![[Pasted image 20240729193751.png]]
 <div style="color:grey">Figure 2: Diagram of the new calorimeter used in this extention</div> 
-https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view_desktop
+(_Calorimeters - SolidsWiki_, n.d.)
 
 
 #### Methodology
@@ -177,7 +177,7 @@ Excess trials and were removed, and the table was reformatted to ensure only use
 
 Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula $q=mc\Delta C$, 
 where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
-The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law). 
+The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (). 
 
 Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
 
