@@ -84,8 +84,9 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 
 #### Methodology
+1. Weigh desired amount of $MgCO_3$ using digital scale and place inside of calorimeter
 
-1. Add 50 mL of 2.0 M $HCl$ to the calorimeter and record the temperature until it remains stable for 2 minutes. Record this as the initial temperature.
+1. Add 50 mL of 2.0 M $HCl$ to calorimeter and record the temperature until it remains stable for 2 minutes. Record this as the initial temperature.
 
 2. Accurately weigh desired amount of $MgCO_3$, using an electronic balance and weigh boat.
 
