@@ -67,7 +67,9 @@ It was hypothesized that the calorimeter used did not sufficiently insulate the 
 Additionally, the amount of $MgCO_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately.
 
 Considering 50ml of 2M HCL was used, there is $2mol/L*0.05L=0.1$ moles of HCL in the solution. 
-Considering a maximum of 3.5g $MgCO3$ used, there is $\frac{3.5g}{84.3}\approx 0.04$ moles of $MgCO_3$
+Considering a maximum of 3.5g $MgCO3$ used, there is $\frac{3.5g}{84.3g/mol}\approx 0.04$ moles of $MgCO_3$
+
+Therefore $MgCO_3$ will be the limiting reactant
 
 
 
