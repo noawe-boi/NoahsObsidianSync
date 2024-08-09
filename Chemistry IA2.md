@@ -67,7 +67,7 @@ It was hypothesized that the calorimeter used did not sufficiently insulate the 
 Additionally, the amount of $MgCl_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately.
 
 Considering 50ml of 2M HCL was used, there is $2*0.05=0.1$ moles of HCL in the solution. 
-Considering a maximum of 3.5g $MgCl_3$ 
+Considering a maximum of 3.5g $MgCl_3$ used, there is $\frac{1.3}
 
 
 
