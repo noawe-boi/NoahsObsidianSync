@@ -158,7 +158,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
  
 | Calculation           | Formula                                                  |
 | :-------------------- | :------------------------------------------------------- |
-| Absolute Error        | $                                                        |
+| Absolute Error        | $\|Value_{measured}-Value_{actual}$                      |
 | % Error               | $\frac{Value_{measured}-Value_{actual}}{Value_{actual}}$ |
 | Change in temperature |                                                          |
 | Change in enthalpy    |                                                          |
