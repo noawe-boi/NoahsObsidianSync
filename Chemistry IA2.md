@@ -43,10 +43,6 @@ It is assumed that the specific heat capacity of the reaction mixture is the sam
 Another assumption is that the calorimeter used is perfect and does not lose any heat over the course of the reaction. If this were not assumed then the slight loss of heat would have to be accounted for. 
 While it would be ideal for the reaction to go all the way to completion over the course of the minute that stirring occurred, this cannot be guaranteed. Therefore, it must be assumed that the reaction goes to competition.
 
-
-Variables
-- Independent
-
 | Independent variables   | Dependent variables         | Assumed Constant Variables |
 | :---------------------- | :-------------------------- | :------------------------- |
 | Weight of $MgCO_3$ used | $\Delta T$ after one minute | Air Pressure               |
@@ -163,7 +159,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Change in temperature | $T_{final}-T_{initial}$                                  |
 | Change in enthalpy    | $q=mc\Delta C$                                           |
 
-
+The standard enthalpy formation of 
 
 
 
