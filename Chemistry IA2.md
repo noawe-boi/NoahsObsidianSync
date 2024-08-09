@@ -179,18 +179,17 @@ It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the avera
 However, as the mass of $MgCO_3$ increases past 2.5g, the relationship resembles as asymptote at roughly $\Delta T=30$ as seen in *Figure 7*. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
 Once these values were removed, the relationship becomes highly linear as can be observed in *Figure 8*.
 
-*Figure 7* and *Figure 8* further supports these claims
 
 
 
 ## Discussion
 #### Limitations, improvement and Extensions
-| **Limitation**                                                | **Effect on Reliability and Validity** | **Improvement** |
-| :------------------------------------------------------------ | :------------------------------------- | :-------------- |
-| Limited time                                                  |                                        |                 |
-| Limiting reactant graph shape (possible impurities in mgco3). |                                        |                 |
-| stirring bad                                                  |                                        |                 |
-|                                                               |                                        |                 |
+| **Limitation**                                                | **Effect on Reliability and Validity**           | **Improvement** |
+| :------------------------------------------------------------ | :----------------------------------------------- | :-------------- |
+| Limited time                                                  | It was observed that masses of $MgCO_3$ higher t |                 |
+| Limiting reactant graph shape (possible impurities in mgco3). |                                                  |                 |
+| stirring bad                                                  |                                                  |                 |
+|                                                               |                                                  |                 |
 
 
 
