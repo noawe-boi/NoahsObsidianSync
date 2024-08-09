@@ -179,7 +179,8 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 
 #### Analysis of trends/patterns
 It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the average $\Delta T$ almost exactly doubles from 12.33 to 24.67. This suggests a highly linear relationship between these two variables. 
-However, as the mass of $MgCO_3$ increases past 2.5g, the relationship resembles as asymptote at roughly $\Delta T=30$. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true. 
+However, as the mass of $MgCO_3$ increases past 2.5g, the relationship resembles as asymptote at roughly $\Delta T=30$. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
+
 
 *Figure 7* and *Figure 8* further supports these claims
 
