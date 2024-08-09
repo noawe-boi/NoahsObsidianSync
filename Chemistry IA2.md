@@ -162,12 +162,13 @@ Raw data was brought into Excel and values for Absolute Error and % Error were f
 
 
 
-| Calculation           | Formula                                    |
-| :-------------------- | :----------------------------------------- |
-| Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |
-| % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |
-| Change in temperature | $T_{final}-T_{initial}$                    |
-| Change in enthalpy    | $q=mc\Delta C$                             |
+| Calculation           | Formula                                    | Exampol |
+| :-------------------- | :----------------------------------------- | ------- |
+| Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |         |
+| % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |         |
+| Change in temperature | $T_{final}-T_{initial}$                    |         |
+| Change in enthalpy    | $q=mc\Delta C$                             |         |
+|                       |                                            |         |
 <div style="color:grey">Figure 5: Sample calculations</div> 
 
 
