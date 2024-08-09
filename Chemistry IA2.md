@@ -79,18 +79,13 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 4.  Repeat for remaining quantities of $MgCO_3$ in 0.5g increments.
 
 
-
-
-
 #### Risk Assessment
 ![[Chem IA2 Risk Assessment]]
 
-#### Research Question
+## Research Question
 Considering these modifications, the research question for this experiment is:
 
 "What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?"
-
-
 
 
 
