@@ -32,6 +32,8 @@ This change in total energy, or enthalpy $(\Delta H)$, can be measured by measur
 What happens when reaction occurs
 
 *talk about molar amount*
+
+
 for this reason the maximum amount of $MgCO_3$ was limited to 3.5g
 
 
@@ -56,7 +58,7 @@ Variables
 #### Original Experiment
 
 ##### Changes to methodology
-The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. 
+The original experiment aimed to quantify the $\Delta H$ value when varying amounts of $MgCO_3$ were added to 50ml of 2 mol $HCL$. The largest modification was the quality of equipment used to measure $\Delta H$. The original experiment used a calorimeter made from Styrofoam cups and a plastic petri-dish. The amount of $MgCO_3$ added was limited 
 
 ##### Justification
 The results of the original experiment fell short of 
