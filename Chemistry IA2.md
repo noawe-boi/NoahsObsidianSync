@@ -161,11 +161,12 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 
 ## Discussion
 #### Limitations, improvement and Extensions
-| **Limitation**                                               | **Effect on Reliability and Validity** | **Improvement** |
-| :----------------------------------------------------------- | :------------------------------------- | :-------------- |
-| Limited time                                                 |                                        |                 |
-| Limiting reactant graph shape (possible impurities in mgco3) |                                        |                 |
-|                                                              |                                        |                 |
+| **Limitation**                                                | **Effect on Reliability and Validity** | **Improvement** |
+| :------------------------------------------------------------ | :------------------------------------- | :-------------- |
+| Limited time                                                  |                                        |                 |
+| Limiting reactant graph shape (possible impurities in mgco3). |                                        |                 |
+| stirring bad                                                  |                                        |                 |
+|                                                               |                                        |                 |
 
 
 
