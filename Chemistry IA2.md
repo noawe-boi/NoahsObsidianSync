@@ -154,7 +154,7 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
  
 | Calculation           | Formula                                                      |
 | :-------------------- | :----------------------------------------------------------- |
-| Absolute Error        | $\|Value_{max}-Value_{actual}\|$                             |
+| Absolute Error        | $\|Value_{max}-Value_{min}\|$                                |
 | % Error               | $\frac{Value_{max measured}-Value_{actual}}{Value_{actual}}$ |
 | Change in temperature | $T_{final}-T_{initial}$                                      |
 | Change in enthalpy    | $q=mc\Delta C$                                               |
