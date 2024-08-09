@@ -176,7 +176,7 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the average $\Delta T$ almost exactly doubles from 12.33 to 24.67. This suggests a highly linear relationship between these two variables. 
 However, as the mass of $MgCO_3$ increases to and past 3g, the relationship resembles as asymptote at roughly $\Delta T=30$ as seen in *Figure 7*. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
 Once these values were removed, the relationship becomes highly linear as can be observed in *Figure 8*.
-Furthermore, using the calculated relationship 
+Furthermore, using the line of best fit in *Figure 8*, the relationship between $\Delta H$ and  
 
 
 
