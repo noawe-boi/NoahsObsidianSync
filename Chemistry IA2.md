@@ -146,6 +146,14 @@ The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl
 
 Raw data was brought into Excel and values for Absolute Error and % Error were found. In addition to this, the raw data was graphed so that the relationship between $\Delta H$ and Mass of $MgCO_3$ could be found. 
 
+| Calculation           | Formula                                    |
+| :-------------------- | :----------------------------------------- |
+| Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |
+| % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |
+| Change in temperature | $T_{final}-T_{initial}$                    |
+| Change in enthalpy    | $q=mc\Delta C$                             |
+<div style="color:grey">Figure 5: Sample calculations</div> 
+
  
 ![[Pasted image 20240809210037.png]]
 <div style="color:grey">Figure 6: Graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
@@ -158,15 +166,9 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 
 ![[Pasted image 20240809210029.png]]
 <div style="color:grey">Figure 7: Linearised graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
+![[Pasted image 20240809230344.png]]
+<div style="color:grey">Figure 8: Relationship between mass </div>
 
-| Calculation           | Formula                                    |
-| :-------------------- | :----------------------------------------- |
-| Absolute Error        | $\frac{Value_{max}-Value_{min}}{2}$        |
-| % Error               | $\frac{Error_{absolute}}{Value_{average}}$ |
-| Change in temperature | $T_{final}-T_{initial}$                    |
-| Change in enthalpy    | $q=mc\Delta C$                             |
-
-<div style="color:grey">Figure 5: Sample calculations</div> 
 
 
 ![[Pasted image 20240809214836.png]]
