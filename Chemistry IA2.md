@@ -66,6 +66,8 @@ It was hypothesized that the calorimeter used did not sufficiently insulate the 
 
 Additionally, the amount of $MgCl_3$ was varied across multiple trials. The aim of this was to find the relationship between the amount added and the $\Delta H$ value more accurately.
 
+Since 50ml of 2 mol HCL 
+
 
 
 ![[Pasted image 20240808195927.png]]
