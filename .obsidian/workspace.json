@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "122d1427939036ad",
+        "id": "fb07b80e780cdd75",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9b55de7500a8a2",
+            "id": "f5269c03c954322b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "bd2fda190556b421",
+            "id": "44b83a1e8732720a",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,43 +184,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f9b55de7500a8a2",
+  "active": "f5269c03c954322b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Chemistry IA2.md",
-    "Pasted image 20240808195927.png",
+    "Pasted image 20240809182441.png",
     "Chem IA2 Risk Assessment.md",
+    "Chemistry IA2.md",
+    "conflict-files-obsidian-git.md",
     "Rutherford's Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
-    "chemist.md",
-    "Excalidraw/Maths Chapter 8 review.md",
-    "Work.md",
-    "Work function.md",
-    "01-08-2024.md",
-    "02-08-2024.md",
+    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
+    "Pasted image 20240808195927.png",
+    "Chemistry Chapter 3 M R. sonter-heimer.md",
     "Physics Grade 11 IA3.md",
+    "Grade 11 Chemistry IA3.md",
+    "chemist.md",
+    "02-08-2024.md",
+    "Excalidraw/Maths Chapter 8 review.md",
     "Pasted image 20240801211638.png",
-    "Pasted image 20240801114708.png",
-    "Pasted image 20240801113946.png",
-    "11.5 The Photoelectric Effect.md",
+    "01-08-2024.md",
+    "git fetch.md",
+    "Work function.md",
+    "Untitled 23.md",
+    "Threshold Frequency.md",
+    "The Photoelectric Effect.md",
     "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
-    "The Photoelectric Effect.md",
-    "Threshold Frequency.md",
-    "Untitled 23.md",
+    "Pasted image 20240801114708.png",
+    "Pasted image 20240801113946.png",
     "Excalidraw/cathode ray tube physics.md",
-    "git fetch.md",
+    "11.5 The Photoelectric Effect.md",
     "test1.md",
     "Untitled 22.md",
     "30-07-2024.md",
+    "Physics Grade 11 IA3 LINKLESS.md",
     "risk assessment.pdf",
-    "Untitled 21.md",
     "Pasted image 20240729193751.png",
-    "29-07-2024.md",
-    "Pasted image 20240728172202.png",
     "Pasted image 20240728172152.png",
+    "Pasted image 20240728172202.png",
     "Pasted image 20240725230829.png",
     "Pasted image 20240725084934.png",
     "gitkey.pub",

@@ -73,8 +73,8 @@ Considering the reaction taking place: $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_
 
 
 
-![[Pasted image 20240808195927.png]]
-
+![[Pasted image 20240809182441.png]]
+<div style="color:grey">Figure 1: Diagram of the calorimeter used in original experiment</div> 
 
 
 
