@@ -132,8 +132,7 @@ Considering these modifications, the research question for this experiment is:
 <div style="color:grey">Figure 3: Raw data from the experiment</div> 
 
 
-
-Excess trials were removed and the table was reformatted to ensure only useful data was provided. 
+Excess trials were removed, and the table was reformatted to ensure only useful data was provided. 
 
 | $MgCO3$ | Trial 1 | Trial 2 | Trial 3 | Average $\Delta T\degree$ ($C\degree$) |
 | ------- | ------- | ------- | ------- | -------------------------------------- |
