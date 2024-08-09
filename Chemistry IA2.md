@@ -156,14 +156,14 @@ These values were compared to calculated $\Delta H$ values\
 
 Raw data was brought into Excel and values for Absolute Error, % Error, total % Error, were found
  
-| Calculation           | Formula |
-| :-------------------- | :------ |
-| Absolute Error        | $       |
-| % Error               | $       |
-| Change in temperature |         |
-| Change in enthalpy    |         |
-|                       |         |
-|                       |         |
+| Calculation           | Formula                                                  |
+| :-------------------- | :------------------------------------------------------- |
+| Absolute Error        | $                                                        |
+| % Error               | $\frac{Value_{measured}-Value_{actual}}{Value_{actual}}$ |
+| Change in temperature |                                                          |
+| Change in enthalpy    |                                                          |
+|                       |                                                          |
+|                       |                                                          |
 
 
 
