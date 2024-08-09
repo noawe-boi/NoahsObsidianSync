@@ -178,7 +178,7 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 |                       |                                            |
 
 #### Analysis of trends/patterns
-It was found that as the mass of $MgCO_3$ added doubled from 
+It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, $\Delta T$ roughly doubles from 
 
 
 
