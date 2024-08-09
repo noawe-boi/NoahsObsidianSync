@@ -159,7 +159,10 @@ Raw data was brought into Excel and values for Absolute Error, % Error, total % 
 | Change in temperature | $T_{final}-T_{initial}$                    |
 | Change in enthalpy    | $q=mc\Delta C$                             |
 
-The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law)
+finding the 
+
+
+The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law). 
 
 
 ## Discussion
