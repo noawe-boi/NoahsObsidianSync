@@ -177,7 +177,7 @@ However, as the mass of $MgCO_3$ increases to and past 3g, the relationship rese
 Once these values were removed, the relationship becomes highly linear as can be observed in *Figure 8*.
 Furthermore, using the line of best fit in *Figure 8*, the relationship between $\Delta H$ and mass of $MgCO_3$ can be found. 
 In the equation $y=11.952x$ by substituting and change in temperature, for the change in enthalpy, or $y=q=\Delta T * mc = \Delta H$, and letting $x$ remain the amount of $MgCO_3$.
-After rearranging the equation becomes $\Delta 
+After rearranging the equation becomes $\Delta H = 50.031x$
 
 
 
