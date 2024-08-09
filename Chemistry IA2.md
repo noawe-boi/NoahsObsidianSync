@@ -142,14 +142,9 @@ Excess trials were removed, and the table was reformatted to ensure only useful 
 <div style="color:grey">Figure 4: trimmed and formatted raw data from the experiment</div> 
 
 #### Processing of data
-Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula
 
-$q=mc\Delta C$ 
-
+Raw data was processed to find the $\Delta H$ value for each trial based on the change in temperature using the formula: $q=mc\Delta C$ 
 Where $q$ is the change in enthalpy, or $\Delta H$, $m$ is the mass of 2M $HCl$ used in each trial, $c$ is the specific heat of the medium being heated, this was approximated as water, and $\Delta T$ is the change in temperature in $C\degree$. 
-
-
-
 The accepted value for the change in enthalpy of the reaction $MgCO_3​(s)+2HCl(aq)→MgCl_2​(aq)+H_2​O(l)+CO_2​(g)$ is -24.01 kJ/mol (https://chem.libretexts.org/Courses/Oregon_Tech_PortlandMetro_Campus/OT_-_PDX_-_Metro%3A_General_Chemistry_I/08%3A_Thermochemistry/8.04%3A_Standard_Enthalpy_and_Hess_Law). 
 
 
