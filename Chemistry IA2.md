@@ -190,9 +190,6 @@ Once these values were removed, the relationship becomes highly linear as can be
 | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Limited time          | It was observed that masses of $MgCO_3$ higher or equal than 3g did not increase the $\Delta T$. This was could not have been caused by $HCl$ being a limiting reactant, but could have instead been the consequence of the primitive stirring setup used and the relativley short period of time stirring occured. | It is suggested that an automatic stirring device is used in future in conjunction with an increase in the stir time per trial to more reliably and effectively bring the reaction to completion. |
 | Measurement precision | While not accounted for and assumed to be true, the accuracy of this experiment partially relied on an alalogue, mercury thermometer.                                                                                                                                                                               | The accuracy and precision of this experiment could be improved through the use of a precision, digial thermometer.                                                                               |
-| stirring bad          |                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                   |
-|                       |                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                   |
-
 
 
 | Limitation | Exetention |
@@ -200,11 +197,11 @@ Once these values were removed, the relationship becomes highly linear as can be
 |            |            |
 |            |            |
 |            |            |
-Extention, do outside factors influince enthalpy. can bonds with more enthalpy be formed in differnte cond
+Extention, do outside factors influince enthalpy. can bonds with more enthalpy be formed in differnte conditiions. 
 
 ### Conclusion
 
-To answer the research question...
+To answer the research question
 
 
 
