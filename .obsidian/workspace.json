@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fb07b80e780cdd75",
+        "id": "e4cd481e44a8ede1",
         "type": "tabs",
         "children": [
           {
@@ -16,16 +16,6 @@
                 "file": "Chemistry IA2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a68629a7d2013b93",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240809182441.png"
               }
             }
           }
@@ -196,17 +186,17 @@
   },
   "active": "f5269c03c954322b",
   "lastOpenFiles": [
+    "Chem IA2 Risk Assessment.md",
+    "Chemistry IA2.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
     "Pasted image 20240809182441.png",
-    "Chemistry IA2.md",
     "Pasted image 20240809214836.png",
     "Pasted image 20240809210037.png",
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "Chem IA2 Risk Assessment.md",
     "conflict-files-obsidian-git.md",
     "Rutherford's Model of the Atom.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
@@ -218,7 +208,6 @@
     "chemist.md",
     "02-08-2024.md",
     "Excalidraw/Maths Chapter 8 review.md",
-    "Pasted image 20240801211638.png",
     "01-08-2024.md",
     "git fetch.md",
     "Work function.md",

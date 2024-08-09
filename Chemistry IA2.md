@@ -124,7 +124,8 @@ https://www.solidswiki.com/index.php?title=Calorimeters&mobileaction=toggle_view
 
 
 #### Risk Assessment
-![[Chem IA2 Risk Assessment]]
+*See appendix*
+
 
 ## Research Question
 Considering these modifications, the research question for this experiment is:
@@ -235,7 +236,7 @@ oercentage error
 uncertanty
 
 
-
+![[Chem IA2 Risk Assessment]]
 
 
 
