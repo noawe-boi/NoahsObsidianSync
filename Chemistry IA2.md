@@ -166,7 +166,7 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 
 ![[Pasted image 20240809210029.png]]
 <div style="color:grey">Figure 7: Linearised graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
-![[Pasted image 20240809230344.png]]
+![[Pasted image 20240809230840.png]]
 <div style="color:grey">Figure 8: Relationship between mass of MgCO3 and Enthalpy Change in HCL</div>
 
 
@@ -190,11 +190,7 @@ The same was done for the calculate change in enthalpy
 | Measurement precision | While not accounted for and assumed to be true, the accuracy of this experiment partially relied on an alalogue, mercury thermometer.                                                                                                                                                                               | The accuracy and precision of this experiment could be improved through the use of a precision, digial thermometer.                                                                               |
 
 
-| Limitation | Exetention |
-| :--------- | :--------- |
-|            |            |
-|            |            |
-|            |            |
+
 Extention, do outside factors influince enthalpy. can bonds with more enthalpy be formed in differnte conditiions. 
 
 ### Conclusion
