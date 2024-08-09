@@ -167,19 +167,17 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 ![[Pasted image 20240809210029.png]]
 <div style="color:grey">Figure 7: Linearised graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
 ![[Pasted image 20240809230344.png]]
-<div style="color:grey">Figure 8: Relationship between mass </div>
+<div style="color:grey">Figure 8: Relationship between mass of MgCO3 and Enthalpy Change in HCL</div>
 
 
 
 ![[Pasted image 20240809214836.png]]
-<div style="color:grey">Figure 8: Final excel calculations</div>
+<div style="color:grey">Figure 9: Final excel calculations</div>
 #### Analysis of trends/patterns
 It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the average $\Delta T$ almost exactly doubles from 12.33 to 24.67. This suggests a highly linear relationship between these two variables. 
-However, as the mass of $MgCO_3$ increases to and past 3g, the relationship resembles as asymptote at roughly $\Delta T=30$ as seen in *Figure 7*. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
+However, as the mass of $MgCO_3$ increases to and past 3g, the relationship resembles as asymptote at roughly $\Delta T=30$ as seen in *Figure 6. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
 Once these values were removed, the relationship becomes highly linear as can be observed in *Figure 8*.
-Furthermore, using the line of best fit in *Figure 8*, the relationship between $\Delta H$ and mass of $MgCO_3$ can be found. 
-In the equation $y=11.952x$ by substituting and change in temperature, for the change in enthalpy, or $y=q=\Delta T * mc = \Delta H$, and letting $x$ remain the amount of $MgCO_3$.
-After rearranging the equation becomes $\Delta H = 50.031x$
+The relatn
 
 
 
