@@ -158,21 +158,8 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 
 
 
-
-
-<div style="color:grey">Figure 5: Sample calculations</div> 
-
-
-
-
 ![[Pasted image 20240809210029.png]]
 <div style="color:grey">Figure 7: Linearised graph demonstraing relationship between Mass of MgCO3 and Change in Temperature</div> 
-
-
-
-![[Pasted image 20240809214836.png]]
-<div style="color:grey">Figure 8: Final excel calculations</div>
-
 
 | Calculation           | Formula                                    |
 | :-------------------- | :----------------------------------------- |
@@ -182,9 +169,11 @@ During this process, it was found that as the mass of $MgCO_3$ added reached 3 g
 | Change in enthalpy    | $q=mc\Delta C$                             |
 |                       |                                            |
 |                       |                                            |
+<div style="color:grey">Figure 5: Sample calculations</div> 
 
 
-
+![[Pasted image 20240809214836.png]]
+<div style="color:grey">Figure 8: Final excel calculations</div>
 #### Analysis of trends/patterns
 It was found that as the mass of $MgCO_3$ added doubled from 1g to 2g, the average $\Delta T$ almost exactly doubles from 12.33 to 24.67. This suggests a highly linear relationship between these two variables. 
 However, as the mass of $MgCO_3$ increases past 2.5g, the relationship resembles as asymptote at roughly $\Delta T=30$. This should indicate that $HCl$ is a limiting reactant, however, previous calculations established that this should not be true.
