@@ -165,8 +165,15 @@ Raw data was brought into Excel and values for Absolute Error and % Error were f
 | Change in temperature | $T_{final}-T_{initial}$                    |
 | Change in enthalpy    | $q=mc\Delta C$                             |
 |                       |                                            |
+|                       |                                            |
 <div style="color:grey">Figure 5: Sample calculations</div> 
 
+
+![[Pasted image 20240809210037.png]]
+
+
+
+![[Pasted image 20240809210029.png]]
 
 
 
