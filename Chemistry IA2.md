@@ -3,14 +3,12 @@ tags:
   - chem
   - assignment
 ---
-
+Investigating the relationship between change in enthalpy and amount of reactant
 
 
 
 
 # TODO COVER PAGE
-
-
 
 
 
@@ -91,15 +89,8 @@ Considering these modifications, the research question for this experiment is:
 "What is the effect of varying metal oxide ($MgCO3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?"
 
 
-
-
 ## Results
-
-
 #### Raw Data
-
-
-
 
 | Trial | Ammount of MgCO3 | Ammount of HCL | $T_{initial}$ | $T_{final}$ | $\Delta T$ |
 | ----- | ---------------- | -------------- | ------------- | ----------- | ---------- |
@@ -193,7 +184,7 @@ Extention, do outside factors influince enthalpy. can bonds with more enthalpy b
 ### Conclusion
 
 This experiment answered the research question 'What is the effect of varying metal oxide ($MgCO_3$) quantities on the temperature change and overall enthalpy when combined with a volume of 50ml, 2M, hydrochloric acid ($HCl$)?', by demonstrating the relationship between the mass of $MgCO_3$ and overall change in enthalpy, or $\Delta H$ is highly linear and directly proportional up to a certain point. This suggests that increasing the amount of $MgCO_3$ consistently increases the enthalpy change of the reaction. 
-While there was 
+While there
 
 Theoretical 
 absolute error
