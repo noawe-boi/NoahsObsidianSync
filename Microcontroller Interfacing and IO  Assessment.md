@@ -12,3 +12,4 @@
 
 ### LCD
 - Connected GND and VCC to ground and 5v respectively
+- Connected V0 (Contrast pin) to  
