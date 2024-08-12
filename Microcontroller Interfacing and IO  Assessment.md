@@ -16,9 +16,11 @@
 - Connected 5v to terminal 1 and ground to terminal 2 of potentiometer
 - Connected V0 (Contrast pin) to  wiper blade of potentiometer.
 - Connected RS (register select pin) to digital pin 12 of Arduino
+- Connected LCD pins D4-D7 with arduino digital pins 5-7
+- Initli
 
 
-initialize the library by associating any needed LCD interface with the arduino pin number it is connected to48
+initialize the library by associating any needed LCD interface with the arduino pipint is connected to
 
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 
