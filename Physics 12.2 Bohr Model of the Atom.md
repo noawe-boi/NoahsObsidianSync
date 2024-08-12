@@ -43,4 +43,4 @@ More energy required at ground state than higher state $\because$ Closer to nucl
 ![[Electorn Photon Series]]
 
 An electron can't exist in between energy levels
-![[Energy for each level
+![[Energy for each level]]
