@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "6564db14f3046778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Balmer Equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e8f50374a1610fab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md"
+                "file": "Excalidraw/Electorn Photon Series.md"
               }
             }
           },
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md",
+                "file": "Balmer Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md",
+                "file": "Balmer Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md"
+                "file": "Balmer Equation.md"
               }
             }
           },
@@ -236,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md"
+                "file": "Balmer Equation.md"
               }
             }
           },
@@ -271,10 +283,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8f50374a1610fab",
+  "active": "6564db14f3046778",
   "lastOpenFiles": [
     "Physics 12.2 Bohr Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md",
+    "Excalidraw/Electorn Photon Series.md",
     "Balmer Equation.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Excalidraw/Bohr Atom model energy level.md",
