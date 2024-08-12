@@ -20,6 +20,8 @@ Created when Plank's model was applied to Rutherford's nuclear model.
 ## Example 1
 Calculate the angular momentum for first and second energy levels of a hydrogen atom
 $L=\frac{nh}{2\pi}$
-L=$\frac{1*}
+L=$\frac{6.626*10^{-24}}{2\pi}$
+$L=
+
 
 
