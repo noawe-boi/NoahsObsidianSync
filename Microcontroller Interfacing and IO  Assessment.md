@@ -34,4 +34,4 @@
 - Initialize LCD and set number of columns and rows
 	`lcd.begin(16, 2);
 
-- Create Write
+- Create writeLCD function
