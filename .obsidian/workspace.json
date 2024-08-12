@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6e117c27fcc69c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Balmer Equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "415dadf026aeeda0",
             "type": "leaf",
             "state": {
@@ -84,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Bohr Atom energy levels labelled.md",
+                "file": "Balmer Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Bohr Atom energy levels labelled.md",
+                "file": "Balmer Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Bohr Atom energy levels labelled.md"
+                "file": "Balmer Equation.md"
               }
             }
           },
@@ -214,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Bohr Atom energy levels labelled.md"
+                "file": "Balmer Equation.md"
               }
             }
           },
@@ -249,11 +261,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74f4e18cc5b54b6e",
+  "active": "6e117c27fcc69c55",
   "lastOpenFiles": [
-    "Excalidraw/Bohr Atom model energy level.md",
-    "Excalidraw/Bohr Atom energy levels labelled.md",
     "Physics 12.2 Bohr Model of the Atom.md",
+    "Balmer Equation.md",
+    "Excalidraw/Bohr Atom energy levels labelled.md",
+    "Excalidraw/Bohr Atom model energy level.md",
     "Angular Momentum.md",
     "Excalidraw/Hydrogen spectrum.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
@@ -288,7 +301,6 @@
     "Threshold Frequency.md",
     "Untitled 23.md",
     "Excalidraw/cathode ray tube physics.md",
-    "git fetch.md",
     "risk assessment.pdf",
     "gitkey.pub",
     "gitkey",

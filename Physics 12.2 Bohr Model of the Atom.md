@@ -30,3 +30,8 @@ $L=\frac{2(6.626*10^{-24})}{2\pi}$
 $L=2.109*10^{-34} kgm^2/s$
 
 
+
+## Continued...
+![[Bohr Atom energy levels labelled]]
+
+![[Balmer Equation]]
