@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5269c03c954322b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry IA2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "da3bbaf8cea25074",
             "type": "leaf",
             "state": {
@@ -30,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "970395a7323239dd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240809214836.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +186,10 @@
   },
   "active": "da3bbaf8cea25074",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Microcontroller Interfacing and IO  Assessment.md",
+    "Chemistry IA2.md",
+    "Pasted image 20240809214836.png",
+    "conflict-files-obsidian-git.md",
     "Physics 12.2 Bohr Model of the Atom.md",
     "Lion Timeline.md",
     "Excalidraw/Hydrogen spectrum.md",
@@ -220,8 +199,6 @@
     "Energy for each level.md",
     "Balmer Equation.md",
     "Angular Momentum.md",
-    "Chemistry IA2.md",
-    "Pasted image 20240809214836.png",
     "Chem IA2 Risk Assessment.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
@@ -244,7 +221,6 @@
     "01-08-2024.md",
     "git fetch.md",
     "Work function.md",
-    "Untitled 23.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
