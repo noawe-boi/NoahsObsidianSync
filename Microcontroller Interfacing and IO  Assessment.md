@@ -38,7 +38,7 @@
 - Remove previous pin initializations from when LED's were used.
 - Removed previous code that set LED pins HIGH and LOW and displayed time using them
 
-- Wrote "Time: ", disp_hours
+- Wrote "Time: ", disp_hours, 
 
 
 added functions to main loop
