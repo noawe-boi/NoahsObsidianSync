@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "61cf649e386feec8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "ce8636846d070644",
             "type": "leaf",
             "state": {
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md"
               }
             }
           },
@@ -171,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md"
               }
             }
           },
@@ -206,11 +217,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1e3d563e8e2b12",
+  "active": "61cf649e386feec8",
   "lastOpenFiles": [
+    "Physics 12.2 Bohr Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
     "Excalidraw/Hydrogen spectrum.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Physics 12.2 Bohr Model of the Atom.md",
     "Lion Timeline.md",
     "Chemistry IA2.md",
     "Pasted image 20240809230840.png",
@@ -245,7 +257,6 @@
     "git fetch.md",
     "test1.md",
     "Untitled 22.md",
-    "30-07-2024.md",
     "risk assessment.pdf",
     "gitkey.pub",
     "gitkey",
