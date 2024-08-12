@@ -43,4 +43,4 @@
 - Corrected ampm setting to that it is only true when hours>=12, not hours>12
 - Set cursor to (0, 1) and printed "Temp: ", scaledTemp, " Cel     " to LCD (extra spaces after " Cel" are to clear display)
 
-added functions to main loop
+added "writeLCD" and "temperatureFunction" functions to main loop
