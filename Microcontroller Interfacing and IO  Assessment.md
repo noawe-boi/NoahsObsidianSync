@@ -38,9 +38,9 @@
 - Remove previous pin initializations from when LED's were used.
 - Removed previous code that set LED pins HIGH and LOW and displayed time using them
 
-- Set cursor to (0, 0) and Wrote `"Time: ", disp_hours, ":", minutes, ":", seconds` 
+- Set cursor to (0, 0) and printed `"Time: ", disp_hours, ":", minutes, ":", seconds` to LCD
 - wrote 'if' statement to add "0" when the time segment value is less than 10 
 - Corrected ampm setting to that it is only true when hours>=12, not hours>12
-- Set cursor to (0, 1) and wrote ""
+- Set cursor to (0, 1) and printed "Temp: ", scaledTemp, " Cel" to LCD
 
 added functions to main loop
