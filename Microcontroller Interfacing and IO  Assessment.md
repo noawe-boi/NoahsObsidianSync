@@ -36,7 +36,7 @@
 
 - Create writeLCD function
 
-
+- Remove previous pin initialisations from when LED's were used.
 
 
 
