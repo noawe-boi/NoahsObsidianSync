@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cd481e44a8ede1",
+        "id": "122d1427939036ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f5269c03c954322b",
+            "id": "9f9b55de7500a8a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "970395a7323239dd",
+            "id": "0c17fa91e5e98c79",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240809214836.png"
+                "file": "Untitled 24.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry IA2.md",
+                "file": "Untitled 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry IA2.md",
+                "file": "Untitled 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry IA2.md"
+                "file": "Untitled 24.md"
               }
             }
           },
@@ -159,12 +162,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chemistry IA2.md"
+                "file": "Untitled 24.md"
               }
             }
           },
           {
-            "id": "44b83a1e8732720a",
+            "id": "bd2fda190556b421",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -172,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,46 +197,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5269c03c954322b",
+  "active": "0c17fa91e5e98c79",
   "lastOpenFiles": [
-    "Pasted image 20240809214836.png",
     "Chemistry IA2.md",
-    "Chem IA2 Risk Assessment.md",
+    "Untitled 24.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
-    "Pasted image 20240809182441.png",
+    "Pasted image 20240809214836.png",
     "Pasted image 20240809210037.png",
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
+    "Pasted image 20240809182441.png",
     "conflict-files-obsidian-git.md",
-    "Rutherford's Model of the Atom.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "Pasted image 20240808195927.png",
-    "Chemistry Chapter 3 M R. sonter-heimer.md",
-    "Physics Grade 11 IA3.md",
-    "Grade 11 Chemistry IA3.md",
+    "Chem IA2 Risk Assessment.md",
+    "Rutherford's Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
+    "Physics 12.1 Rutherford's Model of the Atom.md",
     "chemist.md",
-    "02-08-2024.md",
     "Excalidraw/Maths Chapter 8 review.md",
-    "01-08-2024.md",
-    "git fetch.md",
+    "Work.md",
     "Work function.md",
-    "Untitled 23.md",
-    "Threshold Frequency.md",
-    "The Photoelectric Effect.md",
+    "01-08-2024.md",
+    "02-08-2024.md",
+    "Physics Grade 11 IA3.md",
+    "11.5 The Photoelectric Effect.md",
     "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
+    "The Photoelectric Effect.md",
+    "Threshold Frequency.md",
+    "Untitled 23.md",
     "Excalidraw/cathode ray tube physics.md",
-    "11.5 The Photoelectric Effect.md",
+    "git fetch.md",
     "test1.md",
     "Untitled 22.md",
     "30-07-2024.md",
-    "Physics Grade 11 IA3 LINKLESS.md",
     "risk assessment.pdf",
+    "Untitled 21.md",
+    "29-07-2024.md",
     "gitkey.pub",
     "gitkey",
     "Maths assignment solution .pdf",
