@@ -15,4 +15,5 @@
 - Added contrast potentiometer
 - Connected 5v to terminal 1 and ground to terminal 2 of potentiometer
 - Connected V0 (Contrast pin) to  wiper blade of potentiometer.
-- Connected RS (register select pin) to digital pin 12 of arduino
+- Connected RS (register select pin) to digital pin 12 of Arduino
+- 
