@@ -31,7 +31,11 @@ $L=2.109*10^{-34} kgm^2/s$
 
 
 
-## Continued...
+## Energy levels
 ![[Bohr Atom energy levels labelled]]
 
 ![[Balmer Equation]]
+
+
+More energy required at ground state than higher state $\because$ Closer to nucleus $\implies$ more force pulling in atom
+
