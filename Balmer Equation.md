@@ -1,0 +1,1 @@
+$\frac{1}{\Lambda} = R_H(\frac{1{nf^2}\frac{})
