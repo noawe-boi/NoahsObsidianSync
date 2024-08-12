@@ -17,11 +17,13 @@
 - Connected V0 (Contrast pin) to  wiper blade of potentiometer.
 - Connected RS (register select pin) to digital pin 12 of Arduino
 - Connected LCD pins D4-D7 with arduino digital pins 5-7
-- Initli
+- Create Constant integers to use with library:
+	rs = 12, 
+	en = 11, 
+	d4 = 5, 
+	d5 = 4, 
+	d6 = 3, 
+	d7 = 2;
 
+- Initliased liquidcrystal 
 
-initialize the library by associating any needed LCD interface with the arduino pipint is connected to
-
-const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
-
-LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
