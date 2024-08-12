@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dc89e456034fe90",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md",
+                "file": "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md",
+                "file": "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md"
+                "file": "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md"
               }
             }
           },
@@ -149,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md"
+                "file": "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md"
               }
             }
           },
@@ -184,9 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da3bbaf8cea25074",
+  "active": "2dc89e456034fe90",
   "lastOpenFiles": [
     "Microcontroller Interfacing and IO  Assessment.md",
+    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Chemistry IA2.md",
     "Pasted image 20240809214836.png",
     "conflict-files-obsidian-git.md",
