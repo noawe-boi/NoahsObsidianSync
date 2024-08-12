@@ -1,0 +1,277 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+ n=1 ^puzVMGf8
+
+n=2 ^uWB7xa8d
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.17",
+	"elements": [
+		{
+			"type": "ellipse",
+			"version": 58,
+			"versionNonce": 981450630,
+			"isDeleted": false,
+			"id": "j_bgMugOonNo6BIlOXxaB",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -158.64105606079107,
+			"y": -31.69634246826172,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 65.42242431640625,
+			"height": 68.46533203125,
+			"seed": 1317721606,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1723429960141,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 63,
+			"versionNonce": 615112390,
+			"isDeleted": false,
+			"id": "jf6wVlCH0ZALRNB5czGqI",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -233.19220352172852,
+			"y": -110.8117904663086,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 213.76397705078125,
+			"height": 224.41409301757812,
+			"seed": 1678648646,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1723429960141,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 162,
+			"versionNonce": 99181894,
+			"isDeleted": false,
+			"id": "WpCdo7MDmfipd4FFaZn1g",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -351.55896377563477,
+			"y": -212.49890899658203,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 478.4965515136718,
+			"height": 448.82818603515625,
+			"seed": 953027526,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1723429960141,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 167,
+			"versionNonce": 660130950,
+			"isDeleted": false,
+			"id": "ePYvDfyh9K1KHnDJI73Pv",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -185.92197036743164,
+			"y": -58.559913635253906,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 120.1947021484375,
+			"height": 111.82666015625,
+			"seed": 333751046,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1723429960141,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 235,
+			"versionNonce": 54930822,
+			"isDeleted": false,
+			"id": "u5IZkm7SLuiYMpkxR0ZPo",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -302.3558692932129,
+			"y": -168.9870376586914,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 370.4734802246093,
+			"height": 342.32659912109375,
+			"seed": 747599302,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1723429983361,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "puzVMGf8",
+			"type": "text",
+			"x": -73.72502517700195,
+			"y": -43.581275939941406,
+			"width": 37.09999084472656,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 995165190,
+			"version": 11,
+			"versionNonce": 960044762,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1723429993649,
+			"link": null,
+			"locked": false,
+			"text": " n=1",
+			"rawText": " n=1",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": " n=1",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "uWB7xa8d",
+			"type": "text",
+			"x": -51.66399002075195,
+			"y": -101.39643096923828,
+			"width": 35.91998291015625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 85846790,
+			"version": 8,
+			"versionNonce": 1734572442,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1723429998501,
+			"link": null,
+			"locked": false,
+			"text": "n=2",
+			"rawText": "n=2",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "n=2",
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 707.3026123046875,
+		"scrollY": 360.3641052246094,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%
