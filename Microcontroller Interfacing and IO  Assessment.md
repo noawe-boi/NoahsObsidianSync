@@ -37,6 +37,7 @@
 - Create writeLCD function
 
 - Remove previous pin initialisations from when LED's were used.
+- Removed previous code that set LED pins HIGH and LOW and displayed time using them
 
 
 
