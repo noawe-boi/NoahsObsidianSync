@@ -13,5 +13,6 @@
 ### LCD
 - Connected GND and VCC to ground and 5v respectively
 - Added contrast potentiometer
-- Connected 5v to terminal 1 and Ground to terminal 2 of potentiometer
-- Connected V0 (Contrast pin) to  wiper blade of potentiom
+- Connected 5v to terminal 1 and ground to terminal 2 of potentiometer
+- Connected V0 (Contrast pin) to  wiper blade of potentiometer.
+- Connected RS (register select pin) to digital pin 12 of arduino
