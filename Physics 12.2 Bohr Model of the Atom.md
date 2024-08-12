@@ -14,3 +14,8 @@ Created when Plank's model was applied to Rutherford's nuclear model.
 3. Each state has a fixed [[Angular Momentum]] and energy.  
 
 
+![[Angular Momentum]]
+
+
+
+

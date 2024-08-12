@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular Momentum.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular Momentum.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Angular Momentum.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -239,10 +238,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "415dadf026aeeda0",
+  "active": "9c1e3d563e8e2b12",
   "lastOpenFiles": [
-    "Physics 12.2 Bohr Model of the Atom.md",
     "Angular Momentum.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
     "Excalidraw/Hydrogen spectrum.md",
     "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
