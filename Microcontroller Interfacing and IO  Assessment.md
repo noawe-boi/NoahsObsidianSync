@@ -39,6 +39,6 @@
 - Removed previous code that set LED pins HIGH and LOW and displayed time using them
 
 - Wrote "Time: ", disp_hours, 
-
+- Corrected ampm setting to that it is only true when
 
 added functions to main loop
