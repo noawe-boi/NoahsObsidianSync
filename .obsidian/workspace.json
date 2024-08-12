@@ -25,12 +25,23 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md"
+                "file": "Excalidraw/Hydrogen spectrum.md"
+              }
+            }
+          },
+          {
+            "id": "8a2a7c101cae2883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -160,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -195,10 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce8636846d070644",
+  "active": "9c1e3d563e8e2b12",
   "lastOpenFiles": [
+    "Excalidraw/Hydrogen spectrum.md",
+    "Physics 12.1 Rutherford's Model of the Atom.md",
     "Physics 12.2 Bohr Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md",
     "Lion Timeline.md",
     "Chemistry IA2.md",
     "Pasted image 20240809230840.png",
@@ -215,7 +227,6 @@
     "Chem IA2 Risk Assessment.md",
     "Rutherford's Model of the Atom.md",
     "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
     "chemist.md",
     "Excalidraw/Maths Chapter 8 review.md",
     "Work.md",
