@@ -38,7 +38,8 @@
 - Remove previous pin initializations from when LED's were used.
 - Removed previous code that set LED pins HIGH and LOW and displayed time using them
 
-- Wrote "Time: ", disp_hours, 
-- Corrected ampm setting to that it is only true when
+- Wrote "Time: ", disp_hours, ":", minutes, 
+and wrote 'if' statement to add "0" when the time segment value is less than 10
+- Corrected ampm setting to that it is only true when hours>=12, not hours>12
 
 added functions to main loop
