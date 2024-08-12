@@ -7,8 +7,11 @@
 - Created scaledTemp variable (float)
 - Created rawTemp Variable (for necessary calculations)
 - Created temperature Function
-- Set rawTemp value to A3 and multiplied by 5/1024
-- Set scaledTemp value to `(rawTemp - 0.50)*100.00;
+- Set rawTemp value
+	A3 and multiplied by 5/1024
+
+- Set scaledTemp value to 
+	`(rawTemp - 0.50)*100.00;
 
 ### LCD
 - Connected GND and VCC to ground and 5v respectively
@@ -28,3 +31,7 @@
 - Initiated liquidcrystal library using these variables 
 	`LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
+- Initialize LCD and set number of columns and rows
+	`lcd.begin(16, 2);
+
+- 
