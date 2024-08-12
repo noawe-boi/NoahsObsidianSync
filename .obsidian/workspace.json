@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "220f969c4adbbc4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "61cf649e386feec8",
             "type": "leaf",
             "state": {
@@ -51,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -182,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -217,10 +226,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61cf649e386feec8",
+  "active": "9c1e3d563e8e2b12",
   "lastOpenFiles": [
-    "Physics 12.2 Bohr Model of the Atom.md",
     "Excalidraw/Drawing 2024-08-12 12.13.30.excalidraw.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
     "Excalidraw/Hydrogen spectrum.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
     "Lion Timeline.md",
