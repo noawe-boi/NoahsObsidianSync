@@ -35,10 +35,10 @@
 	`lcd.begin(16, 2);
 
 - Create writeLCD function
-
-- Remove previous pin initialisations from when LED's were used.
+- Remove previous pin initializations from when LED's were used.
 - Removed previous code that set LED pins HIGH and LOW and displayed time using them
 
+- Wrote "Time: ", disp_hours
 
 
 added functions to main loop
