@@ -95,8 +95,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Balmer Equation.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Balmer Equation.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Balmer Equation.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Balmer Equation.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -261,10 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e117c27fcc69c55",
+  "active": "9c1e3d563e8e2b12",
   "lastOpenFiles": [
-    "Physics 12.2 Bohr Model of the Atom.md",
     "Balmer Equation.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Excalidraw/Bohr Atom model energy level.md",
     "Angular Momentum.md",
