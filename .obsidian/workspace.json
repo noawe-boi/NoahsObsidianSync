@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f9b55de7500a8a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry IA2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0c17fa91e5e98c79",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
