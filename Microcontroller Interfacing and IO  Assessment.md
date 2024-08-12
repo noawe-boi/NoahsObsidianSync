@@ -5,6 +5,6 @@
 - Set A3 pin to input (code)
 - Created scaledTemp variable (float)
 - Created rawTemp Variable (for necessary calculations)
-- Created temperatureFunction
+- Created temperature Function
 - Set rawTemp value to A3 and multiplied by 5/1024
-- Set scaledTemp value to 
+- Set scaledTemp value to `(rawTemp - 0.50)*100.00;

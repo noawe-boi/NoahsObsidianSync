@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b76e54ef12ecdb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "970395a7323239dd",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -172,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -207,10 +219,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da3bbaf8cea25074",
+  "active": "b76e54ef12ecdb48",
   "lastOpenFiles": [
-    "Chemistry IA2.md",
     "Microcontroller Interfacing and IO  Assessment.md",
+    "conflict-files-obsidian-git.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
+    "Lion Timeline.md",
+    "Excalidraw/Hydrogen spectrum.md",
+    "Excalidraw/Electorn Photon Series.md",
+    "Excalidraw/Bohr Atom model energy level.md",
+    "Excalidraw/Bohr Atom energy levels labelled.md",
+    "Energy for each level.md",
+    "Balmer Equation.md",
+    "Angular Momentum.md",
+    "Chemistry IA2.md",
     "Pasted image 20240809214836.png",
     "Chem IA2 Risk Assessment.md",
     "Pasted image 20240809230840.png",
@@ -221,7 +243,6 @@
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "conflict-files-obsidian-git.md",
     "Rutherford's Model of the Atom.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
     "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
@@ -236,17 +257,8 @@
     "git fetch.md",
     "Work function.md",
     "Untitled 23.md",
-    "Threshold Frequency.md",
-    "The Photoelectric Effect.md",
-    "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
-    "Excalidraw/cathode ray tube physics.md",
-    "11.5 The Photoelectric Effect.md",
-    "test1.md",
-    "Untitled 22.md",
-    "30-07-2024.md",
-    "Physics Grade 11 IA3 LINKLESS.md",
     "risk assessment.pdf",
     "gitkey.pub",
     "gitkey",
