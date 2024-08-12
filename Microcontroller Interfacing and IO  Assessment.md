@@ -12,4 +12,6 @@
 
 ### LCD
 - Connected GND and VCC to ground and 5v respectively
-- Connected V0 (Contrast pin) to  
+- Added contrast potentiometer
+- Connected 5v to terminal 1 and Ground to terminal 2 of potentiometer
+- Connected V0 (Contrast pin) to  wiper blade of potentiom
