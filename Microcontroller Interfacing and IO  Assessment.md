@@ -5,3 +5,4 @@
 - Set A3 pin to input (code)
 - Created scaledTemp variable (float)
 - Created rawTemp Variable (for necessary calculations)
+- Created temperatureFunction
