@@ -5,5 +5,9 @@ tags:
 Angular momentum, L
 Given by
 $L =mvr$ 
+
+Note: 
+$mvr=\frac{nh}{2\pi}$
 Where
-$m=
+$n=$ Energy level of the electron 
+<s
