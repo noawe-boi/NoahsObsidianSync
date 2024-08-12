@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce8636846d070644",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md"
               }
             }
           },
@@ -149,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md"
               }
             }
           },
@@ -184,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1e3d563e8e2b12",
+  "active": "ce8636846d070644",
   "lastOpenFiles": [
-    "Lion Timeline.md",
     "Physics 12.2 Bohr Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-12 12.12.20.excalidraw.md",
+    "Lion Timeline.md",
     "Chemistry IA2.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
@@ -224,7 +236,6 @@
     "Untitled 22.md",
     "30-07-2024.md",
     "risk assessment.pdf",
-    "Untitled 21.md",
     "gitkey.pub",
     "gitkey",
     "Maths assignment solution .pdf",
