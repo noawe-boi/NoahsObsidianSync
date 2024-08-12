@@ -38,4 +38,5 @@ $L=2.109*10^{-34} kgm^2/s$
 
 
 More energy required at ground state than higher state $\because$ Closer to nucleus $\implies$ more force pulling in atom
+### Consider the energy levels...
 

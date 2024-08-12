@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e8f50374a1610fab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "6e117c27fcc69c55",
             "type": "leaf",
             "state": {
@@ -95,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md"
               }
             }
           },
@@ -225,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 12.2 Bohr Model of the Atom.md"
+                "file": "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md"
               }
             }
           },
@@ -260,10 +271,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1e3d563e8e2b12",
+  "active": "e8f50374a1610fab",
   "lastOpenFiles": [
-    "Balmer Equation.md",
     "Physics 12.2 Bohr Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-12 12.37.33.excalidraw.md",
+    "Balmer Equation.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Excalidraw/Bohr Atom model energy level.md",
     "Angular Momentum.md",
@@ -299,7 +311,6 @@
     "The Photoelectric Effect.md",
     "Threshold Frequency.md",
     "Untitled 23.md",
-    "Excalidraw/cathode ray tube physics.md",
     "risk assessment.pdf",
     "gitkey.pub",
     "gitkey",
