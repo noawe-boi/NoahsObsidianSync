@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Amount of light corresponds to energy emitted in jump ^7o63QEAn
+
 %%
 # Drawing
 ```json
@@ -662,6 +664,43 @@ tags: [excalidraw]
 			]
 		},
 		{
+			"id": "7o63QEAn",
+			"type": "text",
+			"x": -688.258504758194,
+			"y": -253.0323790219929,
+			"width": 794.8841958743528,
+			"height": 37.36766378137763,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 423918022,
+			"version": 84,
+			"versionNonce": 1760156378,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1723429056198,
+			"link": null,
+			"locked": false,
+			"text": "Amount of light corresponds to energy emitted in jump",
+			"rawText": "Amount of light corresponds to energy emitted in jump",
+			"fontSize": 29.894131025102123,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25.99999999999998,
+			"containerId": null,
+			"originalText": "Amount of light corresponds to energy emitted in jump",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "XffyHP_dJcXpk5zmTCFhb",
 			"type": "freedraw",
 			"x": -438.43137553283304,
@@ -891,7 +930,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#6741d9",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
