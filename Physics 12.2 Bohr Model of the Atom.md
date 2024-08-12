@@ -21,12 +21,12 @@ Created when Plank's model was applied to Rutherford's nuclear model.
 Calculate the angular momentum for first and second energy levels of a hydrogen atom
 $L=\frac{nh}{2\pi}$
 $L=\frac{6.626*10^{-24}}{2\pi}$
-$L=1.055 kgm^2/s$
+$L=1.055*10^{-34} kgm^2/s$
 
 
 
 For n=2
 $L=\frac{2(6.626*10^{-24})}{2\pi}$
-$l=2.
+$L=2.109*10^{-34} kgm^2/s$
 
 
