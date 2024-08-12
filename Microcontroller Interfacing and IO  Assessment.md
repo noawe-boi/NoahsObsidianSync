@@ -41,6 +41,6 @@
 - Set cursor to (0, 0) and printed `"Time: ", disp_hours, ":", minutes, ":", seconds` to LCD
 - wrote 'if' statement to add "0" when the time segment value is less than 10 
 - Corrected ampm setting to that it is only true when hours>=12, not hours>12
-- Set cursor to (0, 1) and printed "Temp: ", scaledTemp, " Cel     " to LCD (extra spaces after " Cel" are to clear display)
+- Set cursor to (0, 1) and printed "Temp: ", scaledTemp, " Cel     " to LCD (extra spaces after " Cel" are to clear display spaces  without causing flickering)
 
 added "writeLCD" and "temperatureFunction" functions to main loop
