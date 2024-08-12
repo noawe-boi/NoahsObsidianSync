@@ -35,3 +35,9 @@
 	`lcd.begin(16, 2);
 
 - Create writeLCD function
+
+
+
+
+
+added functions to main loop
