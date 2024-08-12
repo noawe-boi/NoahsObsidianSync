@@ -1,5 +1,5 @@
 
-## Changes \
+## Changes
 ### Temp Sensor
 - Installed Temp sensor 
 - Connected Temp sensor to A3 Input, 5v and ground
