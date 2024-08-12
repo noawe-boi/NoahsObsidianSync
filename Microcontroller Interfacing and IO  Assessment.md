@@ -12,7 +12,7 @@
 
 - Set scaledTemp value to 
 	`(rawTemp - 0.50)*100.00;
-
+	(*the extra 0's after the decimal point are to ensure calculations are done to this number of decimal places*)
 ### LCD
 - Connected GND and VCC to ground and 5v respectively
 - Added contrast potentiometer
