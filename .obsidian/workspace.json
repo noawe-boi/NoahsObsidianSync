@@ -117,8 +117,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -186,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Electorn Photon Series.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Electorn Photon Series.md",
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Electorn Photon Series.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -248,7 +246,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Electorn Photon Series.md"
+                "file": "Physics 12.2 Bohr Model of the Atom.md"
               }
             }
           },
@@ -283,11 +281,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8f50374a1610fab",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
+    "Excalidraw/Electorn Photon Series.md",
     "Physics 12.2 Bohr Model of the Atom.md",
     "Balmer Equation.md",
-    "Excalidraw/Electorn Photon Series.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Excalidraw/Bohr Atom model energy level.md",
     "Angular Momentum.md",
