@@ -20,6 +20,8 @@
 - Connected V0 (Contrast pin) to  wiper blade of potentiometer.
 - Connected RS (register select pin) to digital pin 12 of Arduino
 - Connected LCD pins D4-D7 with Arduino digital pins 5-7
+- Added 220$\ohm$ resistor to negative 
+- 
 - Create Constant integers to use with library:
 	rs = 12, 
 	en = 11, 
