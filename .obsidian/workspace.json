@@ -40,9 +40,17 @@
                 "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
               }
             }
+          },
+          {
+            "id": "8daaa8ff13a10823",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,17 +209,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95898aa7df1380a7",
+  "active": "8daaa8ff13a10823",
   "lastOpenFiles": [
-    "Physics Grade 11 IA3.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+    "Electrostatic Force.md",
+    "Excalidraw/Electorn Photon Series.md",
+    "Physics Grade 11 IA3.md",
     "Chemistry IA2.md",
     "4.2. Potential Difference.md",
     "11.5 The Photoelectric Effect.md",
     "Energy for each level.md",
     "Physics 12.2 Bohr Model of the Atom.md",
     "Excalidraw/Hydrogen spectrum.md",
-    "Excalidraw/Electorn Photon Series.md",
     "Balmer Equation.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Excalidraw/Bohr Atom model energy level.md",
@@ -244,7 +247,6 @@
     "Work function.md",
     "01-08-2024.md",
     "02-08-2024.md",
-    "Stopping Potential.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
