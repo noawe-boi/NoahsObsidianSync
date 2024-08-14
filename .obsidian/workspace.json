@@ -40,17 +40,9 @@
                 "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
               }
             }
-          },
-          {
-            "id": "8daaa8ff13a10823",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ELectron VOlt",
+                "query": "ELectro",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -101,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -118,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+              }
             }
           },
           {
@@ -175,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+              }
             }
           },
           {
@@ -209,8 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8daaa8ff13a10823",
+  "active": "95898aa7df1380a7",
   "lastOpenFiles": [
+    "The Kinetic Particle Model (Kinetic Theory).md",
+    "Angular Momentum.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Electrostatic Force.md",
     "Excalidraw/Electorn Photon Series.md",
@@ -224,7 +223,6 @@
     "Balmer Equation.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Excalidraw/Bohr Atom model energy level.md",
-    "Angular Momentum.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
     "Lion Timeline.md",
     "Pasted image 20240809230840.png",
@@ -246,7 +244,6 @@
     "Work.md",
     "Work function.md",
     "01-08-2024.md",
-    "02-08-2024.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
