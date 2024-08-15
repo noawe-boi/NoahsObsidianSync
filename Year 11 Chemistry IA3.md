@@ -6,13 +6,14 @@
 - Relevant Sources
 
 ##### Analysis and interpretation
-- Analysis of qualatative and quantitative data that identifies
+- *Analysis* of qualitative and quantitative data that identifies
 	- Relevant evidence
 	- Trends, patterns or relationships
 	- Limitations
 
 X3
 
-- Insightful interpreation of evidence justified by scientific a
+- Insightful *interpretation* of evidence justified by scientific arguments
 
-##### 
+##### Conclusion and Evaluation
+- Insightful interpreation of 
