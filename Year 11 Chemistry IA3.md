@@ -2,7 +2,7 @@
 #### Considered Rationale 
 
 ##### Claim: 
-;
+'Fossil fuels and biofuels produce carbon dioxide in their combust'
 
 ##### Demonstrate development of the research question from the claim
 ##### Investigate phenomena associated with claim
