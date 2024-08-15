@@ -2,8 +2,8 @@
 #### Considered Rationale 
 
 ##### Claim: 
-'Fossil fuels and biofuels produce carbon dioxide in their combust'
-
+'Fossil fuels and biofuels produce carbon dioxide in their combustion'
+*Do biofuels produce less carbon dioxide per kWh of energy produced??*
 ##### Demonstrate development of the research question from the claim
 ##### Investigate phenomena associated with claim
 ##### Specific and relevant research question 
