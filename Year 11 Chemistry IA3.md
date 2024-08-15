@@ -8,6 +8,7 @@ Evaluate the impact of fossil fuels and biofuels on the environment
 *Do biofuels produce less carbon dioxide per kWh of energy produced??*
 
 `Choose a biofuel`
+Ethanol and gasoline
 
 ##### Investigate phenomena associated with claim
 - Why are these fuels different (molecules)
