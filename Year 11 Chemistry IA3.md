@@ -1,5 +1,9 @@
 ### Research and planning
 #### Considered Rationale 
+
+##### Claim: 
+;
+
 ##### Demonstrate development of the research question from the claim
 ##### Investigate phenomena associated with claim
 ##### Specific and relevant research question 
