@@ -62,3 +62,12 @@ X3
 ###### reasonable description of quality of evidence
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
+
+
+
+
+greenhouse gas bennefits 
+https://www.tandfonline.com/doi/epub/10.1080/17597269.2018.1546488
+
+Greenhouse gas emmissions photoshoped chick
+https://www.energy.gov/eere/bioenergy/articles/ethanol-vs-petroleum-based-fuel-carbon-emissions
