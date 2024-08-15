@@ -10,8 +10,8 @@ Evaluate the impact of fossil fuels and biofuels on the environment
 `Choose a biofuel`
 
 ##### Investigate phenomena associated with claim
+- Why are these fuels different (molecules)
 - What happens during combustion (bonds broken etc)
-- 
 - Enthalpy 
 - 
 
