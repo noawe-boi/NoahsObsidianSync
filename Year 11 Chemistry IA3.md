@@ -14,13 +14,13 @@
 
 #### Analysis and interpretation
 ##### *Analysis* of qualitative and quantitative data that identifies
-######  Relevant evidence
+###### Relevant evidence
 
 
 
 
 
-Trends, patterns or relationships
+###### Trends, patterns or relationships
 
 
 
@@ -38,7 +38,10 @@ X3
 #### Conclusion and Evaluation
 ##### Insightful interpretation of evidence
 ##### Justified Conclusions linked to research question
+
+
+
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-###### applications of findings of reasearch to the claim
-###### suggestioed improvements and extentions *relevant to the claim*
+###### applications of findings of research to the claim
+###### suggested improvements and extensions *relevant to the claim*
