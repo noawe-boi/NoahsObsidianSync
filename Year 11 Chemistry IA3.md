@@ -27,4 +27,4 @@ X3
 ##### Evaluation of research process, claims and conclusions shown by
 	reasonable description of quality of evidence
 	applications of findings of reasearch to the claim
-	suggestioed improvements and exten
+	suggestioed improvements and extentions *relevant to the claim*
