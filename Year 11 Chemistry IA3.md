@@ -24,4 +24,7 @@ X3
 #### Conclusion and Evaluation
 ##### Insightful interpretation of evidence
 ##### Justified Conclusions linked to research question
-##### 
+##### Evaluation of research process, claims and conclusions shown by
+	reasonable description of quality of evidence
+	applications of findings of reasearch to the claim
+	suggestioed improvements and exten
