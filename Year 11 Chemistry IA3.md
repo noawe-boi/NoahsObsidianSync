@@ -79,4 +79,4 @@ https://www.researchgate.net/profile/Robert-Niven-2/publication/222381005_Ethano
 
 
 
-$\frac{\sigma}{\sqrt{2}}
+
