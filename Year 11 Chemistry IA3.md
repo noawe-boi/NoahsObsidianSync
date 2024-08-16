@@ -75,3 +75,8 @@ https://www.energy.gov/eere/bioenergy/articles/ethanol-vs-petroleum-based-fuel-c
 
 one from 2004 thats actually relevant. (compares engines) 
 https://www.researchgate.net/profile/Robert-Niven-2/publication/222381005_Ethanol_in_gasoline_Environmental_impacts_and_sustainability_review_article/links/5a0ec193aca2729975072b10/Ethanol-in-gasoline-Environmental-impacts-and-sustainability-review-article.pdf
+
+
+
+
+$\frac{\sigma}{\sqrt{2}}
