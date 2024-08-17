@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cd481e44a8ede1",
+        "id": "c4f0ae713ff6f7eb",
         "type": "tabs",
         "children": [
           {
-            "id": "da3bbaf8cea25074",
+            "id": "8af00936c1e9a7bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microcontroller Interfacing and IO  Assessment.md",
+                "file": "Year 11 Chemistry IA3.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "ELectro",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -100,7 +100,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Year 11 Maths IA3 Traffic Light.md",
+=======
+                "file": "Year 11 Chemistry IA3.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Year 11 Maths IA3 Traffic Light.md",
+=======
+                "file": "Year 11 Chemistry IA3.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Year 11 Maths IA3 Traffic Light.md"
+=======
+                "file": "Year 11 Chemistry IA3.md"
+>>>>>>> origin/main
               }
             }
           },
@@ -162,12 +174,16 @@
             "state": {
               "type": "file-properties",
               "state": {
+<<<<<<< HEAD
                 "file": "Year 11 Maths IA3 Traffic Light.md"
+=======
+                "file": "Year 11 Chemistry IA3.md"
+>>>>>>> origin/main
               }
             }
           },
           {
-            "id": "44b83a1e8732720a",
+            "id": "bd2fda190556b421",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -175,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -197,6 +213,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "792f4aea6b561f03",
   "lastOpenFiles": [
     "Microcontroller Interfacing and IO  Assessment.md",
@@ -204,37 +221,51 @@
     "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Chemistry IA2.md",
     "Pasted image 20240809214836.png",
+=======
+  "active": "8af00936c1e9a7bd",
+  "lastOpenFiles": [
+    "Year 11 Chemistry IA3.md",
+    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+>>>>>>> origin/main
     "conflict-files-obsidian-git.md",
-    "Physics 12.2 Bohr Model of the Atom.md",
-    "Lion Timeline.md",
-    "Excalidraw/Hydrogen spectrum.md",
-    "Excalidraw/Electorn Photon Series.md",
-    "Excalidraw/Bohr Atom model energy level.md",
-    "Excalidraw/Bohr Atom energy levels labelled.md",
-    "Energy for each level.md",
-    "Balmer Equation.md",
+    "Microcontroller Interfacing and IO  Assessment.md",
+    "The Kinetic Particle Model (Kinetic Theory).md",
     "Angular Momentum.md",
-    "Chem IA2 Risk Assessment.md",
+    "Electrostatic Force.md",
+    "Excalidraw/Electorn Photon Series.md",
+    "Physics Grade 11 IA3.md",
+    "Chemistry IA2.md",
+    "4.2. Potential Difference.md",
+    "11.5 The Photoelectric Effect.md",
+    "Energy for each level.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
+    "Excalidraw/Hydrogen spectrum.md",
+    "Balmer Equation.md",
+    "Excalidraw/Bohr Atom energy levels labelled.md",
+    "Excalidraw/Bohr Atom model energy level.md",
+    "Physics 12.1 Rutherford's Model of the Atom.md",
+    "Lion Timeline.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
-    "Pasted image 20240809182441.png",
+    "Pasted image 20240809214836.png",
     "Pasted image 20240809210037.png",
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "Rutherford's Model of the Atom.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
+    "Pasted image 20240809182441.png",
     "Pasted image 20240808195927.png",
-    "Chemistry Chapter 3 M R. sonter-heimer.md",
-    "Physics Grade 11 IA3.md",
-    "Grade 11 Chemistry IA3.md",
+    "Chem IA2 Risk Assessment.md",
+    "Rutherford's Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "chemist.md",
-    "02-08-2024.md",
     "Excalidraw/Maths Chapter 8 review.md",
+<<<<<<< HEAD
     "01-08-2024.md",
     "git fetch.md",
+=======
+    "Work.md",
+>>>>>>> origin/main
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
