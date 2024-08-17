@@ -3,7 +3,7 @@
 - Q12
 - Q15
 - Q19
-- Q22 (rememebr to do lhs and rhs)
+- Q22 (remember to do LHS and RHS)
 - 
 
 
