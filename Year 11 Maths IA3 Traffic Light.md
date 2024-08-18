@@ -1,4 +1,4 @@
-`1#### Kinda know (revise a few times)
+#### Kinda know (revise a few times)
 ##### Chapter 7
 - Q12
 - Q15
@@ -15,5 +15,7 @@
 
 ##### Chapter 8
 - Q3
+- Q6 **is just dumb** 
+- 
 
 
