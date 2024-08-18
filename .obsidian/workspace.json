@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36cb811fa296c24b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "maths test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "maths test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,13 +184,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "ff8ed5fe86c5377c",
+  "active": "36cb811fa296c24b",
   "lastOpenFiles": [
-    "Year 11 Chemistry IA3.md",
     "maths test.md",
+    "Year 11 Chemistry IA3.md",
     "Year 11 Maths IA3 Traffic Light.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
