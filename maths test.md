@@ -3,4 +3,6 @@
 
 $f(x)=\cos x$  
 
-$y=\frac{\sigma 1}{x}$
+$y=\frac{\theta 1}{x}$
+
+
