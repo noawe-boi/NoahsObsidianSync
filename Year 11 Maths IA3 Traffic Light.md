@@ -6,7 +6,7 @@
 - Q22 (remember to do LHS and RHS)
 
 ##### Chapter 8
-- Q8
+v
 
 
 
@@ -19,6 +19,8 @@
 - Q3
 - Q6 **is just dumb** 
 - Q7
+- Q8
+- 
 
 
 
