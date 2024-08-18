@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4cd481e44a8ede1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "792f4aea6b561f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 11 Maths IA3 Traffic Light.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "681f07805a9ad160",
         "type": "tabs",
         "children": [
           {
-            "id": "2fdcce981c2aacec",
+            "id": "ff8ed5fe86c5377c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 11 Chemistry IA3.md",
+                "file": "maths test.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Chemistry IA3.md",
+                "file": "maths test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Chemistry IA3.md",
+                "file": "maths test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Chemistry IA3.md"
+                "file": "maths test.md"
               }
             }
           },
@@ -167,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Chemistry IA3.md"
+                "file": "maths test.md"
               }
             }
           },
@@ -202,11 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fdcce981c2aacec",
+  "active": "ff8ed5fe86c5377c",
   "lastOpenFiles": [
+    "Year 11 Chemistry IA3.md",
+    "maths test.md",
     "Year 11 Maths IA3 Traffic Light.md",
     "conflict-files-obsidian-git.md",
-    "Year 11 Chemistry IA3.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Microcontroller Interfacing and IO  Assessment.md",
     "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
@@ -239,7 +222,6 @@
     "Grade 11 Chemistry IA3.md",
     "chemist.md",
     "02-08-2024.md",
-    "Excalidraw/Maths Chapter 8 review.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
