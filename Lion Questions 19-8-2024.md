@@ -11,5 +11,5 @@ However, once Saroo becomes lost, his perception of family dissolves under the w
 
 While Saroo does love his family in Australia, he can't help but feel something is missing. He feels out of place knowing that his birth family might still not have closure. 
 
-While Saroo has a deep love for and wants to protect his family in Australia, Reuniting with his birth family 
+While Saroo reuniting with his birth family might make it seem like he cares less for his Australian family, it could actually have made his love for them stronger, as they raised him well and eventually 
 
