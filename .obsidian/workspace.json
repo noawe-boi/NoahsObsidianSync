@@ -8,16 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0cf969396a9c2ffd",
+            "id": "e7a4bb7cb3dc9cdc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+                "file": "Year 11 Maths IA3 Revision.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "bff99b23bc183d97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,16 +189,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cf969396a9c2ffd",
+  "active": "bff99b23bc183d97",
   "lastOpenFiles": [
-    "Physics Alternate Sequence Practice Exam 2020.md",
+    "Year 11 Maths IA3 Revision.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+    "Physics Alternate Sequence Practice Exam 2020.md",
     "Lion Questions 19-8-2024.md",
     "Work.md",
     "whatevs.md",
     "conflict-files-obsidian-git.md",
     "maths test.md",
-    "Year 11 Maths IA3 Traffic Light.md",
     "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Year 11 Chemistry IA3.md",
     "Microcontroller Interfacing and IO  Assessment.md",
