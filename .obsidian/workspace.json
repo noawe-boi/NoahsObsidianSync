@@ -61,12 +61,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#physics #revision",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -198,7 +197,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "eba3289514d88008",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Year 11 Maths IA3 Traffic Light.md",
