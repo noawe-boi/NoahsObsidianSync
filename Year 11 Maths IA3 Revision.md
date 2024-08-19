@@ -7,7 +7,8 @@
 
 ##### Chapter 8
 - Q15
-- Q16 (id like to try this again t)
+- Q16 (i'd like to try this again)
+- 
 
 
 
