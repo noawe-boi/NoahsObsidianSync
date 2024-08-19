@@ -1,11 +1,11 @@
 
-## Changes \
+## Changes
 ### Temp Sensor
 - Installed Temp sensor 
 - Connected Temp sensor to A3 Input, 5v and ground
 - Set A3 pin to input (code)\
-- Created scaledTemp variable (float)
-- Created rawTemp Variable (for necessary calculations)
+- Created float scaledTemp variable (float)
+- Created float rawTemp Variable (for necessary calculations)
 - Created temperature Function
 - Set rawTemp value
 	A3 and multiplied by 5/1024
@@ -20,6 +20,7 @@
 - Connected V0 (Contrast pin) to  wiper blade of potentiometer.
 - Connected RS (register select pin) to digital pin 12 of Arduino
 - Connected LCD pins D4-D7 with Arduino digital pins 5-7
+- Added 220$\ohm$ resistor to cathode of LCD baclight and connected anode to 5V
 - Create Constant integers to use with library:
 	rs = 12, 
 	en = 11, 
@@ -41,6 +42,8 @@
 - Set cursor to (0, 0) and printed `"Time: ", disp_hours, ":", minutes, ":", seconds` to LCD
 - wrote 'if' statement to add "0" when the time segment value is less than 10 
 - Corrected ampm setting to that it is only true when hours>=12, not hours>12
-- Set cursor to (0, 1) and printed "Temp: ", scaledTemp, " Cel     " to LCD (extra spaces after " Cel" are to clear display)
+- Set cursor to (0, 1) and printed "Temp: ", scaledTemp, " Cel     " to LCD (extra spaces after " Cel" are to clear display spaces  without causing flickering)
 
+
+### Overall
 added "writeLCD" and "temperatureFunction" functions to main loop

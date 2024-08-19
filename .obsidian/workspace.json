@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20430647812509d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -173,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Work.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -208,12 +220,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9bb1d0b9f593d8d",
+  "active": "20430647812509d1",
   "lastOpenFiles": [
+    "Work.md",
+    "conflict-files-obsidian-git.md",
+    "maths test.md",
+    "Year 11 Maths IA3 Traffic Light.md",
+    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "whatevs.md",
     "Year 11 Chemistry IA3.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
-    "conflict-files-obsidian-git.md",
     "Microcontroller Interfacing and IO  Assessment.md",
     "The Kinetic Particle Model (Kinetic Theory).md",
     "Angular Momentum.md",
@@ -242,10 +258,6 @@
     "Pasted image 20240809182441.png",
     "Pasted image 20240808195927.png",
     "Chem IA2 Risk Assessment.md",
-    "Rutherford's Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
-    "chemist.md",
-    "Excalidraw/Maths Chapter 8 review.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
