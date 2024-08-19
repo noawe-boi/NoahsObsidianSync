@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-tts:Text to Speech": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
