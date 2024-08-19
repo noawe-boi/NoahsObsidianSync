@@ -20,7 +20,7 @@ tag:
 
 
 
-#### Dont know (heavily revise)
+#### Don't know (heavily revise)
 
 ##### Chapter 7
 - Q23 - *b)*
@@ -31,7 +31,6 @@ tag:
 - Q7
 - Q8
 - Q18
-- 
 
 
 
