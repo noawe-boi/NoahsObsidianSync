@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bff99b23bc183d97",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 11 Maths IA3 Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 11 Maths IA3 Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 11 Maths IA3 Revision.md"
+              }
             }
           },
           {
@@ -154,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Year 11 Maths IA3 Revision.md"
+              }
             }
           },
           {
@@ -189,7 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bff99b23bc183d97",
+  "active": "e7a4bb7cb3dc9cdc",
   "lastOpenFiles": [
     "Year 11 Maths IA3 Revision.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
