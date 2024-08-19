@@ -1,3 +1,10 @@
+---
+tag:
+  - exam
+  - revision
+  - methods
+---
+
 #### Kinda know (revise a few times)
 ##### Chapter 7
 - Q12

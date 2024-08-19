@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9627a8531e8045",
+        "id": "d910bae58f917943",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a4bb7cb3dc9cdc",
+            "id": "3a6f54c2591385ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 11 Maths IA3 Revision.md",
+                "file": "Math's Methods PSMT T2 Sources ~ Media.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba3289514d88008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 11 Maths Methods IA3 Revision.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,12 +61,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Physics",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths IA3 Revision.md",
+                "file": "Year 11 Maths Methods IA3 Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths IA3 Revision.md",
+                "file": "Year 11 Maths Methods IA3 Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths IA3 Revision.md"
+                "file": "Year 11 Maths Methods IA3 Revision.md"
               }
             }
           },
@@ -150,12 +162,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths IA3 Revision.md"
+                "file": "Year 11 Maths Methods IA3 Revision.md"
               }
             }
           },
           {
-            "id": "bd2fda190556b421",
+            "id": "44b83a1e8732720a",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -163,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +184,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "3d-graph:3D Graph": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-tts:Text to Speech": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
@@ -183,46 +194,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "e7a4bb7cb3dc9cdc",
+  "active": "eba3289514d88008",
   "lastOpenFiles": [
-    "Year 11 Maths IA3 Revision.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+    "Math's Methods PSMT T2 Sources ~ Media.md",
+    "Year 11 Maths IA3 Traffic Light.md",
+    "whatevs.md",
+    "Year 11 Maths Methods IA3 Revision.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Lion Questions 19-8-2024.md",
-    "Work.md",
-    "whatevs.md",
-    "conflict-files-obsidian-git.md",
     "maths test.md",
-    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Year 11 Chemistry IA3.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Microcontroller Interfacing and IO  Assessment.md",
-    "The Kinetic Particle Model (Kinetic Theory).md",
-    "Angular Momentum.md",
-    "Electrostatic Force.md",
-    "Excalidraw/Electorn Photon Series.md",
-    "Physics Grade 11 IA3.md",
+    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Chemistry IA2.md",
-    "4.2. Potential Difference.md",
-    "11.5 The Photoelectric Effect.md",
-    "Energy for each level.md",
+    "Pasted image 20240809214836.png",
     "Physics 12.2 Bohr Model of the Atom.md",
+    "Lion Timeline.md",
     "Excalidraw/Hydrogen spectrum.md",
-    "Balmer Equation.md",
-    "Excalidraw/Bohr Atom energy levels labelled.md",
+    "Excalidraw/Electorn Photon Series.md",
     "Excalidraw/Bohr Atom model energy level.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
+    "Excalidraw/Bohr Atom energy levels labelled.md",
+    "Energy for each level.md",
+    "Balmer Equation.md",
+    "Angular Momentum.md",
+    "Chem IA2 Risk Assessment.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
-    "Pasted image 20240809214836.png",
+    "Pasted image 20240809182441.png",
     "Pasted image 20240809210037.png",
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "Pasted image 20240809182441.png",
+    "Rutherford's Model of the Atom.md",
+    "Physics 12.1 Rutherford's Model of the Atom.md",
+    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "Pasted image 20240808195927.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
