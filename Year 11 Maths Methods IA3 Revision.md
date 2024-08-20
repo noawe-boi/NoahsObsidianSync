@@ -1,3 +1,10 @@
+---
+tag:
+  - exam
+  - revision
+  - methods
+---
+
 #### Kinda know (revise a few times)
 ##### Chapter 7
 - Q12
@@ -13,7 +20,7 @@
 
 
 
-#### Dont know (heavily revise)
+#### Don't know (heavily revise)
 
 ##### Chapter 7
 - Q23 - *b)*
@@ -23,7 +30,7 @@
 - Q6 **is just dumb** 
 - Q7
 - Q8
-- 
+- Q18
 
 
 
