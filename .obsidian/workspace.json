@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d910bae58f917943",
+        "id": "8f9627a8531e8045",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6f54c2591385ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math's Methods PSMT T2 Sources ~ Media.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eba3289514d88008",
+            "id": "e7a4bb7cb3dc9cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +20,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -61,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#physics #revision",
-                "matchingCase": true,
+                "query": "Physics",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -83,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -166,7 +155,7 @@
             }
           },
           {
-            "id": "44b83a1e8732720a",
+            "id": "bd2fda190556b421",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -174,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -183,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-tts:Text to Speech": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
@@ -193,47 +183,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "3d-graph:3D Graph": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "e7a4bb7cb3dc9cdc",
   "lastOpenFiles": [
-    "Math's Methods PSMT T2 Sources ~ Media.md",
-    "Year 11 Maths IA3 Traffic Light.md",
-    "whatevs.md",
+    "Year 11 Maths IA3 Revision.md",
     "Year 11 Maths Methods IA3 Revision.md",
+    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Lion Questions 19-8-2024.md",
-    "maths test.md",
-    "Year 11 Chemistry IA3.md",
+    "Work.md",
+    "whatevs.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
-    "Microcontroller Interfacing and IO  Assessment.md",
+    "maths test.md",
     "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
-    "Chemistry IA2.md",
-    "Pasted image 20240809214836.png",
-    "Physics 12.2 Bohr Model of the Atom.md",
-    "Lion Timeline.md",
-    "Excalidraw/Hydrogen spectrum.md",
-    "Excalidraw/Electorn Photon Series.md",
-    "Excalidraw/Bohr Atom model energy level.md",
-    "Excalidraw/Bohr Atom energy levels labelled.md",
-    "Energy for each level.md",
-    "Balmer Equation.md",
+    "Year 11 Chemistry IA3.md",
+    "Microcontroller Interfacing and IO  Assessment.md",
+    "The Kinetic Particle Model (Kinetic Theory).md",
     "Angular Momentum.md",
-    "Chem IA2 Risk Assessment.md",
+    "Electrostatic Force.md",
+    "Excalidraw/Electorn Photon Series.md",
+    "Physics Grade 11 IA3.md",
+    "Chemistry IA2.md",
+    "4.2. Potential Difference.md",
+    "11.5 The Photoelectric Effect.md",
+    "Energy for each level.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
+    "Excalidraw/Hydrogen spectrum.md",
+    "Balmer Equation.md",
+    "Excalidraw/Bohr Atom energy levels labelled.md",
+    "Excalidraw/Bohr Atom model energy level.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
-    "Pasted image 20240809182441.png",
+    "Pasted image 20240809214836.png",
     "Pasted image 20240809210037.png",
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "Rutherford's Model of the Atom.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
+    "Pasted image 20240809182441.png",
     "Pasted image 20240808195927.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
