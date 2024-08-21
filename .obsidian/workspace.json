@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba3df1ab9f951178",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/TAFE_NAT10935004_Diagram.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "Excalidraw/TAFE_NAT10935004_Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "Excalidraw/TAFE_NAT10935004_Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "Excalidraw/TAFE_NAT10935004_Diagram.md"
               }
             }
           },
@@ -149,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "Excalidraw/TAFE_NAT10935004_Diagram.md"
               }
             }
           },
@@ -185,12 +196,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6df3fbdbe637c9fa",
+  "active": "ba3df1ab9f951178",
   "lastOpenFiles": [
+    "Year 11 Maths Methods IA3 Revision.md",
+    "Excalidraw/TAFE_NAT10935004_Diagram.md",
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
-    "Year 11 Maths Methods IA3 Revision.md",
     "Year 11 Maths IA3 Traffic Light.md",
     "whatevs.md",
     "Lion Questions 19-8-2024.md",
@@ -221,7 +233,6 @@
     "Pasted image 20240809205913.png",
     "Rutherford's Model of the Atom.md",
     "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Excalidraw/Drawing 2024-08-08 09.36.10.excalidraw.md",
     "Pasted image 20240808195927.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
