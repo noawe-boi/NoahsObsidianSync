@@ -41,7 +41,7 @@ tag:
 
 
 ##### Chapter 10
-- Q13
+- Q13 - *makes absolutley no sense what they are asking. Genuinely baffling that someone could be dense enough to create a question this poor.*
 - Q14
 
 
