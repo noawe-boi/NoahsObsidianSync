@@ -33,7 +33,6 @@ tag:
 - Q23 - *b)* 
 
 ##### Chapter 8
-- Q3
 - Q6 **is just dumb** 
 - Q7
 - Q8
