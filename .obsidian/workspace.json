@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a4bb7cb3dc9cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b22bde7884e8de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d394bca45852288",
             "type": "leaf",
             "state": {
@@ -44,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
