@@ -14,10 +14,19 @@ tag:
 
 ##### Chapter 8
 - Q15
+<<<<<<< HEAD
 - Q16 (I'd like to try this again)
 
 ##### Chapter 9
 - Q18
+=======
+- Q16 (i'd like to try this again)
+##### Chapter 9
+- Q4 
+- Q7
+- Q21
+
+>>>>>>> origin/main
 
 
 
@@ -25,7 +34,7 @@ tag:
 #### Don't know (heavily revise)
 
 ##### Chapter 7
-- Q23 - *b)*
+- Q23 - *b)* 
 
 ##### Chapter 8
 - Q3
@@ -33,6 +42,9 @@ tag:
 - Q7
 - Q8
 - Q18
+##### Chapter 9
+- Q24 ASK TEACHER ABOUT THIS ONE. 
+- 
 
 
 

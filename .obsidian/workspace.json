@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b22bde7884e8de9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d394bca45852288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -186,16 +211,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a4bb7cb3dc9cdc",
+  "active": "1d394bca45852288",
   "lastOpenFiles": [
-    "Year 11 Maths IA3 Revision.md",
+    "conflict-files-obsidian-git.md",
     "Year 11 Maths Methods IA3 Revision.md",
+    "Excalidraw/TAFE_NAT10935004_Diagram.md",
+    "Year 11 Maths IA3 Revision.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Lion Questions 19-8-2024.md",
     "Work.md",
     "whatevs.md",
-    "conflict-files-obsidian-git.md",
     "maths test.md",
     "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Year 11 Chemistry IA3.md",
@@ -213,7 +239,6 @@
     "Excalidraw/Hydrogen spectrum.md",
     "Balmer Equation.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
-    "Excalidraw/Bohr Atom model energy level.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
