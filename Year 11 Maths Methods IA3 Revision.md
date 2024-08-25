@@ -34,7 +34,7 @@ tag:
 
 ##### Chapter 8
 - Q6 **is just dumb** 
-- Q8
+
 - Q18
 
 ##### Chapter 9
