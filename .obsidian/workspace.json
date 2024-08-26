@@ -28,8 +28,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f67142328afa1c30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,10 +198,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac97250f1e036502",
+  "active": "f67142328afa1c30",
   "lastOpenFiles": [
-    "Physics 11.4 Refraction of light.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+    "Physics 11.4 Refraction of light.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Year 11 Maths Methods IA3 Revision.md",
     "English 26-08-2024.md",
