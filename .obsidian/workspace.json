@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34655c87171864e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English 26-08-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84055f64478af718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Alternate Sequence Practice Exam 2020.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac97250f1e036502",
             "type": "leaf",
             "state": {
@@ -42,19 +18,18 @@
             }
           },
           {
-            "id": "1d394bca45852288",
+            "id": "49d152330d522bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Physics",
+                "query": "refract",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,6 +197,8 @@
   },
   "active": "ac97250f1e036502",
   "lastOpenFiles": [
+    "Physics 11.4 Refraction of light.md",
+    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Year 11 Maths Methods IA3 Revision.md",
     "English 26-08-2024.md",
@@ -228,7 +206,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE_NAT10935004_Diagram.md",
     "Year 11 Maths IA3 Revision.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Lion Questions 19-8-2024.md",
     "Work.md",
     "whatevs.md",
@@ -246,7 +223,6 @@
     "11.5 The Photoelectric Effect.md",
     "Energy for each level.md",
     "Physics 12.2 Bohr Model of the Atom.md",
-    "Excalidraw/Hydrogen spectrum.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
