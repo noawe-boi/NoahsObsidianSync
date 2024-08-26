@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md"
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
               }
             }
           },
@@ -208,8 +207,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f67142328afa1c30",
+  "active": "ac97250f1e036502",
   "lastOpenFiles": [
+    "Physics 12.1 Rutherford's Model of the Atom.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics 11.4 Refraction of light.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
@@ -235,7 +235,6 @@
     "4.2. Potential Difference.md",
     "11.5 The Photoelectric Effect.md",
     "Energy for each level.md",
-    "Physics 12.2 Bohr Model of the Atom.md",
     "Pasted image 20240809230840.png",
     "Pasted image 20240809230344.png",
     "Pasted image 20240809230341.png",
