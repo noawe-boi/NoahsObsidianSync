@@ -38,7 +38,7 @@ tag:
 - Q18
 
 ##### Chapter 9
-- Q24 ASK TEACHER ABOUT THIS ONE. 
+- Q24 *ASK TEACHER ABOUT THIS ONE.* 
 
 
 ##### Chapter 10
