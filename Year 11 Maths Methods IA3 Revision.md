@@ -24,7 +24,6 @@ tag:
 - Q7
 - Q21
 
-<<<<<<< HEAD
 ##### Chapter 10
 - Q17
 
