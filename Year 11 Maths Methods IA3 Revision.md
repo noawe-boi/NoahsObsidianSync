@@ -14,15 +14,25 @@ tag:
 
 ##### Chapter 8
 - Q15
+<<<<<<< HEAD
+- Q16 (I'd like to try this again)
+
+##### Chapter 9
+- Q18
+=======
 - Q16 (i'd like to try this again)
 ##### Chapter 9
 - Q4 
 - Q7
 - Q21
 
+<<<<<<< HEAD
 ##### Chapter 10
 - Q17
 
+=======
+>>>>>>> origin/main
+>>>>>>> origin/main
 
 
 

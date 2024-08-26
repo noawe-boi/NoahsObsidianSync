@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2a071f7f1936104f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7646faff686f96e8",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -162,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,10 +210,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "7646faff686f96e8",
+  "active": "2a071f7f1936104f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Year 11 Maths Methods IA3 Revision.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE_NAT10935004_Diagram.md",
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
