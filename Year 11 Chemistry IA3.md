@@ -19,7 +19,8 @@ bar- Enthalpy (how are energy output different)
 ##### Demonstrate development of the research question from the claim
 - What effect does more or lack of $CO_2$ have
 - How are these fuels used and why?
-	- 
+	- to create energy
+- Can the ammount of energy these fuels produce per unit of $CO_2$ produced be quantified 
 
 
 
