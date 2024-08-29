@@ -18,6 +18,8 @@ bar- Enthalpy (how are energy output different)
 
 ##### Demonstrate development of the research question from the claim
 - What effect does more or lack of $CO_2$ have
+- How are these fuels used and why?
+	- 
 
 
 
