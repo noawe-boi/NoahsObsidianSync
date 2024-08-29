@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a03f1f2ca919fa38",
+        "id": "04dddad9a6aa98da",
         "type": "tabs",
         "children": [
           {
@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a03f1f2ca919fa38",
+        "type": "tabs",
+        "children": [
           {
             "id": "fb946957f91bbe79",
             "type": "leaf",
@@ -34,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
