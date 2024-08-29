@@ -7,7 +7,8 @@
 		{"id":"267570f05786f933","type":"file","file":"20240830_03h42m17s_grim.png","x":-272,"y":600,"width":792,"height":660},
 		{"id":"34270967524af625","x":2020,"y":-140,"width":1260,"height":852,"type":"file","file":"20240830_04h38m22s_grim.png"},
 		{"id":"a0336b7cda499075","type":"text","text":"Steal this intro??\n\nhttps://arxiv.org/pdf/2202.07444","x":2240,"y":-310,"width":594,"height":140,"color":"1"},
-		{"id":"a9b4fca4e64018b8","x":3862,"y":-295,"width":250,"height":60,"type":"text","text":"Petrol"}
+		{"id":"a9b4fca4e64018b8","x":3862,"y":-295,"width":738,"height":125,"color":"5","type":"text","text":"Petroleum co2/kwh\n\nhttps://www.eia.gov/tools/faqs/faq.php?id=74&t=11"},
+		{"id":"e54e83ca61d641b9","x":3680,"y":-140,"width":1368,"height":360,"type":"file","file":"20240830_04h43m10s_grim.png"}
 	],
 	"edges":[]
 }
