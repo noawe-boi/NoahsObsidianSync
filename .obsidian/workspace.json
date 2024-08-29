@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "7646faff686f96e8",
+            "id": "0ea37408e02563af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "Chemistry IA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb946957f91bbe79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 11 Chemistry IA3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "Year 11 Chemistry IA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "Year 11 Chemistry IA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "Year 11 Chemistry IA3.md"
               }
             }
           },
@@ -161,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "Year 11 Chemistry IA3.md"
               }
             }
           },
@@ -197,10 +210,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6df3fbdbe637c9fa",
+  "active": "fb946957f91bbe79",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Chemistry IA2.md",
+    "Year 11 Chemistry IA3.md",
     "Year 11 Maths Methods IA3 Revision.md",
+    "Grade 11 Chemistry IA3.md",
+    "chemistry ia3.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE_NAT10935004_Diagram.md",
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
@@ -209,10 +226,8 @@
     "whatevs.md",
     "Lion Questions 19-8-2024.md",
     "maths test.md",
-    "Year 11 Chemistry IA3.md",
     "Microcontroller Interfacing and IO  Assessment.md",
     "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
-    "Chemistry IA2.md",
     "Pasted image 20240809214836.png",
     "Physics 12.2 Bohr Model of the Atom.md",
     "Lion Timeline.md",
@@ -232,8 +247,6 @@
     "Pasted image 20240809210029.png",
     "Pasted image 20240809205918.png",
     "Pasted image 20240809205913.png",
-    "Rutherford's Model of the Atom.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
     "Pasted image 20240808195927.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
