@@ -13,7 +13,7 @@ Ethanol and gasoline
 ##### Investigate phenomena associated with claim
 - Why are these fuels different (molecules)
 - What happens during combustion (bonds broken etc)
-- Enthalpy (how are energy output different)
+bar- Enthalpy (how are energy output different)
 - 
 
 ##### Demonstrate development of the research question from the claim
