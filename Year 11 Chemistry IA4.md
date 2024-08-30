@@ -14,7 +14,7 @@ Ethanol and gasoline
 
 ##### Investigate phenomena associated with claim
 - What are biofuels
-
+Biofuels are 
 - Why are these fuels different (molecules)
 - What happens during combustion (bonds broken etc)
 -  $\Delta$Enthalpy (how are energy output different)
