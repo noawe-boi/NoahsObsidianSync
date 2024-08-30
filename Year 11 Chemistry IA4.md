@@ -25,7 +25,7 @@ Consider the combustion reaction for biofuel, ethanol, in compariison to it's tr
 | -------- | -------------------------------------------------- |
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
 
-While they both resemble hydrocarbons, the ammount of $CO_2$ produced when optimal combustion occurs varies significantly. Aditionally, significantly less oxygen is required f
+While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion. 
 
 
 Gasoline
