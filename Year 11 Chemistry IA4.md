@@ -63,7 +63,7 @@ Ethanol
 #### Analysis and interpretation
 ##### *Analysis 1* of qualitative and quantitative data that identifies
 ###### Relevant evidence
-A study conducted by *Argonne National Labratory Transportation Technology R&D Center* aimed to investigate and verify the 
+A study conducted by *Argonne National Labratory Transportation Technology R&D Center* aimed to investigate and quantify the greenhouse gas emissions produced by passenger vehcles powered by both tradtional petroleum, E10, E85 and E95 fuels. 
 
 
 
