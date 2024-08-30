@@ -16,10 +16,9 @@ Ethanol and gasoline
 - What are biofuels?
 Biofuels are fuels created using plants or other forms of biomass. The most well known and utilised by the public are ethanol and methanol. These Biofuels are most commonly added to traditional fuels or are components in standalone alternatives.
 
-
-
-
 - Why are these fuels different (molecules)
+While their ability to be sustainably created is the main 
+
 - What happens during combustion (bonds broken etc)
 -  $\Delta$Enthalpy (how are energy output different)
  - One real world use
