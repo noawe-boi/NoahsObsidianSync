@@ -17,10 +17,12 @@ Ethanol and gasoline
 Biofuels are fuels created using plants or other forms of biomass. The most well known and utilised by the public are ethanol and methanol. These Biofuels are most commonly added to traditional fuels or are components in standalone alternatives.
 
 - Why are these fuels different (molecules)
-While their ability to be sustainably produced is one of the main factors contributing to their widespead adoption, they arent a 1:1 replacement for traditional fuels. 
+While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, they arent a 1:1 replacement for traditional fuels. 
 
-Consider the combustion reaction for gasoline:
+Consider the combustion reaction for ethanol in compariison to it's traditonal 
 $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$
+
+
 
 
 - What happens during combustion (bonds broken etc)
