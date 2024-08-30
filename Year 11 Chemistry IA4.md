@@ -48,13 +48,14 @@ Ethanol
 - How are these fuels used and why?
 	- to create energy
 	- in cars and other transport
+		- Explain what the E10, E95, etc, numbers mean for later when talking about them and comparing them
 - Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified 
 
 
 
 ##### Specific and relevant research question 
 
-*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide per kWh of energy produced in comparison to its traditional counterpart, Unleaded Gasoline?*
+*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide per kWh of energy produced in comparison to pure unleaded gasoline?*
 ##### Relevant Sources
 
 
