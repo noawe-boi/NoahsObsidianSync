@@ -23,6 +23,7 @@ Ethanol and gasoline
 - What effect does more or lack of $CO_2$ have
 - How are these fuels used and why?
 	- to create energy
+	- in cars and other transport
 - Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified 
 
 
