@@ -21,10 +21,10 @@ While their ability to be sustainably produced is one of the main factors contri
 
 Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditonal counterpart, gasoline
 
-| Fuel     | Combustion Formula                                 | $\Delta$H        |
-| -------- | -------------------------------------------------- | ---------------- |
-| Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            | $-1366.8 kJ/mol$ |
-| Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-3877.9kJ/mol$  |
+| Fuel     | Combustion Formula                                 | $\Delta$H      |
+| -------- | -------------------------------------------------- | -------------- |
+| Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            | $-1367 kJ/mol$ |
+| Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
 
 
 While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion. 
