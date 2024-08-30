@@ -11,6 +11,7 @@ Evaluate the impact of fossil fuels and biofuels on the environment
 Ethanol and gasoline
 
 ##### Investigate phenomena associated with claim
+- What are biofuels
 - Why are these fuels different (molecules)
 - What happens during combustion (bonds broken etc)
 bar- Enthalpy (how are energy output different)
