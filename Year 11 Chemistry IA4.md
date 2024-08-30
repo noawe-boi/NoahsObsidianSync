@@ -70,6 +70,7 @@ Ethanol
 #### Analysis and interpretation
 ##### *Analysis 1* of qualitative and quantitative data that identifies
 ###### Relevant evidence
+https://publications.anl.gov/anlpubs/1999/02/31961.pdf
 A study conducted by *Argonne National Laboratory Transportation Technology R&D Center* aimed to investigate, quantify, and predict the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. The study's overall goal was to predict the impact that newer refining processes would have on the total emissions generated throughout the production process as well as the burning of fuels. These predictions will be ignored, and it will be assumed that the amount of $CO_2$ produced during production is the same across all fuels for the sake of comparison. 
 
 ![[20240831_04h40m08s_grim.png]]
@@ -91,8 +92,8 @@ Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ prese
 
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
-
-A s
+https://www.nrel.gov/docs/legosti/fy98/24772.pdf
+A joint study sponsored by 
 
 ![[20240830_03h42m06s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 2: LCI Air Emissions for Biodiesel</span>
