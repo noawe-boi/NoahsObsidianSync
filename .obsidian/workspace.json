@@ -20,6 +20,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "fbafeb845cacf6e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd89275c890217ff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chemistry IA4 Canvas.canvas",
+                "viewState": {
+                  "x": 3999.672622851553,
+                  "y": -3253.9001860263897,
+                  "zoom": -0.24767327383545923
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
