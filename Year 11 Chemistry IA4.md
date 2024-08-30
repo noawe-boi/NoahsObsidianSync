@@ -27,14 +27,15 @@ Consider the combustion reaction for biofuel, ethanol, in compariison to it's tr
 
 
 While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion. 
-
+gaso
+The differences in molecules also result in differnent ammount of energy, and therefore a different change in enthalpy when burned. 
 
 Gasoline
 (https://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php)
 Ethanol
 (https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/11%3A_Chemical_Reactions/11.06%3A_Combustion_Reactions)
 
-The differences in molecules also 
+
 
 
 - What happens during combustion (bonds broken etc)
