@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de4e710f1466235f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a03f1f2ca919fa38",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas",
+                "file": "2024 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas",
+                "file": "2024 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -172,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -208,9 +221,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fb946957f91bbe79",
+  "active": "de4e710f1466235f",
   "lastOpenFiles": [
     "Year 11 Chemistry IA4.md",
+    "2024 Projects.md",
     "Chemistry IA4 Canvas.canvas",
     "20240830_04h43m10s_grim.png",
     "20240830_04h38m22s_grim.png",
