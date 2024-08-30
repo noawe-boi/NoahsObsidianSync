@@ -79,7 +79,7 @@ Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ prese
 
 
 ###### Limitations
-- Assumed that amount of $CO_2$ released in production remains constant. may vary between gasoline and ethanol. Not really a limitation of evidence though... self imposed due to lack of evidence. However should probably be mentioned at the end
+- Assumed that amount of $CO_2$ released in production remains constant. may vary between gasoline and ethanol. Not really a limitation of evidence though... self imposed due to lack of evidence. 
 - 
 
 
