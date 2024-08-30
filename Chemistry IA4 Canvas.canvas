@@ -16,7 +16,8 @@
 		{"id":"88cd905f405cb453","type":"file","file":"20240830_03h39m20s_grim.png","x":3226,"y":-2550,"width":400,"height":400},
 		{"id":"eb9033fc580d8262","x":3318,"y":2760,"width":1730,"height":1296,"type":"file","file":"20240831_00h07m46s_grim.png"},
 		{"id":"68226a72a5d8a762","x":3883,"y":2600,"width":963,"height":160,"type":"text","text":"\nWHAT IVE BEEN LOOKING FOR!!! YIPPPEEE\n\nhttps://publications.anl.gov/anlpubs/1999/02/31961.pdf"},
-		{"id":"0827c79951920760","x":1733,"y":2457,"width":607,"height":563,"type":"text","text":"Combustion of Gasoline: \n\nhttps://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php"}
+		{"id":"0827c79951920760","x":1733,"y":2457,"width":607,"height":303,"color":"2","type":"text","text":"Combustion of Gasoline: \n\n$2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$\nhttps://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php"},
+		{"id":"ae103e8111b938a9","x":1733,"y":2820,"width":623,"height":376,"type":"text","text":""}
 	],
 	"edges":[]
 }
