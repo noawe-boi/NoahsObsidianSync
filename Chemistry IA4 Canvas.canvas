@@ -15,7 +15,8 @@
 		{"id":"67ec5f39f6643ac6","type":"text","text":"Same source","x":3146,"y":-2720,"width":250,"height":60,"color":"5"},
 		{"id":"88cd905f405cb453","type":"file","file":"20240830_03h39m20s_grim.png","x":3226,"y":-2550,"width":400,"height":400},
 		{"id":"eb9033fc580d8262","x":3318,"y":2760,"width":1730,"height":1296,"type":"file","file":"20240831_00h07m46s_grim.png"},
-		{"id":"68226a72a5d8a762","x":3883,"y":2600,"width":963,"height":160,"type":"text","text":"\nWHAT IVE BEEN LOOKING FOR!!! YIPPPEEE\n\nhttps://publications.anl.gov/anlpubs/1999/02/31961.pdf"}
+		{"id":"68226a72a5d8a762","x":3883,"y":2600,"width":963,"height":160,"type":"text","text":"\nWHAT IVE BEEN LOOKING FOR!!! YIPPPEEE\n\nhttps://publications.anl.gov/anlpubs/1999/02/31961.pdf"},
+		{"id":"0827c79951920760","x":1733,"y":2457,"width":607,"height":563,"type":"text","text":"Combustion of Gasoline: \n\nhttps://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php"}
 	],
 	"edges":[]
 }
