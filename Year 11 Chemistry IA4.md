@@ -22,7 +22,7 @@ While their ability to be sustainably produced is one of the main factors contri
 
 
 
-Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditional counterpart, gasoline
+Consider the combustion reaction for biofuel, ethanol, in comparison to it's traditional counterpart, gasoline
 
 | Fuel     | Combustion Formula                                 | $\Delta$H      |
 | -------- | -------------------------------------------------- | -------------- |
@@ -30,9 +30,8 @@ Consider the combustion reaction for biofuel, ethanol, in compariison to it's tr
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
 
 
-While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion. 
-gaso
-The differences in molecules also result in differnent ammount of energy, and therefore a different change in enthalpy when burned. 
+While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion.
+The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy when burned. 
 
 Gasoline
 (https://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php)
