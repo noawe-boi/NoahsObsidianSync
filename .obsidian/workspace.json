@@ -6,6 +6,7 @@
       {
         "id": "04dddad9a6aa98da",
         "type": "tabs",
+        "dimension": 54.58422174840085,
         "children": [
           {
             "id": "bf28930b09f80bb6",
@@ -24,6 +25,7 @@
       {
         "id": "a03f1f2ca919fa38",
         "type": "tabs",
+        "dimension": 45.41577825159915,
         "children": [
           {
             "id": "fb946957f91bbe79",
@@ -33,9 +35,9 @@
               "state": {
                 "file": "Chemistry IA4 Canvas.canvas",
                 "viewState": {
-                  "x": 3821.34309732112,
-                  "y": 102.54647072027518,
-                  "zoom": -1.6
+                  "x": 2143.3874247231847,
+                  "y": -121.97840683561671,
+                  "zoom": -1.1102230246251565e-16
                 }
               }
             }
