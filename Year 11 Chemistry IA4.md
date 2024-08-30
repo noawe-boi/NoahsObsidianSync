@@ -14,8 +14,8 @@ Ethanol and gasoline
 - What are biofuels
 - Why are these fuels different (molecules)
 - What happens during combustion (bonds broken etc)
-bar- Enthalpy (how are energy output different)
-- 
+-  $\Delta$Enthalpy (how are energy output different)
+ 
 
 ##### Demonstrate development of the research question from the claim
 - What effect does more or lack of $CO_2$ have
