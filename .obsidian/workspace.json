@@ -28,7 +28,7 @@
               "state": {
                 "file": "2024 Projects.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -223,9 +223,9 @@
   },
   "active": "de4e710f1466235f",
   "lastOpenFiles": [
-    "Chemistry IA4 Canvas.canvas",
-    "2024 Projects.md",
     "Year 11 Chemistry IA4.md",
+    "2024 Projects.md",
+    "Chemistry IA4 Canvas.canvas",
     "20240830_04h43m10s_grim.png",
     "20240830_04h38m22s_grim.png",
     "20240830_03h42m17s_grim.png",

@@ -1,7 +1,10 @@
 - Calculator Programming
+
 - Install Arch Linux on Android TV... Ultimate portable PC
-- Custom linux car head unit 
-- Sim racing setup made form pallet
+
+- Custom Linux car head unit using RPI
+
+- Sim racing setup made from pallet
 
 
 
