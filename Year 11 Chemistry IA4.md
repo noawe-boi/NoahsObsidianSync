@@ -5,7 +5,9 @@
 'Fossil fuels and biofuels produce carbon dioxide in their combustion'
 Evaluate the impact of fossil fuels and biofuels on the environment
 
-*Do biofuels produce less carbon dioxide per kWh of energy produced??*
+
+###### 
+
 
 `Choose a biofuel`
 Ethanol and gasoline
@@ -27,7 +29,7 @@ Ethanol and gasoline
 
 ##### Specific and relevant research question 
 
-
+*Does biofuel, Ethanol, produce less carbon dioxide per kWh of energy produced in compaison to its traditional counterpart, G??*
 ##### Relevant Sources
 
 
