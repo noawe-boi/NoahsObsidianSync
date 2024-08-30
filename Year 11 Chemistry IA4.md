@@ -1,6 +1,6 @@
 
 ## Hey Mr. Sonter
-Im aware I still have a lot to do. Having trouble finding studies that directly compare energy output, to volume/weight of CO2 produced. A lot on CO and other molecules. 
+Im aware I still have a lot to do. Lack of evidence as I'm having trouble finding studies that directly compare energy output, to volume/weight of CO2 produced. A lot on CO and other molecules. 
 
 
 ### Research and planning
