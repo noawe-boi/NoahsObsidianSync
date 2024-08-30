@@ -13,7 +13,9 @@
 		{"id":"a57884ac27f9df2a","type":"text","text":"\n\nhttps://www.nrel.gov/docs/legosti/fy98/24772.pdf\n\nCarbon Dioxide Emissions. The demand for fossil energy associated with biodiesel is\nlow, so its life cycle emissions of CO2 are, not surprisingly, much lower. Per unit of work\ndelivered by a bus engine, B100 reduces net CO2 emissions by 78.45% compared to\npetroleum diesel. B20ís life cycle CO2 emissions are 15.66% lower. Thus, replacing\npetroleum diesel with biodiesel in urban buses is an extremely effective strategy for\nreducing CO2 emissions","x":2401,"y":-2550,"width":825,"height":550,"color":"5"},
 		{"id":"7ee58719cda03512","type":"file","file":"20240830_03h42m06s_grim.png","x":3046,"y":-1920,"width":867,"height":660},
 		{"id":"67ec5f39f6643ac6","type":"text","text":"Same source","x":3146,"y":-2720,"width":250,"height":60,"color":"5"},
-		{"id":"88cd905f405cb453","type":"file","file":"20240830_03h39m20s_grim.png","x":3226,"y":-2550,"width":400,"height":400}
+		{"id":"88cd905f405cb453","type":"file","file":"20240830_03h39m20s_grim.png","x":3226,"y":-2550,"width":400,"height":400},
+		{"id":"eb9033fc580d8262","x":3318,"y":2760,"width":1730,"height":1296,"type":"file","file":"20240831_00h07m46s_grim.png"},
+		{"id":"68226a72a5d8a762","x":4507,"y":1895,"width":250,"height":60,"type":"text","text":"https://publications.anl.gov/anlpubs/1999/02/31961.pdf"}
 	],
 	"edges":[]
 }
