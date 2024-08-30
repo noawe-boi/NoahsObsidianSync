@@ -72,7 +72,9 @@ A study conducted by *Argonne National Laboratory Transportation Technology R&D 
 
 Figure 1 shows the measured and predicted 
 ###### Trends, patterns or relationships
-In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest components in emissions and is present in all fuel blends. However, it can be observed that as the amount of ethanol added to the fuel increases, the number of grams of $CO_2$ produced per mile decreases proportionally.  
+In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest components in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Gasoline 
+
+it can be observed that as the amount of ethanol added to the fuel increases, the number of grams of $CO_2$ produced per mile decreases proportionally.  
 
 Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ present in emissions decreases. 
 
