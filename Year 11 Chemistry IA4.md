@@ -25,7 +25,7 @@ Consider the combustion reaction for biofuel, ethanol, in compariison to it's tr
 | -------- | -------------------------------------------------- |
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
 
-While they both resemble hydrocarbons, Ethanol has an extra OH
+While they both resemble hydrocarbons, the ammount of $CO_2$ d
 
 
 Gasoline
