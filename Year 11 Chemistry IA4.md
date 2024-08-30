@@ -19,6 +19,10 @@ Biofuels are fuels created using plants or other forms of biomass. The most well
 - Why are these fuels different (molecules)
 While their ability to be sustainably produced is one of the main factors contributing to their widespead adoption, they arent a 1:1 replacement for traditional fuels. 
 
+Consider the combustion reaction for gasoline:
+$2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$
+
+
 - What happens during combustion (bonds broken etc)
 -  $\Delta$Enthalpy (how are energy output different)
  - One real world use
