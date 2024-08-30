@@ -21,10 +21,17 @@ While their ability to be sustainably produced is one of the main factors contri
 
 Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditonal counterpart, gasoline
 
-| Ethanol  | C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$              |
-| -------- | --------------------------------------------------- |
-| Gasoline | $$2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
+| Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            |
+| -------- | -------------------------------------------------- |
+| Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
+
+These chemical formulas are dra
+
+
+Gasoline
 (https://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php)
+Ethanol
+(https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/11%3A_Chemical_Reactions/11.06%3A_Combustion_Reactions)
 
 
 
