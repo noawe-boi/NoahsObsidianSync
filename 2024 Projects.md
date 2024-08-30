@@ -8,8 +8,8 @@
 ````
 
  _____________________________________
-/ Bro is literally doing none of this 
-\
+/ Bro is literally doing none of this \
+\                                     /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
