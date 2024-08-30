@@ -93,7 +93,7 @@ Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ prese
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 https://www.nrel.gov/docs/legosti/fy98/24772.pdf
-A joint study sponsored by 
+A joint study conducted by the National Renewable Energy Laboratory aimed 
 
 ![[20240830_03h42m06s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 2: LCI Air Emissions for Biodiesel</span>
