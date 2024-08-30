@@ -21,10 +21,11 @@ While their ability to be sustainably produced is one of the main factors contri
 
 Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditonal counterpart, gasoline
 
-_______________________
+
 Ethanol | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
 ----------|---------------------|
-Gasoline | 
+Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | 
+|-----------------------|-----------------| 
 $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$
 
 

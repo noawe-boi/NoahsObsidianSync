@@ -6,7 +6,6 @@
       {
         "id": "04dddad9a6aa98da",
         "type": "tabs",
-        "dimension": 54.58422174840085,
         "children": [
           {
             "id": "bf28930b09f80bb6",
@@ -17,28 +16,6 @@
                 "file": "Year 11 Chemistry IA4.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a03f1f2ca919fa38",
-        "type": "tabs",
-        "dimension": 45.41577825159915,
-        "children": [
-          {
-            "id": "fb946957f91bbe79",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Chemistry IA4 Canvas.canvas",
-                "viewState": {
-                  "x": 4305.379297385279,
-                  "y": -3340.077877269218,
-                  "zoom": 0.3999999999999999
-                }
               }
             }
           }
@@ -110,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas",
+                "file": "Year 11 Chemistry IA4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas",
+                "file": "Year 11 Chemistry IA4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -172,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chemistry IA4 Canvas.canvas"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -208,10 +185,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fb946957f91bbe79",
+  "active": "bf28930b09f80bb6",
   "lastOpenFiles": [
-    "Year 11 Chemistry IA4.md",
     "Chemistry IA4 Canvas.canvas",
+    "Year 11 Chemistry IA4.md",
     "20240831_00h07m46s_grim.png",
     "2024 Projects.md",
     "20240830_04h43m10s_grim.png",
