@@ -19,7 +19,12 @@ Biofuels are fuels created using plants or other forms of biomass. The most well
 - Why are these fuels different (molecules)
 While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, they arent a 1:1 replacement for traditional fuels. 
 
-Consider the combustion reaction for ethanol in compariison to it's traditonal 
+Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditonal counterpart, gasoline
+
+_______________________
+Ethanol | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
+----------|---------------------|
+Gasoline | 
 $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$
 
 
