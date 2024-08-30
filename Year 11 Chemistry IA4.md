@@ -66,7 +66,7 @@ Ethanol
 A study conducted by *Argonne National Labratory Transportation Technology R&D Center* aimed to investigate and quantify the greenhouse gas emissions produced by passenger vehcles powered by both tradtional petroleum, E10, E85 and E95 fuels. 
 
 ![[20240831_04h40m08s_grim.png]]
-<span style="color:grey; font-siz">Figure 1</span>
+<span style="color:grey; font-size:16;font-family:Arial">Figure 1: </span>
 
 
 
