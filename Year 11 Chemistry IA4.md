@@ -64,13 +64,13 @@ Ethanol
 #### Analysis and interpretation
 ##### *Analysis 1* of qualitative and quantitative data that identifies
 ###### Relevant evidence
-A study conducted by *Argonne National Labratory Transportation Technology R&D Center* aimed to investigate and quantify the greenhouse gas emissions produced by passenger vehcles powered by both tradtional petroleum, E10, E85 and E95 fuels. 
+A study conducted by *Argonne National Laboratory Transportation Technology R&D Center* aimed to investigate and quantify the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. 
 
 ![[20240831_04h40m08s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas</span>
 **TODO: ADD CITATION FOR GRAPHS**
 
-Figure 1: Clearly shows that as the 
+Figure 1: Clearly shows that as the ethanol content of the fuel increases, the amount of $CO_2$ 
 ###### Trends, patterns or relationships
 
 
