@@ -14,7 +14,7 @@ Ethanol and gasoline
 
 ##### Investigate phenomena associated with claim
 - What are biofuels
-Biofuels are fuels created using plants or other forms of biomass. The most well known and utalized by  the general public are fu
+Biofuels are fuels created using plants or other forms of biomass. The most well known and utilized by the public are ethanol and methanol, usually branded as
 - Why are these fuels different (molecules)
 - What happens during combustion (bonds broken etc)
 -  $\Delta$Enthalpy (how are energy output different)
