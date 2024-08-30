@@ -19,7 +19,10 @@ Biofuels are fuels created using plants or other forms of biomass. The most well
 - Why are these fuels different (molecules)
 While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, another major factor is the amounts of greenhouse gasses, such as $CO_2$, produced in their combustion. 
 
-Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditonal counterpart, gasoline
+
+
+
+Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditional counterpart, gasoline
 
 | Fuel     | Combustion Formula                                 | $\Delta$H      |
 | -------- | -------------------------------------------------- | -------------- |
@@ -36,12 +39,14 @@ Gasoline
 Ethanol
 (https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/11%3A_Chemical_Reactions/11.06%3A_Combustion_Reactions)
 
+*Should this previous section be moved somewhere else? Where could I put it*
+
 
 
 
 - What happens during combustion (bonds broken etc)
 -  $\Delta$Enthalpy (how are energy output different)
- - One real world use 
+- One real world use 
 
 ##### Demonstrate development of the research question from the claim
 - What effect does more or lack of $CO_2$ have
@@ -116,7 +121,7 @@ Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ prese
 
 ##### Insightful *interpretation* of evidence justified by scientific arguments
 
-- Change in $CO_2$ emissions is due to differences in molecules and combustion fo
+- Change in $CO_2$ emissions is due to differences in molecules and combustion formula
 
 
 #### Conclusion and Evaluation
