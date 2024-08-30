@@ -1,6 +1,4 @@
 
-## Hey Mr. Sonter
-Im aware I still have a lot to do. Lack of evidence as I'm having trouble finding studies that directly compare energy output, to volume/weight of CO2 produced. A lot on CO and emissions during production but few on burning ethanol and gasoline though.
 
 ### Research and planning
 #### Considered Rationale 
@@ -94,8 +92,9 @@ Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ prese
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 
+![[20240830_03h42m06s_grim.png]]
 
-
+![[20240830_03h42m17s_grim.png]]
 
 
 ###### Trends, patterns or relationships
