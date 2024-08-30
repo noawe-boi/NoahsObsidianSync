@@ -29,7 +29,7 @@ Ethanol and gasoline
 
 ##### Specific and relevant research question 
 
-*Does biofuel, Ethanol, produce less carbon dioxide per kWh of energy produced in compaison to its traditional counterpart, G??*
+*Does biofuel, Ethanol, produce less carbon dioxide per kWh of energy produced in comparison to its traditional counterpart, Unleaded Gasoline?*
 ##### Relevant Sources
 
 
