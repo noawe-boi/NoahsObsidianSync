@@ -19,7 +19,14 @@ Biofuels are fuels created using plants or other forms of biomass. The most well
 - Why are these fuels different (molecules)
 While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, another major factor is the amounts of greenhouse gasses, such as $CO_2$, produced in their combustion. 
 
+Consider the combustion reaction for biofuel, ethanol, in compariison to it's traditonal counterpart, gasoline
 
+| Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            |
+| -------- | -------------------------------------------------- |
+| Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ |
+
+
+While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion. 
 
 
 Gasoline
@@ -27,7 +34,7 @@ Gasoline
 Ethanol
 (https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/11%3A_Chemical_Reactions/11.06%3A_Combustion_Reactions)
 
-
+The differences in molecules also 
 
 
 - What happens during combustion (bonds broken etc)
