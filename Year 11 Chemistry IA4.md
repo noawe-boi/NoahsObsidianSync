@@ -41,7 +41,7 @@ Ethanol
 
 - What happens during combustion (bonds broken etc)
 -  $\Delta$Enthalpy (how are energy output different)
- - One real world use
+ - One real world use 
 
 ##### Demonstrate development of the research question from the claim
 - What effect does more or lack of $CO_2$ have
@@ -54,7 +54,7 @@ Ethanol
 
 ##### Specific and relevant research question 
 
-*Does biofuel, Ethanol, produce less carbon dioxide per kWh of energy produced in comparison to its traditional counterpart, Unleaded Gasoline?*
+*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide per kWh of energy produced in comparison to its traditional counterpart, Unleaded Gasoline?*
 ##### Relevant Sources
 
 
