@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f3c2cd8dc1b4fa51",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fbafeb845cacf6e3",
@@ -218,8 +209,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f3c2cd8dc1b4fa51",
+  "active": "bf28930b09f80bb6",
   "lastOpenFiles": [
+    "02-09-2024.md",
     "Year 11 Chemistry IA4.md",
     "2-09-2024.md",
     "Chemistry IA4 Canvas.canvas",
@@ -255,7 +247,6 @@
     "Excalidraw/Bohr Atom model energy level.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
     "Energy for each level.md",
-    "Balmer Equation.md",
     "Pasted image 20240809230840.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
