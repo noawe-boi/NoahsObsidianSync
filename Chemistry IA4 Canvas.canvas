@@ -21,7 +21,7 @@
 		{"id":"9b3d44f4cea5ba07","type":"text","text":"While this metric cannot directly be converted into a g/kWh metric, it does show the realtionship between energy output and ammount of $CO_2$ produced","x":5740,"y":-1121,"width":710,"height":126},
 		{"id":"4aee93a200bdb961","type":"text","text":"````\n  ______________________________________\n/ remember to mention youre only talking \\\n\\ about combustion                       /\n  --------------------------------------\n        \\   ^__^\n         \\  (oo)\\_______\n            (__)\\       )\\/\\\n                ||----w |\n                ||     ||","x":5075,"y":-3480,"width":589,"height":384},
 		{"id":"9471297d1ba8a079","type":"text","text":"Assumption:\n\nAmmount of $CO_2$ produced during the production of bo fuels is negligible as the plants absorb $CO_2$","x":5684,"y":-3480,"width":250,"height":384},
-		{"id":"000b212273b46de5","x":2336,"y":-640,"width":710,"height":188,"color":"3","type":"text","text":"Conclusion?\nDoes production of ethanol create more CO2 than gasoline? does this cancel out?"}
+		{"id":"000b212273b46de5","type":"text","text":"Conclusion?\nDoes production of ethanol create more CO2 than gasoline? does this cancel out?","x":2336,"y":-640,"width":710,"height":188,"color":"3"}
 	],
 	"edges":[]
 }
