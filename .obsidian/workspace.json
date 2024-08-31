@@ -6,7 +6,6 @@
       {
         "id": "04dddad9a6aa98da",
         "type": "tabs",
-        "dimension": 60.46176046176046,
         "children": [
           {
             "id": "bf28930b09f80bb6",
@@ -14,31 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-09-2024.md",
+                "file": "02-09-2024.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fbafeb845cacf6e3",
-        "type": "tabs",
-        "dimension": 39.53823953823954,
-        "children": [
-          {
-            "id": "fd89275c890217ff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Chemistry IA4 Canvas.canvas",
-                "viewState": {
-                  "x": 3436.1370509823423,
-                  "y": -2216.532810783202,
-                  "zoom": 1
-                }
               }
             }
           }
@@ -110,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-09-2024.md",
+                "file": "02-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-09-2024.md",
+                "file": "02-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-09-2024.md"
+                "file": "02-09-2024.md"
               }
             }
           },
@@ -172,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-09-2024.md"
+                "file": "02-09-2024.md"
               }
             }
           },
@@ -183,14 +160,21 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "745e05fe487ce0df",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,9 +195,10 @@
   },
   "active": "bf28930b09f80bb6",
   "lastOpenFiles": [
+    "2024-W35.md",
+    "2-09-2024.md",
     "02-09-2024.md",
     "Year 11 Chemistry IA4.md",
-    "2-09-2024.md",
     "Chemistry IA4 Canvas.canvas",
     "20240831_04h40m08s_grim.png",
     "20240831_00h07m46s_grim.png",
@@ -246,7 +231,6 @@
     "Excalidraw/Electorn Photon Series.md",
     "Excalidraw/Bohr Atom model energy level.md",
     "Excalidraw/Bohr Atom energy levels labelled.md",
-    "Energy for each level.md",
     "Pasted image 20240809230840.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
