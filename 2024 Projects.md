@@ -6,7 +6,7 @@
 
 - Sim racing setup made from pallet
 
-
+- Buy a 1TB SSD and store all important photos/videos on it in an organised format
 
 ````
 
