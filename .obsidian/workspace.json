@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3c2cd8dc1b4fa51",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fbafeb845cacf6e3",
@@ -205,10 +214,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-tts:Text to Speech": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bf28930b09f80bb6",
+  "active": "f3c2cd8dc1b4fa51",
   "lastOpenFiles": [
     "Year 11 Chemistry IA4.md",
     "2-09-2024.md",
