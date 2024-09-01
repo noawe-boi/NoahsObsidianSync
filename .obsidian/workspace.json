@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "244e8c9a55ef40c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "02-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "02-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "02-09-2024.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "02-09-2024.md"
               }
             }
           },
@@ -160,14 +172,21 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "7d1742cc931a06a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4088812e6df6989f",
+  "active": "244e8c9a55ef40c5",
   "lastOpenFiles": [
+    "29-07-2024.md",
+    "30-07-2024.md",
+    "01-08-2024.md",
     "02-08-2024.md",
     "02-09-2024.md",
     "Year 11 Maths Methods IA3 Revision.md",
@@ -222,9 +244,6 @@
     "NoahsObsidianSync/Newtons Laws.md",
     "NoahsObsidianSync/Newtons First Law.md",
     "NoahsObsidianSync/Neutron.md",
-    "NoahsObsidianSync/Net Force.md",
-    "NoahsObsidianSync/Nanomaterials.md",
-    "NoahsObsidianSync/Mirrors.md",
     "NoahsObsidianSync/Maths assignment solution .pdf",
     "NoahsObsidianSync/Excalidraw",
     "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
