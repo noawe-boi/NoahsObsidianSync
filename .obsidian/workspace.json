@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-09-2024.md",
+                "file": "2024 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-09-2024.md",
+                "file": "2024 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-09-2024.md"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -173,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-09-2024.md"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -215,11 +216,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bf28930b09f80bb6",
+  "active": "dcfaaa025c6c1c56",
   "lastOpenFiles": [
-    "Specialist Maths IA3 Exam Revision.md",
-    "2024 Projects.md",
     "02-09-2024.md",
+    "2024 Projects.md",
+    "Specialist Maths IA3 Exam Revision.md",
     "2024-W35.md",
     "2-09-2024.md",
     "Year 11 Chemistry IA4.md",
