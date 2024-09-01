@@ -1,9 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Typewriter",
   "textFontFamily": "Hack Nerd Font",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
-  "baseFontSize": 24,
+  "baseFontSize": 20,
   "accentColor": "#006eb3"
 }

@@ -18,30 +18,31 @@
             }
           },
           {
-            "id": "49d152330d522bc6",
+            "id": "4088812e6df6989f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 11.4 Refraction of light.md",
+                "file": "Year 11 Maths Methods IA3 Revision.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f67142328afa1c30",
+            "id": "d0d40338246f83f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 12.1 Rutherford's Model of the Atom.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+                "file": "Year 11 Maths Methods IA3 Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
+                "file": "Year 11 Maths Methods IA3 Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+                "file": "Year 11 Maths Methods IA3 Revision.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+                "file": "Year 11 Maths Methods IA3 Revision.md"
               }
             }
           },
@@ -207,56 +208,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac97250f1e036502",
+  "active": "4088812e6df6989f",
   "lastOpenFiles": [
-    "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
-    "Physics 11.4 Refraction of light.md",
-    "Physics Alternate Sequence Practice Exam 2020.md",
-    "Year 11 Maths Methods IA3 Revision.md",
-    "English 26-08-2024.md",
-    "Untitled 24.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/TAFE_NAT10935004_Diagram.md",
-    "Year 11 Maths IA3 Revision.md",
-    "Lion Questions 19-8-2024.md",
-    "Work.md",
-    "whatevs.md",
-    "maths test.md",
-    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
-    "Year 11 Chemistry IA3.md",
-    "Microcontroller Interfacing and IO  Assessment.md",
-    "The Kinetic Particle Model (Kinetic Theory).md",
-    "Angular Momentum.md",
-    "Electrostatic Force.md",
-    "Excalidraw/Electorn Photon Series.md",
-    "Physics Grade 11 IA3.md",
-    "Chemistry IA2.md",
-    "4.2. Potential Difference.md",
-    "11.5 The Photoelectric Effect.md",
-    "Energy for each level.md",
-    "Pasted image 20240809230840.png",
-    "Pasted image 20240809230344.png",
-    "Pasted image 20240809230341.png",
-    "Pasted image 20240809214836.png",
-    "Pasted image 20240809210037.png",
-    "Pasted image 20240809210029.png",
-    "Pasted image 20240809205918.png",
-    "Pasted image 20240809205913.png",
-    "Pasted image 20240809182441.png",
-    "Pasted image 20240808195927.png",
+    "Year 11 Maths Methods IA3 Revision.md",
+    "readme.md",
+    "NoahsObsidianSync/risk assessment.pdf",
+    "NoahsObsidianSync/Recording 20240215094430.webm",
+    "NoahsObsidianSync/Physics 4.5 Ohms Law.md",
+    "NoahsObsidianSync/Physics 12.2 Bohr Model of the Atom.md",
+    "NoahsObsidianSync/Physics 12.1 Rutherford's Model of the Atom.md",
+    "NoahsObsidianSync/Physics 11.7 Polarisation.md",
+    "NoahsObsidianSync/Physics 11.5 Interference and diffraction.md",
+    "NoahsObsidianSync/Physics 11.4 Refraction of light.md",
+    "NoahsObsidianSync/Physics 11.3 Reflection of light.md",
+    "NoahsObsidianSync/Physics 11.1 Wave model for light.md",
+    "NoahsObsidianSync/Physics 11.1 Light as a wave.md",
+    "NoahsObsidianSync/Pasted image 20240809230840.png",
+    "NoahsObsidianSync/Pasted image 20240809230344.png",
+    "NoahsObsidianSync/Pasted image 20240809230341.png",
+    "NoahsObsidianSync/Pasted image 20240809214836.png",
+    "NoahsObsidianSync/Pasted image 20240809210037.png",
+    "NoahsObsidianSync/Pasted image 20240809210029.png",
+    "NoahsObsidianSync/Pasted image 20240809205918.png",
+    "NoahsObsidianSync/Pasted image 20240809205913.png",
+    "NoahsObsidianSync/Pasted image 20240809182441.png",
+    "NoahsObsidianSync/Pasted image 20240808195927.png",
+    "NoahsObsidianSync/Partnership.md",
+    "NoahsObsidianSync/Organizational Design.md",
+    "NoahsObsidianSync/Organizational Culture.md",
+    "NoahsObsidianSync/Nucleus.md",
+    "NoahsObsidianSync/Newtons Third Law.md",
+    "NoahsObsidianSync/Newtons Second Law.md",
+    "NoahsObsidianSync/Newtons Laws.md",
+    "NoahsObsidianSync/Newtons First Law.md",
+    "NoahsObsidianSync/Neutron.md",
+    "NoahsObsidianSync/Net Force.md",
+    "NoahsObsidianSync/Nanomaterials.md",
+    "NoahsObsidianSync/Mirrors.md",
+    "NoahsObsidianSync/Microcontroller Interfacing and IO  Assessment.md",
+    "NoahsObsidianSync/Melting Point.md",
+    "NoahsObsidianSync/Maths assignment solution .pdf",
+    "NoahsObsidianSync/Excalidraw",
+    "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
+    "NoahsObsidianSync/Calculated max distance .pdf",
+    "NoahsObsidianSync",
+    "Chemistry IA4 Canvas.canvas",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
     "gitkey.pub",
-    "gitkey",
-    "Maths assignment solution .pdf",
-    "Calculated max distance .pdf",
-    "Recording 20240215094430.webm",
     "Physics 9.1 Describing a wave.canvas",
-    "Physics",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
