@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac97250f1e036502",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
-              }
-            }
-          },
-          {
             "id": "4088812e6df6989f",
             "type": "leaf",
             "state": {
@@ -28,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d0d40338246f83f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
