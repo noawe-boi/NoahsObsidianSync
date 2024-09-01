@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,10 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4088812e6df6989f",
+  "active": "ff2af5483776c9d9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "02-09-2024.md",
     "Year 11 Maths Methods IA3 Revision.md",
+    "conflict-files-obsidian-git.md",
     "readme.md",
     "NoahsObsidianSync/risk assessment.pdf",
     "NoahsObsidianSync/Recording 20240215094430.webm",
@@ -224,7 +225,6 @@
     "NoahsObsidianSync/Nanomaterials.md",
     "NoahsObsidianSync/Mirrors.md",
     "NoahsObsidianSync/Microcontroller Interfacing and IO  Assessment.md",
-    "NoahsObsidianSync/Melting Point.md",
     "NoahsObsidianSync/Maths assignment solution .pdf",
     "NoahsObsidianSync/Excalidraw",
     "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
