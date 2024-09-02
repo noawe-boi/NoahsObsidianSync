@@ -4,4 +4,3 @@
 - Do Atomi Prose Exercises
 	- (maybe how to write an analytical essay lesson)
 
-``
