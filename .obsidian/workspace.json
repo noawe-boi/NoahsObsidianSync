@@ -18,33 +18,22 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e81f8e9222ac21b6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "3f70a38f2c5ac158",
+            "id": "d96d007a9a6f632d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96093ca9b0e41f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "markdown-table-editor-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ion.md",
+                "file": "Chemistry 16.1 Identifying Ions In Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ion.md",
+                "file": "Chemistry 16.1 Identifying Ions In Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ion.md"
+                "file": "Chemistry 16.1 Identifying Ions In Solution.md"
               }
             }
           },
@@ -174,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Ion.md"
+                "file": "Chemistry 16.1 Identifying Ions In Solution.md"
               }
             }
           },
@@ -219,10 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96093ca9b0e41f8a",
+  "active": "d96d007a9a6f632d",
   "lastOpenFiles": [
-    "Chemistry 16.1 Identifying Ions In Solution.md",
     "Ion.md",
+    "Chemistry 16.1 Identifying Ions In Solution.md",
     "Ionic substance.md",
     "Anion.md",
     "Chemistry IA4 Canvas.canvas",
