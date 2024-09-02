@@ -76,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refract",
-                "matchingCase": false,
+                "query": "Physics",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -202,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +221,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bbb10f981defdbb",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
-    "Year 11 Chemistry IA4.md",
+    "Excalidraw/Physics 10.2 Review.md",
     "Chemistry IA4 Canvas.canvas",
+    "Year 11 Chemistry IA4.md",
     "Year 11 Maths Methods IA3 Revision.md",
     "01-08-2024.md",
     "02-09-2024.md",
