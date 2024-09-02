@@ -91,9 +91,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3357e4dfa139c5c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -161,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rutherford's Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rutherford's Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rutherford's Model of the Atom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Rutherford's Model of the Atom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -268,8 +270,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d5cbbc41079e1ee",
+  "active": "3357e4dfa139c5c9",
   "lastOpenFiles": [
+    "Rutherford's Model of the Atom.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Physics 2024 Exam Revision.md",
@@ -308,7 +311,6 @@
     "NoahsObsidianSync/Pasted image 20240809182441.png",
     "NoahsObsidianSync/Pasted image 20240808195927.png",
     "NoahsObsidianSync/Partnership.md",
-    "NoahsObsidianSync/Organizational Design.md",
     "NoahsObsidianSync/Maths assignment solution .pdf",
     "NoahsObsidianSync/Excalidraw",
     "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
