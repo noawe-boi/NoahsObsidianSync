@@ -2,3 +2,4 @@
 2. Most salts of $Na^+$,$K^+$ and $NH_4^+$ **are soluble**
 3. Most Chloride ($Cl^-$)salts are soluble; except $BaSO_4$, $PbSO_4$ and $CaSO_4$ 
 4. Most hydroxides ($OH^-$) salts are soluble; important  
+![[Pasted image 20240902151308.png]]
