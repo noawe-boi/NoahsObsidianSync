@@ -1,0 +1,1 @@
+- Non-metal atom that has gained one or more electrons and is <span style="color:grey">Negatively Charged</span>

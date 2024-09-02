@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5b7f2e47b91d7a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dcfaaa025c6c1c56",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -174,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -216,11 +228,25 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dbec3ea723068126",
+  "active": "5b7f2e47b91d7a03",
   "lastOpenFiles": [
+    "Specialist Maths IA3 Exam Revision.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled 25.md",
+    "Untitled 24.md",
+    "Solubility Rules.md",
+    "Physics alter.md",
+    "Physics 2024 Exam Revision.md",
+    "Pasted image 20240902151308.png",
+    "Ionic substance.md",
+    "Ion.md",
+    "Holidays TODO.md",
+    "English 26-08-2024.md",
+    "Chemistry 16.1 Identifying Ions In Solution.md",
+    "Cation.md",
+    "Anion.md",
     "2024 Projects.md",
     "02-09-2024.md",
-    "Specialist Maths IA3 Exam Revision.md",
     "2024-W35.md",
     "2-09-2024.md",
     "Year 11 Chemistry IA4.md",
@@ -237,24 +263,10 @@
     "20240830_03h39m20s_grim.png",
     "Grade 11 Chemistry IA3.md",
     "chemistry ia3.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/TAFE_NAT10935004_Diagram.md",
     "Math's Methods PSMT T2 Sources ~ Media.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
-    "Physics Alternate Sequence Practice Exam 2020.md",
-    "Year 11 Maths IA3 Traffic Light.md",
-    "whatevs.md",
-    "Lion Questions 19-8-2024.md",
-    "maths test.md",
-    "Microcontroller Interfacing and IO  Assessment.md",
-    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
     "Pasted image 20240809214836.png",
-    "Physics 12.2 Bohr Model of the Atom.md",
-    "Lion Timeline.md",
-    "Excalidraw/Hydrogen spectrum.md",
-    "Excalidraw/Electorn Photon Series.md",
-    "Excalidraw/Bohr Atom model energy level.md",
-    "Pasted image 20240809230840.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",

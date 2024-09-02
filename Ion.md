@@ -1,0 +1,1 @@
+An atom or molecule that has gained or lost one or more electrons to become charged

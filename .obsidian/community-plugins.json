@@ -9,5 +9,11 @@
   "obsidian-plugin-toc",
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-desmos",
+<<<<<<< HEAD
   "calendar"
+=======
+  "3d-graph",
+  "calendar",
+  "syncthing-integration"
+>>>>>>> origin/main
 ]
