@@ -1,0 +1,6 @@
+---
+tags:
+  - chem
+  - notes
+---
+### Definitions
