@@ -1,3 +1,7 @@
 - Chemistry Atomi (The entire thing)
 - Physics Practice Exams
-- Maths Methods All Exam Re
+- Maths Methods Practice Exams
+- Do Atomi Prose Exercises
+	- (maybe how to write an analytical essay lesson)
+
+``
