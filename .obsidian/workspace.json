@@ -35,24 +35,12 @@
             }
           },
           {
-            "id": "2676b901c745ac39",
+            "id": "4ce9a281d3b9fb39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-09-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55bba2c08032d610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Projects.md",
+                "file": "Cation.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,8 +224,9 @@
   },
   "active": "11a7c22e2b44253d",
   "lastOpenFiles": [
-    "Chemistry IA4 Canvas.canvas",
+    "Cation.md",
     "Chemistry 16.1 Identifying Ions In Solution.md",
+    "Chemistry IA4 Canvas.canvas",
     "Holidays TODO.md",
     "02-09-2024.md",
     "2024 Projects.md",
