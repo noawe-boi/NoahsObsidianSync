@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Projects.md",
+                "file": "Specialist Maths IA3 Exam Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Projects.md",
+                "file": "Specialist Maths IA3 Exam Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Projects.md"
+                "file": "Specialist Maths IA3 Exam Revision.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Projects.md"
+                "file": "Specialist Maths IA3 Exam Revision.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dcfaaa025c6c1c56",
+  "active": "dbec3ea723068126",
   "lastOpenFiles": [
-    "02-09-2024.md",
     "2024 Projects.md",
+    "02-09-2024.md",
     "Specialist Maths IA3 Exam Revision.md",
     "2024-W35.md",
     "2-09-2024.md",
