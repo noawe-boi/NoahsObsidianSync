@@ -12,3 +12,5 @@ tags:
 
 #### ![[Ion]] 
 
+### Solubility Rules
+![[Solubility Rules]]
