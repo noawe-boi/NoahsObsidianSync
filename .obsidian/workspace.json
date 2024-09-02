@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md",
+                "file": "02-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md",
+                "file": "02-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md"
+                "file": "02-09-2024.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md"
+                "file": "02-09-2024.md"
               }
             }
           },
@@ -216,10 +215,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dbec3ea723068126",
+  "active": "bf28930b09f80bb6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Specialist Maths IA3 Exam Revision.md",
+    "conflict-files-obsidian-git.md",
     "Untitled 25.md",
     "Untitled 24.md",
     "Solubility Rules.md",
