@@ -76,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Physics",
-                "matchingCase": true,
+                "query": "Physics ",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
