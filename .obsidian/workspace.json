@@ -96,12 +96,16 @@
             "id": "3357e4dfa139c5c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics 12.2 Bohr Model of the Atom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +212,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+              }
             }
           },
           {
@@ -226,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md"
+              }
             }
           },
           {
@@ -270,9 +280,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3357e4dfa139c5c9",
+  "active": "495cccaa55fa5118",
   "lastOpenFiles": [
     "Rutherford's Model of the Atom.md",
+    "Physics 12.2 Bohr Model of the Atom.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Physics 2024 Exam Revision.md",
@@ -310,7 +321,6 @@
     "NoahsObsidianSync/Pasted image 20240809205913.png",
     "NoahsObsidianSync/Pasted image 20240809182441.png",
     "NoahsObsidianSync/Pasted image 20240808195927.png",
-    "NoahsObsidianSync/Partnership.md",
     "NoahsObsidianSync/Maths assignment solution .pdf",
     "NoahsObsidianSync/Excalidraw",
     "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
