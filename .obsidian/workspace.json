@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,9 +223,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "pH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -273,16 +267,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d665d16353195f99",
+  "active": "8c647e81aabccecd",
   "lastOpenFiles": [
+    "Alkali.md",
+    "Self Ionization.md",
+    "Base.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "pH.md",
     "Excalidraw/Chem Ions Diagram 1.md",
     "05-09-2024.md",
     "Acid.md",
-    "Self Ionization.md",
-    "Alkali.md",
-    "Base.md",
     "conflict-files-obsidian-git.md",
     "Specialist Maths IA3 Exam Revision.md",
     "2024-W35.md",
