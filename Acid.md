@@ -1,2 +1,2 @@
-### Defintion
-A substance that diccociates in water
+### Definition
+A substance that dissociates (dissolves?) in water 
