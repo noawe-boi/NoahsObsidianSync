@@ -71,12 +71,8 @@
             "id": "8c647e81aabccecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Ionization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -148,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Ionization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Ionization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self Ionization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Self Ionization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,8 +247,8 @@
   },
   "active": "8c647e81aabccecd",
   "lastOpenFiles": [
-    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "Self Ionization.md",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "Alkali.md",
     "Base.md",
     "Acid.md",
