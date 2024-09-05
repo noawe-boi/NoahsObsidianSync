@@ -5,4 +5,4 @@ Acids - $[0-7]$
 Bases - $[7,14]$
 
 ### Formula 
-$pH = $-log_10[H_+]$ and
+$pH = -log_{10}[H_+]$ or $-log_{10}[H_3O^+]$  
