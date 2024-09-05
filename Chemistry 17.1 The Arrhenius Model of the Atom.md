@@ -15,7 +15,8 @@ tags:
 ![[Self Ionization]]
 
 
-### Label The Diagrams
+### Label The Diagrams:
+
 ![[Chem Ions Diagram 1 | 1000]]
 
 
