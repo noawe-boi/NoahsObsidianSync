@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1394ee35177cea",
+        "id": "7daa65e526e30cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "491ce360698fdb58",
+            "id": "009f971d5b33d6c5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,8 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "491ce360698fdb58",
+  "active": "009f971d5b33d6c5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Specialist Maths IA3 Exam Revision.md",
+    "2024-W35.md",
+    "2-09-2024.md",
     "Solubility Rules.md",
     "Pasted image 20240902151308.png",
     "Chemistry 16.1 Identifying Ions In Solution.md",
@@ -210,9 +214,6 @@
     "01-08-2024.md",
     "chemistry.md",
     "29-07-2024.md",
-    "30-07-2024.md",
-    "02-08-2024.md",
-    "conflict-files-obsidian-git.md",
     "NoahsObsidianSync/risk assessment.pdf",
     "NoahsObsidianSync/Recording 20240215094430.webm",
     "NoahsObsidianSync/Pasted image 20240809230840.png",
