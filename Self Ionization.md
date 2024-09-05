@@ -19,4 +19,4 @@ $2H_2O(I) \rightarrow H_3O^+(aq) + OH^-(aq)$
 | :----------------------------- | :--------- |
 | Sodium Hydroxide<br>           | $NaOH$<br> |
 | Ammonia                        | $NaH3$     |
-| Calcium Hydroxide (lime water) |            |
+| Calcium Hydroxide (Lime Water) | $Ca(OH)_2$ |
