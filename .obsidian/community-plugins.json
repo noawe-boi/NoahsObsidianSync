@@ -1,19 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "markdown-table-editor",
-  "obsidian-discordrpc",
-  "better-word-count",
-  "obsidian-tts",
-  "obsidian-languagetool-plugin",
-  "obsidian-plugin-toc",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-desmos",
-<<<<<<< HEAD
-  "calendar"
-=======
-  "3d-graph",
   "calendar",
-  "syncthing-integration"
->>>>>>> origin/main
+  "obsidian-git",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "markdown-table-editor",
+  "obsidian-excalidraw-plugin",
+  "obsidian-discordrpc"
 ]

@@ -44,24 +44,24 @@
             }
           },
           {
-            "id": "1f6e77ae46d8fcf0",
+            "id": "9346dde6e4126d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holidays TODO.md",
+                "file": "The Maths Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dcfaaa025c6c1c56",
+            "id": "1f6e77ae46d8fcf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Projects.md",
+                "file": "Holidays TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,15 +203,7 @@
             }
           },
           {
-            "id": "44b83a1e8732720a",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "745e05fe487ce0df",
+            "id": "cb068b3e7b999cf4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -219,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -234,16 +226,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-tts:Text to Speech": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "dbec3ea723068126",
   "lastOpenFiles": [
-    "Holidays TODO.md",
+    "The Maths Method.md",
     "Specialist Maths IA3 Exam Revision.md",
+    "Holidays TODO.md",
+    "2024 Projects.md",
     "Chemistry 16.1 Identifying Ions In Solution.md",
     "02-09-2024.md",
     "conflict-files-obsidian-git.md",
@@ -258,7 +251,6 @@
     "English 26-08-2024.md",
     "Cation.md",
     "Anion.md",
-    "2024 Projects.md",
     "2024-W35.md",
     "2-09-2024.md",
     "Year 11 Chemistry IA4.md",
@@ -277,7 +269,6 @@
     "chemistry ia3.md",
     "Excalidraw/TAFE_NAT10935004_Diagram.md",
     "Math's Methods PSMT T2 Sources ~ Media.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "Pasted image 20240809214836.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
