@@ -1,0 +1,1 @@
+A substance that Dissociates in water to create hydroxide waters
