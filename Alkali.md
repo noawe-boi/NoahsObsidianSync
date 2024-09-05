@@ -1,1 +1,1 @@
-Dissociates itsself to create hydronian ions and 
+Dissociates itsself to create hydronian ions ($H_3O^+$and hydroxide ions
