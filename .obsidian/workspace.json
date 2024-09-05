@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58581c508a079fea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Physics 202",
+                "query": "acid",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -95,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -112,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Acid.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Acid.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,10 +220,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "541354b24c1e0b4d",
+  "active": "65843fbb0ab63956",
   "lastOpenFiles": [
-    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "Acid.md",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "05-09-2024.md",
     "conflict-files-obsidian-git.md",
     "Specialist Maths IA3 Exam Revision.md",
