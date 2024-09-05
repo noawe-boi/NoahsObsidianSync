@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "85ab4a8652fc02b1",
+        "id": "ab1394ee35177cea",
         "type": "tabs",
         "children": [
           {
-            "id": "11a7c22e2b44253d",
+            "id": "491ce360698fdb58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry 16.1 Identifying Ions In Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c9548a974db516e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solubility Rules.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solubility Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solubility Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Solubility Rules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Solubility Rules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,11 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c9548a974db516e",
+  "active": "491ce360698fdb58",
   "lastOpenFiles": [
+    "Solubility Rules.md",
     "Pasted image 20240902151308.png",
     "Chemistry 16.1 Identifying Ions In Solution.md",
-    "Solubility Rules.md",
     "Ion.md",
     "Ionic substance.md",
     "Anion.md",
@@ -247,7 +224,6 @@
     "NoahsObsidianSync/Pasted image 20240809205918.png",
     "NoahsObsidianSync/Pasted image 20240809205913.png",
     "NoahsObsidianSync/Pasted image 20240809182441.png",
-    "NoahsObsidianSync/Pasted image 20240808195927.png",
     "NoahsObsidianSync/Maths assignment solution .pdf",
     "NoahsObsidianSync/Excalidraw",
     "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
