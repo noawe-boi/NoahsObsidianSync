@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Acid.md"
+              }
             }
           },
           {
@@ -201,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Acid.md"
+              }
             }
           },
           {
@@ -245,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c647e81aabccecd",
+  "active": "541354b24c1e0b4d",
   "lastOpenFiles": [
     "Self Ionization.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
