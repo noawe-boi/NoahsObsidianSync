@@ -47,12 +47,28 @@
             "id": "58581c508a079fea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f264077f9789a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alkali.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -119,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Acid.md"
+              }
             }
           },
           {
@@ -176,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Acid.md"
+              }
             }
           },
           {
@@ -220,10 +243,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "541354b24c1e0b4d",
   "lastOpenFiles": [
-    "Acid.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "Alkali.md",
+    "Base.md",
+    "Acid.md",
     "05-09-2024.md",
     "conflict-files-obsidian-git.md",
     "Specialist Maths IA3 Exam Revision.md",
@@ -248,8 +273,6 @@
     "Physics Alternate Sequence Practice Exam 2020.md",
     "Physics alter.md",
     "Excalidraw/Physics 10.2 Review.md",
-    "Year 11 Chemistry IA4.md",
-    "Year 11 Maths Methods IA3 Revision.md",
     "NoahsObsidianSync/risk assessment.pdf",
     "NoahsObsidianSync/Recording 20240215094430.webm",
     "NoahsObsidianSync/Pasted image 20240809230840.png",
