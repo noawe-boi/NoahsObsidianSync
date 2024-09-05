@@ -1,1 +1,2 @@
-A substance that Dissociates in water to create hydroxide waters
+### Definition
+A substance that dissociates (dissolves) in water to create hydroxide waters

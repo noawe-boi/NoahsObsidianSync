@@ -1,1 +1,1 @@
-Dissiociates itsself to create hydronian ions and 
+Dissociates itsself to create hydronian ions and 
