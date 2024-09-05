@@ -1,3 +1,8 @@
+---
+tags:
+  - chem
+  - definition
+---
 
 ## Arrhenius model
 ### Definition
