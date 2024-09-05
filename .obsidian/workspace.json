@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7bd31a67f5915c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0eb526bd083d5214",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+                "file": "05-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+                "file": "05-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md"
+                "file": "05-09-2024.md"
               }
             }
           },
@@ -174,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md"
+                "file": "05-09-2024.md"
               }
             }
           },
@@ -219,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40fd8f43de96df85",
+  "active": "7bd31a67f5915c1a",
   "lastOpenFiles": [
-    "05-09-2024.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "05-09-2024.md",
     "Alkali.md",
     "Resonance and natural frequency.md",
     "Pulse.md",
