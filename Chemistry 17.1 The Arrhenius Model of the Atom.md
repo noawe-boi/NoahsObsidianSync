@@ -21,7 +21,4 @@ tags:
 
 ![[pH]]
 
-$$
-\
-
-$$
+<span style="color:red">test</span>
