@@ -12,3 +12,4 @@ tags:
 ![[Alkali]]
 
 
+![[Self Ionization]]
