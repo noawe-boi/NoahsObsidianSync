@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "26c9e4e797d725ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9346dde6e4126d2b",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-09-2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-09-2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-09-2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05-09-2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -231,17 +243,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbec3ea723068126",
+  "active": "26c9e4e797d725ea",
   "lastOpenFiles": [
-    "Specialist Maths IA3 Exam Revision.md",
+    "05-09-2024.md",
     "conflict-files-obsidian-git.md",
+    "pH.md",
+    "Specialist Maths IA3 Exam Revision.md",
     "Self Ionization.md",
     "Excalidraw/Chem Ions Diagram 1.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "Base.md",
     "Alkali.md",
     "Acid.md",
-    "05-09-2024.md",
     "The Maths Method.md",
     "Holidays TODO.md",
     "2024 Projects.md",
@@ -259,7 +272,6 @@
     "Cation.md",
     "Anion.md",
     "2024-W35.md",
-    "2-09-2024.md",
     "Chemistry IA4 Canvas.canvas",
     "20240831_04h40m08s_grim.png",
     "20240831_00h07m46s_grim.png",
