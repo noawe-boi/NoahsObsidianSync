@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acid",
+                "query": "tag:#Note",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -269,6 +269,8 @@
   },
   "active": "8c647e81aabccecd",
   "lastOpenFiles": [
+    "Pulse.md",
+    "Microcontroller Interfacing and IO  Assessment.md",
     "Alkali.md",
     "Self Ionization.md",
     "Base.md",
@@ -295,8 +297,6 @@
     "Untitled 25.md",
     "Physics 12.2 Bohr Model of the Atom.md",
     "Rutherford's Model of the Atom.md",
-    "Physics 2024 Exam Revision.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
     "NoahsObsidianSync/risk assessment.pdf",
     "NoahsObsidianSync/Recording 20240215094430.webm",
     "NoahsObsidianSync/Pasted image 20240809230840.png",
