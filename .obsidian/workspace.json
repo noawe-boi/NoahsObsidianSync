@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alkali.md",
+                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alkali.md",
+                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alkali.md"
+                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Alkali.md"
+                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md"
               }
             }
           },
@@ -243,11 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f264077f9789a98",
+  "active": "40fd8f43de96df85",
   "lastOpenFiles": [
+    "Alkali.md",
     "Base.md",
     "Acid.md",
-    "Alkali.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "05-09-2024.md",
     "conflict-files-obsidian-git.md",

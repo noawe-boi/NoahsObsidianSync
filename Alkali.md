@@ -1,1 +1,4 @@
-Dissociates itsself to create hydronian ions ($H_3O^+$and hydroxide ions
+
+## Arrhenius model
+### Definition
+Dissociates itself to create hydronian ions ($H_3O^+$) and hydroxide ions ($OH^-$)
