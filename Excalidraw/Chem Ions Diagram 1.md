@@ -8,6 +8,13 @@ tags: [excalidraw]
 
 
 # Text Elements
+Weak ^fAd2Gf25
+
+Strongest 
+(most diccociated
+and highest concentration)
+ ^VoKMcfM9
+
 %%
 # Drawing
 ```json
@@ -14283,12 +14290,86 @@ tags: [excalidraw]
 				0.2412109375,
 				0
 			]
+		},
+		{
+			"id": "fAd2Gf25",
+			"type": "text",
+			"x": -381.2462436254857,
+			"y": 358.14579269448507,
+			"width": 48.939971923828125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2138272420,
+			"version": 10,
+			"versionNonce": 619121180,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1725501691114,
+			"link": null,
+			"locked": false,
+			"text": "Weak",
+			"rawText": "Weak",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17,
+			"containerId": null,
+			"originalText": "Weak",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "VoKMcfM9",
+			"type": "text",
+			"x": -35.79457579707321,
+			"y": 374.99708257207374,
+			"width": 258.19976806640625,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 709374748,
+			"version": 101,
+			"versionNonce": 1467021988,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1725501717234,
+			"link": null,
+			"locked": false,
+			"text": "Strongest \n(most diccociated\nand highest concentration)\n",
+			"rawText": "Strongest \n(most diccociated\nand highest concentration)\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 92,
+			"containerId": null,
+			"originalText": "Strongest \n(most diccociated\nand highest concentration)\n",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
