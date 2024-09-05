@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04dddad9a6aa98da",
+        "id": "7daa65e526e30cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf28930b09f80bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-09-2024.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "098e84aea49b83b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry 16.1 Identifying Ions In Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbec3ea723068126",
+            "id": "009f971d5b33d6c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,43 +20,30 @@
             }
           },
           {
-            "id": "26c9e4e797d725ea",
+            "id": "40fd8f43de96df85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9346dde6e4126d2b",
+            "id": "7bd31a67f5915c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Maths Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f6e77ae46d8fcf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holidays TODO.md",
+                "file": "05-09-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,12 +72,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#Note",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -148,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "05-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "05-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "05-09-2024.md"
               }
             }
           },
@@ -210,12 +173,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "05-09-2024.md"
               }
             }
           },
           {
-            "id": "cb068b3e7b999cf4",
+            "id": "bd2fda190556b421",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d1742cc931a06a6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -223,77 +194,82 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-tts:Text to Speech": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "audio-recorder:Start/stop recording": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26c9e4e797d725ea",
+  "active": "009f971d5b33d6c5",
   "lastOpenFiles": [
-    "05-09-2024.md",
-    "conflict-files-obsidian-git.md",
-    "pH.md",
-    "Specialist Maths IA3 Exam Revision.md",
-    "Self Ionization.md",
-    "Excalidraw/Chem Ions Diagram 1.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
-    "Base.md",
-    "Alkali.md",
-    "Acid.md",
+    "05-09-2024.md",
     "The Maths Method.md",
-    "Holidays TODO.md",
-    "2024 Projects.md",
-    "Chemistry 16.1 Identifying Ions In Solution.md",
-    "02-09-2024.md",
-    "Untitled 25.md",
-    "Untitled 24.md",
-    "Solubility Rules.md",
-    "Physics alter.md",
-    "Physics 2024 Exam Revision.md",
-    "Pasted image 20240902151308.png",
-    "Ionic substance.md",
-    "Ion.md",
-    "English 26-08-2024.md",
-    "Cation.md",
-    "Anion.md",
+    "Alkali.md",
+    "Resonance and natural frequency.md",
+    "Pulse.md",
+    "Microcontroller Interfacing and IO  Assessment.md",
+    "Self Ionization.md",
+    "Base.md",
+    "pH.md",
+    "Excalidraw/Chem Ions Diagram 1.md",
+    "Acid.md",
+    "conflict-files-obsidian-git.md",
+    "Specialist Maths IA3 Exam Revision.md",
     "2024-W35.md",
+    "2-09-2024.md",
+    "Solubility Rules.md",
+    "Pasted image 20240902151308.png",
+    "Chemistry 16.1 Identifying Ions In Solution.md",
+    "Ion.md",
+    "Ionic substance.md",
+    "Anion.md",
     "Chemistry IA4 Canvas.canvas",
-    "20240831_04h40m08s_grim.png",
-    "20240831_00h07m46s_grim.png",
-    "20240830_04h43m10s_grim.png",
-    "20240830_04h38m22s_grim.png",
-    "20240830_03h42m17s_grim.png",
-    "20240830_03h42m06s_grim 1.png",
-    "20240830_03h42m06s_grim.png",
-    "20240830_03h39m20s_grim.png",
-    "Pasted image 20240809214836.png",
+    "Cation.md",
+    "Holidays TODO.md",
+    "02-09-2024.md",
+    "2024 Projects.md",
+    "Untitled 25.md",
+    "NoahsObsidianSync/risk assessment.pdf",
+    "NoahsObsidianSync/Recording 20240215094430.webm",
+    "NoahsObsidianSync/Pasted image 20240809230840.png",
+    "NoahsObsidianSync/Pasted image 20240809230344.png",
+    "NoahsObsidianSync/Pasted image 20240809230341.png",
+    "NoahsObsidianSync/Pasted image 20240809214836.png",
+    "NoahsObsidianSync/Pasted image 20240809210037.png",
+    "NoahsObsidianSync/Pasted image 20240809210029.png",
+    "NoahsObsidianSync/Pasted image 20240809205918.png",
+    "NoahsObsidianSync/Pasted image 20240809205913.png",
+    "NoahsObsidianSync/Pasted image 20240809182441.png",
+    "NoahsObsidianSync/Maths assignment solution .pdf",
+    "NoahsObsidianSync/Excalidraw",
+    "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
+    "NoahsObsidianSync/Calculated max distance .pdf",
+    "NoahsObsidianSync",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
     "gitkey.pub",
-    "gitkey",
-    "Maths assignment solution .pdf",
-    "Calculated max distance .pdf",
-    "Recording 20240215094430.webm",
     "Physics 9.1 Describing a wave.canvas",
-    "Physics",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
