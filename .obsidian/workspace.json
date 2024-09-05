@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "b5cbdef938f10170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9346dde6e4126d2b",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Specialist Maths IA3 Exam Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -231,15 +243,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbec3ea723068126",
+  "active": "b5cbdef938f10170",
   "lastOpenFiles": [
-    "The Maths Method.md",
     "Specialist Maths IA3 Exam Revision.md",
+    "conflict-files-obsidian-git.md",
+    "Self Ionization.md",
+    "Excalidraw/Chem Ions Diagram 1.md",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "Base.md",
+    "Alkali.md",
+    "Acid.md",
+    "05-09-2024.md",
+    "The Maths Method.md",
     "Holidays TODO.md",
     "2024 Projects.md",
     "Chemistry 16.1 Identifying Ions In Solution.md",
     "02-09-2024.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 25.md",
     "Untitled 24.md",
     "Solubility Rules.md",
@@ -253,22 +272,15 @@
     "Anion.md",
     "2024-W35.md",
     "2-09-2024.md",
-    "Year 11 Chemistry IA4.md",
     "Chemistry IA4 Canvas.canvas",
     "20240831_04h40m08s_grim.png",
     "20240831_00h07m46s_grim.png",
     "20240830_04h43m10s_grim.png",
     "20240830_04h38m22s_grim.png",
     "20240830_03h42m17s_grim.png",
-    "Year 11 Maths Methods IA3 Revision.md",
-    "Chemistry IA2.md",
     "20240830_03h42m06s_grim 1.png",
     "20240830_03h42m06s_grim.png",
     "20240830_03h39m20s_grim.png",
-    "Grade 11 Chemistry IA3.md",
-    "chemistry ia3.md",
-    "Excalidraw/TAFE_NAT10935004_Diagram.md",
-    "Math's Methods PSMT T2 Sources ~ Media.md",
     "Pasted image 20240809214836.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
