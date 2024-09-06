@@ -24,6 +24,10 @@ tag:
 - Q7
 - Q21
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 ##### Chapter 10
 - Q17
 
@@ -33,7 +37,7 @@ tag:
 
 #### Don't know (heavily revise)
 
-##### Chapter 7
+##### Chapter 7 
 - Q23 - *b)* 
 
 ##### Chapter 8

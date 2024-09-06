@@ -1,13 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
+  "calendar",
   "obsidian-git",
-  "markdown-table-editor",
-  "obsidian-discordrpc",
-  "better-word-count",
-  "obsidian-tts",
-  "obsidian-languagetool-plugin",
-  "obsidian-plugin-toc",
   "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-desmos",
-  "3d-graph"
+  "markdown-table-editor",
+  "obsidian-excalidraw-plugin",
+  "obsidian-discordrpc"
 ]

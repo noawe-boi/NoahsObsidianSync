@@ -1,0 +1,3 @@
+- Do All Chapter Reviews
+- Textbook questions for questions weak in
+- Practice exams

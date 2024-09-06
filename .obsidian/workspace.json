@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd988aa69b49adee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,44 +198,45 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6df3fbdbe637c9fa",
+  "active": "fd988aa69b49adee",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Year 11 Maths Methods IA3 Revision.md",
-    "Excalidraw/TAFE_NAT10935004_Diagram.md",
-    "Math's Methods PSMT T2 Sources ~ Media.md",
-    "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
-    "Physics Alternate Sequence Practice Exam 2020.md",
-    "Year 11 Maths IA3 Traffic Light.md",
-    "whatevs.md",
-    "Lion Questions 19-8-2024.md",
-    "maths test.md",
-    "Year 11 Chemistry IA3.md",
-    "Microcontroller Interfacing and IO  Assessment.md",
-    "Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
-    "Chemistry IA2.md",
+    "conflict-files-obsidian-git.md",
+    "pH.md",
+    "chemistry ia3.md",
+    "Year 11 Chemistry IA4.md",
+    "Untitled 25.md",
+    "Untitled 24.md",
+    "The Maths Method.md",
+    "Specialist Maths IA3 Exam Revision.md",
+    "Solubility Rules.md",
+    "Self Ionization.md",
+    "Physics alter.md",
+    "Physics 2024 Exam Revision.md",
+    "Pasted image 20240902151308.png",
+    "Ionic substance.md",
+    "Ion.md",
+    "Holidays TODO.md",
+    "Excalidraw/Chem Ions Diagram 1.md",
+    "English 26-08-2024.md",
+    "Chemistry IA4 Canvas.canvas",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "Chemistry 16.1 Identifying Ions In Solution.md",
+    "Cation.md",
+    "Base.md",
+    "Anion.md",
+    "Alkali.md",
+    "Acid.md",
+    "20240831_04h40m08s_grim.png",
+    "20240831_00h07m46s_grim.png",
+    "20240830_04h43m10s_grim.png",
+    "20240830_04h38m22s_grim.png",
+    "20240830_03h42m17s_grim.png",
+    "20240830_03h42m06s_grim.png",
+    "20240830_03h42m06s_grim 1.png",
+    "20240830_03h39m20s_grim.png",
+    "2024-W35.md",
     "Pasted image 20240809214836.png",
-    "Physics 12.2 Bohr Model of the Atom.md",
-    "Lion Timeline.md",
-    "Excalidraw/Hydrogen spectrum.md",
-    "Excalidraw/Electorn Photon Series.md",
-    "Excalidraw/Bohr Atom model energy level.md",
-    "Excalidraw/Bohr Atom energy levels labelled.md",
-    "Energy for each level.md",
-    "Balmer Equation.md",
-    "Angular Momentum.md",
-    "Chem IA2 Risk Assessment.md",
-    "Pasted image 20240809230840.png",
-    "Pasted image 20240809230344.png",
-    "Pasted image 20240809230341.png",
-    "Pasted image 20240809182441.png",
-    "Pasted image 20240809210037.png",
-    "Pasted image 20240809210029.png",
-    "Pasted image 20240809205918.png",
-    "Pasted image 20240809205913.png",
-    "Rutherford's Model of the Atom.md",
-    "Physics 12.1 Rutherford's Model of the Atom.md",
-    "Pasted image 20240808195927.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
