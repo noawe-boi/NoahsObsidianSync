@@ -160,6 +160,14 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "50925a3028af229d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -172,7 +180,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-tts:Text to Speech": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,8 +188,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "3d-graph:3D Graph": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "01c93f9796b7a131",
