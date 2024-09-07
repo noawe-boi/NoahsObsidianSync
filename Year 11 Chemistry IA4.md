@@ -85,34 +85,33 @@ A study conducted by *Argonne National Laboratory Transportation Technology R&D 
 
 Figure 1 shows the measured and predicted 
 ###### Trends, patterns or relationships
-In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest components in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline releases over 500 grams $CO_2$ per mile while E95 releases less than 400 grams.  
+In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest components in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline releases over 500 grams $CO_2$ per mile while E95 releases 20% less, at 400 grams per mile.  
 
+Clearly as the ethanol content of the fuel increases, net  $CO_2$  emissions decrease. 
 
-Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ present in emissions decreases. 
-
-
+Additionally, since this data compares a fixed volume of $CO_2$ with an average, fixed, amount of energy, no adjustments have to be made to compensate for the lower energy-per-mole of ethanol in comparison to standard unleaded petrol. 
 ###### Limitations
 - Assumed that amount of $CO_2$ released in production remains constant. may vary between gasoline and ethanol. Not really a limitation of evidence though... self imposed due to lack of evidence. 
 - CO^2  is likley less due to the fact that the crops it is made of absorb co2 from the atmosphere
 
-
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_manildra_group_-_k._beavon_-_1_aug_2016_200800000.pdf
-"Comparison of emissions and fuel consumption of a passenger vehicle on two fuels", A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations.  
+"Comparison of emissions and fuel consumption of a passenger vehicle on two fuels", A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle  (NEDC), a set load series created to benchmark many aspects of vehicles.
 
 
 ![[Pasted image 20240907152140.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 2: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10</span>
 
 ###### Trends, patterns or relationships
-Figure 2 is a table containing the results from the study's emissions tests.
+Figure 2 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a $5\%$ decrease in grams of $CO_2$ released per 100 km. 
+While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such. 
 
-
+This evidence further supports the argument that higher ethanol content in fuel decreases $CO_2$ emissions, therefore supporting the research question. 
 
 
 ###### Limitations
-
+Small sample size (literally one car)
 
 ##### *Analysis 3* of qualitative and quantitative data that identifies
 ###### Relevant evidence
@@ -121,12 +120,17 @@ Figure 2 is a table containing the results from the study's emissions tests.
 
 
 ###### Trends, patterns or relationships
-
-
+![[Pasted image 20240907152018.png]]
+<span style="color:grey; font-size:16;font-family:Arial">Figure 3: Percentage variation of emissions compared to standard ULP, considered baseline</span>
 
 
 
 ###### Limitations
+
+
+
+
+
 
 ##### Insightful *interpretation* of evidence justified by scientific arguments
 
@@ -144,7 +148,8 @@ Figure 2 is a table containing the results from the study's emissions tests.
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
 - Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
-- How could higher ethanol content fuels compare, do these trends continue?
+- How could 100% ethanol content fuels compare, do these trends continue?
+- $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the enviroment?
 
 
 

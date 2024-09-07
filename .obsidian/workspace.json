@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b38850fcf7398ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-09-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46a2af28c190f0ec",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc17ed825f5a086b",
@@ -46,9 +33,9 @@
               "state": {
                 "file": "Chemistry IA4 Canvas.canvas",
                 "viewState": {
-                  "x": 13178.987394085578,
-                  "y": -2653.4344091301855,
-                  "zoom": 0.20000000000000007
+                  "x": 12947.765389397558,
+                  "y": -1813.4311725422117,
+                  "zoom": -0.19999999999999984
                 }
               }
             }
@@ -218,10 +205,11 @@
   },
   "active": "46a2af28c190f0ec",
   "lastOpenFiles": [
-    "Banana Milkshake Recipe.md",
-    "Year 11 Chemistry IA4.md",
     "Chemistry IA4 Canvas.canvas",
+    "Year 11 Chemistry IA4.md",
     "05-09-2024.md",
+    "07-09-2024.md",
+    "Banana Milkshake Recipe.md",
     "Chemistry IA2.md",
     "Pasted image 20240907152140.png",
     "Pasted image 20240907152018.png",
@@ -248,9 +236,7 @@
     "Untitled 24.md",
     "Solubility Rules.md",
     "Physics alter.md",
-    "Physics 2024 Exam Revision.md",
     "Pasted image 20240902151308.png",
-    "Ionic substance.md",
     "20240831_04h40m08s_grim.png",
     "20240831_00h07m46s_grim.png",
     "20240830_04h43m10s_grim.png",
