@@ -21,7 +21,14 @@
 		{"id":"9b3d44f4cea5ba07","type":"text","text":"While this metric cannot directly be converted into a g/kWh metric, it does show the realtionship between energy output and ammount of $CO_2$ produced","x":5740,"y":-1121,"width":710,"height":126},
 		{"id":"4aee93a200bdb961","type":"text","text":"````\n  ______________________________________\n/ remember to mention youre only talking \\\n\\ about combustion                       /\n  --------------------------------------\n        \\   ^__^\n         \\  (oo)\\_______\n            (__)\\       )\\/\\\n                ||----w |\n                ||     ||","x":5075,"y":-3480,"width":589,"height":384},
 		{"id":"9471297d1ba8a079","type":"text","text":"Assumption:\n\nAmmount of $CO_2$ produced during the production of bo fuels is negligible as the plants absorb $CO_2$","x":5684,"y":-3480,"width":250,"height":384},
-		{"id":"000b212273b46de5","type":"text","text":"Conclusion?\nDoes production of ethanol create more CO2 than gasoline? does this cancel out?","x":2336,"y":-640,"width":710,"height":188,"color":"3"}
+		{"id":"000b212273b46de5","type":"text","text":"Conclusion?\nDoes production of ethanol create more CO2 than gasoline? does this cancel out?","x":2459,"y":-580,"width":710,"height":188,"color":"3"},
+		{"id":"a9f2642b348224e7","type":"file","file":"Pasted image 20240907151007.png","x":9920,"y":-2176,"width":1442,"height":460},
+		{"id":"f8908d3e18a5270c","type":"text","text":"Bro wtf\nhttps://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle","x":9920,"y":-1716,"width":962,"height":99,"color":"5"},
+		{"id":"3ec6ab9b595090ae","type":"file","file":"Pasted image 20240907151959.png","x":12620,"y":-2165,"width":1080,"height":548,"color":"5"},
+		{"id":"5d9851f433aeb2b0","type":"file","file":"Pasted image 20240907152018.png","x":12640,"y":-1600,"width":1040,"height":620,"color":"5"},
+		{"id":"badc555d0ab9880b","type":"file","file":"Pasted image 20240907152140.png","x":13060,"y":-3472,"width":940,"height":684,"color":"5"},
+		{"id":"f8fab4331f94e723","type":"text","text":"\nhttps://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf","x":12420,"y":-2295,"width":1553,"height":130,"color":"5"},
+		{"id":"a76666042c330506","type":"text","text":"https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_manildra_group_-_k._beavon_-_1_aug_2016_200800000.pdf","x":12780,"y":-2788,"width":1440,"height":60,"color":"5"}
 	],
 	"edges":[]
 }

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a03f1f2ca919fa38",
+        "id": "04dddad9a6aa98da",
         "type": "tabs",
         "children": [
           {
-            "id": "6df3fbdbe637c9fa",
+            "id": "b38850fcf7398ae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 11 Maths Methods IA3 Revision.md",
+                "file": "05-09-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd988aa69b49adee",
+            "id": "46a2af28c190f0ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "cc17ed825f5a086b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8400fa22615a9c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chemistry IA4 Canvas.canvas",
+                "viewState": {
+                  "x": 13178.987394085578,
+                  "y": -2653.4344091301855,
+                  "zoom": 0.20000000000000007
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -162,31 +183,27 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
           {
-            "id": "44b83a1e8732720a",
+            "id": "cb068b3e7b999cf4",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-tts:Text to Speech": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,49 +211,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "3d-graph:3D Graph": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd988aa69b49adee",
+  "active": "46a2af28c190f0ec",
   "lastOpenFiles": [
-    "Year 11 Maths Methods IA3 Revision.md",
+    "Banana Milkshake Recipe.md",
+    "Year 11 Chemistry IA4.md",
+    "Chemistry IA4 Canvas.canvas",
+    "05-09-2024.md",
+    "Chemistry IA2.md",
+    "Pasted image 20240907152140.png",
+    "Pasted image 20240907152018.png",
+    "Pasted image 20240907151959.png",
+    "Pasted image 20240907151007.png",
+    "Pasted image 20240907150040.png",
+    "chemistry ia3.md",
+    "06-09-2024.md",
+    "02-09-2024.md",
+    "Holidays TODO.md",
+    "2024 Projects.md",
+    "The Maths Method.md",
     "conflict-files-obsidian-git.md",
     "pH.md",
-    "chemistry ia3.md",
-    "Year 11 Chemistry IA4.md",
+    "Specialist Maths IA3 Exam Revision.md",
+    "Self Ionization.md",
+    "Excalidraw/Chem Ions Diagram 1.md",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "Base.md",
+    "Alkali.md",
+    "Acid.md",
+    "Chemistry 16.1 Identifying Ions In Solution.md",
     "Untitled 25.md",
     "Untitled 24.md",
-    "The Maths Method.md",
-    "Specialist Maths IA3 Exam Revision.md",
     "Solubility Rules.md",
-    "Self Ionization.md",
     "Physics alter.md",
     "Physics 2024 Exam Revision.md",
     "Pasted image 20240902151308.png",
     "Ionic substance.md",
-    "Ion.md",
-    "Holidays TODO.md",
-    "Excalidraw/Chem Ions Diagram 1.md",
-    "English 26-08-2024.md",
-    "Chemistry IA4 Canvas.canvas",
-    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
-    "Chemistry 16.1 Identifying Ions In Solution.md",
-    "Cation.md",
-    "Base.md",
-    "Anion.md",
-    "Alkali.md",
-    "Acid.md",
     "20240831_04h40m08s_grim.png",
     "20240831_00h07m46s_grim.png",
     "20240830_04h43m10s_grim.png",
     "20240830_04h38m22s_grim.png",
-    "20240830_03h42m17s_grim.png",
-    "20240830_03h42m06s_grim.png",
-    "20240830_03h42m06s_grim 1.png",
-    "20240830_03h39m20s_grim.png",
-    "2024-W35.md",
-    "Pasted image 20240809214836.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",

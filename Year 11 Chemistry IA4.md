@@ -1,3 +1,8 @@
+---
+tags:
+  - assignment
+  - chem
+---
 
 
 ### Research and planning
@@ -34,6 +39,7 @@ Consider the combustion reaction for biofuel, ethanol, in comparison to it's tra
 
 While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion.
 The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy when burned. 
+**Ideal conditions ^**
 
 Gasoline
 (https://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php)
@@ -87,21 +93,20 @@ Clearly as the ethanol content of the fuel increases, the amount of $CO_2$ prese
 
 ###### Limitations
 - Assumed that amount of $CO_2$ released in production remains constant. may vary between gasoline and ethanol. Not really a limitation of evidence though... self imposed due to lack of evidence. 
-- 
+- CO^2  is likley less due to the fact that the crops it is made of absorb co2 from the atmosphere
 
 
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
-https://www.nrel.gov/docs/legosti/fy98/24772.pdf
-A joint study conducted by the National Renewable Energy Laboratory aimed to quantify and compare the 
+https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_manildra_group_-_k._beavon_-_1_aug_2016_200800000.pdf
+"Comparison of emissions and fuel consumption of a passenger vehicle on two fuels", A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations.  
 
-![[20240830_03h42m06s_grim.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 2: LCI Air Emissions for Biodiesel</span>
-![[20240830_03h42m17s_grim.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 3: LCI Air Emissions for Petroleum Diesel</span>
+
+![[Pasted image 20240907152140.png]]
+<span style="color:grey; font-size:16;font-family:Arial">Figure 2: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10</span>
 
 ###### Trends, patterns or relationships
-
+Figure 2 is a table containing the results from the study's emissions tests.
 
 
 
@@ -111,7 +116,6 @@ A joint study conducted by the National Renewable Energy Laboratory aimed to qua
 
 ##### *Analysis 3* of qualitative and quantitative data that identifies
 ###### Relevant evidence
-
 
 
 
@@ -139,6 +143,8 @@ A joint study conducted by the National Renewable Energy Laboratory aimed to qua
 ###### reasonable description of quality of evidence
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
+- Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
+- How could higher ethanol content fuels compare, do these trends continue?
 
 
 
