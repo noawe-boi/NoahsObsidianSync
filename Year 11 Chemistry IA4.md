@@ -117,6 +117,9 @@ Small sample size (literally one car)
 ##### *Analysis 3* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 ![[Pasted image 20240907152018.png]]
+<span style="color:grey; font-size:16;font-family:Arial">Figure 3: Percentage variation of emissions compared to standard ULP, considered baseline</span>
+
+
 https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf
 
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (https://afdc.energy.gov/vehicles/flexible-fuel). The study tested 3 types of fuel: 
@@ -131,8 +134,8 @@ The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexi
 
 
 
-In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and UDC driving cycles, where it varied from -3%, to 1%. 
-E85, however, showed significant deviation 
+In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
+E85, however, showed significant deviation from baseline
 
 
 
