@@ -82,7 +82,6 @@ A study conducted by *Argonne National Laboratory Transportation Technology R&D 
 
 ![[20240831_04h40m08s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas</span>
-**TODO: ADD CITATION FOR GRAPHS**
 
 Figure 1 shows the measured and predicted 
 ###### Trends, patterns or relationships
@@ -108,7 +107,7 @@ https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_m
 Figure 2 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a $5\%$ decrease in grams of $CO_2$ released per 100 km. 
 While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such. 
 
-This evidence further supports the argument that higher ethanol content in fuel decreases $CO_2$ emissions, therefore supporting the research question. 
+ 
 
 
 ###### Limitations
@@ -130,19 +129,23 @@ These fuels were compared further against multiple load, or driving, cycles.
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
 | <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         |
 | <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         |
+
 <span style="color:grey;font-size:16px; font-family:Arial">
 Figure 3: A table containing different driving cycles tested and a brief description of their content
 </span>
-
+https://www.drivesmart.co.uk/hpNEDC.aspx
+https://dieselnet.com/standards/cycles/ece_eudc.php
 
 ![[Pasted image 20240907152018.png]]
 <span style="color:grey; font-size:16px;font-family:Arial">Figure 4: Percentage variation of emissions compared to standard ULP, considered baseline</span>
 
 
-Figure 4 is a table that compares the quantity various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
+Figure 4 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
-E85, however, showed significant deviation from baseline results in all driving cycles. $CO_2$ emissions were greatly decreased 
+E85, however, showed slight deviation from baseline results in all driving cycles. $CO_2$ emissions were  decreased by a maximum of 5%, and a minimum of 4%, in the UDC, and both NEDC and EUDC driving cycles respectively. E85 Showed an overall average 4.3% decrease in $CO_2$ emissions across all driving cycles. 
+
+While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
 
 
 
@@ -151,7 +154,9 @@ E85, however, showed significant deviation from baseline results in all driving 
 
 
 ###### Limitations
-
+- Single vehicle sample size
+- Only 3 back to back test for each fuel in each cycle. 
+- All tests conducted hot, What about in non ideal - cold start conditions. if only driving for short peroids of time, are emissions worse than ULP?
 
 
 
