@@ -116,14 +116,28 @@ Small sample size (literally one car)
 
 ##### *Analysis 3* of qualitative and quantitative data that identifies
 ###### Relevant evidence
-
+![[Pasted image 20240907152018.png]]
 https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf
 
-The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 83% (https://afdc.energy.gov/vehicles/flexible-fuel). 
-![[Pasted image 20240907152018.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 3: Percentage variation of emissions compared to standard ULP, considered baseline</span>
-###### Trends, patterns or relationships
-Figure 3 is a table showing the relevant results from the study. 
+The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (https://afdc.energy.gov/vehicles/flexible-fuel). The study tested 3 types of fuel: 
+- Regular Unleaded Petrol (ULP) 
+- E10 (approx 10% Ethanol, 90% ULP, by volume) (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
+- E85 (up to 85% Ethanol, 15% ULP, by volume) (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
+ 
+| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> |
+| :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         |
+| <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         |
+
+
+
+In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and UDC driving cycles, where it varied from -3%, to 1%. 
+E85, however, showed significant deviation 
+
+
+
+
+
 
 
 ###### Limitations
