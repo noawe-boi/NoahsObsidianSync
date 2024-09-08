@@ -130,17 +130,19 @@ These fuels were compared further against multiple load, or driving, cycles.
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
 | <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         |
 | <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         |
-<span style="color:grey;,font-size:16; font-family:Arial">
+<span style="color:grey;font-size:16px; font-family:Arial">
 Figure 3: A table containing different driving cycles tested and a brief description of their content
 </span>
+
+
 ![[Pasted image 20240907152018.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 4: Percentage variation of emissions compared to standard ULP, considered baseline</span>
+<span style="color:grey; font-size:16px;font-family:Arial">Figure 4: Percentage variation of emissions compared to standard ULP, considered baseline</span>
 
 
-Figure 4 is a table that compares the quantity various emission components produced throughout each driving cycle, against the type of fuel burned. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
+Figure 4 is a table that compares the quantity various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
-E85, however, showed significant deviation from baseline results in all driving cycles
+E85, however, showed significant deviation from baseline results in all driving cycles. $CO_2$ emissions were greatly decreased 
 
 
 
