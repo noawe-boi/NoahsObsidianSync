@@ -20,10 +20,10 @@ Evaluate the impact of fossil fuels and biofuels on the environment
 Ethanol and gasoline
 
 ##### Investigate phenomena associated with claim
-- What are biofuels?
+###### What are biofuels?
 Biofuels are fuels created using plants or other forms of biomass. The most well known and utilised by the public are ethanol and methanol. These Biofuels are most commonly added to traditional fuels or are components in standalone alternatives.
 
-- Why are these fuels different (molecules)
+###### Why are these fuels different (molecules)
 While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, another major factor is the amounts of greenhouse gasses, such as $CO_2$, produced in their combustion. 
 
 
@@ -51,17 +51,18 @@ Ethanol
 
 
 
-- What happens during combustion (bonds broken etc)
--  $\Delta$Enthalpy (how are energy output different)
-- One real world use 
+###### What happens during combustion (bonds broken etc)
+###### $\Delta$Enthalpy (how are energy output different)
+###### One real world use 
+
 
 ##### Demonstrate development of the research question from the claim
-- What effect does more or lack of $CO_2$ have
-- How are these fuels used and why?
+###### What effect does more or lack of $CO_2$ have
+###### How are these fuels used and why?
 	- to create energy
 	- in cars and other transport
-		- Explain what the E10, E95, etc, numbers mean for later when talking about them and comparing them
-- Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified 
+###### Explain what the E10, E95, etc, numbers mean for later when talking about them and comparing them 
+###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
 
 
 
@@ -116,13 +117,13 @@ Small sample size (literally one car)
 ##### *Analysis 3* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 
+https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf
 
-
-
-###### Trends, patterns or relationships
+The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 83% (https://afdc.energy.gov/vehicles/flexible-fuel). 
 ![[Pasted image 20240907152018.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 3: Percentage variation of emissions compared to standard ULP, considered baseline</span>
-
+###### Trends, patterns or relationships
+Figure 3 is a table showing the relevant results from the study. 
 
 
 ###### Limitations
