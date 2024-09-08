@@ -22,7 +22,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 85
   },
   "alwaysUpdateLinks": true,
   "vimMode": false
