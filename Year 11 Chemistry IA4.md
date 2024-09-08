@@ -124,17 +124,20 @@ The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexi
 - E10 (approx 10% Ethanol, 90% ULP, by volume) (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
 - E85 (up to 85% Ethanol, 15% ULP, by volume) (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
 
+These fuels were compared further against multiple load, or driving, cycles. 
 
 | <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> |
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
 | <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         |
 | <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         |
-
+<span style="color:grey;,font-size:16; font-family:Arial">
+Figure 3: A table containing different driving cycles tested and a brief description of their content
+</span>
 ![[Pasted image 20240907152018.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 3: Percentage variation of emissions compared to standard ULP, considered baseline</span>
+<span style="color:grey; font-size:16;font-family:Arial">Figure 4: Percentage variation of emissions compared to standard ULP, considered baseline</span>
 
 
-Figure 3 is a table that compares the quantity various emission components produced throughout each driving cycle, against the type of fuel burned. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
+Figure 4 is a table that compares the quantity various emission components produced throughout each driving cycle, against the type of fuel burned. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
 E85, however, showed significant deviation from baseline results in all driving cycles
