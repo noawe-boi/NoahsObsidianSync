@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7daa65e526e30cdd",
+        "id": "1136014df7397ccc",
         "type": "tabs",
         "children": [
           {
-            "id": "009f971d5b33d6c5",
+            "id": "82d4babde7ee5c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-09-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40fd8f43de96df85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry 17.1 The Arrhenius Model of the Atom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bd31a67f5915c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-09-2024.md",
+                "file": "Holidays TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-09-2024.md",
+                "file": "Holidays TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-09-2024.md",
+                "file": "Holidays TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-09-2024.md"
+                "file": "Holidays TODO.md"
               }
             }
           },
@@ -173,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05-09-2024.md"
+                "file": "Holidays TODO.md"
               }
             }
           },
@@ -215,10 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "009f971d5b33d6c5",
+  "active": "82d4babde7ee5c2a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2024 Projects.md",
+    "Holidays TODO.md",
     "05-09-2024.md",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "conflict-files-obsidian-git.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
     "Pasted image 20240907152140.png",
     "Pasted image 20240907152018.png",
@@ -229,7 +208,6 @@
     "08-09-2024.md",
     "07-09-2024.md",
     "06-09-2024.md",
-    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "The Maths Method.md",
     "Alkali.md",
     "Resonance and natural frequency.md",
@@ -248,7 +226,6 @@
     "Chemistry 16.1 Identifying Ions In Solution.md",
     "Ion.md",
     "Ionic substance.md",
-    "Anion.md",
     "Chemistry IA4 Canvas.canvas",
     "NoahsObsidianSync/risk assessment.pdf",
     "NoahsObsidianSync/Recording 20240215094430.webm",
