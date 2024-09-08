@@ -68,7 +68,7 @@ Ethanol
 
 ##### Specific and relevant research question 
 
-*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide per kWh of energy produced in comparison to pure unleaded gasoline?*
+*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide per kWh of energy produced in comparison to regular unleaded gasoline?*
 ##### Relevant Sources
 
 
