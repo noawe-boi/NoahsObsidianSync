@@ -1,3 +1,5 @@
 - Roots of unity
 - Integration
 - Confidence Intervals vs Standard error 
+- Equilibrium forces (when forces are equal and there is no movement)
+- 

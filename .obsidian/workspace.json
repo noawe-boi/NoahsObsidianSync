@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3bb6f2bdc917805e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 11 Specialist Maths Weak Areas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9829dced10cec86e",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Holidays TODO.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holidays TODO.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holidays TODO.md"
+                "file": "Year 11 Specialist Maths Weak Areas.md"
               }
             }
           },
@@ -161,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Holidays TODO.md"
+                "file": "Year 11 Specialist Maths Weak Areas.md"
               }
             }
           },
@@ -202,11 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82d4babde7ee5c2a",
+  "active": "3bb6f2bdc917805e",
   "lastOpenFiles": [
+    "Holidays TODO.md",
     "08-09-2024.md",
     "Year 11 Specialist Maths Weak Areas.md",
-    "Holidays TODO.md",
     "2024 Projects.md",
     "05-09-2024.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
