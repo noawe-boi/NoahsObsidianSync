@@ -176,13 +176,13 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-- Different cars, different weight, different areo. Other factors could infuince 
+- Different cars, different weight, different aero. Other factors could influence.. Maybe?
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
 - Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
 - How could 100% ethanol content fuels compare, do these trends continue?
-- $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the enviroment?
-Is this how janie fel when ehs was crashign out t felix 
+- $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the environment?
+
 
 
 
