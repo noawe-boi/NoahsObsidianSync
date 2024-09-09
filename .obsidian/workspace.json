@@ -4,95 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1136014df7397ccc",
+        "id": "704ff2218ea84b38",
         "type": "tabs",
         "children": [
           {
-            "id": "82d4babde7ee5c2a",
+            "id": "202c52fa306b95da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holidays TODO.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3bb6f2bdc917805e",
+            "id": "99f6169686b9a15a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Year 11 Specialist Maths Weak Areas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a1cda53ee2c4048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics Exam 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9437dcfa4df07b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 8.3 Lenz's Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e513d7fca1d796db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe4bf170d7c8822a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9829dced10cec86e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-09-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "Year 11 Chemistry IA4 Canvas.canvas",
+                "viewState": {
+                  "x": 1352.0883757964411,
+                  "y": -3988.5468414829443,
+                  "zoom": -0.5678975291329311
+                }
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-09-2024.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08-09-2024.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-09-2024.md"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -222,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08-09-2024.md"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -264,8 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9829dced10cec86e",
+  "active": "202c52fa306b95da",
   "lastOpenFiles": [
+    "Year 11 Chemistry IA4 Canvas.canvas",
+    "Year 11 Chemistry IA4.md",
+    "08-09-2024.md",
     "Pasted image 20240909122653.png",
     "Holidays TODO.md",
     "Year 11 Specialist Maths Weak Areas.md",
@@ -276,7 +221,6 @@
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "2020.md",
     "09-09-2024.md",
-    "08-09-2024.md",
     "07-09-2024.md",
     "06-09-2024.md",
     "05-09-2024.md",
@@ -284,7 +228,6 @@
     "2024 Projects.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "conflict-files-obsidian-git.md",
-    "Year 11 Chemistry IA4 Canvas.canvas",
     "Pasted image 20240907152140.png",
     "Pasted image 20240907152018.png",
     "Pasted image 20240907151959.png",
@@ -297,7 +240,6 @@
     "Pulse.md",
     "Microcontroller Interfacing and IO  Assessment.md",
     "Self Ionization.md",
-    "Base.md",
     "Pasted image 20240902151308.png",
     "Chemistry IA4 Canvas.canvas",
     "NoahsObsidianSync/risk assessment.pdf",
@@ -305,7 +247,6 @@
     "NoahsObsidianSync/Pasted image 20240809230840.png",
     "NoahsObsidianSync/Pasted image 20240809230344.png",
     "NoahsObsidianSync/Pasted image 20240809230341.png",
-    "NoahsObsidianSync/Pasted image 20240809214836.png",
     "NoahsObsidianSync/Maths assignment solution .pdf",
     "NoahsObsidianSync/Excalidraw",
     "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
