@@ -2,4 +2,4 @@
 - Integration
 - Confidence Intervals vs Standard error 
 - Equilibrium forces (when forces are equal and there is no movement)
-- 
+- Chain rule/product rule ahh question6
