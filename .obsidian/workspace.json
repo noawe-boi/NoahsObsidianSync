@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.2 Defining Magnetic Field Strength.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -264,10 +264,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe4bf170d7c8822a",
+  "active": "e513d7fca1d796db",
   "lastOpenFiles": [
-    "Physics 7.4 Magnetic forces on a moving charge.md",
     "Physics 8.3 Lenz's Law.md",
+    "Physics 7.4 Magnetic forces on a moving charge.md",
+    "Physics 7.2 Defining Magnetic Field Strength.md",
     "Physics Exam 2024.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "2020.md",
@@ -297,7 +298,6 @@
     "Self Ionization.md",
     "Base.md",
     "pH.md",
-    "Excalidraw/Chem Ions Diagram 1.md",
     "Pasted image 20240902151308.png",
     "Chemistry IA4 Canvas.canvas",
     "NoahsObsidianSync/risk assessment.pdf",
