@@ -120,15 +120,16 @@ https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_F
 
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (https://afdc.energy.gov/vehicles/flexible-fuel). The study tested 3 types of fuel: 
 - Regular Unleaded Petrol (ULP) 
-- E10 (approx 10% Ethanol, 90% ULP, by volume) (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
-- E85 (up to 85% Ethanol, 15% ULP, by volume) (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
+- E10 ($\approx10$% Ethanol, 90% ULP, by volume) (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
+- E85 ($\leq85$% Ethanol, 15% ULP, by volume) (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
 
 These fuels were compared further against multiple load, or driving, cycles. 
 
-| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> |
-| :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         |
-| <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         |
+| <span style="font-size: 15px;">Load Cycle</span>                        | <span style="font-size: 15px;">Description</span>                                                                           | <span style="font-size: 15px;">Total Driving Distance</span> |
+| :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> | $\approx 10.93km$                                            |
+| <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         | $\approx 4km$                                                |
+| <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         | $\approx 7km$                                                |
 
 <span style="color:grey;font-size:16px; font-family:Arial">
 Figure 3: A table containing different driving cycles tested and a brief description of their content
@@ -175,11 +176,12 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
+- Different cars, different weight, different aero. Other factors could influence.. Maybe?
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
 - Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
 - How could 100% ethanol content fuels compare, do these trends continue?
-- $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the enviroment?
+- $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the environment?
 
 
 

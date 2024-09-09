@@ -12,7 +12,7 @@
 
 - Code my own game engine from scratch
 
-- Make George Droid Ahh game with jeshua and joshua on roblox. (fent reactor)
+- Make George Droid Ahh game with jeshua and joshua on roblox. 
 
 
 ````

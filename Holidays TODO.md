@@ -3,4 +3,7 @@
 - Maths Methods Practice Exams
 - Do Atomi Prose Exercises
 	- (maybe how to write an analytical essay lesson)
+	- English 9/9/2024 lesson
 
+
+![[Year 11 Specialist Maths Weak Areas]]
