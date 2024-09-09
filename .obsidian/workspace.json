@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9829dced10cec86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 11 Specialist Maths Weak Areas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Holidays TODO.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holidays TODO.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holidays TODO.md"
+                "file": "Year 11 Specialist Maths Weak Areas.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Holidays TODO.md"
+                "file": "Year 11 Specialist Maths Weak Areas.md"
               }
             }
           },
@@ -191,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82d4babde7ee5c2a",
+  "active": "9829dced10cec86e",
   "lastOpenFiles": [
-    "2024 Projects.md",
     "Holidays TODO.md",
+    "Year 11 Specialist Maths Weak Areas.md",
+    "2024 Projects.md",
     "05-09-2024.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "conflict-files-obsidian-git.md",
@@ -225,7 +239,6 @@
     "Pasted image 20240902151308.png",
     "Chemistry 16.1 Identifying Ions In Solution.md",
     "Ion.md",
-    "Ionic substance.md",
     "Chemistry IA4 Canvas.canvas",
     "NoahsObsidianSync/risk assessment.pdf",
     "NoahsObsidianSync/Recording 20240215094430.webm",
