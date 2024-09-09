@@ -1,3 +1,3 @@
 - Roots of unity
 - Integration
-- 
+- Confidence Intervals vs Standard error 
