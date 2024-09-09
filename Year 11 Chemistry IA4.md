@@ -176,7 +176,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-- Different cars, different weight, different aero. Other factors could influence.. Maybe?
+- Different cars, different weight, different aero. Other factors could influence.. Maybe? 
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
 - Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
