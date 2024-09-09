@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "08-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "08-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "08-09-2024.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "08-09-2024.md"
               }
             }
           },
@@ -264,12 +264,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e513d7fca1d796db",
+  "active": "9829dced10cec86e",
   "lastOpenFiles": [
+    "Holidays TODO.md",
+    "Year 11 Specialist Maths Weak Areas.md",
+    "Physics Exam 2024.md",
     "Physics 8.3 Lenz's Law.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
-    "Physics Exam 2024.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
     "2020.md",
     "09-09-2024.md",
@@ -278,8 +280,6 @@
     "06-09-2024.md",
     "05-09-2024.md",
     "Excalidraw/Physics Alternate Sequence Practice Exam 2020.md",
-    "Year 11 Specialist Maths Weak Areas.md",
-    "Holidays TODO.md",
     "2024 Projects.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
     "conflict-files-obsidian-git.md",
