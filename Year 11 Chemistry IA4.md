@@ -125,9 +125,9 @@ The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexi
 
 These fuels were compared further against multiple load, or driving, cycles. 
 
-| <span style="font-size: 15px;">Driving Cycle</span>                     | <span style="font-size: 15px;">Total Driving Distance</span>                                                                | <span style="font-size: 15px;">Total Driving Distance</span> |
+| <span style="font-size: 15px;">Load Cycle</span>                        | <span style="font-size: 15px;">Description</span>                                                                           | <span style="font-size: 15px;">Total Driving Distance</span> |
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> |                                                              |
+| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> | $\similar $                                                  |
 | <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         |                                                              |
 | <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         |                                                              |
 
