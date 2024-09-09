@@ -2,4 +2,5 @@
 - Integration
 - Confidence Intervals vs Standard error 
 - Equilibrium forces (when forces are equal and there is no movement)
-- Chain rule/product rule ahh question6
+- Chain rule/product rule ahh questionos
+- Lean to use solveN on calc?
