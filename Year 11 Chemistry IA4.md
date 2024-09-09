@@ -68,7 +68,7 @@ Ethanol
 
 ##### Specific and relevant research question 
 
-*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide per kWh of energy produced in comparison to regular unleaded gasoline?*
+*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline?*
 ##### Relevant Sources
 
 
@@ -78,21 +78,23 @@ Ethanol
 ##### *Analysis 1* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 https://publications.anl.gov/anlpubs/1999/02/31961.pdf
-A study conducted by *Argonne National Laboratory Transportation Technology R&D Center* aimed to investigate, quantify, and predict the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. The study's overall goal was to predict the impact that newer refining processes would have on the total emissions generated throughout the production process as well as the burning of fuels. These predictions will be ignored, and it will be assumed that the amount of $CO_2$ produced during production is the same across all fuels for the sake of comparison. 
+A study conducted by *Argonne National Laboratory Transportation Technology R&D Center* aimed to investigate, quantify, and predict the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. The study's overall goal was to predict the impact that newer refining processes would have on the total emissions generated throughout the production process as well as the burning of fuels. These predictions will be ignored, and it will be assumed that the amount of $CO_2$ produced during production is negligible across all fuels for the sake of comparison. 
 
 ![[20240831_04h40m08s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas</span>
 
 Figure 1 shows the measured and predicted 
 ###### Trends, patterns or relationships
-In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest components in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline releases over 500 grams $CO_2$ per mile while E95 releases 20% less, at 400 grams per mile.  
 
-Clearly as the ethanol content of the fuel increases, net  $CO_2$  emissions decrease. 
+In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest component in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline released just over 500 grams $CO_2$ per mile ($311g/km$)while E95 released 20% less, at 400 grams per mile ($249g/km$).  
+Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount of energy, no adjustments have to be made to compensate for the lower energy-per-mole of ethanol in comparison to standard unleaded petrol. 
 
-Additionally, since this data compares a fixed volume of $CO_2$ with an average, fixed, amount of energy, no adjustments have to be made to compensate for the lower energy-per-mole of ethanol in comparison to standard unleaded petrol. 
+
 ###### Limitations
-- Assumed that amount of $CO_2$ released in production remains constant. may vary between gasoline and ethanol. Not really a limitation of evidence though... self imposed due to lack of evidence. 
-- CO^2  is likley less due to the fact that the crops it is made of absorb co2 from the atmosphere
+- Assumed that amount of $CO_2$ released in production is negligible. Explains why it is so much higher than all others. Still demonstartes pattern shown in others though
+- $CO_2$  is likley less due to the fact that the crops it is made of absorb co2 from the atmosphere
+- Study Does not provide exact numbers. Results retrieved visually from graph 
+- Not a specified driving cycle. Unknown how hard they were accelerating etc
 
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
@@ -104,7 +106,7 @@ https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_m
 <span style="color:grey; font-size:16;font-family:Arial">Figure 2: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10</span>
 
 ###### Trends, patterns or relationships
-Figure 2 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a $5\%$ decrease in grams of $CO_2$ released per 100 km. 
+Figure 2 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.
 While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such. 
 
  
@@ -137,14 +139,20 @@ Figure 3: A table containing different driving cycles tested and a brief descrip
 https://www.drivesmart.co.uk/hpNEDC.aspx
 https://dieselnet.com/standards/cycles/ece_eudc.php
 
+https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf
+
 ![[Pasted image 20240907152018.png]]
 <span style="color:grey; font-size:16px;font-family:Arial">Figure 4: Percentage variation of emissions compared to standard ULP, considered baseline</span>
-
 
 Figure 4 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
-E85, however, showed slight deviation from baseline results in all driving cycles. $CO_2$ emissions were  decreased by a maximum of 5%, and a minimum of 4%, in the UDC, and both NEDC and EUDC driving cycles respectively. E85 Showed an overall average 4.3% decrease in $CO_2$ emissions across all driving cycles. 
+E85, however, showed slight deviation from baseline results in all driving cycles. $CO_2$ emissions were  decreased by a maximum of 5%, and a minimum of 4% in the UDC, and both NEDC and EUDC driving cycles respectively. E85 
+
+![[Pasted image 20240909182502.png]]
+
+<span style="color:grey; font-size:16px;font-family:Arial">Figure 4: CO2 emissions over various load cycles (g/km)</span>
+The same study provided a quantitative graph of results over the same cycles, with the "Combined" results representing the entire NEDC load cycle. These results are relevant for later analysis.
 
 While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
 
@@ -157,13 +165,16 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 ###### Limitations
 - Single vehicle sample size
 - Only 3 back to back test for each fuel in each cycle. 
-- All tests conducted hot, What about in non ideal - cold start conditions. if only driving for short peroids of time, are emissions worse than ULP?
+- All tests conducted hot, What about in non ideal - cold start conditions. if only driving for short periods of time, are emissions worse than ULP?
 
 
 
 \
 
 ##### Insightful *interpretation* of evidence justified by scientific arguments
+
+![[Pasted image 20240909200545.png]]
+<span style="color:grey; font-size:16px;font-family:Arial">Figure 4: CO2 emissions over various load cycles (g/km)</span>
 
 - Change in $CO_2$ emissions is due to differences in molecules and combustion formula
 
@@ -176,7 +187,11 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
+
 - Different cars, different weight, different aero. Other factors could influence.. Maybe? 
+- A lot of results were observed visually via figures and graphs. No exact quantitative results were provided.  
+- No studies of vehicles that run soley on ethanol. However results show a spectrum
+
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
 - Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
