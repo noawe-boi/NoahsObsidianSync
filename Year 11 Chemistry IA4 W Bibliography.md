@@ -2,14 +2,13 @@
 
 #### Considered Rationale
 
-#### Claim
+##### Claim
 
 'Fossil fuels and biofuels produce carbon dioxide in their combustion'  
 Evaluate the impact of fossil fuels and biofuels on the environment
 
 ##### Investigate phenomena associated with claim
-
-##### What are Biofuels?
+###### What are Biofuels?
 Biofuels are fuels created using plants or other forms of biomass. The most well known and utilised by the public are ethanol and methanol. These Biofuels are most commonly added to traditional fuels or are components in standalone alternatives.
 While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, another major factor is the amounts of greenhouse gasses, such as $CO_2$, produced in their combustion.
 
@@ -27,14 +26,16 @@ Sources: Gasoline (The Florida State University, n.d.) ,Ethanol (Chemistry Libre
 
 While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy, and products when combustion occurs.  
 
-
+##### Demonstrate development of the research question from the claim
+###### What effect does more or lack of $CO_2$ have
 $CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmosphere has increased significantly, causing events such a climate change (United Nations, 2004).
-
+###### How are these fuels used and why?
 Unleaded gasoline and its blends are often used for transportation or non stationary machines where its high energy density can be utilised to travel large distances or alter large loads.
-
+###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
 For the case of transportation, the amount of energy in each fuel blend can be quantified as a unit like litres per 100km ($l/100km$), and its emissions can be measured as grams of $CO_2$ per km ($g/km$).
+##### Specific and relevant research question 
 
-Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline?
+*Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline?*
 
 Various fuel types will be mentioned throughout this study, information regaridng these can be seen in Figure 2.
 
