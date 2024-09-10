@@ -67,7 +67,7 @@ Sources: (*DieselNet*, n.d.; *DriveSmart*, n.d.)
 
 #### Analysis and interpretation
 
-(Argonne National Laboratory Transportation Technology R&D Center, 1999)  
+##### Source 1 
 'Effects of Fuel Ethanol Use on Fuel-Cycle  
 Energy and Greenhouse Gas Emissions' ,a study conducted by Argonne National Laboratory Transportation Technology R&D Center aimed to investigate, quantify, and predict the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. The study's overall goal was to predict the impact that newer refining processes would have on the total emissions generated throughout the production process as well as the burning of fuels. These predictions will be ignored, and it will be assumed that the amount of $CO_2$ produced during production is negligible across all fuels for the sake of comparison.
 
@@ -94,16 +94,13 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 
 <div style="color:grey; font-size:16;font-family:Arial">Figure 4: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10 (Brear, 2016)</div>  
 
-Figure 4 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$%$ decrease in $CO_2$ emissions.  
+Figure 4 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.  
 While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such.
 
 - Single vehicle sample size
-    
 - Limited number of trials
-    
 
-(Larsen & Westbrook, 2012)
-
+##### Source 
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against multiple load, or driving, cycles
 
 |   |   |
@@ -116,17 +113,17 @@ The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexi
 
 (Car and Driver, n.d.; MY NRMA, n.d.; RAC, n.d.)
 
-|   |   |   |
-|---|---|---|
-|<div style="font-size: 15px;">Load Cycle</div>|<div style="font-size: 15px;">Description</div>|<div style="font-size: 15px;">Total Driving Distance</div>|
-|<div style="font-size: 15px;">New European Driving cycle (NEDC)</div>|<div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div>|$\approx 10.93km$|
-|<div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>|<div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>|$\approx 4km$|
-|<div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>|<div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>|$\approx 7km$|
+|                                                                       |                                                                                                                           |                                                            |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <div style="font-size: 15px;">Load Cycle</div>                        | <div style="font-size: 15px;">Description</div>                                                                           | <div style="font-size: 15px;">Total Driving Distance</div> |
+| <div style="font-size: 15px;">New European Driving cycle (NEDC)</div> | <div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div> | $\approx 10.93km$                                          |
+| <div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>         | <div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>                         | $\approx 4km$                                              |
+| <div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>  | <div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>         | $\approx 7km$                                              |
 
 <div style="color:grey;font-size:16px; font-family:Arial">  
 Figure 5: A table containing different driving cycles tested and a brief description of their content  
 <br>
-Sources:
+Sources: (*DieselNet*, n.d.; *DriveSmart*, n.d.), (Larsen & Westbrook, 2012)
 </div>  
 
 
