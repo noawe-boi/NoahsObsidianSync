@@ -184,7 +184,8 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as this is a known issue with ethanol
+
+
 
 - Different cars, different weight, different aero. Other factors could influence.. Maybe? explains significant differnet in g/km between studies
 - A lot of results were observed visually via figures and graphs. No exact quantitative results were provided.  
@@ -192,6 +193,8 @@ All studies and data referenced were based around the NEDC, which is driven 'hot
 
 ###### applications of findings of research to the claim
 ###### suggested improvements and extensions *relevant to the claim*
+
+All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as this is a known issue with fuels that have high ethanol content https://eflexfuel.com/us/blog/do-cars-using-e85-start-in-the-cold, and shorter trips may not give the engine the opportunity to 'warm up'. 
 - Exploring aspects further than just combustion. I.e during production and how corn can absorb greenhouse gasses. 
 - How could 100% ethanol content fuels compare, do these trends continue?
 - $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the environment?
