@@ -134,7 +134,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 #### Conclusion and Evaluation
 
-![[Pasted image 20240910190937.png]]
+![[Pasted image 20240910211733.png]]
 
 <div style="color:grey; font-size:16px;font-family:Arial">Figure 9: % Decerase of CO2 emissions over % ethanol by volume of fuel used  
 </div>  
@@ -146,9 +146,9 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values.  
 ![[Pasted image 20240910211625.png]]
 
-<div style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km) (Argonne National Laboratory Transportation Technology R&D Center, 1999; Brear, 2016; Larsen & Westbrook, 2012)</div>  
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 10: CO2 emissions over various load cycles (g/km)</div>  
 
-Figure 8 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's value varies by over $117 g/km$ with Figure 1 having the largest value, and Figure 7 having the smallest.  
+Figure 10 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's value varies by over $117 g/km$ with Figure 1 having the largest value, and Figure 7 having the smallest.  
 This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. (Argonne National Laboratory Transportation Technology R&D Center, 1999) did not list a motor vehicle and aimed for an average value. (Brear, 2016) utilized a Holden GCG Captiva 7, a mid sized SUV. (Larsen & Westbrook, 2012) utilised a Ford Focus 1.8 Duratec Flexi-fuel, a mid sized hatchback. All of these vehicles have significant variance in their weight, engine type, aerodynamics and overall efficiency.  
 The second factor is the lack or direct, quantified results. All quantities were visually estimated using figures and graphs from the study, many of which were unlabelled. This introduced significant uncertainty and could have contributed to inaccuracy.
 
