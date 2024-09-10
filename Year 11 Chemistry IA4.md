@@ -175,7 +175,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 #### Conclusion and Evaluation
 ##### Insightful interpretation of evidence
-This study aimed to quantify the relationship between the extractable energy, and 
+This study aimed to quantify and compthe relationship between the reasonably ex tractable energy  and quantify of $CO_2$ produced
 The evidence presented supports the claim that 
 ##### Justified Conclusions linked to research question
 
