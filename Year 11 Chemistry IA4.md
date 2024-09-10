@@ -34,8 +34,7 @@ Consider the combustion reaction for biofuel, ethanol, in comparison to it's tra
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
 
 
-While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. Additionally, significantly less oxygen is required for the complete combustion of ethanol, making it less likely for other by-products to form as a result of incomplete combustion.
-The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy when burned. 
+While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy when burned. 
 
 Gasoline
 (https://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php)
@@ -189,9 +188,8 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 - Single vehicle sample size
 - Only 3 back to back test for each fuel in each cycle. 
 
-##### Insightful *interpretation* of evidence justified by scientific arguments
+##### 
 
-- Change in $CO_2$ emissions is due to differences in molecules and combustion formula
 
 
 #### Conclusion and Evaluation
