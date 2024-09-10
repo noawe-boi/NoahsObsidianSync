@@ -58,8 +58,7 @@ Ethanol
 ###### How are these fuels used and why?
 Unleaded gasoline and its blends are often used for transportation or non stationary machines where its high energy density can be utilised to travel large distances or alter large loads.  
 ###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
-The amount of
-
+For the case of transportation, the amount of energy in each fuel blend can be quantified as a unit like litres per 100omn
 
 ##### Specific and relevant research question 
 
