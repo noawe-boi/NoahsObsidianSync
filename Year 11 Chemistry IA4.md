@@ -167,9 +167,6 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 ##### Insightful *interpretation* of evidence justified by scientific arguments
 
-![[Pasted image 20240910180641.png]]
-<span style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</span>
-
 - Change in $CO_2$ emissions is due to differences in molecules and combustion formula
 
 
@@ -184,8 +181,11 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-While the individual studies and figures referenced clearly demonstrate  on their own, when compared against each other there was significant deviation. Figure 2, coming from the study: 
-# insert study here
+While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values. 
+![[Pasted image 20240910180641.png]]
+<span style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</span>
+
+Figure 8 clearly demonstrates this and shows that 
 
 
 
