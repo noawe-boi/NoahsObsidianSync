@@ -56,8 +56,7 @@ Ethanol
 ##### Demonstrate development of the research question from the claim
 ###### What effect does more or lack of $CO_2$ have
 ###### How are these fuels used and why?
-	- to create energy
-	- in cars and other transport
+Unleaded gasoline and its blends are often used for transportation or non stationary machines
 ###### Explain what the E10, E95, etc, numbers mean for later when talking about them and comparing them 
 ###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
 
