@@ -43,14 +43,6 @@ Gasoline
 Ethanol
 (https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/11%3A_Chemical_Reactions/11.06%3A_Combustion_Reactions)
 
-*Should this previous section be moved somewhere else? Where could I put it*
-
-
-
-
-###### What happens during combustion (bonds broken etc)
-###### $\Delta$Enthalpy (how are energy output different)
-###### One real world use 
 
 
 ##### Demonstrate development of the research question from the claim
@@ -58,7 +50,7 @@ Ethanol
 ###### How are these fuels used and why?
 Unleaded gasoline and its blends are often used for transportation or non stationary machines where its high energy density can be utilised to travel large distances or alter large loads.  
 ###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
-For the case of transportation, the amount of energy in each fuel blend can be quantified as a unit like litres per 100omn
+For the case of transportation, the amount of energy in each fuel blend can be quantified as a unit like litres per 100km ($l/100km$), and its emissions can be measured as grams of $CO_2$ per km ($g/km$). 
 
 ##### Specific and relevant research question 
 
