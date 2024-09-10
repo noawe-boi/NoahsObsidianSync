@@ -58,13 +58,14 @@ Sources: ( Car and Driver, n.d.; MY NRMA, n.d.; RAC, n.d.)
 </div>  
 
 In addition to these fuel types, various driving cycles will also be discussed. Information regarding these can be seen in Figure 3
+<div style="break-after:page"></div>
 
-|   |   |   |
-|---|---|---|
-|<div style="font-size: 15px;">Load Cycle</div>|<div style="font-size: 15px;">Description</div>|<div style="font-size: 15px;">Total Driving Distance</div>|
-|<div style="font-size: 15px;">New European Driving cycle (NEDC)</div>|<div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div>|$\approx 10.93km$|
-|<div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>|<div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>|$\approx 4km$|
-|<div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>|<div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>|$\approx 7km$|
+|                                                                       |                                                                                                                           |                                                            |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <div style="font-size: 15px;">Load Cycle</div>                        | <div style="font-size: 15px;">Description</div>                                                                           | <div style="font-size: 15px;">Total Driving Distance</div> |
+| <div style="font-size: 15px;">New European Driving cycle (NEDC)</div> | <div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div> | $\approx 10.93km$                                          |
+| <div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>         | <div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>                         | $\approx 4km$                                              |
+| <div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>  | <div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>         | $\approx 7km$                                              |
 
 <div style="color:grey;font-size:16px; font-family:Arial">  
 Figure 3: A table containing different driving cycles tested and a brief description of their content  
@@ -161,7 +162,8 @@ While the evidence utilised in this study did include data with fuels containing
 
 Finally, it should be mentioned that $CO_2$ is not the only pollutant resulting form the burning of fuels such as ethanol and unleaded gasoline. Further studies should focus on a broader range of compounds, their abundance, and impact on the environment.
 
-<span style="
+<span style="break-after:page"></span>
+
 
 ## Bibliography
 
