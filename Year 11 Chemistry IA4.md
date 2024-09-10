@@ -184,7 +184,7 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-While most studies referenced focus on the EUDC, which is driven 
+While a significant portion of data was  based around the NEDC, which is driven 'hot', there was a lack of studies
 
 - Different cars, different weight, different aero. Other factors could influence.. Maybe? explains significant differnet in g/km between studies
 - A lot of results were observed visually via figures and graphs. No exact quantitative results were provided.  
