@@ -13,10 +13,7 @@ tags:
 Evaluate the impact of fossil fuels and biofuels on the environment
 
 
-###### 
-
-
-`Choose a biofuel`
+###### Choose a biofuel
 Ethanol and gasoline
 
 ##### Investigate phenomena associated with claim
@@ -155,10 +152,6 @@ E85, however, showed slight deviation from baseline results in all driving cycle
 The same study provided a quantitative graph of results over the same cycles, with the "Combined" results representing the entire NEDC load cycle. These results are relevant for later analysis.
 
 While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
-
-
-
-
 
 
 
