@@ -176,3 +176,35 @@ All studies and data referenced were based around the NEDC, which is driven 'hot
 While the evidence utilised in this study did include data with fuels containing up to 95% ethanol by volume, only a single paper had data on it. a possible extension to this study could investigate whether there is an optimal ethanol content by using data that included a variety of fuels with varying % ethanol by volume, and other additives.
 
 Finally, it should be mentioned that $CO_2$ is not the only pollutant resulting form the burning of fuels such as ethanol and unleaded gasoline. Further studies should focus on a broader range of compounds, their abundance, and impact on the environment.
+
+
+
+## Bibliography
+
+Argonne National Laboratory Transportation Technology R&D Center. (1999). Effects of Fuel Ethanol Use on Fuel-Cycle Energy and Greenhouse Gas Emissions [Report]. United States Department of Energy. [https://publications.anl.gov/anlpubs/1999/02/31961.pdf](https://www.google.com/url?sa=E&q=https%3A%2F%2Fpublications.anl.gov%2Fanlpubs%2F1999%2F02%2F31961.pdf)
+
+Brear, M. (2016). Comparison of emissions and fuel consumption of a passenger vehicle on two fuels. Independent Pricing and Regulatory Tribunal of New South Wales. [https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_manildra_group_-_k._beavon_-_1_aug_2016_200800000.pdf](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.ipart.nsw.gov.au%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Fonline_submission_-_manildra_group_-_k._beavon_-_1_aug_2016_200800000.pdf)
+
+Car and Driver. (n.d.). What is E85 gas? [https://www.caranddriver.com/research/a31851426/what-is-e85-gas/](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.caranddriver.com%2Fresearch%2Fa31851426%2Fwhat-is-e85-gas%2F)
+
+Chemistry LibreTexts. (n.d.). 11.06: Combustion Reactions. In Introductory Chemistry. [https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/11%3A_Chemical_Reactions/11.06%3A_Combustion_Reactions](https://www.google.com/url?sa=E&q=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FIntroductory_Chemistry%2FIntroductory_Chemistry_(CK-12)%2F11%253A_Chemical_Reactions%2F11.06%253A_Combustion_Reactions)
+
+DieselNet. (n.d.). ECE+EUDC driving cycle. [https://dieselnet.com/standards/cycles/ece_eudc.php](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdieselnet.com%2Fstandards%2Fcycles%2Fece_eudc.php)
+
+DriveSmart. (n.d.). Harmonised NEDC (New European Driving Cycle). [https://www.drivesmart.co.uk/hpNEDC.aspx](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.drivesmart.co.uk%2FhpNEDC.aspx)
+
+Larsen, B., & Westbrook, C. (2012). Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle. In T. Karatzas (Ed.), Air Pollution - New Developments. IntechOpen. [https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust_Emissions-of-a-Flexible_Fuel-Vehicle.pdf](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBo-Larsen%2Fpublication%2F250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle%2Flinks%2F0046351e92fff67ecf000000%2FEffect-of-Fuel-Ethanol-Content-on-Exhaust_Emissions-of-a-Flexible_Fuel-Vehicle.pdf)
+
+MY NRMA. (n.d.). The facts: What is E10? [https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.mynrma.com.au%2Fcars-and-driving%2Ffuel-resources%2Fthe-facts-what-is-e10)
+
+Niven, R. K. (2005). Ethanol in gasoline: Environmental impacts and sustainability review article. Renewable and Sustainable Energy Reviews, 9(6), 535–555. [https://doi.org/10.1016/j.rser.2004.05.007](https://www.google.com/url?sa=E&q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.rser.2004.05.007)
+
+RAC. (n.d.). What is E10 fuel and how could it affect you? [https://www.rac.co.uk/drive/advice/emissions/what-is-e10-fuel-and-how-could-it-affect-you/](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.rac.co.uk%2Fdrive%2Fadvice%2Femissions%2Fwhat-is-e10-fuel-and-how-could-it-affect-you%2F)
+
+The Florida State University. (n.d.). Enthalpy of Formation. [https://www.chem.fsu.edu/chemlab/chm1020c/Lecture%207/01.php](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.chem.fsu.edu%2Fchemlab%2Fchm1020c%2FLecture%25207%2F01.php)
+
+United Nations. (2004). The health effects of global warming: Developing countries are the most vulnerable. [https://www.un.org/en/chronicle/article/health-effects-global-warming-developing-countries-are-most-vulnerable](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.un.org%2Fen%2Fchronicle%2Farticle%2Fhealth-effects-global-warming-developing-countries-are-most-vulnerable)
+
+US Department of Energy. (n.d.). Ethanol vs. Petroleum-Based Fuel Carbon Emissions. [https://www.energy.gov/eere/bioenergy/articles/ethanol-vs-petroleum-based-fuel-carbon-emissions](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.energy.gov%2Feere%2Fbioenergy%2Farticles%2Fethanol-vs-petroleum-based-fuel-carbon-emissions)
+
+US Department of Energy. (n.d.). Flexible Fuel Vehicles. [https://afdc.energy.gov/vehicles/flexible-fuel](https://www.google.com/url?sa=E&q=https%3A%2F%2Fafdc.energy.gov%2Fvehicles%2Fflexible-fuel)
