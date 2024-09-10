@@ -179,28 +179,20 @@ https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_F
 ![[Pasted image 20240907152018.png]]
 <div style="color:grey; font-size:16px;font-family:Arial">Figure 6: Percentage variation of emissions compared to standard ULP, considered baseline</div>
 
-Figure 6 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<div style="color:red">*</div>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
+Figure 6 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
 E85, however, showed slight deviation from baseline results in all driving cycles. $CO_2$ emissions were  decreased by a maximum of 5%, and a minimum of 4% in the UDC, and both NEDC and EUDC driving cycles respectively. E85 
 
 ![[Pasted image 20240909182502.png]]
-
 <div style="color:grey; font-size:16px;font-family:Arial">Figure 7: CO2 emissions over various load cycles (g/km)</div>
 The same study provided a quantitative graph of results over the same cycles, with the "Combined" results representing the entire NEDC load cycle. These results are relevant for later analysis.
 
 While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
 
-
-
 ###### Limitations
 - Single vehicle sample size
 - Only 3 back to back test for each fuel in each cycle. 
-- All tests conducted hot, What about in non ideal - cold start conditions. if only driving for short periods of time, are emissions worse than ULP?
-
-
-
-\
 
 ##### Insightful *interpretation* of evidence justified by scientific arguments
 
