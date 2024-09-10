@@ -117,7 +117,7 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 
 ###### Limitations
 - Assumed that amount of $CO_2$ released in production is negligible. 
-- Not a specified driving cycle. 
+- Unspecified driving cycle. 
 
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
