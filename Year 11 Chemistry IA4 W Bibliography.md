@@ -5,10 +5,8 @@
 'Fossil fuels and biofuels produce carbon dioxide in their combustion'  
 Evaluate the impact of fossil fuels and biofuels on the environment
 
-Ethanol and gasoline
-
+##### What are Biofuels?
 Biofuels are fuels created using plants or other forms of biomass. The most well known and utilised by the public are ethanol and methanol. These Biofuels are most commonly added to traditional fuels or are components in standalone alternatives.
-
 While their ability to be sustainably produced is one of the main factors contributing to their widespread adoption, another major factor is the amounts of greenhouse gasses, such as $CO_2$, produced in their combustion.
 
 Consider the combustion reaction for biofuel, ethanol, in comparison to it's traditional counterpart, gasoline
@@ -20,7 +18,6 @@ Consider the combustion reaction for biofuel, ethanol, in comparison to it's tra
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
 
 While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy when burned.  
-**Ideal conditions ^**
 
 Gasoline (The Florida State University, n.d.)  
 Ethanol (Chemistry LibreTexts, n.d.)
@@ -46,7 +43,7 @@ Various fuel types will be mentioned throughout this study, information regaridn
 <div style="color:grey;font-size:16px; font-family:Arial">  
 Figure 1: A table containing fuel types and their components  
 <br>  
-Sources: ( *Car and Driver*, n.d.; *MY NRMA*, n.d.; *RAC*, n.d.)  
+Sources: ( Car and Driver, n.d.; MY NRMA, n.d.; RAC, n.d.)  
 </div>  
 
 In addition to these fuel types, various driving cycles will also be discussed. Information regarding these can be seen in Figure 2
@@ -61,7 +58,7 @@ In addition to these fuel types, various driving cycles will also be discussed. 
 <div style="color:grey;font-size:16px; font-family:Arial">  
 Figure 2: A table containing different driving cycles tested and a brief description of their content  
 <br>  
-Sources: (*DieselNet*, n.d.; *DriveSmart*, n.d.)  
+Sources: (DieselNet, n.d.; DriveSmart, n.d.)  
 </div>  
 
 #### Analysis and interpretation
@@ -80,11 +77,9 @@ Energy and Greenhouse Gas Emissions' ,a study conducted by Argonne National Labo
 Figure 1 shows the measured and predicted green house gas emissions of various fuel blends in grams per mile.  
 In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest component in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline released just over 475 grams $CO_2$ per mile ($295g/km$)while E95 released 37% less, at 300 grams per mile ($186g/km$).  
 Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount of energy, no adjustments have to be made to compensate for the lower energy-per-mole of ethanol in comparison to standard unleaded petrol.
-
+###### Limitations
 - Assumed that amount of $CO_2$ released in production is negligible.
-    
 - Unspecified driving cycle.
-    
 
 ##### Source 2
 'Comparison of emissions and fuel consumption of a passenger vehicle on two fuels', A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle (NEDC), a set load series created to benchmark many aspects of vehicles.
