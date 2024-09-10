@@ -64,7 +64,7 @@ In addition to these fuel types, various driving cycles will also be discussed. 
 |<div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>|<div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>|$\approx 7km$|
 
 <div style="color:grey;font-size:16px; font-family:Arial">  
-Figure 2: A table containing different driving cycles tested and a brief description of their content  
+Figure 3: A table containing different driving cycles tested and a brief description of their content  
 <br>  
 Sources: (DieselNet, n.d.; DriveSmart, n.d.)  
 </div>  
@@ -79,12 +79,12 @@ Energy and Greenhouse Gas Emissions' ,a study conducted by Argonne National Labo
 
 ![[20240831_04h40m08s_grim.png]]
 
-<div style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas (Argonne National Laboratory Transportation Technology R&D Center, 1999)  
+<div style="color:grey; font-size:16;font-family:Arial">Figure 4: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas (Argonne National Laboratory Transportation Technology R&D Center, 1999)  
 </div>  
 ![[Pasted image 20240910174928.png]]  
-<div style="color:grey; font-size:16;font-family:Arial">Figure 2: A digitally alterred rendition of Figure 1, showing approximate values for CO2 alone (Argonne National Laboratory Transportation Technology R&D Center, 1999) </div>  
+<div style="color:grey; font-size:16;font-family:Arial">Figure 5: A digitally alterred rendition of Figure 1, showing approximate values for CO2 alone (Argonne National Laboratory Transportation Technology R&D Center, 1999) </div>  
 
-Figure 1 shows the measured and predicted green house gas emissions of various fuel blends in grams per mile.  
+Figure 4 shows the measured and predicted green house gas emissions of various fuel blends in grams per mile.  
 In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest component in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline released just over 475 grams $CO_2$ per mile ($295g/km$)while E95 released 37% less, at 300 grams per mile ($186g/km$).  
 Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount of energy, no adjustments have to be made to compensate for the lower energy-per-mole of ethanol in comparison to standard unleaded petrol.
 ###### Limitations
@@ -98,9 +98,9 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 
 ![[Pasted image 20240907152140.png]]
 
-<div style="color:grey; font-size:16;font-family:Arial">Figure 4: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10 (Brear, 2016)</div>  
+<div style="color:grey; font-size:16;font-family:Arial">Figure 6: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10 (Brear, 2016)</div>  
 
-Figure 4 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.  
+Figure 6 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.  
 While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such.
 ###### Limitations
 - Single vehicle sample size
@@ -113,17 +113,17 @@ The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexi
 
 ![[Pasted image 20240907152018.png]]
 
-<div style="color:grey; font-size:16px;font-family:Arial">Figure 6: Percentage variation of emissions compared to standard ULP, considered baseline (Larsen & Westbrook, 2012)</div>  
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 7: Percentage variation of emissions compared to standard ULP, considered baseline (Larsen & Westbrook, 2012)</div>  
 
-Figure 6 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to.
+Figure 7 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to.
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%.  
 E85, however, showed slight deviation from baseline results in all driving cycles. $CO_2$ emissions were decreased by a maximum of 5%, and a minimum of 4% in the UDC, and both NEDC and EUDC driving cycles respectively. E85
 
 ![[Pasted image 20240909182502.png]]
 
-<div style="color:grey; font-size:16px;font-family:Arial">Figure 7: CO2 emissions over various load cycles (g/km) (Larsen & Westbrook, 2012)</div>  
-The same study provided a quantitative graph of results over the same cycles, with the "Combined" results representing the entire NEDC load cycle. These results are relevant for later analysis.  
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km) (Larsen & Westbrook, 2012)</div>  
+The same study provided a quantitative graph, Figure 8, of results over the same cycles, with the "Combined" results representing the entire NEDC load cycle. These results are relevant for later analysis.  
 
 While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
 
