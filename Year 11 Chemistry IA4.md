@@ -121,8 +121,8 @@ https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_F
 
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (https://afdc.energy.gov/vehicles/flexible-fuel). The study tested 3 types of fuel: 
 - Regular Unleaded Petrol (ULP) 
-- E10 ($\approx10$% Ethanol, 90% ULP, by volume) (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
-- E85 ($\leq85$% Ethanol, 15% ULP, by volume) (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
+- E10 () (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
+- E85 () (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
 - \
 
 
