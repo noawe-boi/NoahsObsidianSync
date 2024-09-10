@@ -196,7 +196,7 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 
 All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to their higher vaporisation energy cost https://eflexfuel.com/us/blog/do-cars-using-e85-start-in-the-cold, as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'. 
 
-
+most data around low content
 
 - How could 100% ethanol content fuels compare, do these trends continue?
 - $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the environment?
