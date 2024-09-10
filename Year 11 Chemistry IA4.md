@@ -79,7 +79,7 @@ A study conducted by *Argonne National Laboratory Transportation Technology R&D 
 
 ![[20240831_04h40m08s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas</span>
-
+![[Pasted image 20240910174747.png|100]]
 Figure 1 shows the measured and predicted 
 ###### Trends, patterns or relationships
 
