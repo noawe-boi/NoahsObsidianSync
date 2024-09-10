@@ -187,7 +187,7 @@ While the individual studies and figures referenced clearly demonstrate the same
 <span style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</span>
 
 Figure 8 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's value varies by over $117 g/km$ with Figure 1 having the largest value, and Figure 7 having the smallest. 
-This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. 'Effects of Fuel Ethanol Use on Fuel-Cycle Energy and Greenhouse Gas Emissions
+This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. Source 1 did not list a motor vehicle and aimed for an average value. Source 2 utilized a Holden GCG Captiva 7, . Source 
 
 
 
