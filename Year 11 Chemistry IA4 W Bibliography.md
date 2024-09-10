@@ -144,7 +144,7 @@ The evidence presented appeared to indicate that addition of biofuel, ethanol, r
 Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleaded gasoline, does in fact, produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline. Thus supporting the research question.  
 
 While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values.  
-![[Pasted image 20240910180641.png]]
+![[Pasted image 20240910211625.png]]
 
 <div style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km) (Argonne National Laboratory Transportation Technology R&D Center, 1999; Brear, 2016; Larsen & Westbrook, 2012)</div>  
 
