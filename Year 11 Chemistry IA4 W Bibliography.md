@@ -107,7 +107,7 @@ While the reduced fuel economy, or total energy extracted per litre of fuel, doe
 
 ##### Source 3
 ###### Relevant evidence
-The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against multiple load, or driving, cycles
+The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against load cycles UDC, EUDC, and NEDC.
 ###### Trends, patterns or relationships
 
 ![[Pasted image 20240907152018.png]]
