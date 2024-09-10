@@ -116,10 +116,8 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 
 
 ###### Limitations
-- Assumed that amount of $CO_2$ released in production is negligible. Explains why it is so much higher than all others. Still demonstartes pattern shown in others though
-- $CO_2$  is likley less due to the fact that the crops it is made of absorb co2 from the atmosphere
-- Study Does not provide exact numbers. Results retrieved visually from graph 
-- Not a specified driving cycle. Unknown how hard they were accelerating etc
+- Assumed that amount of $CO_2$ released in production is negligible. 
+- Not a specified driving cycle. 
 
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
@@ -134,11 +132,9 @@ https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_m
 Figure 4 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.
 While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such. 
 
- 
-
-
 ###### Limitations
-Small sample size (literally one car)
+- Single vehicle sample size
+- Limited number of trials
 
 ##### *Analysis 3* of qualitative and quantitative data that identifies
 ###### Relevant evidence
