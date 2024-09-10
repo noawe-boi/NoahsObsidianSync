@@ -154,7 +154,7 @@ The second factor is the lack or direct, quantified results. All quantities were
 ###### Suggested improvements and extensions *relevant to the claim*
 All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to the higher vaporisation energy they require (eFlexFuel, n.d.), as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'.
 
-While the evidence utilised in this study did include data with fuels containing up to 95% ethanol by volume, only a single paper had data on it. a possible extension to this study could investigate whether there is an optimal ethanol content by using data that included a variety of fuels with varying % ethanol by volume, and other additives.
+While the evidence utilised in this study did include data with fuels containing up to 95% ethanol by volume, only a single paper had data on it. A possible extension to this study could investigate whether there is an optimal ethanol content by using data that included a variety of fuels with varying % ethanol by volume, and other additives.
 
 Finally, it should be mentioned that $CO_2$ is not the only pollutant resulting form the burning of fuels such as ethanol and unleaded gasoline. Further studies should focus on a broader range of compounds, their abundance, and impact on the environment.
 
