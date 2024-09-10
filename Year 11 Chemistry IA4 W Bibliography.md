@@ -153,7 +153,7 @@ Figure 10 clearly demonstrates this and shows that even for the same fuel, the a
 This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. (Argonne National Laboratory Transportation Technology R&D Center, 1999) did not list a motor vehicle and aimed for an average value. (Brear, 2016) utilized a Holden GCG Captiva 7, a mid sized SUV. (Larsen & Westbrook, 2012) utilised a Ford Focus 1.8 Duratec Flexi-fuel, a mid sized hatchback. All of these vehicles have significant variance in their weight, engine type, aerodynamics and overall efficiency.  
 The second factor is the lack or direct, quantified results. All quantities were visually estimated using figures and graphs from the study, many of which were unlabelled. This introduced significant uncertainty and could have contributed to inaccuracy.
 ###### Suggested improvements and extensions *relevant to the claim*
-All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to their higher vaporisation energy cost , as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'.
+All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to their higher vaporisation energy cost (Cars using E85 may experience difficulties starting in cold weather (eFlexFuel, n.d.).), as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'.
 
 While the evidence utilised in this study did include data with fuels containing up to 95% ethanol by volume, only a single paper had data on it. a possible extension to this study could investigate whether there is an optimal ethanol content by using data that included a variety of fuels with varying % ethanol by volume, and other additives.
 
@@ -175,6 +175,8 @@ DieselNet. (n.d.). ECE+EUDC driving cycle. [https://dieselnet.com/standards/cycl
 
 DriveSmart. (n.d.). Harmonised NEDC (New European Driving Cycle). [https://www.drivesmart.co.uk/hpNEDC.aspx](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.drivesmart.co.uk%2FhpNEDC.aspx)
 
+eFlexFuel. (n.d.). Do cars using E85 start in the cold? [Blog post]. Retrieved October 26, 2022, from [https://eflexfuel.com/us/blog/do-cars-using-e85-start-in-the-cold](https://www.google.com/url?sa=E&q=https%3A%2F%2Feflexfuel.com%2Fus%2Fblog%2Fdo-cars-using-e85-start-in-the-cold)
+
 Larsen, B., & Westbrook, C. (2012). Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle. In T. Karatzas (Ed.), Air Pollution - New Developments. IntechOpen. [https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust_Emissions-of-a-Flexible_Fuel-Vehicle.pdf](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBo-Larsen%2Fpublication%2F250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle%2Flinks%2F0046351e92fff67ecf000000%2FEffect-of-Fuel-Ethanol-Content-on-Exhaust_Emissions-of-a-Flexible_Fuel-Vehicle.pdf)
 
 MY NRMA. (n.d.). The facts: What is E10? [https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.mynrma.com.au%2Fcars-and-driving%2Ffuel-resources%2Fthe-facts-what-is-e10)
@@ -190,3 +192,4 @@ United Nations. (2004). The health effects of global warming: Developing countri
 US Department of Energy. (n.d.). Ethanol vs. Petroleum-Based Fuel Carbon Emissions. [https://www.energy.gov/eere/bioenergy/articles/ethanol-vs-petroleum-based-fuel-carbon-emissions](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.energy.gov%2Feere%2Fbioenergy%2Farticles%2Fethanol-vs-petroleum-based-fuel-carbon-emissions)
 
 US Department of Energy. (n.d.). Flexible Fuel Vehicles. [https://afdc.energy.gov/vehicles/flexible-fuel](https://www.google.com/url?sa=E&q=https%3A%2F%2Fafdc.energy.gov%2Fvehicles%2Fflexible-fuel)
+
