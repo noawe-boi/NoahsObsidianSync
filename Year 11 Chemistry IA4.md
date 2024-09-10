@@ -79,7 +79,7 @@ Various fuel types will be mentioned throughout this study, information regaridn
 <div style="color:grey;font-size:16px; font-family:Arial">
 Figure 1: A table containing fuel types and their components
 <br>
-Source:
+
 </div>
 
 
