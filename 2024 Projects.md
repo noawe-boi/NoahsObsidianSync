@@ -14,7 +14,7 @@
 
 - Make George Droid Ahh game with jeshua and joshua on roblox. \
 
-- Create universal 5v $\rightarrow$ 20v USB C pd charger that works with type A and also 12v in from car etc. Allows user to plug into high amp 5v and 
+- Create universal 5v $\rightarrow$ 20v USB C pd charger that works with type A and also 12v in from car etc. Allows user to plug into high amp 5v and charge a 20v laptop
 
 
 ````
