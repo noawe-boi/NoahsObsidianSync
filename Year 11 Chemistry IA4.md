@@ -128,7 +128,12 @@ https://www.rac.co.uk/drive/advice/emissions/what-is-e10-fuel-and-how-could-it-a
 
 
 
-
+| Fuel Type | Components (by volume)     |
+| :-------- | :------------------------- |
+| ULP<br>   | $\leq 0$% Ethanol, 95% ULP |
+| E10       | $\approx10$% Ethanol, 90%  |
+| E85       | $\leq85$% Ethanol, 15% ULP |
+| E95       | $\leq95$% Ethanol, 15% ULP |
 
 
 
