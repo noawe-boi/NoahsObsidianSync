@@ -142,7 +142,8 @@ This study aimed to evaluate and compare the relationship between the reasonably
 The evidence presented appeared to indicate that addition of biofuel, ethanol, reduced $CO_2$ emissions by a measurable, and statistically significant, amount, when compared to its traditional counterpart, Unleaded Gasoline, alone.  
 ##### Justified Conclusions linked to research question  
 Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleaded gasoline, does in fact, produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline. Thus supporting the research question.  
-
+##### Evaluation of research process, claims and conclusions shown by
+###### Reasonable description of quality of evidence
 While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values.  
 ![[Pasted image 20240910211625.png]]
 
@@ -151,8 +152,8 @@ While the individual studies and figures referenced clearly demonstrate the same
 Figure 10 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's value varies by over $117 g/km$ with Figure 1 having the largest value, and Figure 7 having the smallest.  
 This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. (Argonne National Laboratory Transportation Technology R&D Center, 1999) did not list a motor vehicle and aimed for an average value. (Brear, 2016) utilized a Holden GCG Captiva 7, a mid sized SUV. (Larsen & Westbrook, 2012) utilised a Ford Focus 1.8 Duratec Flexi-fuel, a mid sized hatchback. All of these vehicles have significant variance in their weight, engine type, aerodynamics and overall efficiency.  
 The second factor is the lack or direct, quantified results. All quantities were visually estimated using figures and graphs from the study, many of which were unlabelled. This introduced significant uncertainty and could have contributed to inaccuracy.
-
-All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to their higher vaporisation energy cost ([https://eflexfuel.com/us/blog/do-cars-using-e85-start-in-the-cold](https://www.google.com/url?sa=E&q=https%3A%2F%2Feflexfuel.com%2Fus%2Fblog%2Fdo-cars-using-e85-start-in-the-cold)), as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'.
+###### Suggested improvements and extensions *relevant to the claim*
+All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to their higher vaporisation energy cost , as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'.
 
 While the evidence utilised in this study did include data with fuels containing up to 95% ethanol by volume, only a single paper had data on it. a possible extension to this study could investigate whether there is an optimal ethanol content by using data that included a variety of fuels with varying % ethanol by volume, and other additives.
 
