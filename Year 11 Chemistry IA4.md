@@ -79,9 +79,9 @@ A study conducted by *Argonne National Laboratory Transportation Technology R&D 
 
 ![[20240831_04h40m08s_grim.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas</span>
-![[Pasted image 20240910174747.png|100]]
+![[Pasted image 20240910174928.png]]
 <span style="color:grey; font-size:16;font-family:Arial">Figure 2: A digitally alterred rendition of Figure 1, showing approximate values for CO2 alone  </span>
-Figure 1 shows the measured and predicted 
+Figure 1 shows the measured and predicted values for fu
 ###### Trends, patterns or relationships
 
 In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest component in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline released just over 475 grams $CO_2$ per mile ($295g/km$)while E95 released 37% less, at 300 grams per mile ($186g/km$).  
