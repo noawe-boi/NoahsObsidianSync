@@ -184,7 +184,8 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-While the individual studies and figures referenced were comparable on their own, when compared against each other there was significant deviatio
+While the individual studies and figures referenced were comparable on their own, when compared against each other there was significant deviation. Figure 2, coming from the study: 
+# insert study here
 
 
 
