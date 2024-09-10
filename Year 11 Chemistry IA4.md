@@ -167,7 +167,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 
 ##### Insightful *interpretation* of evidence justified by scientific arguments
 
-![[Pasted image 20240909200545.png]]
+![[Pasted image 20240910180641.png]]
 <span style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</span>
 
 - Change in $CO_2$ emissions is due to differences in molecules and combustion formula

@@ -27,14 +27,15 @@
               "state": {
                 "file": "Year 11 Chemistry IA4 Canvas.canvas",
                 "viewState": {
-                  "x": 6010.653917437366,
-                  "y": -1829.5089564933166,
+                  "x": 1045.3357740275028,
+                  "y": -4067.240703308752,
                   "zoom": 1
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "Year 11 Chemistry IA4 Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "Year 11 Chemistry IA4 Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "Year 11 Chemistry IA4 Canvas.canvas"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "Year 11 Chemistry IA4 Canvas.canvas"
               }
             }
           },
@@ -197,14 +198,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46a2af28c190f0ec",
+  "active": "89816af28365eb27",
   "lastOpenFiles": [
+    "Year 11 Chemistry IA4.md",
+    "Pasted image 20240910180641.png",
     "Pasted image 20240910174928.png",
     "Pasted image 20240910174924.png",
     "Pasted image 20240910174747.png",
     "Pasted image 20240910174517.png",
     "Year 11 Chemistry IA4 Canvas.canvas",
-    "Year 11 Chemistry IA4.md",
     "11-09-2024.md",
     "06-09-2024.md",
     "2024 Projects.md",
@@ -216,8 +218,6 @@
     "Pasted image 20240909200545.png",
     "Pasted image 20240909200158.png",
     "ChemistryResearchTask.ods",
-    "Pasted image 20240909182502.png",
-    "Pasted image 20240909182446.png",
     "conflict-files-obsidian-git.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "Physics Exam 2024.md",
