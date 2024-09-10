@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "62a65f5905a012a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 11 Chemistry IA4 W Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "89816af28365eb27",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3d17f557856f462c",
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "Year 11 Chemistry IA4 W Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "Year 11 Chemistry IA4 W Bibliography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "Year 11 Chemistry IA4 W Bibliography.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "Year 11 Chemistry IA4 W Bibliography.md"
               }
             }
           },
@@ -226,9 +239,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46a2af28c190f0ec",
+  "active": "62a65f5905a012a6",
   "lastOpenFiles": [
     "Untitled 26.md",
+    "Year 11 Chemistry IA4 W Bibliography.md",
     "Year 11 Chemistry IA4.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
     "Pasted image 20240910190937.png",
@@ -265,7 +279,6 @@
     "Self Ionization.md",
     "Excalidraw/Chem Ions Diagram 1.md",
     "Chemistry 17.1 The Arrhenius Model of the Atom.md",
-    "Base.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
