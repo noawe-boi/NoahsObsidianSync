@@ -11,16 +11,16 @@ While their ability to be sustainably produced is one of the main factors contri
 
 Consider the combustion reaction for biofuel, ethanol, in comparison to it's traditional counterpart, gasoline
 
-|          |                                                    |                |
-| -------- | -------------------------------------------------- | -------------- |
 | Fuel     | Combustion Formula                                 | $\Delta$H      |
+| -------- | -------------------------------------------------- | -------------- |
 | Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            | $-1367 kJ/mol$ |
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
 
-While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy when burned.  
+Sources: Gasoline (The Florida State University, n.d.) ,Ethanol (Chemistry LibreTexts, n.d.
 
-Gasoline (The Florida State University, n.d.)  
-Ethanol (Chemistry LibreTexts, n.d.)
+While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy, and products when combustion occurs.  
+
+)
 
 $CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmophere has increased significantly, causing events such a climate change (United Nations, 2004).
 
