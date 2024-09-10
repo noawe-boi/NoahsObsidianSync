@@ -37,6 +37,7 @@ For the case of transportation, the amount of energy in each fuel blend can be q
 
 *Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline?*
 
+##### Additional relevant information
 Various fuel types will be mentioned throughout this study, information regaridng these can be seen in Figure 2.
 
 |   |   |
@@ -71,8 +72,10 @@ Sources: (DieselNet, n.d.; DriveSmart, n.d.)
 #### Analysis and interpretation
 
 ##### Source 1 
+###### Relevant evidence
 'Effects of Fuel Ethanol Use on Fuel-Cycle  
 Energy and Greenhouse Gas Emissions' ,a study conducted by Argonne National Laboratory Transportation Technology R&D Center aimed to investigate, quantify, and predict the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. The study's overall goal was to predict the impact that newer refining processes would have on the total emissions generated throughout the production process as well as the burning of fuels. These predictions will be ignored, and it will be assumed that the amount of $CO_2$ produced during production is negligible across all fuels for the sake of comparison.
+###### Trends, patterns or relationships
 
 ![[20240831_04h40m08s_grim.png]]
 
@@ -89,7 +92,9 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 - Unspecified driving cycle.
 
 ##### Source 2
+###### Relevant evidence
 'Comparison of emissions and fuel consumption of a passenger vehicle on two fuels', A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle (NEDC), a set load series created to benchmark many aspects of vehicles.
+###### Trends, patterns or relationships
 
 ![[Pasted image 20240907152140.png]]
 
@@ -102,8 +107,9 @@ While the reduced fuel economy, or total energy extracted per litre of fuel, doe
 - Limited number of trials
 
 ##### Source 3
+###### Relevant evidence
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against multiple load, or driving, cycles
-
+###### Trends, patterns or relationships
 
 ![[Pasted image 20240907152018.png]]
 
