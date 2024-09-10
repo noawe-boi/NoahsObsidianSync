@@ -32,7 +32,7 @@ While they both resemble hydrocarbons, the amount of $CO_2$ produced when optima
 ##### Demonstrate development of the research question from the claim
 ###### What effect does more or lack of $CO_2$ have
 $CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmosphere has increased significantly, causing events such a climate change (United Nations, 2004).
-<div style="break-after:page"></div>
+
 ###### How are these fuels used and why?
 Unleaded gasoline and its blends are often used for transportation or non stationary machines where its high energy density can be utilised to travel large distances or alter large loads.
 ###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
@@ -74,7 +74,7 @@ Figure 3: A table containing different driving cycles tested and a brief descrip
 Sources: (DieselNet, n.d.; DriveSmart, n.d.)  
 </div>  
 
-<div style="break-after:page"></div>
+
 #### Analysis and interpretation
 
 ##### Source 1 
@@ -96,7 +96,7 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 ###### Limitations
 - Assumed that amount of $CO_2$ released in production is negligible.
 - Unspecified driving cycle.
-<div style="break-after:page"></div>
+
 ##### Source 2
 ###### Relevant evidence
 'Comparison of emissions and fuel consumption of a passenger vehicle on two fuels', A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle (NEDC), a set load series created to benchmark many aspects of vehicles.
@@ -111,7 +111,7 @@ While the reduced fuel economy, or total energy extracted per litre of fuel, doe
 ###### Limitations
 - Single vehicle sample size
 - Limited number of trials
-<div style="break-after:page"></div>
+
 ##### Source 3
 ###### Relevant evidence
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against load cycles UDC, EUDC, and NEDC.
@@ -137,7 +137,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 ###### Limitations
 - Single vehicle sample size
 - Only 3 back to back test for each fuel in each cycle.
-<div style="break-after:page"></div>
+
 #### Conclusion and Evaluation
 
 ![[Pasted image 20240910211733.png]]
@@ -149,7 +149,7 @@ This study aimed to evaluate and compare the relationship between the reasonably
 The evidence presented appeared to indicate that addition of biofuel, ethanol, reduced $CO_2$ emissions by a measurable, and statistically significant, amount, when compared to its traditional counterpart, Unleaded Gasoline, alone.  
 ##### Justified Conclusions linked to research question  
 Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleaded gasoline, does in fact, produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline. Thus supporting the research question.  
-<div style="break-after:page"></div>
+
 ##### Evaluation of research process, claims and conclusions shown by
 ###### Reasonable description of quality of evidence
 While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values.  
