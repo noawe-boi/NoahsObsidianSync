@@ -184,7 +184,7 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
-All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated when a vehicle 'cold starts'
+All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as this is a known issue with ethanol
 
 - Different cars, different weight, different aero. Other factors could influence.. Maybe? explains significant differnet in g/km between studies
 - A lot of results were observed visually via figures and graphs. No exact quantitative results were provided.  
