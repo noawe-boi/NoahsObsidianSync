@@ -95,35 +95,12 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 
 Figure 4 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.  
 While the reduced fuel economy, or total energy extracted per litre of fuel, does seem intuitive based on the lower energy per mole of ethanol, the study claims that this difference is negligible, so it will be treated as such.
-
+###### Limitations
 - Single vehicle sample size
 - Limited number of trials
 
 ##### Source 3
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against multiple load, or driving, cycles
-
-|   |   |
-|---|---|
-|Fuel Type|Components (by volume)|
-|ULP<br>|$\leq 0$% Ethanol, 95% ULP|
-|E10|$\approx10$% Ethanol, 90%|
-|E85|$\leq85$% Ethanol, 15% ULP|
-|E95|$\leq95$% Ethanol, 15% ULP|
-
-(Car and Driver, n.d.; MY NRMA, n.d.; RAC, n.d.)
-
-|                                                                       |                                                                                                                           |                                                            |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <div style="font-size: 15px;">Load Cycle</div>                        | <div style="font-size: 15px;">Description</div>                                                                           | <div style="font-size: 15px;">Total Driving Distance</div> |
-| <div style="font-size: 15px;">New European Driving cycle (NEDC)</div> | <div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div> | $\approx 10.93km$                                          |
-| <div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>         | <div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>                         | $\approx 4km$                                              |
-| <div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>  | <div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>         | $\approx 7km$                                              |
-
-<div style="color:grey;font-size:16px; font-family:Arial">  
-Figure 5: A table containing different driving cycles tested and a brief description of their content  
-<br>
-Sources: (*DieselNet*, n.d.; *DriveSmart*, n.d.), (Larsen & Westbrook, 2012)
-</div>  
 
 
 ![[Pasted image 20240907152018.png]]
@@ -142,13 +119,10 @@ The same study provided a quantitative graph of results over the same cycles, wi
 
 While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
 
-- Single vehicle sample size
-    
-- Only 3 back to back test for each fuel in each cycle.
-    
 
-- Change in $CO_2$ emissions is due to differences in molecules and combustion formula
-    
+###### Limitations
+- Single vehicle sample size
+- Only 3 back to back test for each fuel in each cycle.
 
 #### Conclusion and Evaluation
 
