@@ -198,7 +198,7 @@ All studies and data referenced were based around the NEDC, which is driven 'hot
 
 While the evidence utilised in this study did include data with fuels containing up to 95% ethanol by volume, only a single paper had data on it. a possible extension to this study could investigate whether there is an optimal ethanol content by using data that included a variety of fuels with varying % ethanol by volume, and other additives. 
 
-Finally, it should be mentioned that 
+Finally, it should be mentioned that $CO_2$ is not the only pollutant resulting form the burning of fuels such as ethanol and unleaded gasoline. Further studies should focus on a broader range of compounds, their abundance, and impact on the enviroment, 
 - $CO_2$ is not the only pollutant created by these fuels. What are these other pollutants and what are their impacts on the environment?
 
 
