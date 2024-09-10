@@ -98,7 +98,7 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 ##### *Analysis 2* of qualitative and quantitative data that identifies
 ###### Relevant evidence
 https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_manildra_group_-_k._beavon_-_1_aug_2016_200800000.pdf
-"Comparison of emissions and fuel consumption of a passenger vehicle on two fuels", A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle  (NEDC), a set load series created to benchmark many aspects of vehicles.
+'Comparison of emissions and fuel consumption of a passenger vehicle on two fuels', A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle  (NEDC), a set load series created to benchmark many aspects of vehicles.
 
 
 ![[Pasted image 20240907152140.png]]
