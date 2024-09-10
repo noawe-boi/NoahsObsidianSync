@@ -184,7 +184,7 @@ The evidence presented appeared to indicate that addition of biofuel, ethanol, r
 ##### Evaluation of research process, claims and conclusions shown by
 ###### reasonable description of quality of evidence
 
-- Different cars, different weight, different aero. Other factors could influence.. Maybe? 
+- Different cars, different weight, different aero. Other factors could influence.. Maybe? explains significant differnet in g/km b
 - A lot of results were observed visually via figures and graphs. No exact quantitative results were provided.  
 - No studies of vehicles that run soley on ethanol. However results show a spectrum
 
