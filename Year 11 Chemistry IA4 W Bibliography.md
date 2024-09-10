@@ -2,8 +2,12 @@
 
 #### Considered Rationale
 
+#### Claim
+
 'Fossil fuels and biofuels produce carbon dioxide in their combustion'  
 Evaluate the impact of fossil fuels and biofuels on the environment
+
+##### Investigate phenomena associated with claim
 
 ##### What are Biofuels?
 Biofuels are fuels created using plants or other forms of biomass. The most well known and utilised by the public are ethanol and methanol. These Biofuels are most commonly added to traditional fuels or are components in standalone alternatives.
@@ -15,14 +19,16 @@ Consider the combustion reaction for biofuel, ethanol, in comparison to it's tra
 | -------- | -------------------------------------------------- | -------------- |
 | Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            | $-1367 kJ/mol$ |
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
-
+<div style="color:grey;font-size:16px; font-family:Arial">  
+Figure 2: A table containing fuel types and their components  
+<br>  
 Sources: Gasoline (The Florida State University, n.d.) ,Ethanol (Chemistry LibreTexts, n.d.
+</div>
 
 While they both resemble hydrocarbons, the amount of $CO_2$ produced when optimal combustion occurs varies significantly. The differences in molecules also result in different amounts of energy, and therefore a different change in enthalpy, and products when combustion occurs.  
 
-)
 
-$CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmophere has increased significantly, causing events such a climate change (United Nations, 2004).
+$CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmosphere has increased significantly, causing events such a climate change (United Nations, 2004).
 
 Unleaded gasoline and its blends are often used for transportation or non stationary machines where its high energy density can be utilised to travel large distances or alter large loads.
 
@@ -30,7 +36,7 @@ For the case of transportation, the amount of energy in each fuel blend can be q
 
 Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline?
 
-Various fuel types will be mentioned throughout this study, information regaridng these can be seen in Figure 1.
+Various fuel types will be mentioned throughout this study, information regaridng these can be seen in Figure 2.
 
 |   |   |
 |---|---|
@@ -41,12 +47,12 @@ Various fuel types will be mentioned throughout this study, information regaridn
 |E95|$\leq95$% Ethanol, 15% ULP|
 
 <div style="color:grey;font-size:16px; font-family:Arial">  
-Figure 1: A table containing fuel types and their components  
+Figure 2: A table containing fuel types and their components  
 <br>  
 Sources: ( Car and Driver, n.d.; MY NRMA, n.d.; RAC, n.d.)  
 </div>  
 
-In addition to these fuel types, various driving cycles will also be discussed. Information regarding these can be seen in Figure 2
+In addition to these fuel types, various driving cycles will also be discussed. Information regarding these can be seen in Figure 3
 
 |   |   |   |
 |---|---|---|
