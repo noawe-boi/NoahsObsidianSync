@@ -66,9 +66,33 @@ Ethanol
 ##### Specific and relevant research question 
 
 *Does the addition of biofuel, Ethanol, to unleaded gasoline produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline?*
-##### Relevant Sources
+##### Additional relevant information
+
+Various fuel types will be mentioned throughout this study, information regaridng these can be seen in 
+
+| Fuel Type | Components (by volume)     |
+| :-------- | :------------------------- |
+| ULP<br>   | $\leq 0$% Ethanol, 95% ULP |
+| E10       | $\approx10$% Ethanol, 90%  |
+| E85       | $\leq85$% Ethanol, 15% ULP |
+| E95       | $\leq95$% Ethanol, 15% ULP |
+
+https://www.rac.co.uk/drive/advice/emissions/what-is-e10-fuel-and-how-could-it-affect-you/
+https://www.caranddriver.com/research/a31851426/what-is-e85-gas/
+https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10
 
 
+| <span style="font-size: 15px;">Load Cycle</span>                        | <span style="font-size: 15px;">Description</span>                                                                           | <span style="font-size: 15px;">Total Driving Distance</span> |
+| :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> | $\approx 10.93km$                                            |
+| <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         | $\approx 4km$                                                |
+| <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         | $\approx 7km$                                                |
+
+<span style="color:grey;font-size:16px; font-family:Arial">
+Figure 5: A table containing different driving cycles tested and a brief description of their content
+</span>
+https://www.drivesmart.co.uk/hpNEDC.aspx
+https://dieselnet.com/standards/cycles/ece_eudc.php
 
 
 #### Analysis and interpretation
