@@ -83,7 +83,7 @@ A study conducted by *Argonne National Laboratory Transportation Technology R&D 
 Figure 1 shows the measured and predicted 
 ###### Trends, patterns or relationships
 
-In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest component in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline released just over 475 grams $CO_2$ per mile ($311g/km$)while E95 released 20% less, at 310 grams per mile ($249g/km$).  
+In the 'Dry, Current' column, it can be observed that $CO_2$ is the largest component in emissions and is present in all fuel blends. However, the amount of $CO_2$ in each fuel's emissions varies significantly. Regular Unleaded Gasoline released just over 475 grams $CO_2$ per mile ($295g/km$)while E95 released 20% less, at 310 grams per mile ($249g/km$).  
 Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount of energy, no adjustments have to be made to compensate for the lower energy-per-mole of ethanol in comparison to standard unleaded petrol. 
 
 
