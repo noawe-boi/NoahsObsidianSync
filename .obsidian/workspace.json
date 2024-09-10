@@ -6,7 +6,6 @@
       {
         "id": "04dddad9a6aa98da",
         "type": "tabs",
-        "dimension": 60.338050314465406,
         "children": [
           {
             "id": "46a2af28c190f0ec",
@@ -17,40 +16,6 @@
                 "file": "Year 11 Chemistry IA4.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cc17ed825f5a086b",
-        "type": "tabs",
-        "dimension": 39.661949685534594,
-        "children": [
-          {
-            "id": "c924822de3fab122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11-09-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0216ff8850b81bb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Year 11 Chemistry IA4 Canvas.canvas",
-                "viewState": {
-                  "x": 1205.5,
-                  "y": -4007.5,
-                  "zoom": 0
-                }
               }
             }
           }
@@ -122,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11-09-2024.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11-09-2024.md",
+                "file": "Year 11 Chemistry IA4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11-09-2024.md"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -184,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "11-09-2024.md"
+                "file": "Year 11 Chemistry IA4.md"
               }
             }
           },
@@ -217,7 +182,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c924822de3fab122",
+  "active": "46a2af28c190f0ec",
   "lastOpenFiles": [
     "Year 11 Chemistry IA4 Canvas.canvas",
     "11-09-2024.md",
