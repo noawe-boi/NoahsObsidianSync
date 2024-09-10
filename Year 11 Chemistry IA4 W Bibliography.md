@@ -59,7 +59,7 @@ Sources: ( Car and Driver, n.d.; MY NRMA, n.d.; RAC, n.d.)
 </div>  
 
 In addition to these fuel types, various driving cycles will also be discussed. Information regarding these can be seen in Figure 3
-<div style="break-after:page"></div>
+
 
 |                                                                       |                                                                                                                           |                                                            |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -74,6 +74,7 @@ Figure 3: A table containing different driving cycles tested and a brief descrip
 Sources: (DieselNet, n.d.; DriveSmart, n.d.)  
 </div>  
 
+<div style="break-after:page"></div>
 #### Analysis and interpretation
 
 ##### Source 1 
@@ -136,7 +137,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 ###### Limitations
 - Single vehicle sample size
 - Only 3 back to back test for each fuel in each cycle.
-
+<div style="break-after:page"></div>
 #### Conclusion and Evaluation
 
 ![[Pasted image 20240910211733.png]]
@@ -147,6 +148,7 @@ This study aimed to evaluate and compare the relationship between the reasonably
 The evidence presented appeared to indicate that addition of biofuel, ethanol, reduced $CO_2$ emissions by a measurable, and statistically significant, amount, when compared to its traditional counterpart, Unleaded Gasoline, alone.  
 ##### Justified Conclusions linked to research question  
 Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleaded gasoline, does in fact, produce less carbon dioxide released per kilometre in comparison to regular unleaded gasoline. Thus supporting the research question.  
+<div style="break-after:page"></div>
 ##### Evaluation of research process, claims and conclusions shown by
 ###### Reasonable description of quality of evidence
 While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values.  
