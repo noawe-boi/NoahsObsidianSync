@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "Year 11 Chemistry IA4 Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "Year 11 Chemistry IA4 Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "Year 11 Chemistry IA4 Canvas.canvas"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "Year 11 Chemistry IA4 Canvas.canvas"
               }
             }
           },
@@ -205,12 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46a2af28c190f0ec",
+  "active": "89816af28365eb27",
   "lastOpenFiles": [
+    "Year 11 Chemistry IA4.md",
     "Pasted image 20240910190937.png",
     "Pasted image 20240910190929.png",
     "Year 11 Chemistry IA4 Canvas.canvas",
-    "Year 11 Chemistry IA4.md",
     "Pasted image 20240910180641.png",
     "Pasted image 20240910174928.png",
     "Pasted image 20240910174924.png",
@@ -224,7 +224,6 @@
     "Pasted image 20240909205530.png",
     "Pasted image 20240909205512.png",
     "Pasted image 20240909200559.png",
-    "Pasted image 20240909200545.png",
     "ChemistryResearchTask.ods",
     "conflict-files-obsidian-git.md",
     "Year 11 Specialist Maths Weak Areas.md",
