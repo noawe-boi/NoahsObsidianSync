@@ -1,5 +1,6 @@
 # Investigating vehicle $CO_2$ emissions in regards to fuel type
 
+<div style="break-after:page">By Noah Alexiou</div>
 
 
 #### Considered Rationale
@@ -160,7 +161,7 @@ While the evidence utilised in this study did include data with fuels containing
 
 Finally, it should be mentioned that $CO_2$ is not the only pollutant resulting form the burning of fuels such as ethanol and unleaded gasoline. Further studies should focus on a broader range of compounds, their abundance, and impact on the environment.
 
-
+<span style="
 
 ## Bibliography
 
