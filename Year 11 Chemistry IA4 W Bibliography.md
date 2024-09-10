@@ -87,7 +87,7 @@ Since this data compares a fixed volume of $CO_2$ with an average, fixed, amount
 - Unspecified driving cycle.
     
 
-(Brear, 2016)  
+##### Source 2
 'Comparison of emissions and fuel consumption of a passenger vehicle on two fuels', A report prepared by Prof. Michael Brear, compiles evidence relating to emissions testing conducted on a fixed passenger vehicle running standard, ULP, and biofuel, E10, fuel formulations. Tests were conducted in a standardised 'test cell' and performed over the New European Driving Cycle (NEDC), a set load series created to benchmark many aspects of vehicles.
 
 ![[Pasted image 20240907152140.png]]
@@ -100,7 +100,7 @@ While the reduced fuel economy, or total energy extracted per litre of fuel, doe
 - Single vehicle sample size
 - Limited number of trials
 
-##### Source 
+##### Source 3
 The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (US Department of Energy, n.d.). The study tested 3 types of fuel, ULP, E10, and E85, against multiple load, or driving, cycles
 
 |   |   |
