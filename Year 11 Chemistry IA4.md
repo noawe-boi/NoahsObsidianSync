@@ -123,6 +123,15 @@ The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexi
 - Regular Unleaded Petrol (ULP) 
 - E10 ($\approx10$% Ethanol, 90% ULP, by volume) (https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10)
 - E85 ($\leq85$% Ethanol, 15% ULP, by volume) (https://www.caranddriver.com/research/a31851426/what-is-e85-gas/). 
+- \
+
+
+
+
+
+
+
+
 
 These fuels were compared further against multiple load, or driving, cycles. 
 
@@ -190,9 +199,6 @@ Figure 8 clearly demonstrates this and shows that even for the same fuel, the am
 This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. Source 1 did not list a motor vehicle and aimed for an average value. Source 2 utilized a Holden GCG Captiva 7, a mid sized SUV. Source 3 utilised a Ford Focus 1.8 Duratec Flexi-fuel, a mid sized hatchback. All of these vehicles have significant variance in their weight, engine type, aerodynamics and overall efficiency. 
 The second factor is the lack or direct, quantified results. All quantities were visually estimated using figures and graphs from the study, many of which were unlabelled. This introduced significant uncertainty and could have contributed to inaccuracy. 
 
-###### applications of findings of research to the claim
-
-This study's findings clearly demonstra
 ###### suggested improvements and extensions *relevant to the claim*
 
 All studies and data referenced were based around the NEDC, which is driven 'hot'. It could be beneficial to investigate the emissions generated during the first minutes of a drive, where the vehicle is considered 'cold' as it is a known that fuels that have high ethanol content are less effective in these conditions due to their higher vaporisation energy cost https://eflexfuel.com/us/blog/do-cars-using-e85-start-in-the-cold, as well as the fact that shorter trips may not give the engine the opportunity to 'warm up'. 
