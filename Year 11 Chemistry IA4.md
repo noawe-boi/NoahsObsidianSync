@@ -176,7 +176,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 #### Conclusion and Evaluation
 ##### Insightful interpretation of evidence
 This study aimed to evaluate and compare the relationship between the reasonably extractable energy and quantify of $CO_2$ produced during combustion of both a traditional, and biofuel.
-The evidence presented appeared to indicate that adition of the biofuel, ethanol,  a measurable, and statistically significant, difference in quantify of $CO_2$, when compared to its traditional counterpart, Unleaded Gasoline.
+The evidence presented appeared to indicate that addition of biofuel, ethanol, reduced $CO_2$ emissions by a measurable, and statistically significant, ammount, when compared to its traditional counterpart, Unleaded Gasoline.
 ##### Justified Conclusions linked to research question
 
 
