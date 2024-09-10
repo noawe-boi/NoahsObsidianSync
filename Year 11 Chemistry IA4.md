@@ -47,7 +47,9 @@ Ethanol
 
 ##### Demonstrate development of the research question from the claim
 ###### What effect does more or lack of $CO_2$ have
-$CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmo
+$CO_2$ is a 'Greenhouse Gas', meaning that it contributes to global warming. In recent years, the amount of $CO_2$ in the atmophere has increased significantly, causing events such a climate change. 
+
+https://www.un.org/en/chronicle/article/health-effects-global-warming-developing-countries-are-most-vulnerable
 ###### How are these fuels used and why?
 Unleaded gasoline and its blends are often used for transportation or non stationary machines where its high energy density can be utilised to travel large distances or alter large loads.  
 ###### Can the amount of energy these fuels produce per unit of $CO_2$ produced be quantified?
