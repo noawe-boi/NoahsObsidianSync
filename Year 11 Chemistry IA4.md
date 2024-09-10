@@ -76,9 +76,11 @@ Various fuel types will be mentioned throughout this study, information regaridn
 | E10       | $\approx10$% Ethanol, 90%  |
 | E85       | $\leq85$% Ethanol, 15% ULP |
 | E95       | $\leq95$% Ethanol, 15% ULP |
-<span style="color:grey;font-size:16px; font-family:Arial">
-Figure 1: A table containing different driving cycles tested and a brief description of their content
-</span>
+<div style="color:grey;font-size:16px; font-family:Arial">
+Figure 1: A table containing fuel types and their components
+<br>
+Source:
+</div>
 
 
 https://www.rac.co.uk/drive/advice/emissions/what-is-e10-fuel-and-how-could-it-affect-you/
