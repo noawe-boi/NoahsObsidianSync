@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93ff06f8113293fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "10-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Chemistry IA4.md",
+                "file": "10-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "10-09-2024.md"
               }
             }
           },
@@ -162,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Chemistry IA4.md"
+                "file": "10-09-2024.md"
               }
             }
           },
@@ -173,14 +185,21 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "2e65f92bd1a088bd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,17 +212,16 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-tts:Text to Speech": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "3d-graph:3D Graph": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1aa13ce4920116f0",
+  "active": "93ff06f8113293fe",
   "lastOpenFiles": [
+    "11-09-2024.md",
+    "Year 11 Chemistry IA4 W Bibliography.md",
+    "Year 11 Chemistry IA4.md",
     "pH.md",
     "Year 11 Specialist Maths Weak Areas.md",
-    "Year 11 Chemistry IA4.md",
-    "Year 11 Chemistry IA4 W Bibliography.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
     "Untitled 26.md",
     "Untitled 25.md",
@@ -237,7 +255,6 @@
     "Base.md",
     "Banana Milkshake Recipe.md",
     "Anion.md",
-    "Alkali.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
