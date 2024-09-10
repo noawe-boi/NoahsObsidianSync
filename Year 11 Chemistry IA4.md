@@ -119,11 +119,7 @@ Small sample size (literally one car)
 
 https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf
 
-The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (https://afdc.energy.gov/vehicles/flexible-fuel). The study tested 3 types of fuel: 
-- Regular Unleaded Petrol (ULP) 
-- E10 () ()
-- E85 () (). 
-- \
+The joint study, 'Effect of Fuel Ethanol Content on Exhaust Emissions of a Flexible Fuel Vehicle', conducted by the Transport and Air Quality Unit and Institute for Environment and Sustainability, investigated the differences in emissions of a fuel flexible vehicle. A fuel flexible vehicle is a vehicle that is able to properly operate when running on fuels with ethanol content ranging from 0%, to 85% (https://afdc.energy.gov/vehicles/flexible-fuel). The study tested 3 types of fuel, ULP, E10, and E85, against multiple load, or driving, cycles
 
 
 
@@ -139,7 +135,6 @@ https://www.rac.co.uk/drive/advice/emissions/what-is-e10-fuel-and-how-could-it-a
 https://www.caranddriver.com/research/a31851426/what-is-e85-gas/
 https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10
 
-These fuels were compared further against multiple load, or driving, cycles. 
 
 | <span style="font-size: 15px;">Load Cycle</span>                        | <span style="font-size: 15px;">Description</span>                                                                           | <span style="font-size: 15px;">Total Driving Distance</span> |
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
