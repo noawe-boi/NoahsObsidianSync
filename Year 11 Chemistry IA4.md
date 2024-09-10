@@ -185,7 +185,7 @@ While the individual studies and figures referenced clearly demonstrate the same
 ![[Pasted image 20240910180641.png]]
 <span style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</span>
 
-Figure 8 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's $g/km$ value varies by over 
+Figure 8 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's value varies by over $117 g/km$ with 
 
 
 
