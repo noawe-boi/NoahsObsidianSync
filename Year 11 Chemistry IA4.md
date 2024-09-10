@@ -79,7 +79,7 @@ Various fuel types will be mentioned throughout this study, information regaridn
 <div style="color:grey;font-size:16px; font-family:Arial">
 Figure 1: A table containing fuel types and their components
 <br>
-
+Sources:
 </div>
 
 
@@ -89,15 +89,17 @@ https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10
 
 In addition to these fuel types, various driving cycles will also be discussed. Information regarding these can be seen in Figure 2
 
-| <span style="font-size: 15px;">Load Cycle</span>                        | <span style="font-size: 15px;">Description</span>                                                                           | <span style="font-size: 15px;">Total Driving Distance</span> |
-| :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> | $\approx 10.93km$                                            |
-| <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         | $\approx 4km$                                                |
-| <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         | $\approx 7km$                                                |
+| <div style="font-size: 15px;">Load Cycle</div>                        | <div style="font-size: 15px;">Description</div>                                                                           | <div style="font-size: 15px;">Total Driving Distance</div> |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| <div style="font-size: 15px;">New European Driving cycle (NEDC)</div> | <div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div> | $\approx 10.93km$                                          |
+| <div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>         | <div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>                         | $\approx 4km$                                              |
+| <div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>  | <div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>         | $\approx 7km$                                              |
 
-<span style="color:grey;font-size:16px; font-family:Arial">
+<div style="color:grey;font-size:16px; font-family:Arial">
 Figure 2: A table containing different driving cycles tested and a brief description of their content
-</span>
+<br>
+Sources:
+</div>
 https://www.drivesmart.co.uk/hpNEDC.aspx
 https://dieselnet.com/standards/cycles/ece_eudc.php
 
@@ -110,9 +112,10 @@ https://publications.anl.gov/anlpubs/1999/02/31961.pdf
 Energy and Greenhouse Gas Emissions' ,a study conducted by *Argonne National Laboratory Transportation Technology R&D Center* aimed to investigate, quantify, and predict the greenhouse gas emissions produced by passenger vehicles powered by both traditional petroleum, E10, E85 and E95 fuels. The study's overall goal was to predict the impact that newer refining processes would have on the total emissions generated throughout the production process as well as the burning of fuels. These predictions will be ignored, and it will be assumed that the amount of $CO_2$ produced during production is negligible across all fuels for the sake of comparison. 
 
 ![[20240831_04h40m08s_grim.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas</span>
+<div style="color:grey; font-size:16;font-family:Arial">Figure 1: Fuel-Cycle Greenhouse Gas Emissions of Gasoline and Ethanol Blends by Gas
+</div>
 ![[Pasted image 20240910174928.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 2: A digitally alterred rendition of Figure 1, showing approximate values for CO2 alone  </span>
+<div style="color:grey; font-size:16;font-family:Arial">Figure 2: A digitally alterred rendition of Figure 1, showing approximate values for CO2 alone  </div>
 
 ###### Trends, patterns or relationships
 Figure 1 shows the measured and predicted green house gas emissions of various fuel blends in grams per mile.
@@ -133,7 +136,7 @@ https://www.ipart.nsw.gov.au/sites/default/files/documents/online_submission_-_m
 
 
 ![[Pasted image 20240907152140.png]]
-<span style="color:grey; font-size:16;font-family:Arial">Figure 4: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10</span>
+<div style="color:grey; font-size:16;font-family:Arial">Figure 4: Cumulative emissions for Holden Captive vehicle over NEDC cycle while running on ULP and E10</div>
 
 ###### Trends, patterns or relationships
 Figure 4 is a table containing the results from the study's emissions tests. It can be observed that on average, E10, relative to ULP, shows a decrease in grams of $CO_2$ released per 100 km from $\approx 234g/km$ to $\approx 223g/km$, which equates to a 5$\%$ decrease in $CO_2$ emissions.
@@ -167,31 +170,31 @@ https://www.caranddriver.com/research/a31851426/what-is-e85-gas/
 https://www.mynrma.com.au/cars-and-driving/fuel-resources/the-facts-what-is-e10
 
 
-| <span style="font-size: 15px;">Load Cycle</span>                        | <span style="font-size: 15px;">Description</span>                                                                           | <span style="font-size: 15px;">Total Driving Distance</span> |
+| <div style="font-size: 15px;">Load Cycle</div>                        | <div style="font-size: 15px;">Description</div>                                                                           | <div style="font-size: 15px;">Total Driving Distance</div> |
 | :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| <span style="font-size: 15px;">New European Driving cycle (NEDC)</span> | <span style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</span> | $\approx 10.93km$                                            |
-| <span style="font-size: 15px;">Urban Driving Cycle (UDC)</span>         | <span style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</span>                         | $\approx 4km$                                                |
-| <span style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</span>  | <span style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</span>         | $\approx 7km$                                                |
+| <div style="font-size: 15px;">New European Driving cycle (NEDC)</div> | <div style="font-size: 15px;">Designed to accurately represent real world driving conditions across many scenarios.</div> | $\approx 10.93km$                                            |
+| <div style="font-size: 15px;">Urban Driving Cycle (UDC)</div>         | <div style="font-size: 15px;">Cars must accelerate and decelerate at low speeds many times.</div>                         | $\approx 4km$                                                |
+| <div style="font-size: 15px;">Extra Urban Driving Cycle (EUDC)</div>  | <div style="font-size: 15px;">Cars must accelerate to high speed, cruise, and decelerate at various speeds.</div>         | $\approx 7km$                                                |
 
-<span style="color:grey;font-size:16px; font-family:Arial">
+<div style="color:grey;font-size:16px; font-family:Arial">
 Figure 5: A table containing different driving cycles tested and a brief description of their content
-</span>
+</div>
 https://www.drivesmart.co.uk/hpNEDC.aspx
 https://dieselnet.com/standards/cycles/ece_eudc.php
 
 https://www.researchgate.net/profile/Bo-Larsen/publication/250003488_Effect_of_Fuel_Ethanol_Content_on_Exhaust_Emissions_of_a_Flexible_Fuel_Vehicle/links/0046351e92fff67ecf000000/Effect-of-Fuel-Ethanol-Content-on-Exhaust-Emissions-of-a-Flexible-Fuel-Vehicle.pdf
 
 ![[Pasted image 20240907152018.png]]
-<span style="color:grey; font-size:16px;font-family:Arial">Figure 6: Percentage variation of emissions compared to standard ULP, considered baseline</span>
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 6: Percentage variation of emissions compared to standard ULP, considered baseline</div>
 
-Figure 6 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<span style="color:red">*</span>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
+Figure 6 is a table that compares the percentage difference in total quantity of various emission components produced throughout each driving cycle, against the type of fuel burned. It should be noted that all statistics marked with a red asterisk (<div style="color:red">*</div>) are considered to be statistically significant with high confidence. ULP is not listed as a fuel as it was considered the baseline, in which all other percentage values are with respect to. 
 
 In every test, E10's $CO_2$ emissions varied only marginally when compared to ULP. This difference was greatest in the UDC, and EUDC driving cycles, where it varied from -3%, to 1%. 
 E85, however, showed slight deviation from baseline results in all driving cycles. $CO_2$ emissions were  decreased by a maximum of 5%, and a minimum of 4% in the UDC, and both NEDC and EUDC driving cycles respectively. E85 
 
 ![[Pasted image 20240909182502.png]]
 
-<span style="color:grey; font-size:16px;font-family:Arial">Figure 7: CO2 emissions over various load cycles (g/km)</span>
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 7: CO2 emissions over various load cycles (g/km)</div>
 The same study provided a quantitative graph of results over the same cycles, with the "Combined" results representing the entire NEDC load cycle. These results are relevant for later analysis.
 
 While the difference between ULP, the containing no ethanol, and E85, containing the most ethanol, was at most 5%, the study does consider these results statistically significant with a high level of confidence, in which case the evidence supports the thesis that the addition of ethanol to ULP decreases $CO_2$ emissions.
@@ -215,7 +218,7 @@ While the difference between ULP, the containing no ethanol, and E85, containing
 #### Conclusion and Evaluation
 ##### Insightful interpretation of evidence
 ![[Pasted image 20240910190937.png]]
-<span style="color:grey; font-size:16px;font-family:Arial">Figure 9: % Decerase of CO2 emissions over % ethanol by volume of fuel used</span>
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 9: % Decerase of CO2 emissions over % ethanol by volume of fuel used</div>
 This study aimed to evaluate and compare the relationship between the reasonably extractable energy and quantify of $CO_2$ produced during combustion of both a traditional, and biofuel.
 The evidence presented appeared to indicate that addition of biofuel, ethanol, reduced $CO_2$ emissions by a measurable, and statistically significant, amount, when compared to its traditional counterpart, Unleaded Gasoline, alone.
 ##### Justified Conclusions linked to research question
@@ -225,7 +228,7 @@ Therefore, it can be concluded that the addition of biofuel, Ethanol, to unleade
 ###### reasonable description of quality of evidence
 While the individual studies and figures referenced clearly demonstrate the same trend, when compared against each other there was significant deviation in their values. 
 ![[Pasted image 20240910180641.png]]
-<span style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</span>
+<div style="color:grey; font-size:16px;font-family:Arial">Figure 8: CO2 emissions over various load cycles (g/km)</div>
 
 Figure 8 clearly demonstrates this and shows that even for the same fuel, the amount of $CO_2$ per kilometre varied significantly. For example, E10's value varies by over $117 g/km$ with Figure 1 having the largest value, and Figure 7 having the smallest. 
 This is likley due to 3 main factors. The first factor is the differences in vehicle used during testing. Source 1 did not list a motor vehicle and aimed for an average value. Source 2 utilized a Holden GCG Captiva 7, a mid sized SUV. Source 3 utilised a Ford Focus 1.8 Duratec Flexi-fuel, a mid sized hatchback. All of these vehicles have significant variance in their weight, engine type, aerodynamics and overall efficiency. 
