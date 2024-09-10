@@ -19,7 +19,7 @@ Consider the combustion reaction for biofuel, ethanol, in comparison to it's tra
 | Ethanol  | $C_2H_5OH(l)+3O_2(g)→2CO_2(g)+3H_2O(g)$            | $-1367 kJ/mol$ |
 | Gasoline | $2C_8H_{18}(l) + 25O_2(g) → 16CO_2(g) + 18H_2O(g)$ | $-2735 kJ/mol$ |
 <div style="color:grey;font-size:16px; font-family:Arial">  
-Figure 2: A table containing fuel types and their components  
+Figure 1: A table containing fuel types and their components  
 <br>  
 Sources: Gasoline (The Florida State University, n.d.) ,Ethanol (Chemistry LibreTexts, n.d.
 </div>
