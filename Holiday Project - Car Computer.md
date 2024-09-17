@@ -41,7 +41,13 @@
 #### Interface
 ##### Touch Screen
 ###### Pros
+- User friendly
+- Cool asf
 ###### Cons
+- Difficult to integrate into linux
+- Requires interface to be touch friendly
+- Requires Extra Hardware
 
 ##### AliExpress Trackpad 
-
+###### Pros
+###### Cons
