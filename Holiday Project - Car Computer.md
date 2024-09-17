@@ -52,6 +52,7 @@
 ###### Pros
 - Plug and play
 - Can be used from anywhere in the car
-- Possibility for Tv Remote style control with single buttons acting as shortcuts for LED brightn
+- Possibility for Tv Remote style control with single buttons acting as shortcuts for LED brightness/camera position etc.
 ###### Cons
-- Less polished
+- Less convienient for driver to access
+- Harder for new users.
