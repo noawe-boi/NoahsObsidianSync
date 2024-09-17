@@ -16,3 +16,6 @@
 - Laptop Webcam 
 - Servo Motor x2
 - USB Extention Cable? (possible custom wiring)
+###### Features
+- Left/right swivel motion
+- "tuck" into base for high speed travel (or just mount inside)
