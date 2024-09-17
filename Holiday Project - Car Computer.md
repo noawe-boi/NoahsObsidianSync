@@ -10,8 +10,9 @@
 - Old Laptop
 - 12V $\rightarrow \space \approx$ 19V Adapter
 - RPI Pico Microcontroller + serial?
-- AV $\rightarrow$
+- HDMI $\rightarrow$ AV Converter
 
 #### Cameras
 - Laptop Webcam 
 - Servo Motor x2
+- USB Extention Cable? (possible custom wiring)
