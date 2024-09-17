@@ -62,3 +62,6 @@
 - Mosfet
 - Arthurs LED Strips
 - 12V Breaker/fuse in case I fuck up
+- Zip Ties
+
+#### 
