@@ -44,10 +44,14 @@
 - User friendly
 - Cool asf
 ###### Cons
-- Difficult to integrate into linux
+- Difficult to integrate into Linux
 - Requires interface to be touch friendly
 - Requires Extra Hardware
 
 ##### AliExpress Trackpad 
 ###### Pros
+- Plug and play
+- Can be used from anywhere in the car
+- Possibility for Tv Remote style control with single buttons acting as shortcuts for LED brightn
 ###### Cons
+- Less polished
