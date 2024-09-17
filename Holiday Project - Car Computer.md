@@ -40,6 +40,8 @@
 
 #### Interface
 ##### Touch Screen
+###### Pros
+###### Cons
 
 ##### AliExpress Trackpad 
 
