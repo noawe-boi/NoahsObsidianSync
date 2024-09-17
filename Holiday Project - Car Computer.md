@@ -14,6 +14,7 @@
 ###### Cons
 - May Require External Sound Card
 - Worse Processing Power
+
 ###### Laptop Based
 - Old Laptop
 - 12V $\rightarrow \space \approx$ 19V Adapter
@@ -22,8 +23,12 @@
 ###### Pros
 - Possibility for second display.
 - More processing power
-- 
 ###### Cons
+- No GPIO (external microcontroller required)
+- Larger footprint
+- requires active cooling
+- Requires custom power adapter
+
 
 #### Cameras
 - Laptop Webcam 
