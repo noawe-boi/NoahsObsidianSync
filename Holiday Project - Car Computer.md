@@ -56,3 +56,9 @@
 ###### Cons
 - Less convienient for driver to access
 - Harder for new users.
+
+#### Lighting
+###### Hardware
+- Mosfet
+- Arthurs LED Strips
+- 12V Breaker/fuse in case I fuck up
