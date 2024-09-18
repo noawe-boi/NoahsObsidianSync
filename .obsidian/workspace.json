@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "0b76d33fc6534bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "89816af28365eb27",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3d17f557856f462c",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Chemistry IA4 W Bibliography.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Chemistry IA4 W Bibliography.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Chemistry IA4 W Bibliography.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -208,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Chemistry IA4 W Bibliography.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -241,10 +254,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62a65f5905a012a6",
+  "active": "0b76d33fc6534bc0",
   "lastOpenFiles": [
-    "Year 11 Chemistry IA4 Canvas.canvas",
     "Year 11 Chemistry IA4 W Bibliography.md",
+    "conflict-files-obsidian-git.md",
+    "Holiday Project - Car Computer.md",
+    "Year 11 Chemistry IA4 Canvas.canvas",
     "Untitled 26.md",
     "Year 11 Chemistry IA4.md",
     "Pasted image 20240910211733.png",
@@ -263,7 +278,6 @@
     "09-09-2024.md",
     "Pasted image 20240909205530.png",
     "ChemistryResearchTask.ods",
-    "conflict-files-obsidian-git.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "Physics Exam 2024.md",
     "2020.md",
