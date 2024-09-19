@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf6e2453954a551c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Holiday Project - Car Computer.md",
+                "file": "2024 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holiday Project - Car Computer.md",
+                "file": "2024 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holiday Project - Car Computer.md"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -162,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Holiday Project - Car Computer.md"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -195,14 +207,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9104f0a37d69635d",
+  "active": "bf6e2453954a551c",
   "lastOpenFiles": [
+    "Holiday Project - Car Computer.md",
     "Specialist Maths FA4 Exam Revision.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "18-09-2024.md",
     "Year 11 Chemistry IA4 W Bibliography.md",
     "conflict-files-obsidian-git.md",
-    "Holiday Project - Car Computer.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
     "Untitled 26.md",
     "Year 11 Chemistry IA4.md",

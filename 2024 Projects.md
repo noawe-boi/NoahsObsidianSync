@@ -16,6 +16,9 @@
 
 - Create universal 5v $\rightarrow$ 20v USB C pd charger that works with type A and also 12v in from car etc. Allows user to plug into high amp 5v and charge a 20v laptop
 
+- VLC study timer/plotter 
+	- (https://www.youtube.com/watch?v=enxqU3bhCEs)
+
 
 ````
 
