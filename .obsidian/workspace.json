@@ -6,7 +6,6 @@
       {
         "id": "04dddad9a6aa98da",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "62a65f5905a012a6",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-09-2024.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-09-2024.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18-09-2024.md",
+                "file": "Year 11 Specialist Maths Weak Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18-09-2024.md"
+                "file": "Year 11 Specialist Maths Weak Areas.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "18-09-2024.md"
+                "file": "Year 11 Specialist Maths Weak Areas.md"
               }
             }
           },
@@ -185,8 +184,8 @@
   },
   "active": "62a65f5905a012a6",
   "lastOpenFiles": [
-    "Year 11 Chemistry IA4 W Bibliography.md",
     "18-09-2024.md",
+    "Year 11 Chemistry IA4 W Bibliography.md",
     "conflict-files-obsidian-git.md",
     "Holiday Project - Car Computer.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
