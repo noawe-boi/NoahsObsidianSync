@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf6e2453954a551c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Projects.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Projects.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Projects.md"
+                "file": "Specialist Maths FA4 Exam Revision.md"
               }
             }
           },
@@ -174,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2024 Projects.md"
+                "file": "Specialist Maths FA4 Exam Revision.md"
               }
             }
           },
@@ -207,10 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf6e2453954a551c",
+  "active": "62a65f5905a012a6",
   "lastOpenFiles": [
     "Holiday Project - Car Computer.md",
     "Specialist Maths FA4 Exam Revision.md",
+    "2024 Projects.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "18-09-2024.md",
     "Year 11 Chemistry IA4 W Bibliography.md",
@@ -229,7 +217,6 @@
     "Pasted image 20240910174517.png",
     "11-09-2024.md",
     "06-09-2024.md",
-    "2024 Projects.md",
     "10-09-2024.md",
     "09-09-2024.md",
     "Pasted image 20240909205530.png",
