@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a046caf002cf8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 6.2 Electric Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f=",
+                "query": "coulombs",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md",
+                "file": "Physics 6.2 Electric Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md",
+                "file": "Physics 6.2 Electric Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md"
+                "file": "Physics 6.2 Electric Fields.md"
               }
             }
           },
@@ -173,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 8.3 Lenz's Law.md"
+                "file": "Physics 6.2 Electric Fields.md"
               }
             }
           },
@@ -206,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df109abc591cc472",
+  "active": "1a046caf002cf8cc",
   "lastOpenFiles": [
-    "Excalidraw/9.1 Worked Examples.md",
     "Physics 8.3 Lenz's Law.md",
+    "Excalidraw/9.1 Worked Examples.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "Holiday Project - Car Computer.md",
