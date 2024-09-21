@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4.18",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -218,7 +219,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65843fbb0ab63956",
+  "active": "cb068b3e7b999cf4",
   "lastOpenFiles": [
     "Physics 8.3 Lenz's Law.md",
     "Excalidraw/9.1 Worked Examples.md",
