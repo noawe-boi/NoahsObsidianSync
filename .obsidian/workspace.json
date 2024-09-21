@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "04dddad9a6aa98da",
+        "id": "8c2327df1b83ec04",
         "type": "tabs",
         "children": [
           {
-            "id": "62a65f5905a012a6",
+            "id": "57607612abc95c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist Maths FA4 Exam Revision.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5baf811f18f3fa0e",
+            "id": "3c3d71e4c172a91a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fda6c8ebc69d9dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movies to watch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9104f0a37d69635d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holiday Project - Car Computer.md",
+                "file": "Physics 7.2 Defining Magnetic Field Strength.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rule",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -124,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movies to watch.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movies to watch.md",
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movies to watch.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -186,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Movies to watch.md"
+                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
               }
             }
           },
@@ -219,12 +194,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fda6c8ebc69d9dee",
+  "active": "57607612abc95c34",
   "lastOpenFiles": [
-    "2024 Projects.md",
-    "Movies to watch.md",
-    "Specialist Maths FA4 Exam Revision.md",
+    "Physics 7.2 Defining Magnetic Field Strength.md",
+    "Physics 7.4 Magnetic forces on a moving charge.md",
     "Holiday Project - Car Computer.md",
+    "Movies to watch.md",
+    "2024 Projects.md",
+    "Specialist Maths FA4 Exam Revision.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "18-09-2024.md",
     "Year 11 Chemistry IA4 W Bibliography.md",
@@ -257,8 +234,6 @@
     "chemistry ia3.md",
     "02-09-2024.md",
     "Holidays TODO.md",
-    "The Maths Method.md",
-    "pH.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
