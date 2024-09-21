@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd6171ff9df9e255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 11.4 Refraction of light.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "refractive index",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -124,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md"
+                "file": "Physics 11.4 Refraction of light.md"
               }
             }
           },
@@ -186,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 6.2 Electric Fields.md"
+                "file": "Physics 11.4 Refraction of light.md"
               }
             }
           },
@@ -219,8 +230,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb068b3e7b999cf4",
+  "active": "bd6171ff9df9e255",
   "lastOpenFiles": [
+    "Physics 6.2 Electric Fields.md",
     "Physics 8.3 Lenz's Law.md",
     "Excalidraw/9.1 Worked Examples.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
@@ -258,7 +270,6 @@
     "08-09-2024.md",
     "Banana Milkshake Recipe.md",
     "Chemistry IA2.md",
-    "chemistry ia3.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
