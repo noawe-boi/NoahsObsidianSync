@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work function.md",
+                "file": "11.5 The Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work function.md",
+                "file": "11.5 The Photoelectric Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work function.md"
+                "file": "11.5 The Photoelectric Effect.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Work function.md"
+                "file": "11.5 The Photoelectric Effect.md"
               }
             }
           },
@@ -254,8 +254,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84e03b79541fce50",
+  "active": "a8dad2a961aa0aec",
   "lastOpenFiles": [
+    "Work function.md",
     "11.5 The Photoelectric Effect.md",
     "The Photoelectric Effect.md",
     "Physics 11.4 Refraction of light.md",
@@ -293,7 +294,6 @@
     "Physics Exam 2024.md",
     "2020.md",
     "05-09-2024.md",
-    "07-09-2024.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
