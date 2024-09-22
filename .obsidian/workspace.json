@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b707da1f3d91b067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Systems.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,12 +204,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01c93f9796b7a131",
+  "active": "b707da1f3d91b067",
   "lastOpenFiles": [
-    "2024 Projects.md",
     "Systems.md",
-    "Year 11 Maths Methods IA3 Revision.md",
     "conflict-files-obsidian-git.md",
+    "Year 11 Specialist Maths Weak Areas.md",
+    "Year 11 Chemistry IA4 W Bibliography.md",
+    "Year 11 Chemistry IA4 Canvas.canvas",
+    "Untitled 26.md",
+    "Specialist Maths FA4 Exam Revision.md",
+    "Physics Exam 2024.md",
+    "Pasted image 20240910211733.png",
+    "Pasted image 20240910211625.png",
+    "Pasted image 20240910190937.png",
+    "Pasted image 20240910190929.png",
+    "Pasted image 20240910180641.png",
+    "Pasted image 20240910174928.png",
+    "Pasted image 20240910174924.png",
+    "Pasted image 20240910174747.png",
+    "Pasted image 20240910174517.png",
+    "Pasted image 20240909205530.png",
+    "Movies to watch.md",
+    "Holiday Project - Car Computer.md",
+    "ChemistryResearchTask.ods",
+    "Banana Milkshake Recipe.md",
+    "2020.md",
+    "18-09-2024.md",
+    "11-09-2024.md",
+    "10-09-2024.md",
+    "09-09-2024.md",
+    "08-09-2024.md",
+    "07-09-2024.md",
+    "2024 Projects.md",
+    "Year 11 Maths Methods IA3 Revision.md",
     "pH.md",
     "chemistry ia3.md",
     "Year 11 Chemistry IA4.md",
@@ -204,32 +244,7 @@
     "Untitled 24.md",
     "The Maths Method.md",
     "Specialist Maths IA3 Exam Revision.md",
-    "Solubility Rules.md",
-    "Self Ionization.md",
-    "Physics alter.md",
-    "Physics 2024 Exam Revision.md",
-    "Pasted image 20240902151308.png",
-    "Ionic substance.md",
-    "Ion.md",
-    "Holidays TODO.md",
-    "Excalidraw/Chem Ions Diagram 1.md",
-    "English 26-08-2024.md",
     "Chemistry IA4 Canvas.canvas",
-    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
-    "Chemistry 16.1 Identifying Ions In Solution.md",
-    "Cation.md",
-    "Base.md",
-    "Anion.md",
-    "Alkali.md",
-    "20240831_04h40m08s_grim.png",
-    "20240831_00h07m46s_grim.png",
-    "20240830_04h43m10s_grim.png",
-    "20240830_04h38m22s_grim.png",
-    "20240830_03h42m17s_grim.png",
-    "20240830_03h42m06s_grim.png",
-    "20240830_03h42m06s_grim 1.png",
-    "20240830_03h39m20s_grim.png",
-    "Pasted image 20240809214836.png",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
@@ -241,7 +256,6 @@
     "Physics 9.1 Describing a wave.canvas",
     "Physics",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }

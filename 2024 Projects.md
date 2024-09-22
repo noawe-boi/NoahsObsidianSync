@@ -1,5 +1,14 @@
 - Calculator Programming
 
+<<<<<<< HEAD
+=======
+- Learn Rust
+
+- Learn advanced obsidian formatting
+
+- Install Arch Linux on Android TV... Ultimate portable PC
+
+>>>>>>> origin/main
 - Custom Linux car head unit using RPI
 
 - Sim racing setup made from pallet
@@ -10,7 +19,12 @@
 
 - Code my own game engine from scratch
 
+- Make George Droid Ahh game with jeshua and joshua on roblox. \
 
+- Create universal 5v $\rightarrow$ 20v USB C pd charger that works with type A and also 12v in from car etc. Allows user to plug into high amp 5v and charge a 20v laptop
+
+- VLC study timer/plotter 
+	- (https://www.youtube.com/watch?v=enxqU3bhCEs)
 
 
 ````
