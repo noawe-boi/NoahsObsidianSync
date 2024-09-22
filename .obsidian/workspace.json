@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b707da1f3d91b067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Systems.md"
               }
             }
           },
@@ -162,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Systems.md"
               }
             }
           },
@@ -204,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b707da1f3d91b067",
+  "active": "01c93f9796b7a131",
   "lastOpenFiles": [
-    "Systems.md",
     "conflict-files-obsidian-git.md",
+    "Systems.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "Year 11 Chemistry IA4 W Bibliography.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
