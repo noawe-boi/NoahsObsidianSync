@@ -2,7 +2,7 @@
 ![[Physics Alternate Sequence Practice Exam 2020]]
 #### ToDo
 #### Questions for Mr Ace
-- Do we need to k
+- Do we need to know how to do Q28 of this paper?
 ###### HELP
 - Q20
 
