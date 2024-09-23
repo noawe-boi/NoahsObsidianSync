@@ -1,5 +1,5 @@
 ![[Right Hand Rule 2 Physics]]
-ll
+
 ![[RIght hand rule 2 example 2]]
 
 
