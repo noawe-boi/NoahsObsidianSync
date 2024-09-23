@@ -1,14 +1,13 @@
 - Calculator Programming
 
-<<<<<<< HEAD
-=======
+- Break glass in case of emergency monster energy case
+
 - Learn Rust
 
 - Learn advanced obsidian formatting
 
 - Install Arch Linux on Android TV... Ultimate portable PC
 
->>>>>>> origin/main
 - Custom Linux car head unit using RPI
 
 - Sim racing setup made from pallet

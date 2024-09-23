@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08746ee38afad667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md",
+                "file": "2024 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md",
+                "file": "2024 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -162,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md"
+                "file": "2024 Projects.md"
               }
             }
           },
@@ -204,8 +216,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31877875df56dcae",
+  "active": "08746ee38afad667",
   "lastOpenFiles": [
+    "Physics Grade 11 Exam 2024.md",
     "Systems.md",
     "conflict-files-obsidian-git.md",
     "Year 11 Specialist Maths Weak Areas.md",
@@ -213,7 +226,6 @@
     "Year 11 Chemistry IA4 Canvas.canvas",
     "Untitled 26.md",
     "Specialist Maths FA4 Exam Revision.md",
-    "Physics Grade 11 Exam 2024.md",
     "Pasted image 20240910211733.png",
     "Pasted image 20240910211625.png",
     "Pasted image 20240910190937.png",
