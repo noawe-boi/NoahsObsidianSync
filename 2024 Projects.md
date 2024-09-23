@@ -1,5 +1,7 @@
 - Calculator Programming
 
+- Break glass in case of emergency monster energy case
+
 - Learn Rust
 
 - Learn advanced obsidian formatting

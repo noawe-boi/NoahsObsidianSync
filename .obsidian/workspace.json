@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3c0a3c4a1010c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -204,10 +216,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7831c5d66ad0f4a2",
+  "active": "d3c0a3c4a1010c19",
   "lastOpenFiles": [
-    "Physics 8.1 Magnetic Flux.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
+    "conflict-files-obsidian-git.md",
+    "Systems.md",
+    "Physics Grade 11 Exam 2024.md",
+    "Physics 8.1 Magnetic Flux.md",
     "Excalidraw/Physics Worked Example 5.3.2.md",
     "Work function.md",
     "11.5 The Photoelectric Effect.md",
@@ -224,7 +239,6 @@
     "Year 11 Specialist Maths Weak Areas.md",
     "18-09-2024.md",
     "Year 11 Chemistry IA4 W Bibliography.md",
-    "conflict-files-obsidian-git.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
     "Untitled 26.md",
     "Year 11 Chemistry IA4.md",
@@ -240,10 +254,8 @@
     "11-09-2024.md",
     "06-09-2024.md",
     "10-09-2024.md",
-    "09-09-2024.md",
     "Pasted image 20240909205530.png",
     "ChemistryResearchTask.ods",
-    "Physics Exam 2024.md",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
     "risk assessment.pdf",
