@@ -1,12 +1,12 @@
 - Calculator Programming
 
+- Linux install cheat sheet (a collection of all the things I should install and all the scripts and configs for window managers)
+
 - Break glass in case of emergency monster energy case
 
 - Learn Rust
 
 - Learn advanced obsidian formatting
-
-- Install Arch Linux on Android TV... Ultimate portable PC
 
 - Custom Linux car head unit using RPI
 

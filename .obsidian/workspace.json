@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "761824bf4115d1c4",
+        "id": "ee3ab86cb5bb254c",
         "type": "tabs",
         "children": [
           {
-            "id": "08c2fddc1adb3035",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Worked Example 5.3.2.md"
-              }
-            }
-          },
-          {
-            "id": "878e0d150b4da28a",
+            "id": "1f477a52d5115fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 8.1 Magnetic Flux.md",
+                "file": "Physics Grade 11 Exam 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7831c5d66ad0f4a2",
+            "id": "ecd8f5c8f1d6b2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "24-09-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "current carrying",
+                "query": "hand",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "24-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
+                "file": "24-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "24-09-2024.md"
               }
             }
           },
@@ -171,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md"
+                "file": "24-09-2024.md"
               }
             }
           },
@@ -204,32 +194,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7831c5d66ad0f4a2",
+  "active": "ecd8f5c8f1d6b2c9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Physics 7.4 Magnetic forces on a moving charge.md",
-    "Systems.md",
     "Physics Grade 11 Exam 2024.md",
+    "24-09-2024.md",
+    "Pasted image 20240924185202.png",
+    "Pasted image 20240924185153.png",
+    "2024 Projects.md",
+    "Physics 7.4 Magnetic forces on a moving charge.md",
+    "Physics 8.3 Lenz's Law.md",
+    "Excalidraw/Right Hand Rule 2 Physics.md",
+    "Physics Alternate Sequence Practice Exam 2020.md",
+    "Physics 2024 Exam Revision.md",
     "Physics 8.1 Magnetic Flux.md",
     "Excalidraw/Physics Worked Example 5.3.2.md",
+    "conflict-files-obsidian-git.md",
+    "Systems.md",
     "Work function.md",
     "11.5 The Photoelectric Effect.md",
     "The Photoelectric Effect.md",
     "Physics 11.4 Refraction of light.md",
     "Physics 6.2 Electric Fields.md",
-    "Physics 8.3 Lenz's Law.md",
     "Excalidraw/9.1 Worked Examples.md",
     "Physics 7.2 Defining Magnetic Field Strength.md",
     "Holiday Project - Car Computer.md",
     "Movies to watch.md",
-    "2024 Projects.md",
     "Specialist Maths FA4 Exam Revision.md",
     "Year 11 Specialist Maths Weak Areas.md",
     "18-09-2024.md",
     "Year 11 Chemistry IA4 W Bibliography.md",
     "Year 11 Chemistry IA4 Canvas.canvas",
-    "Untitled 26.md",
-    "Year 11 Chemistry IA4.md",
     "Pasted image 20240910211733.png",
     "Pasted image 20240910211625.png",
     "Pasted image 20240910190937.png",
@@ -238,11 +232,6 @@
     "Pasted image 20240910174928.png",
     "Pasted image 20240910174924.png",
     "Pasted image 20240910174747.png",
-    "Pasted image 20240910174517.png",
-    "11-09-2024.md",
-    "06-09-2024.md",
-    "10-09-2024.md",
-    "Pasted image 20240909205530.png",
     "ChemistryResearchTask.ods",
     "Recording 20240801095235.webm",
     "Recording 20240801095154.webm",
