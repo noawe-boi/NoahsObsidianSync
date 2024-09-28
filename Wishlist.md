@@ -1,0 +1,2 @@
+- Thinkpad Shirt
+- M1 Mac w/ at least 32gb ram

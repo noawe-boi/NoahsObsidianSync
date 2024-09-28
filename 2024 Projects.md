@@ -10,6 +10,8 @@
 
 - Custom Linux car head unit using RPI
 
+- Install Linux on thinkpad already and try out suckless software
+
 - Sim racing setup made from pallet
 
 - Pi Pico sim racing hand brake
