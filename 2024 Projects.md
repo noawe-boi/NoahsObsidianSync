@@ -10,7 +10,7 @@
 
 - Custom Linux car head unit using RPI
 
-- Install Linux on thinkpad already and try out suckless software
+- Install Linux on thinkpad already and try out suckless softwaref
 
 - Sim racing setup made from pallet
 
