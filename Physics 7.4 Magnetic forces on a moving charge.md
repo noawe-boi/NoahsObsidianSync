@@ -1,9 +1,14 @@
 ![[Right Hand Rule 2 Physics]]
 
+**Use left hand for negative charges**
+
+
+Flemings left hand rule
+
 ![[RIght hand rule 2 example 2]]
 
 
-**Use the left hand for negative charges!**
+**Use the right hand for negative charges!**
 
 
 ### For Charged Particles
