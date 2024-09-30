@@ -24,10 +24,7 @@ tag:
 - Q7
 - Q21
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 ##### Chapter 10
 - Q17
 
