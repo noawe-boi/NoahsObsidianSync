@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 11 Maths Methods FA4 2024 Exam Revision.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 11 Maths Methods FA4 2024 Exam Revision.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 11 Maths Methods FA4 2024 Exam Revision.md"
+                "file": "Specialist Maths FA4 Exam Revision.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 11 Maths Methods FA4 2024 Exam Revision.md"
+                "file": "Specialist Maths FA4 Exam Revision.md"
               }
             }
           },
@@ -228,11 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9299d2419bb92de",
+  "active": "165ac041c1446b55",
   "lastOpenFiles": [
+    "Year 11 Maths Methods FA4 2024 Exam Revision.md",
     "Specialist Maths FA4 Exam Revision.md",
     "Year 11 Maths Methods IA3 Revision.md",
-    "Year 11 Maths Methods FA4 2024 Exam Revision.md",
     "2024 Grade 11 Exams.md",
     "English Grade 11 FA4 Exam 2024.md",
     "grade 11.md",
