@@ -8,8 +8,8 @@ tags:
 ##### TF
 - Q2: There is no projection??
 ##### TA
-- Q8:No clue
-- Q10: Not sure how to to this one either. something to do with sohcahtoa but triangles are not right angled...
+- *Q8:No clue*
+- *Q10: Not sure how to to this one either. something to do with sohcahtoa but triangles are not right angled...*
 #### Revise
 
 
