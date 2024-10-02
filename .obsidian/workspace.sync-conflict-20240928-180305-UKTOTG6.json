@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "66c88c2ceb6968a9",
+        "id": "09d55530ed5a7ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "bf005183514d1017",
+            "id": "f8720a11df8caaf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Grade 11 FA4 Exam 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f4cc2b64510b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 Grade 11 Exams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9299d2419bb92de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 11 Maths Methods FA4 2024 Exam Revision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "165ac041c1446b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Specialist Maths FA4 Exam Revision.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,12 +44,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "right hand rule",
+                "query": "thermodynamics",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -102,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialist Maths FA4 Exam Revision.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialist Maths FA4 Exam Revision.md",
+                "file": "Physics 11.4 Refraction of light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialist Maths FA4 Exam Revision.md"
+                "file": "Physics 11.4 Refraction of light.md"
               }
             }
           },
@@ -186,20 +144,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Specialist Maths FA4 Exam Revision.md"
+                "file": "Physics 11.4 Refraction of light.md"
               }
             }
           },
           {
-            "id": "bd2fda190556b421",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7d1742cc931a06a6",
+            "id": "cb068b3e7b999cf4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -207,78 +157,79 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "audio-recorder:Start/stop recording": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "165ac041c1446b55",
+  "active": "72e8fdd2224cdc75",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Specialist Maths FA4 Exam Revision.md",
-    "Physics Exam 2024.md",
-    "Physics 7.4 Magnetic forces on a moving charge.sync-conflict-20240928-175805-UKTOTG6.md",
-    "Physics 6.3 Electric Potential.md",
-    "Pasted image 20240929075235.png",
-    "Pasted Image 20240929075606_090.png",
-    "Holiday Project - Car Computer.sync-conflict-20240928-175816-UKTOTG6.md",
-    "Excalidraw/Drawing 2024-09-29 07.55.36.excalidraw.md",
-    "29-09-2024.md",
     "2024 Projects.sync-conflict-20240928-175828-UKTOTG6.md",
-    "Year 11 Maths Methods FA4 2024 Exam Revision.md",
-    "Year 11 Maths Methods IA3 Revision.md",
-    "2024 Grade 11 Exams.md",
-    "English Grade 11 FA4 Exam 2024.md",
-    "grade 11.md",
-    "Physics 2024 Exam Revision.md",
-    "Year 11 Chemistry IA4.md",
-    "11-09-2024.md",
-    "Wishlist.md",
-    "Systems.md",
-    "Physics Grade 11 Exam 2024.md",
-    "Pasted image 20240924185202.png",
-    "Pasted image 20240924185153.png",
-    "Movies to watch.md",
-    "27-09-2024.md",
-    "26-09-2024.md",
-    "25-09-2024.md",
-    "24-09-2024.md",
-    "Year 11 Chemistry IA4 W Bibliography.md",
-    "Pasted image 20240910211733.png",
-    "Pasted image 20240910211625.png",
-    "Pasted image 20240910190937.png",
-    "Pasted image 20240910190929.png",
-    "Pasted image 20240910180641.png",
-    "Pasted image 20240910174928.png",
-    "ChemistryResearchTask.ods",
-    "Year 11 Chemistry IA4 Canvas.canvas",
-    "Chemistry IA4 Canvas.canvas",
-    "NoahsObsidianSync/risk assessment.pdf",
-    "NoahsObsidianSync/Recording 20240215094430.webm",
+    "Holiday Project - Car Computer.sync-conflict-20240928-175816-UKTOTG6.md",
+    "Physics 7.4 Magnetic forces on a moving charge.sync-conflict-20240928-175805-UKTOTG6.md",
+    "Physics Exam 2024.md",
+    "NoahsObsidianSync/chemist.md",
+    "NoahsObsidianSync/Leadership and management styles.md",
+    "NoahsObsidianSync/Internal Environment.md",
+    "NoahsObsidianSync/Reactivity.md",
+    "NoahsObsidianSync/Pasted image 20240910211625.png",
+    "NoahsObsidianSync/Elastic Potential Energy.md",
+    "NoahsObsidianSync/Pasted image 20240509094336.png",
+    "NoahsObsidianSync/Pasted image 20240907151959.png",
+    "NoahsObsidianSync/Physics 11.1 Light as a wave.md",
+    "NoahsObsidianSync/Scientific Notation.md",
+    "NoahsObsidianSync/Business 23-01-2024.md",
+    "NoahsObsidianSync/Pasted image 20240909200559.png",
+    "NoahsObsidianSync/10.3 Pipes.md",
+    "NoahsObsidianSync/Untitled 23.md",
+    "NoahsObsidianSync/Societal wants and needs.md",
+    "NoahsObsidianSync/Chemistry 16.1 Identifying Ions In Solution.md",
+    "NoahsObsidianSync/Self Ionization.md",
+    "NoahsObsidianSync/Untitled 12.md",
+    "NoahsObsidianSync/Work.md",
+    "NoahsObsidianSync/English Grade 11 FA2 draft.md",
+    "NoahsObsidianSync/Untitled 2.md",
+    "NoahsObsidianSync/central.md",
+    "NoahsObsidianSync/Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
+    "NoahsObsidianSync/Newtons Laws.md",
+    "NoahsObsidianSync/Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
+    "NoahsObsidianSync/Private Company.md",
+    "NoahsObsidianSync/20240830_04h43m10s_grim.png",
+    "NoahsObsidianSync/Pasted image 20231114121806.png",
+    "NoahsObsidianSync/Pasted image 20240809210037.png",
+    "NoahsObsidianSync/Pasted image 20240502191455.png",
+    "NoahsObsidianSync/Pasted image 20240910190937.png",
+    "NoahsObsidianSync/Pasted image 20240801113946.png",
+    "NoahsObsidianSync/gitkey.pub",
+    "NoahsObsidianSync/ChemistryResearchTask.ods",
+    "NoahsObsidianSync/gitkey",
+    "NoahsObsidianSync/Untitled 1.canvas",
+    "NoahsObsidianSync/Recording 20240801095235.webm",
     "NoahsObsidianSync/Maths assignment solution .pdf",
-    "NoahsObsidianSync/Excalidraw",
-    "NoahsObsidianSync/Chemistry IA4 Canvas.canvas",
+    "NoahsObsidianSync/Physics 9.1 Describing a wave.canvas",
+    "NoahsObsidianSync/Year 11 Chemistry IA4 Canvas.canvas",
+    "NoahsObsidianSync/risk assessment.pdf",
+    "NoahsObsidianSync/Recording 20240801095154.webm",
     "NoahsObsidianSync/Calculated max distance .pdf",
-    "NoahsObsidianSync",
-    "Recording 20240801095235.webm",
-    "Recording 20240801095154.webm",
-    "risk assessment.pdf",
+    "NoahsObsidianSync/Untitled.canvas",
+    "NoahsObsidianSync/Recording 20240215094430.webm",
+    "NoahsObsidianSync/Excalidraw",
+    "Year 11 Chemistry IA4 Canvas.canvas",
     "Physics 9.1 Describing a wave.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

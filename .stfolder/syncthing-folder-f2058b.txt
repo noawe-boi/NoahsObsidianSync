@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: cvvrz-tqgpc
+created: 2024-09-28T18:02:59+10:00

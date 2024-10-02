@@ -23,8 +23,8 @@ Where:
 - Q is the first charged particle
 - F represents the force experienced by q
 - q represents the second charged particle
-## Example
-### 6.2A
+#### Example
+##### 6.2A
 Find F
 E = 5000 N/C
 q = 1.6x10^-19
@@ -34,5 +34,14 @@ $5000*(-1.6*10^-19)$
 $= 8*10^-16$ N Upwards
 
 
-### 6.2B
+## Newtons Second Law
+Consider this uniform electric field 
+![[Pasted image 20240929075235.png]]
+
+The magnitude of the force acting on Q can be determined using newtons second law
+- $a^{\rightarrow \rightarrow} = \frac{F0^{\rightarrow}}{m}$ 
+
+
+
+
 
