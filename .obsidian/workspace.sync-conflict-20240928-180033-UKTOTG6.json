@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "fe2e40e469ebae2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d55530ed5a7ad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8720a11df8caaf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed28afdd345adca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4937e9a7f10e4178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e8fdd2224cdc75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "65843fbb0ab63956",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "thermodynamics",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "ae095e00f2d876bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "25cdaef8f5a3a274",
+    "type": "split",
+    "children": [
+      {
+        "id": "a022dfc02882dd37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ffe682e8f5f782",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics 11.4 Refraction of light.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba8d7c5ab42dcae4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics 11.4 Refraction of light.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff2af5483776c9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "785ae84c2804b639",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics 11.4 Refraction of light.md"
+              }
+            }
+          },
+          {
+            "id": "5d1c41294afb977e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ffb8d3b618b625b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Physics 11.4 Refraction of light.md"
+              }
+            }
+          },
+          {
+            "id": "cb068b3e7b999cf4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "72e8fdd2224cdc75",
+  "lastOpenFiles": [
+    "NoahsObsidianSync/chemist.md",
+    "NoahsObsidianSync/Leadership and management styles.md",
+    "NoahsObsidianSync/Internal Environment.md",
+    "NoahsObsidianSync/Reactivity.md",
+    "NoahsObsidianSync/Pasted image 20240910211625.png",
+    "NoahsObsidianSync/Elastic Potential Energy.md",
+    "NoahsObsidianSync/Pasted image 20240509094336.png",
+    "NoahsObsidianSync/Pasted image 20240907151959.png",
+    "NoahsObsidianSync/Physics 11.1 Light as a wave.md",
+    "NoahsObsidianSync/Scientific Notation.md",
+    "NoahsObsidianSync/Business 23-01-2024.md",
+    "NoahsObsidianSync/Pasted image 20240909200559.png",
+    "NoahsObsidianSync/10.3 Pipes.md",
+    "NoahsObsidianSync/Untitled 23.md",
+    "NoahsObsidianSync/Societal wants and needs.md",
+    "NoahsObsidianSync/Chemistry 16.1 Identifying Ions In Solution.md",
+    "NoahsObsidianSync/Self Ionization.md",
+    "NoahsObsidianSync/Untitled 12.md",
+    "NoahsObsidianSync/Work.md",
+    "NoahsObsidianSync/English Grade 11 FA2 draft.md",
+    "NoahsObsidianSync/Untitled 2.md",
+    "NoahsObsidianSync/central.md",
+    "NoahsObsidianSync/Excalidraw/Drawing 2023-11-14 12.17.20.excalidraw.md",
+    "NoahsObsidianSync/Newtons Laws.md",
+    "NoahsObsidianSync/Excalidraw/Drawing 2024-08-12 21.19.49.excalidraw.md",
+    "NoahsObsidianSync/Private Company.md",
+    "NoahsObsidianSync/Excalidraw/TAFE Liquid Level Control System Block Diagram 6-5-2024.md",
+    "NoahsObsidianSync/Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "NoahsObsidianSync/10.1 Sound.md",
+    "NoahsObsidianSync/20240830_04h43m10s_grim.png",
+    "NoahsObsidianSync/Physics 8.4 Transformers.md",
+    "NoahsObsidianSync/Pasted image 20231114121806.png",
+    "NoahsObsidianSync/Pasted image 20240809210037.png",
+    "NoahsObsidianSync/Pasted image 20240502191455.png",
+    "NoahsObsidianSync/Pasted image 20240910190937.png",
+    "NoahsObsidianSync/Pasted image 20240801113946.png",
+    "NoahsObsidianSync/gitkey.pub",
+    "NoahsObsidianSync/ChemistryResearchTask.ods",
+    "NoahsObsidianSync/gitkey",
+    "NoahsObsidianSync/Untitled 1.canvas",
+    "NoahsObsidianSync/Recording 20240801095235.webm",
+    "NoahsObsidianSync/Maths assignment solution .pdf",
+    "NoahsObsidianSync/Physics 9.1 Describing a wave.canvas",
+    "NoahsObsidianSync/Year 11 Chemistry IA4 Canvas.canvas",
+    "NoahsObsidianSync/risk assessment.pdf",
+    "NoahsObsidianSync/Recording 20240801095154.webm",
+    "NoahsObsidianSync/Calculated max distance .pdf",
+    "NoahsObsidianSync/Untitled.canvas",
+    "NoahsObsidianSync/Recording 20240215094430.webm",
+    "NoahsObsidianSync/Excalidraw",
+    "Year 11 Chemistry IA4 Canvas.canvas",
+    "Physics 9.1 Describing a wave.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

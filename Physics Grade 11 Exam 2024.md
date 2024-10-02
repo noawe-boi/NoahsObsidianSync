@@ -22,6 +22,9 @@
 - Q20 (what is the person calculating these on? Why is $\frac{1}{r}$ different to just adding resistance)
 - Q23b (How am i supposed to know what energy level these are at)
 - Q24 (why do we use 90-60 as the cos value instead of just 60$\degree$, Is it just the closest that counts because it can be either way and the flux will still be the same or am i tweaking?)
+
+###### P2
+- Q4 (is this methods okay??)
 #### Just revise 
 
 
