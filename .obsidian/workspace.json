@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee3ab86cb5bb254c",
+        "id": "087a25592e47f633",
         "type": "tabs",
         "children": [
           {
-            "id": "b9432f728f54884c",
+            "id": "acbba050984c62a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wishlist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6c687aa114596d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "29-09-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe91357d37b50be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 11.7 Polarisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555c5201f49b3d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 7.4 Magnetic forces on a moving charge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "071de3ad6bce9e5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Specialist Maths FA4 Exam Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Specialist Maths FA4 Exam Revision.md"
               }
             }
           },
@@ -197,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Specialist Maths FA4 Exam Revision.md"
               }
             }
           },
@@ -230,8 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "071de3ad6bce9e5a",
+  "active": "acbba050984c62a1",
   "lastOpenFiles": [
+    "Wishlist.md",
+    "Physics 11.7 Polarisation.md",
+    "29-09-2024.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
     "conflict-files-obsidian-git.md",
     "grade 11.md",
@@ -241,15 +195,12 @@
     "2024 Grade 11 Exams.md",
     "Physics 6.2 Electric Fields.md",
     "Excalidraw/Right Hand Rule 2 Physics.md",
-    "Physics 11.7 Polarisation.md",
-    "29-09-2024.md",
     "Physics Grade 11 Exam 2024.md",
     "Excalidraw/Drawing 2024-09-29 07.55.36.excalidraw.md",
     "Pasted Image 20240929075606_090.png",
     "Pasted image 20240929075235.png",
     "Physics 6.3 Electric Potential.md",
     "2024 Projects.md",
-    "Wishlist.md",
     "26-09-2024.md",
     "25-09-2024.md",
     "27-09-2024.md",
