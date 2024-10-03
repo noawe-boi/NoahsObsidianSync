@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "913d0b3acb707fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics Grade 11 Exam 2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -218,17 +230,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82eaad5a319f2df2",
+  "active": "913d0b3acb707fd7",
   "lastOpenFiles": [
-    "Physics 2024 Exam Revision.md",
     "Physics Grade 11 Exam 2024.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Measure to normal.md",
+    "Physics 2024 Exam Revision.md",
     "physics 2024.md",
     "Specialist Maths FA4 Exam Revision.md",
     "Wishlist.md",
     "Physics 11.7 Polarisation.md",
     "29-09-2024.md",
     "Physics 7.4 Magnetic forces on a moving charge.md",
-    "conflict-files-obsidian-git.md",
     "grade 11.md",
     "chemistry ia3.md",
     "English Grade 11 FA4 Exam 2024.md",
@@ -248,7 +261,6 @@
     "Year 11 Maths Methods FA4 2024 Exam Revision.md",
     "Excalidraw/Pulse.excalidraw.md",
     "Physics 11.4 Refraction of light.md",
-    "Untitled 21.md",
     "Pasted image 20240924185202.png",
     "Pasted image 20240924185153.png",
     "Year 11 Chemistry IA4 Canvas.canvas",
