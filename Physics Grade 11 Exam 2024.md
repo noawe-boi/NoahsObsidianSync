@@ -21,7 +21,7 @@
 	-  *They are just usually 2, 3, and 4, for hydrogen*
 
 - **Q24 (why do we use 90-60 as the cos value instead of just 60$\degree$, Is it just the closest that counts because it can be either way and the flux will still be the same or am i tweaking?)**
-	-  *Angle is measrued from the normal, not the surface*
+	-  *Angle is measured from the normal, not the surface*
 	![[Measure to normal]]
 
 ###### P2
