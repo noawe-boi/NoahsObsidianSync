@@ -19,3 +19,9 @@ tags:
 
 ## Poly-atomic Molecules
 
+### Symmetrical
+![[Polyatomic Symmetrical| 5000]] 
+
+### Asymmetrical 
+
+
