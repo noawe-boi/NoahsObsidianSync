@@ -29,8 +29,8 @@ how do they all interact???? ^lKTZc1rv
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 1502649671,
+			"version": 108,
+			"versionNonce": 1600526665,
 			"isDeleted": false,
 			"id": "zjJTWYaVJ6o0P1wftDRt6",
 			"fillStyle": "hachure",
@@ -50,7 +50,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -347,8 +347,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 994573993,
+			"version": 106,
+			"versionNonce": 1150925767,
 			"isDeleted": false,
 			"id": "PCp_TM0jKq2eC7FyRzxQq",
 			"fillStyle": "hachure",
@@ -368,7 +368,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -655,8 +655,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 2084265063,
+			"version": 53,
+			"versionNonce": 935725097,
 			"isDeleted": false,
 			"id": "KOC7eVUmhic5fU1nQC0rX",
 			"fillStyle": "hachure",
@@ -676,7 +676,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -703,8 +703,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 2097430921,
+			"version": 92,
+			"versionNonce": 362588903,
 			"isDeleted": false,
 			"id": "CmbBg37c-kwYSBoSatiGU",
 			"fillStyle": "hachure",
@@ -724,7 +724,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -936,8 +936,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1971402631,
+			"version": 88,
+			"versionNonce": 537205513,
 			"isDeleted": false,
 			"id": "MVGocS503q04-EcJDTeoo",
 			"fillStyle": "hachure",
@@ -957,7 +957,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1149,8 +1149,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 133507177,
+			"version": 90,
+			"versionNonce": 582268423,
 			"isDeleted": false,
 			"id": "fQmuhQdorBY5JXAJox4Sp",
 			"fillStyle": "hachure",
@@ -1170,7 +1170,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1377,8 +1377,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 2073996967,
+			"version": 91,
+			"versionNonce": 413061609,
 			"isDeleted": false,
 			"id": "U72qkFm5n4NOHY2qlRKXB",
 			"fillStyle": "hachure",
@@ -1398,7 +1398,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1555,8 +1555,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 367407945,
+			"version": 91,
+			"versionNonce": 1658740007,
 			"isDeleted": false,
 			"id": "9gKhdnXkF2Qp-CGEpF3Fg",
 			"fillStyle": "hachure",
@@ -1576,7 +1576,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1728,8 +1728,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 85,
-			"versionNonce": 1228947911,
+			"version": 86,
+			"versionNonce": 111062217,
 			"isDeleted": false,
 			"id": "AjtAO2b-1igaRN7dMt6O0",
 			"fillStyle": "hachure",
@@ -1749,7 +1749,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1896,8 +1896,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 456319529,
+			"version": 84,
+			"versionNonce": 965091399,
 			"isDeleted": false,
 			"id": "GQq8MmUT28YSf8-vG4ABg",
 			"fillStyle": "hachure",
@@ -1917,7 +1917,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2069,8 +2069,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 260206823,
+			"version": 74,
+			"versionNonce": 564145065,
 			"isDeleted": false,
 			"id": "BrVNCiI5EV0wcEyhYxNd9",
 			"fillStyle": "hachure",
@@ -2090,7 +2090,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2227,8 +2227,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1959179529,
+			"version": 67,
+			"versionNonce": 1753775975,
 			"isDeleted": false,
 			"id": "vXpgW424bsyUSGP-4ARWo",
 			"fillStyle": "hachure",
@@ -2248,7 +2248,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2345,8 +2345,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 670153735,
+			"version": 57,
+			"versionNonce": 567201417,
 			"isDeleted": false,
 			"id": "q6x773qZvCdbPklTuN3vl",
 			"fillStyle": "hachure",
@@ -2366,7 +2366,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2418,8 +2418,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1444752361,
+			"version": 67,
+			"versionNonce": 1110571655,
 			"isDeleted": false,
 			"id": "k6PjWhSWOkl8NZ3zpHHqj",
 			"fillStyle": "hachure",
@@ -2439,7 +2439,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2541,8 +2541,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 109749031,
+			"version": 64,
+			"versionNonce": 770053481,
 			"isDeleted": false,
 			"id": "1lyANMguKnP5BF3ezvov1",
 			"fillStyle": "hachure",
@@ -2562,7 +2562,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2649,8 +2649,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 2000799433,
+			"version": 89,
+			"versionNonce": 457118119,
 			"isDeleted": false,
 			"id": "XTfu0tzhnbncyCdMHCt9h",
 			"fillStyle": "hachure",
@@ -2670,7 +2670,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2882,8 +2882,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1807328839,
+			"version": 64,
+			"versionNonce": 154239049,
 			"isDeleted": false,
 			"id": "njCmRO7OMZ4Yh4JgBhHoZ",
 			"fillStyle": "hachure",
@@ -2903,7 +2903,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2985,8 +2985,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 47187369,
+			"version": 68,
+			"versionNonce": 2094810311,
 			"isDeleted": false,
 			"id": "XrKRm-PYlyCXtYuYOG-b5",
 			"fillStyle": "hachure",
@@ -3006,7 +3006,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3113,8 +3113,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1448822119,
+			"version": 64,
+			"versionNonce": 25988905,
 			"isDeleted": false,
 			"id": "gF_pHRrtVqFulc2xI5X09",
 			"fillStyle": "hachure",
@@ -3134,7 +3134,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3221,8 +3221,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1140025481,
+			"version": 60,
+			"versionNonce": 379982823,
 			"isDeleted": false,
 			"id": "Dntwzjj8gn9_yF6tTfXp9",
 			"fillStyle": "hachure",
@@ -3242,7 +3242,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3309,8 +3309,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 901513351,
+			"version": 74,
+			"versionNonce": 493011465,
 			"isDeleted": false,
 			"id": "TKJAPU2jRgtFrEC102v3p",
 			"fillStyle": "hachure",
@@ -3330,7 +3330,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3467,8 +3467,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 342323049,
+			"version": 54,
+			"versionNonce": 1890123527,
 			"isDeleted": false,
 			"id": "u86OtGUR18XV3rlETnTQ3",
 			"fillStyle": "hachure",
@@ -3488,7 +3488,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3525,8 +3525,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1536710567,
+			"version": 56,
+			"versionNonce": 162502889,
 			"isDeleted": false,
 			"id": "WT9Nemv8X8feTx92mcsWT",
 			"fillStyle": "hachure",
@@ -3546,7 +3546,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3593,8 +3593,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 175610441,
+			"version": 89,
+			"versionNonce": 1566672423,
 			"isDeleted": false,
 			"id": "49QVMIX1_DvK6rRbamQJf",
 			"fillStyle": "hachure",
@@ -3614,7 +3614,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3826,8 +3826,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 773638855,
+			"version": 60,
+			"versionNonce": 1207866313,
 			"isDeleted": false,
 			"id": "bOdkawwrfe5fsOdC697fA",
 			"fillStyle": "hachure",
@@ -3847,7 +3847,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3914,8 +3914,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1728014633,
+			"version": 55,
+			"versionNonce": 733751623,
 			"isDeleted": false,
 			"id": "92kaTlPOlMTP_SFn7xfP5",
 			"fillStyle": "hachure",
@@ -3935,7 +3935,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3977,8 +3977,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 434493927,
+			"version": 57,
+			"versionNonce": 476787369,
 			"isDeleted": false,
 			"id": "Bws143v5RoF2CCGDLupJG",
 			"fillStyle": "hachure",
@@ -3998,7 +3998,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4050,8 +4050,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1131043849,
+			"version": 59,
+			"versionNonce": 420833383,
 			"isDeleted": false,
 			"id": "4krejYnnMNlDmyq9xravd",
 			"fillStyle": "hachure",
@@ -4071,7 +4071,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4133,8 +4133,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1140851975,
+			"version": 55,
+			"versionNonce": 1000404361,
 			"isDeleted": false,
 			"id": "c7ZqAJQMRTVkNV3Dzg4kw",
 			"fillStyle": "hachure",
@@ -4154,7 +4154,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4196,8 +4196,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 2142499561,
+			"version": 57,
+			"versionNonce": 54117255,
 			"isDeleted": false,
 			"id": "BVxJnWxvF1wh_pfaYI9A3",
 			"fillStyle": "hachure",
@@ -4217,7 +4217,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4269,8 +4269,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 2078788647,
+			"version": 53,
+			"versionNonce": 953900137,
 			"isDeleted": false,
 			"id": "BUxwqUtQ7RYuhRj0GIgMR",
 			"fillStyle": "hachure",
@@ -4290,7 +4290,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4317,8 +4317,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1885842889,
+			"version": 58,
+			"versionNonce": 1516616359,
 			"isDeleted": false,
 			"id": "fya-trqSZpGGiuJB35KDk",
 			"fillStyle": "hachure",
@@ -4338,7 +4338,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4395,8 +4395,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1837739847,
+			"version": 56,
+			"versionNonce": 870704969,
 			"isDeleted": false,
 			"id": "SuK-m96qnFTO00jOdXf7o",
 			"fillStyle": "hachure",
@@ -4416,7 +4416,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4463,8 +4463,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1285622953,
+			"version": 58,
+			"versionNonce": 1397083591,
 			"isDeleted": false,
 			"id": "d568_58mvgf6QoSmflZJc",
 			"fillStyle": "hachure",
@@ -4484,7 +4484,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4541,8 +4541,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 323104359,
+			"version": 76,
+			"versionNonce": 1193023017,
 			"isDeleted": false,
 			"id": "iF6dntiRsFcw1Y2BXpOL3",
 			"fillStyle": "hachure",
@@ -4562,7 +4562,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4709,8 +4709,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1544261513,
+			"version": 68,
+			"versionNonce": 1492548839,
 			"isDeleted": false,
 			"id": "cC6LH8PkdCADcfYQ6lFU3",
 			"fillStyle": "hachure",
@@ -4730,7 +4730,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4837,8 +4837,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1742588295,
+			"version": 58,
+			"versionNonce": 896100617,
 			"isDeleted": false,
 			"id": "FCWH2EKaNJ09CeThm-cmj",
 			"fillStyle": "hachure",
@@ -4858,7 +4858,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4915,8 +4915,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1692579433,
+			"version": 56,
+			"versionNonce": 1057245191,
 			"isDeleted": false,
 			"id": "afJmbG-ltO-lyiombUk1p",
 			"fillStyle": "hachure",
@@ -4936,7 +4936,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4983,8 +4983,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1486422183,
+			"version": 69,
+			"versionNonce": 1481203689,
 			"isDeleted": false,
 			"id": "hEcfttVhTrHLke3XGC5Cs",
 			"fillStyle": "hachure",
@@ -5004,7 +5004,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5116,8 +5116,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1509032265,
+			"version": 71,
+			"versionNonce": 862695207,
 			"isDeleted": false,
 			"id": "AxJaVJ-JQF-7IF4RODsx6",
 			"fillStyle": "hachure",
@@ -5137,7 +5137,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939789,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5259,8 +5259,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1998607303,
+			"version": 69,
+			"versionNonce": 1304918729,
 			"isDeleted": false,
 			"id": "AeIKiucD2lq-RIzjEMv9t",
 			"fillStyle": "hachure",
@@ -5280,7 +5280,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5392,8 +5392,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1217720361,
+			"version": 71,
+			"versionNonce": 1889088071,
 			"isDeleted": false,
 			"id": "NbidFy7x2AeIeCdjrfvY5",
 			"fillStyle": "hachure",
@@ -5413,7 +5413,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5535,8 +5535,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1804616423,
+			"version": 56,
+			"versionNonce": 1719613865,
 			"isDeleted": false,
 			"id": "xa7KGlNlekopPee4vH23U",
 			"fillStyle": "hachure",
@@ -5556,7 +5556,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5603,8 +5603,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 112657161,
+			"version": 56,
+			"versionNonce": 795431271,
 			"isDeleted": false,
 			"id": "GeT1gHiifLBTd7Bvd-47H",
 			"fillStyle": "hachure",
@@ -5624,7 +5624,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5666,8 +5666,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 645221895,
+			"version": 67,
+			"versionNonce": 1402739849,
 			"isDeleted": false,
 			"id": "XPRZwuD4BbtbYN1v3NTaE",
 			"fillStyle": "hachure",
@@ -5687,7 +5687,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5789,8 +5789,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 550746601,
+			"version": 62,
+			"versionNonce": 1495829639,
 			"isDeleted": false,
 			"id": "g0sCVRaMYskD-gBBVCCeW",
 			"fillStyle": "hachure",
@@ -5810,7 +5810,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5887,8 +5887,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1389098279,
+			"version": 56,
+			"versionNonce": 349807465,
 			"isDeleted": false,
 			"id": "wOZAsuanV4xUtDnk_e8L6",
 			"fillStyle": "hachure",
@@ -5908,7 +5908,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5955,8 +5955,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 133600457,
+			"version": 56,
+			"versionNonce": 2039702439,
 			"isDeleted": false,
 			"id": "f3Urx_2I7dGNL2bVUX3lF",
 			"fillStyle": "hachure",
@@ -5976,7 +5976,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139668,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6023,8 +6023,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 134264903,
+			"version": 101,
+			"versionNonce": 646139465,
 			"isDeleted": false,
 			"id": "2qYZb93QO1amBK84je5lc",
 			"fillStyle": "hachure",
@@ -6044,7 +6044,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6316,8 +6316,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 2142966697,
+			"version": 58,
+			"versionNonce": 1893095111,
 			"isDeleted": false,
 			"id": "eiexFWlW38Kp48jYg46eg",
 			"fillStyle": "hachure",
@@ -6337,7 +6337,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6394,8 +6394,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1005590375,
+			"version": 55,
+			"versionNonce": 1869913385,
 			"isDeleted": false,
 			"id": "tosS01R9KbA-JfdRS8Iw2",
 			"fillStyle": "hachure",
@@ -6415,7 +6415,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6457,8 +6457,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1280095881,
+			"version": 71,
+			"versionNonce": 1703798247,
 			"isDeleted": false,
 			"id": "9g-ggknG_juL52eEWGniC",
 			"fillStyle": "hachure",
@@ -6478,7 +6478,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6600,8 +6600,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1961267847,
+			"version": 84,
+			"versionNonce": 1863913481,
 			"isDeleted": false,
 			"id": "5Lwgjd_LBJ5BW6viKWZK7",
 			"fillStyle": "hachure",
@@ -6621,7 +6621,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6808,8 +6808,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 543620457,
+			"version": 57,
+			"versionNonce": 1992724743,
 			"isDeleted": false,
 			"id": "527jbnRC3pmkf7FIIe4zl",
 			"fillStyle": "hachure",
@@ -6829,7 +6829,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6881,8 +6881,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1000384935,
+			"version": 55,
+			"versionNonce": 728508137,
 			"isDeleted": false,
 			"id": "YQs8fFt78AySceJILZLRW",
 			"fillStyle": "hachure",
@@ -6902,7 +6902,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6944,8 +6944,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1263888457,
+			"version": 79,
+			"versionNonce": 771545127,
 			"isDeleted": false,
 			"id": "IDEqHN4RUd7zRtDTSAC-i",
 			"fillStyle": "hachure",
@@ -6965,7 +6965,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7127,8 +7127,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1296751815,
+			"version": 58,
+			"versionNonce": 1593401801,
 			"isDeleted": false,
 			"id": "KrwAFNeBENo6pdYwyHBr2",
 			"fillStyle": "hachure",
@@ -7148,7 +7148,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7205,8 +7205,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 653489961,
+			"version": 55,
+			"versionNonce": 823999303,
 			"isDeleted": false,
 			"id": "v0xUaTjvXbPz8IPWr-CY0",
 			"fillStyle": "hachure",
@@ -7226,7 +7226,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7268,8 +7268,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 226601959,
+			"version": 88,
+			"versionNonce": 1725710505,
 			"isDeleted": false,
 			"id": "LEgrkMi-XsKQ3XEjUm3ku",
 			"fillStyle": "hachure",
@@ -7289,7 +7289,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7496,8 +7496,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1168943625,
+			"version": 57,
+			"versionNonce": 881080935,
 			"isDeleted": false,
 			"id": "8s5Y-fAEJl6HHG5b6VLv_",
 			"fillStyle": "hachure",
@@ -7517,7 +7517,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7569,8 +7569,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 944871175,
+			"version": 228,
+			"versionNonce": 1891648393,
 			"isDeleted": false,
 			"id": "JPuerzpF8bTNE281vkvni",
 			"fillStyle": "hachure",
@@ -7590,7 +7590,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7757,8 +7757,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1618772201,
+			"version": 210,
+			"versionNonce": 754865543,
 			"isDeleted": false,
 			"id": "VAi0WKPBhM0bW0idWfnFr",
 			"fillStyle": "hachure",
@@ -7778,7 +7778,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7870,8 +7870,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 207,
-			"versionNonce": 1412898343,
+			"version": 208,
+			"versionNonce": 1759570537,
 			"isDeleted": false,
 			"id": "F7XKBE6Uk0L_S1edxcMSa",
 			"fillStyle": "hachure",
@@ -7891,7 +7891,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7978,8 +7978,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 82738121,
+			"version": 200,
+			"versionNonce": 1103629479,
 			"isDeleted": false,
 			"id": "zPSKv2BU0x5_RB5lOB2Mb",
 			"fillStyle": "hachure",
@@ -7999,7 +7999,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8046,8 +8046,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1679737159,
+			"version": 199,
+			"versionNonce": 671724873,
 			"isDeleted": false,
 			"id": "8XL9gLEieRK6INnA2e9is",
 			"fillStyle": "hachure",
@@ -8067,7 +8067,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8104,8 +8104,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 52304553,
+			"version": 202,
+			"versionNonce": 2123227079,
 			"isDeleted": false,
 			"id": "Br0Uvx8CDDdew_1lsV6b_",
 			"fillStyle": "hachure",
@@ -8125,7 +8125,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8182,8 +8182,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1499791463,
+			"version": 200,
+			"versionNonce": 1637229609,
 			"isDeleted": false,
 			"id": "-gujtNcqh--yggrcJqGhh",
 			"fillStyle": "hachure",
@@ -8203,7 +8203,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8250,8 +8250,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 464969097,
+			"version": 200,
+			"versionNonce": 1164725991,
 			"isDeleted": false,
 			"id": "JbDILHFSdT5g3ZkF4Yg8n",
 			"fillStyle": "hachure",
@@ -8271,7 +8271,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8318,8 +8318,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 197,
-			"versionNonce": 1171676039,
+			"version": 198,
+			"versionNonce": 1366406921,
 			"isDeleted": false,
 			"id": "_2WrgSYn7ndv_OK5BMtGM",
 			"fillStyle": "hachure",
@@ -8339,7 +8339,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8371,8 +8371,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 204,
-			"versionNonce": 1844724841,
+			"version": 205,
+			"versionNonce": 15718919,
 			"isDeleted": false,
 			"id": "N0V8DSCtricQh9DYrqRKj",
 			"fillStyle": "hachure",
@@ -8392,7 +8392,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8464,8 +8464,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 1303335591,
+			"version": 211,
+			"versionNonce": 706211305,
 			"isDeleted": false,
 			"id": "Sy5rYJIwPFA1C7BGih0Vy",
 			"fillStyle": "hachure",
@@ -8485,7 +8485,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8587,8 +8587,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 210,
-			"versionNonce": 631361353,
+			"version": 211,
+			"versionNonce": 370475303,
 			"isDeleted": false,
 			"id": "r93dW88o43IyNDA8ntrkQ",
 			"fillStyle": "hachure",
@@ -8608,7 +8608,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8715,8 +8715,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1503421895,
+			"version": 212,
+			"versionNonce": 1117014217,
 			"isDeleted": false,
 			"id": "5-EThhOt9FI-NL2aHHmes",
 			"fillStyle": "hachure",
@@ -8736,7 +8736,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8848,8 +8848,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 1763376681,
+			"version": 215,
+			"versionNonce": 373834823,
 			"isDeleted": false,
 			"id": "J1tmkaQWMoSSnVu4yPIsI",
 			"fillStyle": "hachure",
@@ -8869,7 +8869,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8996,8 +8996,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 219,
-			"versionNonce": 146412775,
+			"version": 220,
+			"versionNonce": 75646889,
 			"isDeleted": false,
 			"id": "aHFJyRVHfhv2FPkAuaWeH",
 			"fillStyle": "hachure",
@@ -9017,7 +9017,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9169,8 +9169,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 122376457,
+			"version": 216,
+			"versionNonce": 828777319,
 			"isDeleted": false,
 			"id": "C9bomtf4mZy5qYuwPOwqX",
 			"fillStyle": "hachure",
@@ -9190,7 +9190,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9322,8 +9322,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 1653923847,
+			"version": 201,
+			"versionNonce": 437086857,
 			"isDeleted": false,
 			"id": "Alacw8OQ4ryULwpPgWqy6",
 			"fillStyle": "hachure",
@@ -9343,7 +9343,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9400,8 +9400,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 1705920489,
+			"version": 199,
+			"versionNonce": 1740316295,
 			"isDeleted": false,
 			"id": "Z5uHykDDWMhkhPMPsR94_",
 			"fillStyle": "hachure",
@@ -9421,7 +9421,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9468,8 +9468,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 199,
-			"versionNonce": 1227441959,
+			"version": 200,
+			"versionNonce": 1542533481,
 			"isDeleted": false,
 			"id": "DDbdFWRz1bQCWog8ug4fB",
 			"fillStyle": "hachure",
@@ -9489,7 +9489,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9541,8 +9541,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 198,
-			"versionNonce": 776954569,
+			"version": 199,
+			"versionNonce": 2080617895,
 			"isDeleted": false,
 			"id": "lZqFajuS8Bcu3V2YoZ-j7",
 			"fillStyle": "hachure",
@@ -9562,7 +9562,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9604,8 +9604,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 719571527,
+			"version": 204,
+			"versionNonce": 2138643529,
 			"isDeleted": false,
 			"id": "VZBqzBDmmNNC6RuQFvFUO",
 			"fillStyle": "hachure",
@@ -9625,7 +9625,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9697,8 +9697,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1036657065,
+			"version": 210,
+			"versionNonce": 627861703,
 			"isDeleted": false,
 			"id": "beZAB6Gi70vzBYxy15Bw_",
 			"fillStyle": "hachure",
@@ -9718,7 +9718,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9820,8 +9820,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 206,
-			"versionNonce": 1956702567,
+			"version": 207,
+			"versionNonce": 75541289,
 			"isDeleted": false,
 			"id": "xnc19Fp9XKlFXULaszgAI",
 			"fillStyle": "hachure",
@@ -9841,7 +9841,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939790,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9928,8 +9928,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 209,
-			"versionNonce": 1363805321,
+			"version": 210,
+			"versionNonce": 26327015,
 			"isDeleted": false,
 			"id": "kVFsPjhCD1ZYBOl3nzBnL",
 			"fillStyle": "hachure",
@@ -9949,7 +9949,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10051,8 +10051,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 1135420551,
+			"version": 212,
+			"versionNonce": 1668505097,
 			"isDeleted": false,
 			"id": "u2SpQDMbu62R3q7Z_0RxD",
 			"fillStyle": "hachure",
@@ -10072,7 +10072,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10184,8 +10184,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 208,
-			"versionNonce": 1955236713,
+			"version": 209,
+			"versionNonce": 1182802695,
 			"isDeleted": false,
 			"id": "DRB--cYu6Ro6I-ae5cw9y",
 			"fillStyle": "hachure",
@@ -10205,7 +10205,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10302,8 +10302,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1472527271,
+			"version": 218,
+			"versionNonce": 2068624617,
 			"isDeleted": false,
 			"id": "qRblheOJxEElhnbKlmE9X",
 			"fillStyle": "hachure",
@@ -10323,7 +10323,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10465,8 +10465,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 211,
-			"versionNonce": 802633289,
+			"version": 212,
+			"versionNonce": 884222503,
 			"isDeleted": false,
 			"id": "K7I7-Aqjn10D60HNjMMvX",
 			"fillStyle": "hachure",
@@ -10486,7 +10486,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10598,8 +10598,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 203,
-			"versionNonce": 1158999751,
+			"version": 204,
+			"versionNonce": 1066938313,
 			"isDeleted": false,
 			"id": "mnzAlCTB-V3P4-YDmRdbJ",
 			"fillStyle": "hachure",
@@ -10619,7 +10619,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10691,8 +10691,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1980466473,
+			"version": 107,
+			"versionNonce": 1226460487,
 			"isDeleted": false,
 			"id": "hyRbct2BqPhcdOhwLfEcm",
 			"fillStyle": "hachure",
@@ -10712,7 +10712,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10999,8 +10999,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1715043815,
+			"version": 55,
+			"versionNonce": 644959913,
 			"isDeleted": false,
 			"id": "0ciFRSnHejA3D82GzZTWP",
 			"fillStyle": "hachure",
@@ -11020,7 +11020,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11067,8 +11067,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1385363465,
+			"version": 79,
+			"versionNonce": 789515367,
 			"isDeleted": false,
 			"id": "suZ_nsGFO4-EaZ319Q-JA",
 			"fillStyle": "hachure",
@@ -11088,7 +11088,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11255,8 +11255,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 239020295,
+			"version": 56,
+			"versionNonce": 1451463049,
 			"isDeleted": false,
 			"id": "1HtcrQoQfHuaFtTLo4BdD",
 			"fillStyle": "hachure",
@@ -11276,7 +11276,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11328,8 +11328,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1466502889,
+			"version": 54,
+			"versionNonce": 1918822279,
 			"isDeleted": false,
 			"id": "lNm5gl2RPkbdIgTHZEUy5",
 			"fillStyle": "hachure",
@@ -11349,7 +11349,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11396,8 +11396,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 2057465895,
+			"version": 53,
+			"versionNonce": 353007721,
 			"isDeleted": false,
 			"id": "ZYYF11ePJBzJoX5sZR4uY",
 			"fillStyle": "hachure",
@@ -11417,7 +11417,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11459,8 +11459,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1259948489,
+			"version": 55,
+			"versionNonce": 1900437159,
 			"isDeleted": false,
 			"id": "7WjXbo0Kh0IO_33MaYKwn",
 			"fillStyle": "hachure",
@@ -11480,7 +11480,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11532,8 +11532,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 89117511,
+			"version": 53,
+			"versionNonce": 1943110473,
 			"isDeleted": false,
 			"id": "MZPVZKx2VmnsqOvmHBMX7",
 			"fillStyle": "hachure",
@@ -11553,7 +11553,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11595,8 +11595,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 381626537,
+			"version": 55,
+			"versionNonce": 242348487,
 			"isDeleted": false,
 			"id": "D_51sGXFgKCSUlXD7C8Ut",
 			"fillStyle": "hachure",
@@ -11616,7 +11616,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11668,8 +11668,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 379834983,
+			"version": 54,
+			"versionNonce": 1060385321,
 			"isDeleted": false,
 			"id": "Fhx9lTmmF_EjWBO3--5z0",
 			"fillStyle": "hachure",
@@ -11689,7 +11689,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11736,8 +11736,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1946561417,
+			"version": 66,
+			"versionNonce": 587079911,
 			"isDeleted": false,
 			"id": "RJd3ThKThdfRx95Xf-YbI",
 			"fillStyle": "hachure",
@@ -11757,7 +11757,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11864,8 +11864,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1466625415,
+			"version": 68,
+			"versionNonce": 740164873,
 			"isDeleted": false,
 			"id": "JqgTapVfmql-tqdKasx3n",
 			"fillStyle": "hachure",
@@ -11885,7 +11885,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12002,8 +12002,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1529467497,
+			"version": 57,
+			"versionNonce": 813132807,
 			"isDeleted": false,
 			"id": "epiMqv8oMkDe_NLc76smD",
 			"fillStyle": "hachure",
@@ -12023,7 +12023,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12085,8 +12085,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 585213095,
+			"version": 55,
+			"versionNonce": 1175092201,
 			"isDeleted": false,
 			"id": "5ZbFuyRUizoZdgOXJuheL",
 			"fillStyle": "hachure",
@@ -12106,7 +12106,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12158,8 +12158,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 821402953,
+			"version": 52,
+			"versionNonce": 1390039847,
 			"isDeleted": false,
 			"id": "rZctnqe3av27SoUK3kIxY",
 			"fillStyle": "hachure",
@@ -12179,7 +12179,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12216,8 +12216,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 951351239,
+			"version": 65,
+			"versionNonce": 486872777,
 			"isDeleted": false,
 			"id": "fTtCThqKP8eLfydOB_ZmE",
 			"fillStyle": "hachure",
@@ -12237,7 +12237,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12339,8 +12339,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 885328937,
+			"version": 56,
+			"versionNonce": 1922258503,
 			"isDeleted": false,
 			"id": "RAG6g4imL1nl0wGEJxEAm",
 			"fillStyle": "hachure",
@@ -12360,7 +12360,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12417,8 +12417,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 788522727,
+			"version": 53,
+			"versionNonce": 866735529,
 			"isDeleted": false,
 			"id": "8o8Pum4eQAqOk_mFq_X_4",
 			"fillStyle": "hachure",
@@ -12438,7 +12438,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12480,8 +12480,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 780377865,
+			"version": 56,
+			"versionNonce": 914290023,
 			"isDeleted": false,
 			"id": "9EgAXy-zZg7t-z213QKF9",
 			"fillStyle": "hachure",
@@ -12501,7 +12501,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12558,8 +12558,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 609251847,
+			"version": 54,
+			"versionNonce": 757250185,
 			"isDeleted": false,
 			"id": "GhyO9sAMw2xm73NE6vZ07",
 			"fillStyle": "hachure",
@@ -12579,7 +12579,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12621,8 +12621,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1554830825,
+			"version": 60,
+			"versionNonce": 904507527,
 			"isDeleted": false,
 			"id": "RkIj_LC-xbabeNYWdO4oo",
 			"fillStyle": "hachure",
@@ -12642,7 +12642,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12719,8 +12719,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 832739623,
+			"version": 65,
+			"versionNonce": 992788329,
 			"isDeleted": false,
 			"id": "lb0kdbfjQBYbrOcnZwdNz",
 			"fillStyle": "hachure",
@@ -12740,7 +12740,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12842,8 +12842,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "image",
-			"version": 247,
-			"versionNonce": 2131083913,
+			"version": 248,
+			"versionNonce": 1787824039,
 			"isDeleted": false,
 			"id": "8_woRVu82fNlvWf7lrZkT",
 			"fillStyle": "hachure",
@@ -12863,7 +12863,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270942536,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -12875,8 +12875,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 476240967,
+			"version": 141,
+			"versionNonce": 1276308041,
 			"isDeleted": false,
 			"id": "VfgJHdYLjYTViUxWQBvvB",
 			"fillStyle": "hachure",
@@ -12896,7 +12896,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13388,8 +13388,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "text",
-			"version": 381,
-			"versionNonce": 1962749865,
+			"version": 382,
+			"versionNonce": 1654553287,
 			"isDeleted": false,
 			"id": "lKTZc1rv",
 			"fillStyle": "hachure",
@@ -13409,7 +13409,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.196577039942973,
@@ -13442,11 +13442,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 2083682599,
-			"version": 42,
-			"versionNonce": 1215150951,
+			"version": 43,
+			"versionNonce": 2024847657,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13588,11 +13588,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1616522503,
-			"version": 27,
-			"versionNonce": 183194249,
+			"version": 28,
+			"versionNonce": 850495975,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13659,11 +13659,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 673674759,
-			"version": 38,
-			"versionNonce": 1779414663,
+			"version": 39,
+			"versionNonce": 846310409,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13785,11 +13785,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1934889319,
-			"version": 32,
-			"versionNonce": 1221728617,
+			"version": 33,
+			"versionNonce": 668316935,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13881,11 +13881,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 958788841,
-			"version": 24,
-			"versionNonce": 2013613479,
+			"version": 25,
+			"versionNonce": 827409129,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139669,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13932,11 +13932,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 35624135,
-			"version": 47,
-			"versionNonce": 1878852681,
+			"version": 48,
+			"versionNonce": 965180455,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14108,11 +14108,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1086342185,
-			"version": 46,
-			"versionNonce": 1568342215,
+			"version": 47,
+			"versionNonce": 567999945,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14279,11 +14279,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1608809641,
-			"version": 33,
-			"versionNonce": 206017321,
+			"version": 34,
+			"versionNonce": 1001611079,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14385,11 +14385,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 631175689,
-			"version": 21,
-			"versionNonce": 1812811751,
+			"version": 22,
+			"versionNonce": 321543337,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14411,8 +14411,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 572343817,
+			"version": 124,
+			"versionNonce": 1354096231,
 			"isDeleted": false,
 			"id": "-ESjompmhNpt6NOLEXBVk",
 			"fillStyle": "hachure",
@@ -14432,7 +14432,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14729,8 +14729,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 231258887,
+			"version": 122,
+			"versionNonce": 619372425,
 			"isDeleted": false,
 			"id": "l30TjJPUEDuAAYNHidLQ3",
 			"fillStyle": "hachure",
@@ -14750,7 +14750,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15037,8 +15037,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 477732073,
+			"version": 108,
+			"versionNonce": 458979719,
 			"isDeleted": false,
 			"id": "pwMqQrEd2J8w0D-Rrjxm9",
 			"fillStyle": "hachure",
@@ -15058,7 +15058,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15270,8 +15270,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 925483559,
+			"version": 104,
+			"versionNonce": 1968703081,
 			"isDeleted": false,
 			"id": "a6LnCF30GtyUQwvTovD_d",
 			"fillStyle": "hachure",
@@ -15291,7 +15291,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15483,8 +15483,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 2062030793,
+			"version": 106,
+			"versionNonce": 820031655,
 			"isDeleted": false,
 			"id": "fhBhSNPOC23lOTaJBkolh",
 			"fillStyle": "hachure",
@@ -15504,7 +15504,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15711,8 +15711,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 421324103,
+			"version": 107,
+			"versionNonce": 1329418569,
 			"isDeleted": false,
 			"id": "HiJ-IX1xtrRKBRuk09Gfe",
 			"fillStyle": "hachure",
@@ -15732,7 +15732,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15889,8 +15889,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1065629353,
+			"version": 107,
+			"versionNonce": 1257374663,
 			"isDeleted": false,
 			"id": "PMDB-2dE8fT1MUH-EF32e",
 			"fillStyle": "hachure",
@@ -15910,7 +15910,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16062,8 +16062,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 318678119,
+			"version": 102,
+			"versionNonce": 402014249,
 			"isDeleted": false,
 			"id": "t8aC7NwLl0fQ7Yw9FeS4b",
 			"fillStyle": "hachure",
@@ -16083,7 +16083,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16230,8 +16230,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 486111625,
+			"version": 100,
+			"versionNonce": 967570151,
 			"isDeleted": false,
 			"id": "MGdr1J_WD7shLVvnLZW5L",
 			"fillStyle": "hachure",
@@ -16251,7 +16251,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16403,8 +16403,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1687912327,
+			"version": 105,
+			"versionNonce": 2104382217,
 			"isDeleted": false,
 			"id": "vlJPgC5sB58kCP0Xh80L0",
 			"fillStyle": "hachure",
@@ -16424,7 +16424,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16636,8 +16636,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1686331497,
+			"version": 76,
+			"versionNonce": 362479111,
 			"isDeleted": false,
 			"id": "H6JleT5-kssOkEerLdiDh",
 			"fillStyle": "hachure",
@@ -16657,7 +16657,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16724,8 +16724,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 540014247,
+			"version": 71,
+			"versionNonce": 1679886825,
 			"isDeleted": false,
 			"id": "Co3552-7a5gRR4_ushny1",
 			"fillStyle": "hachure",
@@ -16745,7 +16745,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16787,8 +16787,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 871197513,
+			"version": 73,
+			"versionNonce": 834381095,
 			"isDeleted": false,
 			"id": "weo7ItFwkM9FqJePDBAzw",
 			"fillStyle": "hachure",
@@ -16808,7 +16808,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16860,8 +16860,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 1550354887,
+			"version": 75,
+			"versionNonce": 354018505,
 			"isDeleted": false,
 			"id": "j_k0j2HSnxnI8b4yeOogN",
 			"fillStyle": "hachure",
@@ -16881,7 +16881,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16943,8 +16943,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1670584873,
+			"version": 71,
+			"versionNonce": 1299867719,
 			"isDeleted": false,
 			"id": "M8-LIXrI4zOA6yD0gBck_",
 			"fillStyle": "hachure",
@@ -16964,7 +16964,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17006,8 +17006,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 643938535,
+			"version": 73,
+			"versionNonce": 737436585,
 			"isDeleted": false,
 			"id": "Xwt4pqMdnXAGeCtUTebtK",
 			"fillStyle": "hachure",
@@ -17027,7 +17027,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17079,8 +17079,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 878701833,
+			"version": 69,
+			"versionNonce": 112445287,
 			"isDeleted": false,
 			"id": "inJLVrxaqDKv-ADDkiXXE",
 			"fillStyle": "hachure",
@@ -17100,7 +17100,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17127,8 +17127,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 866649095,
+			"version": 74,
+			"versionNonce": 1155270281,
 			"isDeleted": false,
 			"id": "CcfosDZkGnRtGfcP3uJBe",
 			"fillStyle": "hachure",
@@ -17148,7 +17148,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17205,8 +17205,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1037001705,
+			"version": 72,
+			"versionNonce": 196362887,
 			"isDeleted": false,
 			"id": "ltFk2U_pe2To0bV5Lw2YD",
 			"fillStyle": "hachure",
@@ -17226,7 +17226,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17273,8 +17273,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1412950823,
+			"version": 74,
+			"versionNonce": 1787579753,
 			"isDeleted": false,
 			"id": "pyz4nLCwkrIaVcEY2lLxu",
 			"fillStyle": "hachure",
@@ -17294,7 +17294,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17351,8 +17351,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 468516553,
+			"version": 92,
+			"versionNonce": 221796775,
 			"isDeleted": false,
 			"id": "HQvba-2iPzjUCEepcfQCs",
 			"fillStyle": "hachure",
@@ -17372,7 +17372,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17519,8 +17519,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 612232775,
+			"version": 84,
+			"versionNonce": 1146140745,
 			"isDeleted": false,
 			"id": "ZdfD8aq77wnF33wcRHZLG",
 			"fillStyle": "hachure",
@@ -17540,7 +17540,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939791,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17647,8 +17647,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1565801897,
+			"version": 74,
+			"versionNonce": 1886162119,
 			"isDeleted": false,
 			"id": "nj_dG4jAfJeY6XCcNReDF",
 			"fillStyle": "hachure",
@@ -17668,7 +17668,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17725,8 +17725,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 2136378727,
+			"version": 72,
+			"versionNonce": 67421993,
 			"isDeleted": false,
 			"id": "sabtJCZdPsZYt19eu6r4I",
 			"fillStyle": "hachure",
@@ -17746,7 +17746,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17793,8 +17793,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 825270409,
+			"version": 85,
+			"versionNonce": 1089297383,
 			"isDeleted": false,
 			"id": "2PdgWJYZvDM1TwRHvX6zW",
 			"fillStyle": "hachure",
@@ -17814,7 +17814,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17926,8 +17926,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 806242439,
+			"version": 87,
+			"versionNonce": 336853513,
 			"isDeleted": false,
 			"id": "dd8VcuI8BSRH9GzSgxOac",
 			"fillStyle": "hachure",
@@ -17947,7 +17947,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18069,8 +18069,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1430103913,
+			"version": 85,
+			"versionNonce": 1657227015,
 			"isDeleted": false,
 			"id": "nuK1bhJ34L6QjgJRfEQ01",
 			"fillStyle": "hachure",
@@ -18090,7 +18090,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18202,8 +18202,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1684119463,
+			"version": 87,
+			"versionNonce": 91869417,
 			"isDeleted": false,
 			"id": "iyJoMpR0mxxcjxlkV8tBC",
 			"fillStyle": "hachure",
@@ -18223,7 +18223,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18345,8 +18345,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1137103433,
+			"version": 72,
+			"versionNonce": 74894887,
 			"isDeleted": false,
 			"id": "ESm1h1jYVvvzrJlAQ-9gY",
 			"fillStyle": "hachure",
@@ -18366,7 +18366,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18413,8 +18413,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1585255111,
+			"version": 72,
+			"versionNonce": 1036110793,
 			"isDeleted": false,
 			"id": "9Lqc8wB7BhHqFjNs7GzKB",
 			"fillStyle": "hachure",
@@ -18434,7 +18434,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18476,8 +18476,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 564633897,
+			"version": 83,
+			"versionNonce": 1357410631,
 			"isDeleted": false,
 			"id": "3L3WJxBiKYtYKrzaz6FEO",
 			"fillStyle": "hachure",
@@ -18497,7 +18497,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18599,8 +18599,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1727865319,
+			"version": 78,
+			"versionNonce": 1694984873,
 			"isDeleted": false,
 			"id": "cp0JN358reecR3RBiaszI",
 			"fillStyle": "hachure",
@@ -18620,7 +18620,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18697,8 +18697,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1816892425,
+			"version": 72,
+			"versionNonce": 1635299431,
 			"isDeleted": false,
 			"id": "O06S5dzAoKJak1L08PrtX",
 			"fillStyle": "hachure",
@@ -18718,7 +18718,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18765,8 +18765,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 2129546503,
+			"version": 72,
+			"versionNonce": 334900617,
 			"isDeleted": false,
 			"id": "tF4GTcvfhTGNk9XG0LTk-",
 			"fillStyle": "hachure",
@@ -18786,7 +18786,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18833,8 +18833,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1739467497,
+			"version": 117,
+			"versionNonce": 1878264711,
 			"isDeleted": false,
 			"id": "GHo5c-Eu-RtNt5CSGgTdq",
 			"fillStyle": "hachure",
@@ -18854,7 +18854,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19126,8 +19126,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1372394535,
+			"version": 74,
+			"versionNonce": 1103729769,
 			"isDeleted": false,
 			"id": "jKYhO9AwoBFOqY4fmlVlk",
 			"fillStyle": "hachure",
@@ -19147,7 +19147,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19204,8 +19204,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1281025481,
+			"version": 71,
+			"versionNonce": 1217856167,
 			"isDeleted": false,
 			"id": "Wf5r4HqdBgPKiI33uDmii",
 			"fillStyle": "hachure",
@@ -19225,7 +19225,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19267,8 +19267,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 1736832839,
+			"version": 87,
+			"versionNonce": 1917656905,
 			"isDeleted": false,
 			"id": "yqlpYRYEiFib3R5XnuZwI",
 			"fillStyle": "hachure",
@@ -19288,7 +19288,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19410,8 +19410,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 896353449,
+			"version": 100,
+			"versionNonce": 2081297863,
 			"isDeleted": false,
 			"id": "Jw9b0Q_ROlaKEpvibUf8D",
 			"fillStyle": "hachure",
@@ -19431,7 +19431,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19618,8 +19618,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 376796775,
+			"version": 73,
+			"versionNonce": 601640489,
 			"isDeleted": false,
 			"id": "Ede2EnxTz_X8eeoDIzaLW",
 			"fillStyle": "hachure",
@@ -19639,7 +19639,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19691,8 +19691,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1318111113,
+			"version": 71,
+			"versionNonce": 1366672615,
 			"isDeleted": false,
 			"id": "FtKpr-sbo0SAq4Sss_fDk",
 			"fillStyle": "hachure",
@@ -19712,7 +19712,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19754,8 +19754,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 896012679,
+			"version": 95,
+			"versionNonce": 2103615753,
 			"isDeleted": false,
 			"id": "VNoKyBn7kWT-_jL8wW-zQ",
 			"fillStyle": "hachure",
@@ -19775,7 +19775,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19937,8 +19937,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1107357289,
+			"version": 74,
+			"versionNonce": 2019201031,
 			"isDeleted": false,
 			"id": "kkQgFDrMH3xR2jG8p1cdw",
 			"fillStyle": "hachure",
@@ -19958,7 +19958,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20015,8 +20015,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 228214951,
+			"version": 71,
+			"versionNonce": 1012635625,
 			"isDeleted": false,
 			"id": "BbWdcZc7PMSjdjWxjeGvv",
 			"fillStyle": "hachure",
@@ -20036,7 +20036,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20078,8 +20078,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1720269129,
+			"version": 104,
+			"versionNonce": 2058942247,
 			"isDeleted": false,
 			"id": "wZRrkfmhFa_AyPz5GrVxx",
 			"fillStyle": "hachure",
@@ -20099,7 +20099,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20306,8 +20306,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 213425095,
+			"version": 73,
+			"versionNonce": 1657975497,
 			"isDeleted": false,
 			"id": "RmbaL_i3SDZRIEX9YU9j2",
 			"fillStyle": "hachure",
@@ -20327,7 +20327,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20379,8 +20379,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 763701289,
+			"version": 59,
+			"versionNonce": 1862105671,
 			"isDeleted": false,
 			"id": "zCQwZR6lEN5vEK2S5mO44",
 			"fillStyle": "hachure",
@@ -20400,7 +20400,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139670,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20522,8 +20522,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 920619751,
+			"version": 44,
+			"versionNonce": 627274153,
 			"isDeleted": false,
 			"id": "mQUwHxTT-al9bT8NwrdtL",
 			"fillStyle": "hachure",
@@ -20543,7 +20543,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20590,8 +20590,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 1356872457,
+			"version": 55,
+			"versionNonce": 1778686311,
 			"isDeleted": false,
 			"id": "eK8UdjsfQa2snEo8kzZbE",
 			"fillStyle": "hachure",
@@ -20611,7 +20611,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20713,8 +20713,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1486591495,
+			"version": 49,
+			"versionNonce": 423187593,
 			"isDeleted": false,
 			"id": "fWTx6QIUhRo3nt9Qws6KE",
 			"fillStyle": "hachure",
@@ -20734,7 +20734,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20806,8 +20806,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 1091957225,
+			"version": 41,
+			"versionNonce": 823841927,
 			"isDeleted": false,
 			"id": "G8RAeMcEz_iHxEwC_t4E7",
 			"fillStyle": "hachure",
@@ -20827,7 +20827,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20854,8 +20854,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 2028551463,
+			"version": 64,
+			"versionNonce": 571464553,
 			"isDeleted": false,
 			"id": "qv4oSVvpR4cB04BzzXRdR",
 			"fillStyle": "hachure",
@@ -20875,7 +20875,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21027,8 +21027,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1395772617,
+			"version": 63,
+			"versionNonce": 737979303,
 			"isDeleted": false,
 			"id": "bsZgHy9BzjztkGPIiiBOM",
 			"fillStyle": "hachure",
@@ -21048,7 +21048,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21195,8 +21195,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 188022855,
+			"version": 50,
+			"versionNonce": 540182089,
 			"isDeleted": false,
 			"id": "dJvR62UnDDl-bsnMoZ3m2",
 			"fillStyle": "hachure",
@@ -21216,7 +21216,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21315,11 +21315,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 687071913,
-			"version": 66,
-			"versionNonce": 785337257,
+			"version": 67,
+			"versionNonce": 383164103,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21538,11 +21538,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1637026985,
-			"version": 27,
-			"versionNonce": 1633378151,
+			"version": 28,
+			"versionNonce": 1585239337,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21605,11 +21605,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 999492073,
-			"version": 37,
-			"versionNonce": 2082074249,
+			"version": 38,
+			"versionNonce": 1950690791,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21741,11 +21741,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1818527305,
-			"version": 27,
-			"versionNonce": 1571347079,
+			"version": 28,
+			"versionNonce": 1079658505,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21827,11 +21827,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 371992041,
-			"version": 28,
-			"versionNonce": 1372403049,
+			"version": 29,
+			"versionNonce": 1062525191,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21918,11 +21918,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 973617607,
-			"version": 48,
-			"versionNonce": 1692004775,
+			"version": 49,
+			"versionNonce": 801529577,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22109,11 +22109,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1511056263,
-			"version": 23,
-			"versionNonce": 1664393289,
+			"version": 24,
+			"versionNonce": 1568808999,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22180,11 +22180,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 249539719,
-			"version": 51,
-			"versionNonce": 270214343,
+			"version": 52,
+			"versionNonce": 1263311305,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22391,11 +22391,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 880596231,
-			"version": 25,
-			"versionNonce": 1848356649,
+			"version": 26,
+			"versionNonce": 1354335047,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22472,11 +22472,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1236895815,
-			"version": 62,
-			"versionNonce": 520680423,
+			"version": 63,
+			"versionNonce": 1409841321,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22738,11 +22738,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 434813735,
-			"version": 26,
-			"versionNonce": 1763566089,
+			"version": 27,
+			"versionNonce": 693600871,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22824,11 +22824,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 712827271,
-			"version": 23,
-			"versionNonce": 699391751,
+			"version": 24,
+			"versionNonce": 1537571721,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22895,11 +22895,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1888081257,
-			"version": 44,
-			"versionNonce": 1896265961,
+			"version": 45,
+			"versionNonce": 942185863,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23076,11 +23076,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 169215913,
-			"version": 31,
-			"versionNonce": 311191079,
+			"version": 32,
+			"versionNonce": 845095529,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23187,11 +23187,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 985561225,
-			"version": 43,
-			"versionNonce": 2003940297,
+			"version": 44,
+			"versionNonce": 6902951,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23363,11 +23363,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1633638377,
-			"version": 35,
-			"versionNonce": 948635975,
+			"version": 36,
+			"versionNonce": 352382281,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23499,11 +23499,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 853808201,
-			"version": 34,
-			"versionNonce": 813322921,
+			"version": 35,
+			"versionNonce": 1774593991,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23630,11 +23630,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1931081161,
-			"version": 41,
-			"versionNonce": 1762150503,
+			"version": 42,
+			"versionNonce": 451304489,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23796,11 +23796,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1487524713,
-			"version": 39,
-			"versionNonce": 1087116681,
+			"version": 40,
+			"versionNonce": 844863207,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23952,11 +23952,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 176927561,
-			"version": 27,
-			"versionNonce": 298886023,
+			"version": 28,
+			"versionNonce": 1677389577,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24048,11 +24048,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 2086046889,
-			"version": 23,
-			"versionNonce": 732068969,
+			"version": 24,
+			"versionNonce": 548807175,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24124,11 +24124,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1808938633,
-			"version": 22,
-			"versionNonce": 857774759,
+			"version": 23,
+			"versionNonce": 112862697,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24195,11 +24195,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1035754889,
-			"version": 19,
-			"versionNonce": 13174601,
+			"version": 20,
+			"versionNonce": 1976715559,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24246,11 +24246,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 339986409,
-			"version": 48,
-			"versionNonce": 296005063,
+			"version": 49,
+			"versionNonce": 1043300553,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24447,11 +24447,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1317649833,
-			"version": 41,
-			"versionNonce": 1251685929,
+			"version": 42,
+			"versionNonce": 521964615,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24613,11 +24613,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 326010697,
-			"version": 32,
-			"versionNonce": 679042279,
+			"version": 33,
+			"versionNonce": 1475772329,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24729,11 +24729,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 2048022281,
-			"version": 44,
-			"versionNonce": 1006930185,
+			"version": 45,
+			"versionNonce": 678521703,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24910,11 +24910,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1325789513,
-			"version": 41,
-			"versionNonce": 1529554951,
+			"version": 42,
+			"versionNonce": 1648009865,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25076,11 +25076,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 888340201,
-			"version": 31,
-			"versionNonce": 511737833,
+			"version": 32,
+			"versionNonce": 1847420551,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25187,11 +25187,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1674840009,
-			"version": 30,
-			"versionNonce": 1740017447,
+			"version": 31,
+			"versionNonce": 431450473,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25298,11 +25298,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1734792649,
-			"version": 22,
-			"versionNonce": 1743561,
+			"version": 23,
+			"versionNonce": 249363879,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25369,11 +25369,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 793623753,
-			"version": 21,
-			"versionNonce": 411570759,
+			"version": 22,
+			"versionNonce": 397956169,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25430,11 +25430,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 821078249,
-			"version": 24,
-			"versionNonce": 560880041,
+			"version": 25,
+			"versionNonce": 501002439,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25511,11 +25511,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 44845481,
-			"version": 23,
-			"versionNonce": 914108775,
+			"version": 24,
+			"versionNonce": 1075372841,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25587,11 +25587,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 482038665,
-			"version": 22,
-			"versionNonce": 598162569,
+			"version": 23,
+			"versionNonce": 347668455,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25658,11 +25658,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1308129929,
-			"version": 22,
-			"versionNonce": 987720839,
+			"version": 23,
+			"versionNonce": 1866765833,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25724,11 +25724,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 576627081,
-			"version": 28,
-			"versionNonce": 1988150121,
+			"version": 29,
+			"versionNonce": 92171015,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25825,11 +25825,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 639241673,
-			"version": 33,
-			"versionNonce": 1097745319,
+			"version": 34,
+			"versionNonce": 1748430057,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25953,11 +25953,11 @@ how do they all interact???? ^lKTZc1rv
 				"type": 2
 			},
 			"seed": 1079289385,
-			"version": 38,
-			"versionNonce": 105279049,
+			"version": 39,
+			"versionNonce": 212431399,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25995,11 +25995,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 2045184105,
-			"version": 16,
-			"versionNonce": 978663111,
+			"version": 17,
+			"versionNonce": 41641929,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26066,11 +26066,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 242831209,
-			"version": 19,
-			"versionNonce": 701742377,
+			"version": 20,
+			"versionNonce": 52860231,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26152,11 +26152,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1807016713,
-			"version": 23,
-			"versionNonce": 1546700263,
+			"version": 24,
+			"versionNonce": 405636777,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26258,11 +26258,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 942826919,
-			"version": 19,
-			"versionNonce": 1351888905,
+			"version": 20,
+			"versionNonce": 1884443751,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939792,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26359,11 +26359,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1916380519,
-			"version": 26,
-			"versionNonce": 1443721479,
+			"version": 27,
+			"versionNonce": 871942537,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26495,11 +26495,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 2087974663,
-			"version": 29,
-			"versionNonce": 1887651561,
+			"version": 30,
+			"versionNonce": 1006186375,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26646,11 +26646,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1465045511,
-			"version": 17,
-			"versionNonce": 1097316391,
+			"version": 18,
+			"versionNonce": 2132324457,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26737,11 +26737,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 319676295,
-			"version": 15,
-			"versionNonce": 875332041,
+			"version": 16,
+			"versionNonce": 542615207,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26818,11 +26818,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1400337095,
-			"version": 12,
-			"versionNonce": 1412176711,
+			"version": 13,
+			"versionNonce": 1868086089,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26879,11 +26879,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 906012839,
-			"version": 17,
-			"versionNonce": 1756061865,
+			"version": 18,
+			"versionNonce": 1545222599,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26970,11 +26970,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1080215079,
-			"version": 13,
-			"versionNonce": 1387731559,
+			"version": 14,
+			"versionNonce": 890530345,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27041,11 +27041,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 288157479,
-			"version": 30,
-			"versionNonce": 732652425,
+			"version": 31,
+			"versionNonce": 610101479,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27197,11 +27197,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1697533769,
-			"version": 137,
-			"versionNonce": 1104491911,
+			"version": 138,
+			"versionNonce": 1765227785,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -27230,11 +27230,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1093768873,
-			"version": 206,
-			"versionNonce": 1499990633,
+			"version": 207,
+			"versionNonce": 1454224391,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28271,11 +28271,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 169511623,
-			"version": 8,
-			"versionNonce": 1835037001,
+			"version": 9,
+			"versionNonce": 1673936679,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1728270939794,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28300,9 +28300,3521 @@ how do they all interact???? ^lKTZc1rv
 			]
 		},
 		{
+			"id": "aE5Fx_q-q6RJv2gyFOn_t",
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1489169575,
+			"x": 2135.687089701567,
+			"y": 380.3128833420499,
+			"width": 1626.9744501984223,
+			"height": 636.291987948888,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 34475241,
+			"version": 94,
+			"versionNonce": 1449124199,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271139673,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.040746721033884,
+					6.04074672103377
+				],
+				[
+					-12.081493442067767,
+					8.05432896137836
+				],
+				[
+					-20.135822403445673,
+					10.06791120172295
+				],
+				[
+					-30.203733605168964,
+					12.08149344206754
+				],
+				[
+					-40.271644806891345,
+					14.09507568241213
+				],
+				[
+					-54.36672048930359,
+					16.10865792275672
+				],
+				[
+					-66.44821393137136,
+					20.1358224034459
+				],
+				[
+					-76.51612513309419,
+					26.17656912447967
+				],
+				[
+					-82.55687185412808,
+					34.23089808585803
+				],
+				[
+					-84.57045409447255,
+					44.298809287580866
+				],
+				[
+					-80.5432896137836,
+					50.33955600861452
+				],
+				[
+					-70.47537841206031,
+					58.39388496999288
+				],
+				[
+					-56.380302729648065,
+					64.43463169102677
+				],
+				[
+					-40.271644806891345,
+					72.4889606524049
+				],
+				[
+					-20.135822403445673,
+					84.57045409447244
+				],
+				[
+					-10.067911201722836,
+					94.63836529619527
+				],
+				[
+					-2.0135822403444763,
+					104.70627649791834
+				],
+				[
+					6.040746721033429,
+					118.80135218033035
+				],
+				[
+					8.05432896137836,
+					128.8692633820532
+				],
+				[
+					12.081493442067767,
+					136.92359234343155
+				],
+				[
+					14.095075682412244,
+					142.96433906446543
+				],
+				[
+					18.122240163101196,
+					151.0186680258438
+				],
+				[
+					28.190151364824032,
+					169.140908188945
+				],
+				[
+					40.271644806891345,
+					187.2631483520462
+				],
+				[
+					56.380302729648065,
+					209.41255299583656
+				],
+				[
+					76.51612513309419,
+					231.56195763962694
+				],
+				[
+					108.73344097860718,
+					267.80643796582956
+				],
+				[
+					134.9100101030872,
+					295.9965893306536
+				],
+				[
+					159.0729969872218,
+					324.18674069547785
+				],
+				[
+					187.2631483520463,
+					352.3768920603019
+				],
+				[
+					241.6298688413499,
+					398.68928358822734
+				],
+				[
+					285.92867812893064,
+					430.90659943374055
+				],
+				[
+					334.25465189720035,
+					465.13749751959847
+				],
+				[
+					386.60779014615946,
+					495.3412311247672
+				],
+				[
+					442.988092875808,
+					523.5313824895915
+				],
+				[
+					527.5585469702805,
+					561.7894450561383
+				],
+				[
+					587.966014180618,
+					585.9524319402734
+				],
+				[
+					650.3870636313004,
+					606.0882543437193
+				],
+				[
+					718.8488598030153,
+					622.1969122664758
+				],
+				[
+					821.5415540605891,
+					636.291987948888
+				],
+				[
+					928.2614127988527,
+					636.291987948888
+				],
+				[
+					964.5058931250551,
+					634.2784057085433
+				],
+				[
+					1036.9948537774599,
+					626.224076747165
+				],
+				[
+					1111.4973966702091,
+					614.1425833050977
+				],
+				[
+					1218.2172554084718,
+					587.9660141806181
+				],
+				[
+					1284.6654693398432,
+					567.8301917771722
+				],
+				[
+					1347.0865187905256,
+					543.6672048930371
+				],
+				[
+					1377.2902523956946,
+					545.6807871333818
+				],
+				[
+					1413.534732721897,
+					503.39556008614557
+				],
+				[
+					1542.4039961039498,
+					477.218990961666
+				],
+				[
+					1494.0780223356796,
+					451.04242183718645
+				],
+				[
+					1488.0372756146462,
+					424.8658527127069
+				],
+				[
+					1451.7927952884438,
+					366.4719677427139
+				],
+				[
+					1425.6162261639638,
+					326.2003229358223
+				],
+				[
+					1397.4260747991402,
+					300.0237538113428
+				],
+				[
+					1367.2223411939713,
+					275.8607669272077
+				],
+				[
+					1328.9642786274244,
+					253.71136228341732
+				],
+				[
+					1268.5568114170865,
+					227.53479315893776
+				],
+				[
+					1228.2851666101951,
+					211.42613523618104
+				],
+				[
+					1185.9999395629584,
+					197.33105955376902
+				],
+				[
+					1141.701130275378,
+					183.235983871357
+				],
+				[
+					1075.2529163440067,
+					161.08657922756663
+				],
+				[
+					1030.9541070564264,
+					149.0050857854991
+				],
+				[
+					984.6417155285008,
+					138.93717458377625
+				],
+				[
+					938.3293240005751,
+					126.85568114170871
+				],
+				[
+					892.0169324726503,
+					112.7606054592967
+				],
+				[
+					825.5687185412789,
+					96.65194753653998
+				],
+				[
+					785.2970737343867,
+					90.61120081550632
+				],
+				[
+					747.0390111678398,
+					86.58403633481714
+				],
+				[
+					690.6587084381918,
+					84.57045409447244
+				],
+				[
+					652.4006458716449,
+					84.57045409447244
+				],
+				[
+					614.1425833050971,
+					84.57045409447244
+				],
+				[
+					579.9116852192392,
+					86.58403633481714
+				],
+				[
+					531.5857114509699,
+					90.61120081550632
+				],
+				[
+					499.3683956054565,
+					90.61120081550632
+				],
+				[
+					465.1374975195986,
+					92.6247830558508
+				],
+				[
+					430.90659943374067,
+					92.6247830558508
+				],
+				[
+					396.67570134788275,
+					92.6247830558508
+				],
+				[
+					348.3497275796126,
+					90.61120081550632
+				],
+				[
+					316.13241173409915,
+					90.61120081550632
+				],
+				[
+					283.9150958885857,
+					90.61120081550632
+				],
+				[
+					251.69778004307273,
+					90.61120081550632
+				],
+				[
+					203.37180627480302,
+					82.55687185412796
+				],
+				[
+					169.1409081889451,
+					76.51612513309408
+				],
+				[
+					132.8964278627427,
+					66.44821393137124
+				],
+				[
+					94.63836529619539,
+					54.3667204893037
+				],
+				[
+					56.380302729648065,
+					46.31239152792534
+				],
+				[
+					8.05432896137836,
+					42.28522704723616
+				],
+				[
+					-20.135822403445673,
+					42.28522704723616
+				],
+				[
+					-44.29880928758075,
+					38.25806256654698
+				],
+				[
+					-44.29880928758075,
+					38.25806256654698
+				]
+			],
+			"pressures": [
+				0,
+				0.33694973587989807,
+				0.33842983841896057,
+				0.37196916341781616,
+				0.40552377700805664,
+				0.42130160331726074,
+				0.4449836015701294,
+				0.4435034692287445,
+				0.4449836015701294,
+				0.4474555552005768,
+				0.4459754228591919,
+				0.4444953203201294,
+				0.4420233368873596,
+				0.4420233368873596,
+				0.4420233368873596,
+				0.4321507513523102,
+				0.4282139241695404,
+				0.4272221028804779,
+				0.42278170585632324,
+				0.42278170585632324,
+				0.42328527569770813,
+				0.42328527569770813,
+				0.42476537823677063,
+				0.42377355694770813,
+				0.42426183819770813,
+				0.425741970539093,
+				0.42081329226493835,
+				0.41785305738449097,
+				0.41884487867355347,
+				0.4479438364505768,
+				0.4622568190097809,
+				0.4800183176994324,
+				0.48543527722358704,
+				0.48593881726264954,
+				0.4918593168258667,
+				0.502204954624176,
+				0.5096055269241333,
+				0.5258869528770447,
+				0.537727952003479,
+				0.5490806698799133,
+				0.5579614043235779,
+				0.5609216690063477,
+				0.5599297881126404,
+				0.5594415068626404,
+				0.5619134902954102,
+				0.5604333281517029,
+				0.5604333281517029,
+				0.5535210371017456,
+				0.5,
+				0.5179980397224426,
+				0.5,
+				0.5,
+				0.5,
+				0.5357595086097717,
+				0.5318074226379395,
+				0.5283588767051697,
+				0.532310962677002,
+				0.5352712273597717,
+				0.5436484217643738,
+				0.5525291562080383,
+				0.5545128583908081,
+				0.5545128583908081,
+				0.5505607724189758,
+				0.5495689511299133,
+				0.5505607724189758,
+				0.5500724911689758,
+				0.5441519618034363,
+				0.540688157081604,
+				0.5392080545425415,
+				0.5273670554161072,
+				0.5120775103569031,
+				0.5061570405960083,
+				0.5036850571632385,
+				0.504676878452301,
+				0.5110856890678406,
+				0.5076371431350708,
+				0.505165159702301,
+				0.5017166137695312,
+				0.5012283325195312,
+				0.5027084946632385,
+				0.49925994873046875,
+				0.49875637888908386,
+				0.49925994873046875,
+				0.49925994873046875,
+				0.5002365112304688,
+				0.502204954624176,
+				0.504676878452301,
+				0.504676878452301,
+				0.49974822998046875,
+				0.46619364619255066,
+				0.28070497512817383,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-44.29880928758075,
+				38.25806256654698
+			]
+		},
+		{
+			"id": "FQfnEv_Tj1CM3YIWlzcL5",
+			"type": "freedraw",
+			"x": 2441.7515902339437,
+			"y": 581.6711073765081,
+			"width": 64.43463169102597,
+			"height": 118.80135218033047,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 830870377,
+			"version": 12,
+			"versionNonce": 822796007,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271140495,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.027164480688953,
+					-8.05432896137836
+				],
+				[
+					6.040746721033429,
+					-4.02716448068918
+				],
+				[
+					12.081493442066858,
+					8.05432896137836
+				],
+				[
+					24.162986884134625,
+					28.19015136482426
+				],
+				[
+					38.25806256654687,
+					52.35313824895911
+				],
+				[
+					56.380302729648065,
+					90.61120081550621
+				],
+				[
+					62.421049450681494,
+					106.71985873826293
+				],
+				[
+					64.43463169102597,
+					110.74702321895211
+				],
+				[
+					60.40746721033702,
+					106.71985873826293
+				],
+				[
+					60.40746721033702,
+					106.71985873826293
+				]
+			],
+			"pressures": [
+				0,
+				0.35667964816093445,
+				0.43413442373275757,
+				0.45386433601379395,
+				0.46767374873161316,
+				0.4755779206752777,
+				0.4765545129776001,
+				0.4721141457557678,
+				0.42328527569770813,
+				0.26195162534713745,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				60.40746721033702,
+				106.71985873826293
+			]
+		},
+		{
+			"id": "4IB-zce5_SMnnkQs8ZWsI",
+			"type": "freedraw",
+			"x": 2403.4935276673964,
+			"y": 617.9155877027107,
+			"width": 80.54328961378314,
+			"height": 60.40746721033747,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 94133737,
+			"version": 9,
+			"versionNonce": 1581036295,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271140990,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.0135822403444763,
+					-2.0135822403447037
+				],
+				[
+					10.067911201722836,
+					-10.067911201723064
+				],
+				[
+					38.25806256654732,
+					-30.203733605168736
+				],
+				[
+					56.38030272964852,
+					-42.285227047236276
+				],
+				[
+					72.48896065240524,
+					-52.35313824895934
+				],
+				[
+					80.54328961378314,
+					-60.40746721033747
+				],
+				[
+					80.54328961378314,
+					-60.40746721033747
+				]
+			],
+			"pressures": [
+				0,
+				0.34335851669311523,
+				0.3926909267902374,
+				0.40650033950805664,
+				0.3916991055011749,
+				0.34287023544311523,
+				0.13911649584770203,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				80.54328961378314,
+				-60.40746721033747
+			]
+		},
+		{
+			"id": "N9tNo0RL-6wpO1_OJsiM-",
+			"type": "freedraw",
+			"x": 2475.9824883198016,
+			"y": 690.4045483551155,
+			"width": 74.50254289274926,
+			"height": 28.190151364824032,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1604231113,
+			"version": 9,
+			"versionNonce": 620028711,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271141380,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					8.054328961377905,
+					0
+				],
+				[
+					22.14940464379015,
+					0
+				],
+				[
+					34.23089808585746,
+					-6.040746721033656
+				],
+				[
+					48.325973768269705,
+					-16.108657922756493
+				],
+				[
+					60.40746721033702,
+					-22.149404643790376
+				],
+				[
+					74.50254289274926,
+					-28.190151364824032
+				],
+				[
+					74.50254289274926,
+					-28.190151364824032
+				]
+			],
+			"pressures": [
+				0,
+				0.32756543159484863,
+				0.3996032774448395,
+				0.425741970539093,
+				0.43314260244369507,
+				0.43314260244369507,
+				0.30684366822242737,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				74.50254289274926,
+				-28.190151364824032
+			]
+		},
+		{
+			"id": "8G-_oEMvPKw2UY5csgL-m",
+			"type": "freedraw",
+			"x": 2540.4171200108276,
+			"y": 583.6846896168528,
+			"width": 60.40746721033793,
+			"height": 106.7198587382627,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1441908137,
+			"version": 14,
+			"versionNonce": 923435751,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271141763,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.013582240344931,
+					2.0135822403444763
+				],
+				[
+					4.027164480689407,
+					8.054328961378133
+				],
+				[
+					10.067911201723291,
+					20.135822403445673
+				],
+				[
+					18.12224016310165,
+					34.230898085857916
+				],
+				[
+					36.24448032620285,
+					64.43463169102665
+				],
+				[
+					48.32597376827016,
+					84.57045409447232
+				],
+				[
+					56.38030272964852,
+					100.67911201722904
+				],
+				[
+					58.39388496999345,
+					106.7198587382627
+				],
+				[
+					60.40746721033793,
+					106.7198587382627
+				],
+				[
+					54.36672048930404,
+					102.69269425757352
+				],
+				[
+					44.29880928758121,
+					92.62478305585068
+				],
+				[
+					44.29880928758121,
+					92.62478305585068
+				]
+			],
+			"pressures": [
+				0,
+				0.32510870695114136,
+				0.35963988304138184,
+				0.38973069190979004,
+				0.4277256429195404,
+				0.4750743806362152,
+				0.4879072308540344,
+				0.4908674657344818,
+				0.48445868492126465,
+				0.40354010462760925,
+				0.31227588653564453,
+				0.06166170910000801,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				44.29880928758121,
+				92.62478305585068
+			]
+		},
+		{
+			"id": "CebLXqU1gi-mtkZ7qJ8dI",
+			"type": "freedraw",
+			"x": 2532.3627910494497,
+			"y": 638.0514101061564,
+			"width": 48.32597376827016,
+			"height": 32.21731584551321,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1642428905,
+			"version": 10,
+			"versionNonce": 2011258407,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271142070,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					4.02716448068918
+				],
+				[
+					6.040746721033429,
+					2.0135822403447037
+				],
+				[
+					18.122240163101196,
+					-4.02716448068918
+				],
+				[
+					34.230898085857916,
+					-16.10865792275672
+				],
+				[
+					42.28522704723582,
+					-22.149404643790376
+				],
+				[
+					46.31239152792523,
+					-26.176569124479556
+				],
+				[
+					48.32597376827016,
+					-28.190151364824032
+				],
+				[
+					48.32597376827016,
+					-28.190151364824032
+				]
+			],
+			"pressures": [
+				0,
+				0.37344929575920105,
+				0.42476537823677063,
+				0.45337605476379395,
+				0.46422523260116577,
+				0.4296940565109253,
+				0.3448386490345001,
+				0.2575112581253052,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				48.32597376827016,
+				-28.190151364824032
+			]
+		},
+		{
+			"id": "9ahVQZbE2jxapsAE5-jx4",
+			"type": "freedraw",
+			"x": 2598.811004980821,
+			"y": 599.7933475396093,
+			"width": 66.44821393137136,
+			"height": 68.46179617171583,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1828706985,
+			"version": 17,
+			"versionNonce": 221385543,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271142385,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-6.040746721034338,
+					6.040746721033884
+				],
+				[
+					-6.040746721034338,
+					8.05432896137836
+				],
+				[
+					-8.054328961378815,
+					14.095075682412244
+				],
+				[
+					-2.013582240344931,
+					20.1358224034459
+				],
+				[
+					24.162986884134625,
+					30.203733605168736
+				],
+				[
+					40.271644806891345,
+					36.24448032620262
+				],
+				[
+					52.35313824895911,
+					42.285227047236276
+				],
+				[
+					58.39388496999254,
+					50.339556008614636
+				],
+				[
+					58.39388496999254,
+					60.40746721033747
+				],
+				[
+					52.35313824895911,
+					66.44821393137136
+				],
+				[
+					40.271644806891345,
+					68.46179617171583
+				],
+				[
+					24.162986884134625,
+					68.46179617171583
+				],
+				[
+					18.122240163101196,
+					68.46179617171583
+				],
+				[
+					16.10865792275672,
+					68.46179617171583
+				],
+				[
+					16.10865792275672,
+					68.46179617171583
+				]
+			],
+			"pressures": [
+				0,
+				0.40700387954711914,
+				0.40749219059944153,
+				0.4267337918281555,
+				0.4439917504787445,
+				0.4459754228591919,
+				0.4469520151615143,
+				0.44991225004196167,
+				0.4726176857948303,
+				0.4953078627586365,
+				0.4953078627586365,
+				0.48494696617126465,
+				0.4459754228591919,
+				0.33940643072128296,
+				0.1603265404701233,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				16.10865792275672,
+				68.46179617171583
+			]
+		},
+		{
+			"id": "8azPobBq8hW6poWP42kei",
+			"type": "freedraw",
+			"x": 2778.0198243714885,
+			"y": 636.0378278658119,
+			"width": 58.39388496999254,
+			"height": 120.81493442067494,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1345317769,
+			"version": 26,
+			"versionNonce": 564168839,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271143224,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.0135822403444763,
+					0
+				],
+				[
+					-2.0135822403444763,
+					-4.02716448068918
+				],
+				[
+					-4.027164480688953,
+					0
+				],
+				[
+					-8.054328961377905,
+					4.02716448068918
+				],
+				[
+					-14.095075682412244,
+					10.067911201722836
+				],
+				[
+					-20.135822403445673,
+					20.135822403445673
+				],
+				[
+					-22.14940464379015,
+					34.230898085857916
+				],
+				[
+					-20.135822403445673,
+					44.29880928758075
+				],
+				[
+					-12.081493442067767,
+					52.35313824895911
+				],
+				[
+					0,
+					56.38030272964829
+				],
+				[
+					22.14940464379015,
+					58.39388496999277
+				],
+				[
+					32.21731584551344,
+					52.35313824895911
+				],
+				[
+					36.24448032620239,
+					44.29880928758075
+				],
+				[
+					34.230898085857916,
+					34.230898085857916
+				],
+				[
+					30.203733605168964,
+					22.149404643790376
+				],
+				[
+					22.14940464379015,
+					2.0135822403444763
+				],
+				[
+					16.10865792275672,
+					-14.095075682412244
+				],
+				[
+					8.054328961378815,
+					-28.19015136482426
+				],
+				[
+					2.0135822403444763,
+					-40.2716448068918
+				],
+				[
+					-6.040746721033429,
+					-58.393884969992996
+				],
+				[
+					-10.067911201723291,
+					-62.421049450682176
+				],
+				[
+					-14.095075682412244,
+					-62.421049450682176
+				],
+				[
+					-16.10865792275672,
+					-60.40746721033747
+				],
+				[
+					-16.10865792275672,
+					-60.40746721033747
+				]
+			],
+			"pressures": [
+				0,
+				0.35667964816093445,
+				0.4267337918281555,
+				0.46817731857299805,
+				0.48346686363220215,
+				0.4923475980758667,
+				0.502204954624176,
+				0.5165178775787354,
+				0.5234302282333374,
+				0.529839038848877,
+				0.5392080545425415,
+				0.5436484217643738,
+				0.5446402430534363,
+				0.5441519618034363,
+				0.5446402430534363,
+				0.548088788986206,
+				0.5559929609298706,
+				0.5594415068626404,
+				0.5594415068626404,
+				0.5569695830345154,
+				0.5332875847816467,
+				0.4879072308540344,
+				0.37393757700920105,
+				0.29747462272644043,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-16.10865792275672,
+				-60.40746721033747
+			]
+		},
+		{
+			"id": "9Mhmvx6PRDjGMRsRVVrkL",
+			"type": "freedraw",
+			"x": 2838.4272915818265,
+			"y": 625.9699166640888,
+			"width": 30.203733605168054,
+			"height": 64.43463169102665,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1061196361,
+			"version": 13,
+			"versionNonce": 1758690599,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271143758,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-2.0135822403444763
+				],
+				[
+					0,
+					0
+				],
+				[
+					4.027164480688953,
+					6.040746721033884
+				],
+				[
+					10.067911201722382,
+					16.10865792275672
+				],
+				[
+					22.14940464379015,
+					36.24448032620262
+				],
+				[
+					28.190151364823578,
+					50.339556008614636
+				],
+				[
+					30.203733605168054,
+					60.40746721033747
+				],
+				[
+					30.203733605168054,
+					62.421049450682176
+				],
+				[
+					30.203733605168054,
+					60.40746721033747
+				],
+				[
+					26.1765691244791,
+					56.38030272964829
+				],
+				[
+					26.1765691244791,
+					56.38030272964829
+				]
+			],
+			"pressures": [
+				0,
+				0.3645685613155365,
+				0.4119325578212738,
+				0.4410315155982971,
+				0.46767374873161316,
+				0.5096055269241333,
+				0.5140459537506104,
+				0.5101091265678406,
+				0.4573128819465637,
+				0.32312503457069397,
+				0.08978408575057983,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				26.1765691244791,
+				56.38030272964829
+			]
+		},
+		{
+			"id": "cv38vmWMYGmKj8gSMe2Bq",
+			"type": "freedraw",
+			"x": 2816.2778869380354,
+			"y": 601.806929779954,
+			"width": 6.040746721034338,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 946932649,
+			"version": 6,
+			"versionNonce": 709047271,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271143960,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.0135822403444763,
+					0
+				],
+				[
+					6.040746721034338,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.4321507513523102,
+				0.3325093388557434,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				6.040746721034338,
+				0
+			]
+		},
+		{
+			"id": "xqXuvkYgYHRSzjiDzXlo1",
+			"type": "freedraw",
+			"x": 2888.76684759044,
+			"y": 656.1736502692576,
+			"width": 44.29880928758121,
+			"height": 8.054328961378133,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1180203241,
+			"version": 9,
+			"versionNonce": 1054697479,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271144253,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.027164480689862,
+					0
+				],
+				[
+					12.081493442067767,
+					0
+				],
+				[
+					22.14940464379106,
+					-2.0135822403444763
+				],
+				[
+					32.21731584551344,
+					-4.02716448068918
+				],
+				[
+					40.271644806892255,
+					-6.040746721033656
+				],
+				[
+					44.29880928758121,
+					-8.054328961378133
+				],
+				[
+					44.29880928758121,
+					-8.054328961378133
+				]
+			],
+			"pressures": [
+				0,
+				0.40453192591667175,
+				0.4943160116672516,
+				0.4957961440086365,
+				0.4726176857948303,
+				0.3951628804206848,
+				0.15539787709712982,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				44.29880928758121,
+				-8.054328961378133
+			]
+		},
+		{
+			"id": "aDI1Pzqw4i9YwUo-xvMRk",
+			"type": "freedraw",
+			"x": 2947.1607325604336,
+			"y": 623.9563344237444,
+			"width": 64.43463169102688,
+			"height": 96.65194753654009,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1064590025,
+			"version": 30,
+			"versionNonce": 2140344775,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271144893,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-2.0135822403447037
+				],
+				[
+					4.027164480688953,
+					0
+				],
+				[
+					14.095075682412244,
+					14.095075682412016
+				],
+				[
+					22.14940464379015,
+					26.176569124479556
+				],
+				[
+					32.21731584551344,
+					40.27164480689157
+				],
+				[
+					40.271644806891345,
+					54.36672048930359
+				],
+				[
+					50.339556008614636,
+					72.48896065240501
+				],
+				[
+					52.35313824895911,
+					78.52970737343867
+				],
+				[
+					54.36672048930359,
+					80.54328961378337
+				],
+				[
+					54.36672048930359,
+					78.52970737343867
+				],
+				[
+					48.32597376827016,
+					68.46179617171583
+				],
+				[
+					42.28522704723582,
+					54.36672048930359
+				],
+				[
+					34.230898085857916,
+					36.24448032620239
+				],
+				[
+					28.190151364823578,
+					24.16298688413508
+				],
+				[
+					28.190151364823578,
+					14.095075682412016
+				],
+				[
+					30.203733605168964,
+					0
+				],
+				[
+					36.24448032620239,
+					-10.067911201722836
+				],
+				[
+					42.28522704723582,
+					-16.10865792275672
+				],
+				[
+					54.36672048930359,
+					-14.095075682412016
+				],
+				[
+					60.40746721033702,
+					-8.05432896137836
+				],
+				[
+					62.421049450681494,
+					0
+				],
+				[
+					64.43463169102688,
+					8.05432896137836
+				],
+				[
+					64.43463169102688,
+					16.10865792275672
+				],
+				[
+					60.40746721033702,
+					22.149404643790376
+				],
+				[
+					46.31239152792568,
+					24.16298688413508
+				],
+				[
+					36.24448032620239,
+					22.149404643790376
+				],
+				[
+					28.190151364823578,
+					20.1358224034459
+				],
+				[
+					28.190151364823578,
+					20.1358224034459
+				]
+			],
+			"pressures": [
+				0,
+				0.4449836015701294,
+				0.46915388107299805,
+				0.5061570405960083,
+				0.530327320098877,
+				0.547600507736206,
+				0.5604333281517029,
+				0.5643701553344727,
+				0.5643701553344727,
+				0.5520408749580383,
+				0.5352712273597717,
+				0.5362477898597717,
+				0.5352712273597717,
+				0.5347676873207092,
+				0.5367513298988342,
+				0.5436484217643738,
+				0.5495689511299133,
+				0.547600507736206,
+				0.5505607724189758,
+				0.573739230632782,
+				0.5959411263465881,
+				0.609262228012085,
+				0.6225833296775818,
+				0.6324559450149536,
+				0.6334477663040161,
+				0.6097657680511475,
+				0.5189898610115051,
+				0.30931562185287476,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				28.190151364823578,
+				20.1358224034459
+			]
+		},
+		{
+			"id": "V7t2Ajtoa-hD1tXSlNTRM",
+			"type": "freedraw",
+			"x": 3057.9077557793853,
+			"y": 646.1057390675347,
+			"width": 48.32597376827016,
+			"height": 56.38030272964829,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 503506185,
+			"version": 16,
+			"versionNonce": 1171465159,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271145325,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.0135822403444763,
+					4.02716448068918
+				],
+				[
+					-6.040746721033429,
+					10.067911201722836
+				],
+				[
+					-6.040746721033429,
+					22.149404643790376
+				],
+				[
+					-2.0135822403444763,
+					34.230898085857916
+				],
+				[
+					16.10865792275672,
+					48.32597376826993
+				],
+				[
+					28.190151364824487,
+					50.339556008614636
+				],
+				[
+					38.25806256654687,
+					46.312391527925456
+				],
+				[
+					42.28522704723673,
+					36.24448032620239
+				],
+				[
+					38.25806256654687,
+					18.122240163101196
+				],
+				[
+					28.190151364824487,
+					6.040746721033656
+				],
+				[
+					18.122240163101196,
+					0
+				],
+				[
+					6.040746721034338,
+					-6.040746721033656
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.4943160116672516,
+				0.5194781422615051,
+				0.5604333281517029,
+				0.5915006995201111,
+				0.61124587059021,
+				0.6072937846183777,
+				0.5979247689247131,
+				0.5707942247390747,
+				0.5308308601379395,
+				0.4948195517063141,
+				0.43314260244369507,
+				0.3029068410396576,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				6.040746721034338,
+				-6.040746721033656
+			]
+		},
+		{
+			"id": "zQOhZXVLYbjoYC6qOq0Db",
+			"type": "freedraw",
+			"x": 3100.192982826622,
+			"y": 636.0378278658119,
+			"width": 38.25806256654687,
+			"height": 64.43463169102665,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 429077257,
+			"version": 10,
+			"versionNonce": 750806791,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271145593,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-2.0135822403447037
+				],
+				[
+					6.040746721033429,
+					2.0135822403444763
+				],
+				[
+					14.095075682412244,
+					12.08149344206754
+				],
+				[
+					22.14940464379015,
+					26.176569124479556
+				],
+				[
+					30.203733605168054,
+					42.28522704723605
+				],
+				[
+					36.24448032620239,
+					54.36672048930359
+				],
+				[
+					38.25806256654687,
+					62.42104945068195
+				],
+				[
+					38.25806256654687,
+					62.42104945068195
+				]
+			],
+			"pressures": [
+				0,
+				0.38924238085746765,
+				0.4568246006965637,
+				0.5076371431350708,
+				0.5466086864471436,
+				0.5614099502563477,
+				0.5505607724189758,
+				0.43511101603507996,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				38.25806256654687,
+				62.42104945068195
+			]
+		},
+		{
+			"id": "hUWx7-gRmH6OeSo4ZDING",
+			"type": "freedraw",
+			"x": 3154.5597033159256,
+			"y": 644.0921568271903,
+			"width": 40.271644806891345,
+			"height": 52.35313824895911,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 458140617,
+			"version": 19,
+			"versionNonce": 1847894631,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271146039,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					6.040746721033656
+				],
+				[
+					0,
+					10.067911201722836
+				],
+				[
+					0,
+					34.23089808585769
+				],
+				[
+					8.054328961377905,
+					46.31239152792523
+				],
+				[
+					16.10865792275672,
+					52.35313824895911
+				],
+				[
+					24.162986884134625,
+					52.35313824895911
+				],
+				[
+					32.21731584551344,
+					44.29880928758075
+				],
+				[
+					34.230898085857916,
+					32.21731584551321
+				],
+				[
+					32.21731584551344,
+					12.081493442067313
+				],
+				[
+					30.203733605168964,
+					4.02716448068918
+				],
+				[
+					28.190151364823578,
+					0
+				],
+				[
+					28.190151364823578,
+					2.0135822403444763
+				],
+				[
+					30.203733605168964,
+					12.081493442067313
+				],
+				[
+					34.230898085857916,
+					24.162986884134853
+				],
+				[
+					38.25806256654687,
+					32.21731584551321
+				],
+				[
+					40.271644806891345,
+					32.21731584551321
+				],
+				[
+					40.271644806891345,
+					32.21731584551321
+				]
+			],
+			"pressures": [
+				0,
+				0.4913557767868042,
+				0.5007247924804688,
+				0.547600507736206,
+				0.5658503174781799,
+				0.5673304200172424,
+				0.5648737549781799,
+				0.5535210371017456,
+				0.5342794060707092,
+				0.5160295963287354,
+				0.5150377750396729,
+				0.5283588767051697,
+				0.548088788986206,
+				0.548088788986206,
+				0.5036850571632385,
+				0.37097734212875366,
+				0.2580147981643677,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				40.271644806891345,
+				32.21731584551321
+			]
+		},
+		{
+			"id": "L0l1bB8G4b0K-p9C-w8jM",
+			"type": "freedraw",
+			"x": 3202.885677084196,
+			"y": 652.1464857885684,
+			"width": 90.61120081550598,
+			"height": 92.62478305585091,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1859650153,
+			"version": 19,
+			"versionNonce": 1950046663,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271146382,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					10.067911201722382,
+					6.040746721033884
+				],
+				[
+					12.081493442066858,
+					10.067911201723064
+				],
+				[
+					22.14940464379015,
+					22.149404643790604
+				],
+				[
+					32.21731584551253,
+					42.285227047236276
+				],
+				[
+					44.2988092875803,
+					58.393884969992996
+				],
+				[
+					54.36672048930359,
+					76.51612513309419
+				],
+				[
+					56.380302729648065,
+					82.55687185412808
+				],
+				[
+					56.380302729648065,
+					78.5297073734389
+				],
+				[
+					48.32597376826925,
+					68.46179617171583
+				],
+				[
+					32.21731584551253,
+					38.258062566547096
+				],
+				[
+					26.1765691244791,
+					20.1358224034459
+				],
+				[
+					30.203733605168054,
+					10.067911201723064
+				],
+				[
+					40.271644806891345,
+					0
+				],
+				[
+					64.43463169102597,
+					-10.067911201722836
+				],
+				[
+					80.54328961378269,
+					-10.067911201722836
+				],
+				[
+					90.61120081550598,
+					-4.027164480688953
+				],
+				[
+					90.61120081550598,
+					-4.027164480688953
+				]
+			],
+			"pressures": [
+				0,
+				0.3502708375453949,
+				0.3798580765724182,
+				0.46718546748161316,
+				0.5273670554161072,
+				0.5688105821609497,
+				0.5969329476356506,
+				0.5895323157310486,
+				0.5707942247390747,
+				0.539711594581604,
+				0.5165178775787354,
+				0.5219501256942749,
+				0.5367513298988342,
+				0.5347676873207092,
+				0.48149845004081726,
+				0.3694972097873688,
+				0.16180667281150818,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				90.61120081550598,
+				-4.027164480688953
+			]
+		},
+		{
+			"id": "OYvf_ODWqR4uSmFhNnEen",
+			"type": "freedraw",
+			"x": 2600.8245872211655,
+			"y": 770.9478379688989,
+			"width": 98.66552977688434,
+			"height": 128.86926338205308,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 68951305,
+			"version": 30,
+			"versionNonce": 1909945223,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271147860,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.0135822403444763,
+					0
+				],
+				[
+					-4.027164480689407,
+					-4.02716448068918
+				],
+				[
+					-6.040746721033884,
+					-4.02716448068918
+				],
+				[
+					-6.040746721033884,
+					-2.0135822403447037
+				],
+				[
+					-6.040746721033884,
+					8.05432896137836
+				],
+				[
+					-2.0135822403444763,
+					22.149404643790376
+				],
+				[
+					18.122240163101196,
+					42.285227047236276
+				],
+				[
+					36.24448032620239,
+					48.32597376826993
+				],
+				[
+					50.339556008614636,
+					46.312391527925456
+				],
+				[
+					60.40746721033702,
+					40.27164480689157
+				],
+				[
+					60.40746721033702,
+					20.1358224034459
+				],
+				[
+					52.35313824895911,
+					6.040746721033656
+				],
+				[
+					42.28522704723582,
+					-4.02716448068918
+				],
+				[
+					38.25806256654687,
+					-10.067911201722836
+				],
+				[
+					40.271644806891345,
+					-4.02716448068918
+				],
+				[
+					48.32597376827016,
+					10.067911201722836
+				],
+				[
+					60.40746721033702,
+					28.190151364824032
+				],
+				[
+					72.48896065240478,
+					48.32597376826993
+				],
+				[
+					88.5976185751615,
+					82.55687185412785
+				],
+				[
+					92.62478305585046,
+					100.67911201722904
+				],
+				[
+					92.62478305585046,
+					112.76060545929658
+				],
+				[
+					86.58403633481703,
+					118.80135218033024
+				],
+				[
+					62.42104945068195,
+					114.77418769964106
+				],
+				[
+					42.28522704723582,
+					102.69269425757375
+				],
+				[
+					28.190151364824032,
+					92.62478305585068
+				],
+				[
+					24.162986884134625,
+					86.58403633481703
+				],
+				[
+					26.1765691244791,
+					82.55687185412785
+				],
+				[
+					26.1765691244791,
+					82.55687185412785
+				]
+			],
+			"pressures": [
+				0,
+				0.3542076647281647,
+				0.4439917504787445,
+				0.4785381853580475,
+				0.4913557767868042,
+				0.5194781422615051,
+				0.5421683192253113,
+				0.5485923290252686,
+				0.545128583908081,
+				0.5411917567253113,
+				0.5263904929161072,
+				0.5160295963287354,
+				0.5145494937896729,
+				0.5145494937896729,
+				0.5179980397224426,
+				0.5337911248207092,
+				0.540199875831604,
+				0.5525291562080383,
+				0.5717707872390747,
+				0.6013733148574829,
+				0.6102540493011475,
+				0.616174578666687,
+				0.6146944165229797,
+				0.6003814935684204,
+				0.5599297881126404,
+				0.48198673129081726,
+				0.3542076647281647,
+				0.24814221262931824,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				26.1765691244791,
+				82.55687185412785
+			]
+		},
+		{
+			"id": "iC1gkgMzXvPhffmcVsgLL",
+			"type": "freedraw",
+			"x": 2695.4629525173605,
+			"y": 815.2466472564796,
+			"width": 62.4210494506824,
+			"height": 62.421049450682176,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1410414409,
+			"version": 16,
+			"versionNonce": 1379665287,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271148207,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					4.02716448068918
+				],
+				[
+					0,
+					16.10865792275672
+				],
+				[
+					4.027164480689862,
+					30.203733605168736
+				],
+				[
+					18.122240163101196,
+					46.312391527925456
+				],
+				[
+					44.29880928758121,
+					58.393884969992996
+				],
+				[
+					58.39388496999345,
+					54.366720489303816
+				],
+				[
+					62.4210494506824,
+					42.285227047236276
+				],
+				[
+					56.380302729648974,
+					26.176569124479556
+				],
+				[
+					40.271644806892255,
+					12.08149344206754
+				],
+				[
+					18.122240163101196,
+					-2.0135822403444763
+				],
+				[
+					12.081493442067767,
+					-4.02716448068918
+				],
+				[
+					14.095075682412244,
+					-2.0135822403444763
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.49727627635002136,
+				0.529839038848877,
+				0.5663538575172424,
+				0.5934844017028809,
+				0.6013733148574829,
+				0.6023651361465454,
+				0.5984130501747131,
+				0.5929808616638184,
+				0.5821316838264465,
+				0.5244067907333374,
+				0.45485618710517883,
+				0.3024033010005951,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				14.095075682412244,
+				-2.0135822403444763
+			]
+		},
+		{
+			"id": "kLFXXhl6gZBG0HrbSvjGb",
+			"type": "freedraw",
+			"x": 2780.033406611833,
+			"y": 829.3417229388916,
+			"width": 46.31239152792568,
+			"height": 78.52970737343867,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1603601737,
+			"version": 16,
+			"versionNonce": 238851975,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271148503,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.0135822403444763,
+					0
+				],
+				[
+					-6.040746721033429,
+					2.0135822403447037
+				],
+				[
+					-6.040746721033429,
+					10.067911201723064
+				],
+				[
+					-2.0135822403444763,
+					22.149404643790604
+				],
+				[
+					8.054328961378815,
+					34.230898085857916
+				],
+				[
+					26.17656912448001,
+					42.285227047236276
+				],
+				[
+					36.24448032620239,
+					38.258062566547096
+				],
+				[
+					40.271644806892255,
+					24.16298688413508
+				],
+				[
+					38.25806256654687,
+					6.040746721033884
+				],
+				[
+					24.162986884135535,
+					-20.135822403445673
+				],
+				[
+					16.10865792275672,
+					-30.203733605168736
+				],
+				[
+					10.067911201723291,
+					-34.230898085857916
+				],
+				[
+					10.067911201723291,
+					-36.24448032620239
+				],
+				[
+					10.067911201723291,
+					-36.24448032620239
+				]
+			],
+			"pressures": [
+				0,
+				0.3838101923465729,
+				0.46619364619255066,
+				0.5076371431350708,
+				0.5530327558517456,
+				0.5880522131919861,
+				0.5994048714637756,
+				0.6063019633293152,
+				0.6117342114448547,
+				0.6117342114448547,
+				0.6038452982902527,
+				0.5707942247390747,
+				0.4908674657344818,
+				0.28169679641723633,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				10.067911201723291,
+				-36.24448032620239
+			]
+		},
+		{
+			"id": "_o69UiLSv4aTswalrhUHF",
+			"type": "freedraw",
+			"x": 2910.9162522342313,
+			"y": 815.2466472564796,
+			"width": 68.46179617171583,
+			"height": 98.66552977688457,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 45929289,
+			"version": 19,
+			"versionNonce": 113746663,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271149396,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-4.02716448068918
+				],
+				[
+					6.040746721033429,
+					2.0135822403447037
+				],
+				[
+					16.10865792275672,
+					16.10865792275672
+				],
+				[
+					32.21731584551344,
+					38.258062566547096
+				],
+				[
+					48.32597376827016,
+					62.421049450682176
+				],
+				[
+					60.40746721033702,
+					78.52970737343867
+				],
+				[
+					64.43463169102597,
+					82.55687185412785
+				],
+				[
+					68.46179617171583,
+					86.58403633481703
+				],
+				[
+					60.40746721033702,
+					74.50254289274949
+				],
+				[
+					46.312391527924774,
+					50.339556008614636
+				],
+				[
+					30.203733605168964,
+					14.095075682412016
+				],
+				[
+					28.190151364823578,
+					0
+				],
+				[
+					32.21731584551344,
+					-8.05432896137836
+				],
+				[
+					38.25806256654687,
+					-12.08149344206754
+				],
+				[
+					48.32597376827016,
+					-10.067911201722836
+				],
+				[
+					58.39388496999254,
+					-2.0135822403444763
+				],
+				[
+					58.39388496999254,
+					-2.0135822403444763
+				]
+			],
+			"pressures": [
+				0,
+				0.37592124938964844,
+				0.5416800379753113,
+				0.5924925804138184,
+				0.6181429624557495,
+				0.6304875016212463,
+				0.6349279284477234,
+				0.6364080309867859,
+				0.6447852253913879,
+				0.6467536687850952,
+				0.6467536687850952,
+				0.6472572088241577,
+				0.6428168416023254,
+				0.6230869293212891,
+				0.5574731230735779,
+				0.4800183176994324,
+				0.251102477312088,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				58.39388496999254,
+				-2.0135822403444763
+			]
+		},
+		{
+			"id": "enxGvDVhIRBCsAXzf64id",
+			"type": "freedraw",
+			"x": 2979.378048405947,
+			"y": 849.4775453423375,
+			"width": 82.55687185412717,
+			"height": 86.58403633481703,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2020497897,
+			"version": 22,
+			"versionNonce": 1060395943,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271149774,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					8.054328961377905,
+					8.05432896137836
+				],
+				[
+					12.081493442066858,
+					8.05432896137836
+				],
+				[
+					20.135822403445673,
+					8.05432896137836
+				],
+				[
+					30.203733605168054,
+					-4.02716448068918
+				],
+				[
+					32.21731584551344,
+					-10.067911201722836
+				],
+				[
+					38.25806256654687,
+					-26.176569124479556
+				],
+				[
+					38.25806256654687,
+					-32.21731584551321
+				],
+				[
+					34.230898085857916,
+					-34.230898085857916
+				],
+				[
+					24.162986884134625,
+					-30.203733605168736
+				],
+				[
+					16.10865792275672,
+					-22.149404643790376
+				],
+				[
+					10.067911201722382,
+					-10.067911201722836
+				],
+				[
+					4.027164480688953,
+					2.0135822403447037
+				],
+				[
+					4.027164480688953,
+					24.16298688413508
+				],
+				[
+					10.067911201722382,
+					38.258062566547096
+				],
+				[
+					24.162986884134625,
+					48.32597376826993
+				],
+				[
+					40.271644806891345,
+					52.35313824895911
+				],
+				[
+					58.39388496999254,
+					52.35313824895911
+				],
+				[
+					78.52970737343821,
+					46.312391527925456
+				],
+				[
+					82.55687185412717,
+					44.29880928758075
+				],
+				[
+					82.55687185412717,
+					44.29880928758075
+				]
+			],
+			"pressures": [
+				0,
+				0.3626001477241516,
+				0.39121079444885254,
+				0.4632333815097809,
+				0.4809948801994324,
+				0.4809948801994324,
+				0.48297855257987976,
+				0.48247501254081726,
+				0.48346686363220215,
+				0.4913557767868042,
+				0.496299684047699,
+				0.5145494937896729,
+				0.5614099502563477,
+				0.6280155777931213,
+				0.6472572088241577,
+				0.6502174139022827,
+				0.6507057547569275,
+				0.5949645042419434,
+				0.40650033950805664,
+				0.3029068410396576,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				82.55687185412717,
+				44.29880928758075
+			]
+		},
+		{
+			"id": "BpyhpA2VdCZOkd7Raz5hv",
+			"type": "freedraw",
+			"x": 3055.894173539041,
+			"y": 815.2466472564796,
+			"width": 30.203733605168964,
+			"height": 82.55687185412785,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1475224873,
+			"version": 11,
+			"versionNonce": 1008456199,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271149997,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.0135822403444763,
+					-6.040746721033656
+				],
+				[
+					-4.027164480688953,
+					-2.0135822403444763
+				],
+				[
+					0,
+					12.08149344206754
+				],
+				[
+					6.040746721033429,
+					30.203733605168736
+				],
+				[
+					14.095075682412244,
+					50.339556008614636
+				],
+				[
+					20.135822403445673,
+					64.43463169102665
+				],
+				[
+					26.17656912448001,
+					74.50254289274949
+				],
+				[
+					24.162986884135535,
+					76.51612513309419
+				],
+				[
+					24.162986884135535,
+					76.51612513309419
+				]
+			],
+			"pressures": [
+				0,
+				0.40205997228622437,
+				0.4893873631954193,
+				0.5367513298988342,
+				0.5752193331718445,
+				0.6013733148574829,
+				0.5989013314247131,
+				0.48691537976264954,
+				0.2994430363178253,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				24.162986884135535,
+				76.51612513309419
+			]
+		},
+		{
+			"id": "yObe_zzL1TV9R4xYlhOjj",
+			"type": "freedraw",
+			"x": 3039.785515616284,
+			"y": 867.5997855054387,
+			"width": 76.51612513309465,
+			"height": 28.19015136482426,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 185782473,
+			"version": 8,
+			"versionNonce": 473176839,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271150200,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.027164480688953,
+					2.0135822403447037
+				],
+				[
+					16.10865792275672,
+					-4.02716448068918
+				],
+				[
+					32.21731584551344,
+					-14.095075682412016
+				],
+				[
+					60.40746721033793,
+					-22.149404643790376
+				],
+				[
+					76.51612513309465,
+					-26.176569124479556
+				],
+				[
+					76.51612513309465,
+					-26.176569124479556
+				]
+			],
+			"pressures": [
+				0,
+				0.4568246006965637,
+				0.5066453218460083,
+				0.5101091265678406,
+				0.43265432119369507,
+				0.15243762731552124,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				76.51612513309465,
+				-26.176569124479556
+			]
+		},
+		{
+			"id": "da2N0xSqBAYC0H-Z26arX",
+			"type": "freedraw",
+			"x": 3132.4102986721355,
+			"y": 823.300976217858,
+			"width": 74.50254289274926,
+			"height": 68.46179617171583,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 990820297,
+			"version": 22,
+			"versionNonce": 140245959,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271150634,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-8.054328961378815,
+					4.02716448068918
+				],
+				[
+					-14.095075682412244,
+					8.05432896137836
+				],
+				[
+					-20.135822403446582,
+					16.10865792275672
+				],
+				[
+					-24.162986884135535,
+					28.19015136482426
+				],
+				[
+					-20.135822403446582,
+					52.35313824895911
+				],
+				[
+					-10.067911201723291,
+					62.42104945068195
+				],
+				[
+					4.027164480688953,
+					68.46179617171583
+				],
+				[
+					18.122240163101196,
+					64.43463169102665
+				],
+				[
+					28.190151364823578,
+					56.38030272964829
+				],
+				[
+					30.203733605168054,
+					30.203733605168736
+				],
+				[
+					26.1765691244791,
+					16.10865792275672
+				],
+				[
+					20.135822403445673,
+					6.040746721033656
+				],
+				[
+					14.095075682411334,
+					2.0135822403444763
+				],
+				[
+					12.081493442066858,
+					4.02716448068918
+				],
+				[
+					16.10865792275581,
+					14.095075682412016
+				],
+				[
+					24.162986884134625,
+					30.203733605168736
+				],
+				[
+					34.230898085857916,
+					48.32597376826993
+				],
+				[
+					46.312391527924774,
+					64.43463169102665
+				],
+				[
+					50.33955600861373,
+					64.43463169102665
+				],
+				[
+					50.33955600861373,
+					64.43463169102665
+				]
+			],
+			"pressures": [
+				0,
+				0.3502708375453949,
+				0.38725870847702026,
+				0.4785381853580475,
+				0.5165178775787354,
+				0.5485923290252686,
+				0.5495689511299133,
+				0.5505607724189758,
+				0.5411917567253113,
+				0.5031967759132385,
+				0.4139009714126587,
+				0.3971312940120697,
+				0.4000915586948395,
+				0.4109407067298889,
+				0.46915388107299805,
+				0.5056686997413635,
+				0.5288471579551697,
+				0.5347676873207092,
+				0.46817731857299805,
+				0.18352025747299194,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				50.33955600861373,
+				64.43463169102665
+			]
+		},
+		{
+			"id": "USB85g-46vc2iLgqtfFdM",
+			"type": "freedraw",
+			"x": 3166.6411967579934,
+			"y": 827.3281406985471,
+			"width": 46.312391527924774,
+			"height": 72.48896065240478,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 709810953,
+			"version": 18,
+			"versionNonce": 1521911815,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271150957,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6.040746721033429,
+					6.040746721033656
+				],
+				[
+					8.054328961377905,
+					8.05432896137836
+				],
+				[
+					16.10865792275581,
+					26.176569124479556
+				],
+				[
+					24.162986884134625,
+					40.27164480689157
+				],
+				[
+					28.190151364823578,
+					50.339556008614636
+				],
+				[
+					30.203733605168054,
+					54.36672048930359
+				],
+				[
+					28.190151364823578,
+					54.36672048930359
+				],
+				[
+					16.10865792275581,
+					40.27164480689157
+				],
+				[
+					8.054328961377905,
+					22.149404643790376
+				],
+				[
+					4.027164480688953,
+					4.02716448068918
+				],
+				[
+					10.067911201722382,
+					-12.08149344206754
+				],
+				[
+					18.122240163101196,
+					-18.122240163101196
+				],
+				[
+					30.203733605168054,
+					-16.10865792275672
+				],
+				[
+					40.271644806891345,
+					-10.067911201722836
+				],
+				[
+					46.312391527924774,
+					-8.05432896137836
+				],
+				[
+					46.312391527924774,
+					-8.05432896137836
+				]
+			],
+			"pressures": [
+				0,
+				0.3487907350063324,
+				0.3502708375453949,
+				0.4627451002597809,
+				0.5056686997413635,
+				0.547600507736206,
+				0.5717707872390747,
+				0.5816434025764465,
+				0.583611786365509,
+				0.5826199650764465,
+				0.5846036672592163,
+				0.5850919485092163,
+				0.5816434025764465,
+				0.5076371431350708,
+				0.3620965778827667,
+				0.036987870931625366,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				46.312391527924774,
+				-8.05432896137836
+			]
+		},
+		{
+			"id": "4Ex3TlgMkGG3HDITlCgao",
+			"type": "freedraw",
+			"x": 3247.184486371776,
+			"y": 815.2466472564796,
+			"width": 50.339556008614636,
+			"height": 106.7198587382627,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1428241097,
+			"version": 17,
+			"versionNonce": 1157579047,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728271151303,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-4.02716448068918
+				],
+				[
+					-6.040746721033429,
+					0
+				],
+				[
+					-12.081493442067767,
+					18.122240163101196
+				],
+				[
+					-12.081493442067767,
+					34.230898085857916
+				],
+				[
+					-6.040746721033429,
+					48.32597376826993
+				],
+				[
+					4.027164480688953,
+					56.38030272964829
+				],
+				[
+					16.10865792275672,
+					56.38030272964829
+				],
+				[
+					26.17656912448001,
+					36.24448032620262
+				],
+				[
+					26.17656912448001,
+					14.095075682412016
+				],
+				[
+					20.135822403445673,
+					-8.05432896137836
+				],
+				[
+					10.067911201723291,
+					-26.176569124479556
+				],
+				[
+					-10.067911201722382,
+					-46.312391527925456
+				],
+				[
+					-18.122240163101196,
+					-50.33955600861441
+				],
+				[
+					-24.162986884134625,
+					-50.33955600861441
+				],
+				[
+					-24.162986884134625,
+					-50.33955600861441
+				]
+			],
+			"pressures": [
+				0,
+				0.529839038848877,
+				0.580651581287384,
+				0.6398565769195557,
+				0.6699473857879639,
+				0.6793164014816284,
+				0.6807965040206909,
+				0.6813000440597534,
+				0.695597767829895,
+				0.7025101184844971,
+				0.7015182971954346,
+				0.7000381350517273,
+				0.6250553131103516,
+				0.5150377750396729,
+				0.3482871651649475,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-24.162986884134625,
+				-50.33955600861441
+			]
+		},
+		{
+			"id": "C3Ld0vVDAGAbLa82Ui7XR",
+			"type": "freedraw",
+			"x": 3155.9437966028927,
+			"y": 515.2206113857349,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1074934503,
+			"version": 3,
+			"versionNonce": 75942377,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728273222401,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "0B890RqWHj5mjXcpKgQjz",
+			"type": "freedraw",
+			"x": 3153.8310327865697,
+			"y": 657.8321689875509,
+			"width": 43.31165823462561,
+			"height": 24.296783887716856,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 176728135,
+			"version": 48,
+			"versionNonce": 1898083305,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1728273224695,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.0563819081617112
+				],
+				[
+					0,
+					-2.112763816323195
+				],
+				[
+					-1.0563819081612564,
+					-5.281909540808101
+				],
+				[
+					-2.1127638163229676,
+					-7.394673357131296
+				],
+				[
+					-2.1127638163229676,
+					-10.563819081615975
+				],
+				[
+					-2.1127638163229676,
+					-11.620200989777686
+				],
+				[
+					-2.1127638163229676,
+					-14.789346714262365
+				],
+				[
+					-2.1127638163229676,
+					-15.845728622424076
+				],
+				[
+					-2.1127638163229676,
+					-16.90211053058556
+				],
+				[
+					-2.1127638163229676,
+					-17.95849243874727
+				],
+				[
+					-1.0563819081612564,
+					-19.014874346908755
+				],
+				[
+					0,
+					-20.071256255070466
+				],
+				[
+					1.0563819081617112,
+					-20.071256255070466
+				],
+				[
+					3.169145724484679,
+					-21.12763816323195
+				],
+				[
+					5.281909540808101,
+					-22.18402007139366
+				],
+				[
+					6.338291448969812,
+					-23.240401979555145
+				],
+				[
+					7.3946733571315235,
+					-23.240401979555145
+				],
+				[
+					9.507437173454491,
+					-24.296783887716856
+				],
+				[
+					11.620200989777459,
+					-24.296783887716856
+				],
+				[
+					13.732964806100881,
+					-24.296783887716856
+				],
+				[
+					14.789346714262592,
+					-24.296783887716856
+				],
+				[
+					16.90211053058556,
+					-24.296783887716856
+				],
+				[
+					20.07125625507024,
+					-24.296783887716856
+				],
+				[
+					22.18402007139366,
+					-23.240401979555145
+				],
+				[
+					23.240401979555372,
+					-23.240401979555145
+				],
+				[
+					24.296783887717083,
+					-23.240401979555145
+				],
+				[
+					26.40954770404005,
+					-22.18402007139366
+				],
+				[
+					26.40954770404005,
+					-21.12763816323195
+				],
+				[
+					28.52231152036302,
+					-21.12763816323195
+				],
+				[
+					31.691457244848152,
+					-19.014874346908755
+				],
+				[
+					33.80422106117112,
+					-17.95849243874727
+				],
+				[
+					35.91698487749409,
+					-16.90211053058556
+				],
+				[
+					35.91698487749409,
+					-15.845728622424076
+				],
+				[
+					36.9733667856558,
+					-14.789346714262365
+				],
+				[
+					39.08613060197922,
+					-13.732964806100881
+				],
+				[
+					39.08613060197922,
+					-11.620200989777686
+				],
+				[
+					40.14251251014093,
+					-10.563819081615975
+				],
+				[
+					40.14251251014093,
+					-9.507437173454491
+				],
+				[
+					41.19889441830264,
+					-9.507437173454491
+				],
+				[
+					41.19889441830264,
+					-8.45105526529278
+				],
+				[
+					41.19889441830264,
+					-7.394673357131296
+				],
+				[
+					41.19889441830264,
+					-6.338291448969585
+				],
+				[
+					41.19889441830264,
+					-5.281909540808101
+				],
+				[
+					41.19889441830264,
+					-3.169145724484906
+				],
+				[
+					41.19889441830264,
+					-2.112763816323195
+				],
+				[
+					41.19889441830264,
+					-2.112763816323195
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				41.19889441830264,
+				-2.112763816323195
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 60,
+			"versionNonce": 2067575785,
 			"isDeleted": true,
 			"id": "fmy6Zm0yZUDDscTJ8OdeT",
 			"fillStyle": "hachure",
@@ -28322,7 +31834,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28384,8 +31896,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 984405321,
+			"version": 70,
+			"versionNonce": 1795660583,
 			"isDeleted": true,
 			"id": "7JhGXEi6_ylIGotPZf-5E",
 			"fillStyle": "hachure",
@@ -28405,7 +31917,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28432,8 +31944,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 858570695,
+			"version": 91,
+			"versionNonce": 1597001417,
 			"isDeleted": true,
 			"id": "39UZgZaq2F4QCQVnzPrQn",
 			"fillStyle": "hachure",
@@ -28453,7 +31965,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28590,8 +32102,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 1926579241,
+			"version": 84,
+			"versionNonce": 634887751,
 			"isDeleted": true,
 			"id": "vIRmhBFCUkUAOYT3OfjgA",
 			"fillStyle": "hachure",
@@ -28611,7 +32123,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28708,8 +32220,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1127165671,
+			"version": 74,
+			"versionNonce": 2074971561,
 			"isDeleted": true,
 			"id": "4hyNMgPhnei43ZtNzMToG",
 			"fillStyle": "hachure",
@@ -28729,7 +32241,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28781,8 +32293,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 83,
-			"versionNonce": 768399113,
+			"version": 84,
+			"versionNonce": 167394663,
 			"isDeleted": true,
 			"id": "p1GM2x1G21VKwOVQSQP5U",
 			"fillStyle": "hachure",
@@ -28802,7 +32314,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28904,8 +32416,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 56015367,
+			"version": 81,
+			"versionNonce": 1474293897,
 			"isDeleted": true,
 			"id": "EXCsmvSwp7RcQCZEVFiLF",
 			"fillStyle": "hachure",
@@ -28925,7 +32437,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29012,8 +32524,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 235867625,
+			"version": 106,
+			"versionNonce": 180091015,
 			"isDeleted": true,
 			"id": "I1yCyf-li5O6vd73h0F1b",
 			"fillStyle": "hachure",
@@ -29033,7 +32545,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29245,8 +32757,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1755308327,
+			"version": 81,
+			"versionNonce": 159577961,
 			"isDeleted": true,
 			"id": "WRGg9huh0_IsPjBARQIMs",
 			"fillStyle": "hachure",
@@ -29266,7 +32778,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29348,8 +32860,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1520920777,
+			"version": 85,
+			"versionNonce": 2111393703,
 			"isDeleted": true,
 			"id": "rwuRkE_E08huy8zAHzacI",
 			"fillStyle": "hachure",
@@ -29369,7 +32881,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29476,8 +32988,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 343352391,
+			"version": 81,
+			"versionNonce": 1658987081,
 			"isDeleted": true,
 			"id": "hI7kYH_AEF74TKITnOFfU",
 			"fillStyle": "hachure",
@@ -29497,7 +33009,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29584,8 +33096,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1831954345,
+			"version": 77,
+			"versionNonce": 1300153031,
 			"isDeleted": true,
 			"id": "BMCOpN-bfgBfvAQF3SUY9",
 			"fillStyle": "hachure",
@@ -29605,7 +33117,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29672,8 +33184,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1186530151,
+			"version": 91,
+			"versionNonce": 1624830249,
 			"isDeleted": true,
 			"id": "pNsYCRbklDu8cOt-sN366",
 			"fillStyle": "hachure",
@@ -29693,7 +33205,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29830,8 +33342,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 1608026761,
+			"version": 71,
+			"versionNonce": 1783157223,
 			"isDeleted": true,
 			"id": "xPVF5B3XAjJUUnVI9kiIP",
 			"fillStyle": "hachure",
@@ -29851,7 +33363,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29888,8 +33400,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 263323271,
+			"version": 73,
+			"versionNonce": 1490215945,
 			"isDeleted": true,
 			"id": "rpUnexeMpqDJsnlPELrWZ",
 			"fillStyle": "hachure",
@@ -29909,7 +33421,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29956,8 +33468,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 2069385577,
+			"version": 76,
+			"versionNonce": 2101607687,
 			"isDeleted": true,
 			"id": "WuPn36wj3X_UWGOGLm2BI",
 			"fillStyle": "hachure",
@@ -29977,7 +33489,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30039,8 +33551,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 1109300647,
+			"version": 245,
+			"versionNonce": 1724611305,
 			"isDeleted": true,
 			"id": "5Tkh7zVxe9QxbLTcxl0V9",
 			"fillStyle": "hachure",
@@ -30060,7 +33572,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30227,8 +33739,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1694252105,
+			"version": 227,
+			"versionNonce": 1508688935,
 			"isDeleted": true,
 			"id": "SSo2PU8DRFpid_Ww8Y6yJ",
 			"fillStyle": "hachure",
@@ -30248,7 +33760,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30340,8 +33852,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 224,
-			"versionNonce": 623593671,
+			"version": 225,
+			"versionNonce": 458110409,
 			"isDeleted": true,
 			"id": "uY6LRJAAAbzjfWVHmi3wX",
 			"fillStyle": "hachure",
@@ -30361,7 +33873,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30448,8 +33960,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 211798825,
+			"version": 217,
+			"versionNonce": 808429383,
 			"isDeleted": true,
 			"id": "aaw6MET3591WZVcCGIVEH",
 			"fillStyle": "hachure",
@@ -30469,7 +33981,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30516,8 +34028,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1718917095,
+			"version": 216,
+			"versionNonce": 1769378985,
 			"isDeleted": true,
 			"id": "j5vD16S7A3L5EVkXsVtqU",
 			"fillStyle": "hachure",
@@ -30537,7 +34049,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30574,8 +34086,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 1521384969,
+			"version": 219,
+			"versionNonce": 2120820327,
 			"isDeleted": true,
 			"id": "0kbpIGZ0pNWOlqvKeacD0",
 			"fillStyle": "hachure",
@@ -30595,7 +34107,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30652,8 +34164,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 1275527943,
+			"version": 217,
+			"versionNonce": 1425020809,
 			"isDeleted": true,
 			"id": "LFXtWNq1vBR9JulpTPnWx",
 			"fillStyle": "hachure",
@@ -30673,7 +34185,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30720,8 +34232,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 505664745,
+			"version": 217,
+			"versionNonce": 1130742151,
 			"isDeleted": true,
 			"id": "8PVFcyAmoGsP1EH0sLkLv",
 			"fillStyle": "hachure",
@@ -30741,7 +34253,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30788,8 +34300,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 214,
-			"versionNonce": 643762727,
+			"version": 215,
+			"versionNonce": 1609973353,
 			"isDeleted": true,
 			"id": "TjgYa8-7AqcmtHgeZEswm",
 			"fillStyle": "hachure",
@@ -30809,7 +34321,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30841,8 +34353,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 982208457,
+			"version": 222,
+			"versionNonce": 1885468839,
 			"isDeleted": true,
 			"id": "HW588PiBl45llY8B5BFNX",
 			"fillStyle": "hachure",
@@ -30862,7 +34374,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30934,8 +34446,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 40447303,
+			"version": 228,
+			"versionNonce": 961841481,
 			"isDeleted": true,
 			"id": "PJQSCPSlOnYnDBjTuxfKK",
 			"fillStyle": "hachure",
@@ -30955,7 +34467,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31057,8 +34569,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 227,
-			"versionNonce": 369127081,
+			"version": 228,
+			"versionNonce": 453659591,
 			"isDeleted": true,
 			"id": "aIwvzUfiRQC5294EvoVpl",
 			"fillStyle": "hachure",
@@ -31078,7 +34590,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31185,8 +34697,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 461499495,
+			"version": 229,
+			"versionNonce": 711358505,
 			"isDeleted": true,
 			"id": "2x5vPAII6BHH8gsl74_q-",
 			"fillStyle": "hachure",
@@ -31206,7 +34718,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31318,8 +34830,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 1194242441,
+			"version": 232,
+			"versionNonce": 1870346983,
 			"isDeleted": true,
 			"id": "OWLEFdoPaumCa-UiuHlwH",
 			"fillStyle": "hachure",
@@ -31339,7 +34851,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31466,8 +34978,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 225822599,
+			"version": 237,
+			"versionNonce": 1159170825,
 			"isDeleted": true,
 			"id": "RE4pg4tedZSJskCGwcIQw",
 			"fillStyle": "hachure",
@@ -31487,7 +34999,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31639,8 +35151,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 55679081,
+			"version": 233,
+			"versionNonce": 1648444935,
 			"isDeleted": true,
 			"id": "Z0JHwulQNhzwCq3QNtdk4",
 			"fillStyle": "hachure",
@@ -31660,7 +35172,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31792,8 +35304,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 217,
-			"versionNonce": 1182875303,
+			"version": 218,
+			"versionNonce": 1373848041,
 			"isDeleted": true,
 			"id": "-qF8L1nQINW9Eq_dl3sfc",
 			"fillStyle": "hachure",
@@ -31813,7 +35325,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31870,8 +35382,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1278518089,
+			"version": 216,
+			"versionNonce": 576253223,
 			"isDeleted": true,
 			"id": "e5pLrKWNwSeyv4HGoTM1r",
 			"fillStyle": "hachure",
@@ -31891,7 +35403,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31938,8 +35450,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 961597895,
+			"version": 217,
+			"versionNonce": 2111118537,
 			"isDeleted": true,
 			"id": "B0LlBW_p_9xdckpunuzj4",
 			"fillStyle": "hachure",
@@ -31959,7 +35471,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32011,8 +35523,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 215,
-			"versionNonce": 1580421673,
+			"version": 216,
+			"versionNonce": 1261350983,
 			"isDeleted": true,
 			"id": "GA7kwRgZ9m4W77nHWvehs",
 			"fillStyle": "hachure",
@@ -32032,7 +35544,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32074,8 +35586,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1325465831,
+			"version": 221,
+			"versionNonce": 1216912297,
 			"isDeleted": true,
 			"id": "wW9LlhUuWo2N25xuhRsE6",
 			"fillStyle": "hachure",
@@ -32095,7 +35607,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32167,8 +35679,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1580803337,
+			"version": 227,
+			"versionNonce": 1453264743,
 			"isDeleted": true,
 			"id": "QcDmIFO0OM83RKih_9_Hl",
 			"fillStyle": "hachure",
@@ -32188,7 +35700,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32290,8 +35802,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 421415943,
+			"version": 224,
+			"versionNonce": 841563785,
 			"isDeleted": true,
 			"id": "XS5zY-UsjWG230i52_GOY",
 			"fillStyle": "hachure",
@@ -32311,7 +35823,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32398,8 +35910,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 1203870697,
+			"version": 227,
+			"versionNonce": 1324780167,
 			"isDeleted": true,
 			"id": "qp-fA9ljng0p0_jb1U8t3",
 			"fillStyle": "hachure",
@@ -32419,7 +35931,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32521,8 +36033,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1134900007,
+			"version": 229,
+			"versionNonce": 695371113,
 			"isDeleted": true,
 			"id": "wa_UHfSpuIy5id8QLj6oT",
 			"fillStyle": "hachure",
@@ -32542,7 +36054,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32654,8 +36166,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 225,
-			"versionNonce": 450377417,
+			"version": 226,
+			"versionNonce": 1089577383,
 			"isDeleted": true,
 			"id": "6FF9yGal0YMw3Yre-c04K",
 			"fillStyle": "hachure",
@@ -32675,7 +36187,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32772,8 +36284,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 234,
-			"versionNonce": 1191327303,
+			"version": 235,
+			"versionNonce": 967831625,
 			"isDeleted": true,
 			"id": "lAoEZDvkgSAwPOBip5raR",
 			"fillStyle": "hachure",
@@ -32793,7 +36305,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139672,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32935,8 +36447,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 228,
-			"versionNonce": 1243116969,
+			"version": 229,
+			"versionNonce": 1841091783,
 			"isDeleted": true,
 			"id": "R8MPt6fQKunmbQqge9PVe",
 			"fillStyle": "hachure",
@@ -32956,7 +36468,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33068,8 +36580,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 220,
-			"versionNonce": 1511118183,
+			"version": 221,
+			"versionNonce": 2025652009,
 			"isDeleted": true,
 			"id": "-uN0YUHI9jJDEM08gbSfB",
 			"fillStyle": "hachure",
@@ -33089,7 +36601,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33161,8 +36673,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1756223625,
+			"version": 124,
+			"versionNonce": 1022665703,
 			"isDeleted": true,
 			"id": "MLE2c_DVN2-zbTo0xcSzg",
 			"fillStyle": "hachure",
@@ -33182,7 +36694,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33469,8 +36981,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 606113927,
+			"version": 72,
+			"versionNonce": 889532937,
 			"isDeleted": true,
 			"id": "AJtEL04mstCUzSq9Wid-5",
 			"fillStyle": "hachure",
@@ -33490,7 +37002,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33537,8 +37049,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 408149865,
+			"version": 96,
+			"versionNonce": 1856343815,
 			"isDeleted": true,
 			"id": "I4v7cmwA7BWRqCrCVuTQK",
 			"fillStyle": "hachure",
@@ -33558,7 +37070,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33725,8 +37237,8 @@ how do they all interact???? ^lKTZc1rv
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 787146663,
+			"version": 73,
+			"versionNonce": 1669597417,
 			"isDeleted": true,
 			"id": "6zzGTOlWY9xnfHsb-FUhV",
 			"fillStyle": "hachure",
@@ -33746,7 +37258,7 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33815,11 +37327,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 535504137,
-			"version": 27,
-			"versionNonce": 928385609,
+			"version": 28,
+			"versionNonce": 223090215,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33896,11 +37408,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1512423977,
-			"version": 48,
-			"versionNonce": 412965575,
+			"version": 49,
+			"versionNonce": 1304757193,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34082,11 +37594,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 232708103,
-			"version": 22,
-			"versionNonce": 1318050089,
+			"version": 23,
+			"versionNonce": 534034759,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34143,11 +37655,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1424861831,
-			"version": 22,
-			"versionNonce": 97806823,
+			"version": 23,
+			"versionNonce": 2145624745,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34209,11 +37721,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 126002281,
-			"version": 39,
-			"versionNonce": 1064094729,
+			"version": 40,
+			"versionNonce": 463206503,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34344,11 +37856,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1878932297,
-			"version": 47,
-			"versionNonce": 1402770695,
+			"version": 48,
+			"versionNonce": 1988846985,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34511,11 +38023,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1860262153,
-			"version": 52,
-			"versionNonce": 837313257,
+			"version": 53,
+			"versionNonce": 376329095,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34702,11 +38214,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 892967945,
-			"version": 24,
-			"versionNonce": 158489639,
+			"version": 25,
+			"versionNonce": 217566313,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34785,11 +38297,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 493763945,
-			"version": 23,
-			"versionNonce": 1116609993,
+			"version": 24,
+			"versionNonce": 948456103,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34868,11 +38380,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 2072945353,
-			"version": 28,
-			"versionNonce": 188890951,
+			"version": 29,
+			"versionNonce": 720656201,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34971,11 +38483,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1888804393,
-			"version": 17,
-			"versionNonce": 1887009961,
+			"version": 18,
+			"versionNonce": 1855348167,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35047,11 +38559,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 200333321,
-			"version": 26,
-			"versionNonce": 191413863,
+			"version": 27,
+			"versionNonce": 853313065,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35173,11 +38685,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 997070505,
-			"version": 27,
-			"versionNonce": 1263927177,
+			"version": 28,
+			"versionNonce": 1538591975,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35309,11 +38821,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1156812103,
-			"version": 9,
-			"versionNonce": 1018321287,
+			"version": 10,
+			"versionNonce": 798742793,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -35342,11 +38854,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 866857415,
-			"version": 18,
-			"versionNonce": 1633625705,
+			"version": 19,
+			"versionNonce": 191944711,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35425,11 +38937,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1087621223,
-			"version": 80,
-			"versionNonce": 1146851495,
+			"version": 81,
+			"versionNonce": 1118687209,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939793,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35836,11 +39348,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1019821959,
-			"version": 5,
-			"versionNonce": 1813046215,
+			"version": 6,
+			"versionNonce": 1377692361,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270939794,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -35873,11 +39385,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 539860391,
-			"version": 2,
-			"versionNonce": 2143052969,
+			"version": 3,
+			"versionNonce": 1461830215,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270930368,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"text": "There are so many polar bonds and different charges,",
@@ -35910,11 +39422,11 @@ how do they all interact???? ^lKTZc1rv
 			"frameId": null,
 			"roundness": null,
 			"seed": 1107027849,
-			"version": 2,
-			"versionNonce": 1281097511,
+			"version": 3,
+			"versionNonce": 1988602281,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1728270931370,
+			"updated": 1728271139673,
 			"link": null,
 			"locked": false,
 			"text": "There are so many polar bonds and different charges,",
@@ -35927,6 +39439,317 @@ how do they all interact???? ^lKTZc1rv
 			"containerId": null,
 			"originalText": "There are so many polar bonds and different charges,",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "sMJ_G2TG0NL2082ZKK97u",
+			"type": "freedraw",
+			"x": 2391.412034225329,
+			"y": 561.5352849730624,
+			"width": 235.589122120316,
+			"height": 126.8556811417086,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 139610185,
+			"version": 57,
+			"versionNonce": 689343625,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1728271139673,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-8.05432896137836
+				],
+				[
+					-2.013582240344931,
+					-8.05432896137836
+				],
+				[
+					2.0135822403444763,
+					0
+				],
+				[
+					12.081493442067313,
+					24.162986884134853
+				],
+				[
+					26.1765691244791,
+					52.35313824895911
+				],
+				[
+					36.24448032620239,
+					92.62478305585068
+				],
+				[
+					40.271644806891345,
+					102.69269425757352
+				],
+				[
+					42.28522704723582,
+					112.76060545929658
+				],
+				[
+					42.28522704723582,
+					110.74702321895188
+				],
+				[
+					42.28522704723582,
+					96.65194753653986
+				],
+				[
+					42.28522704723582,
+					66.44821393137113
+				],
+				[
+					44.2988092875803,
+					60.407467210337245
+				],
+				[
+					48.325973768269705,
+					58.39388496999277
+				],
+				[
+					56.380302729648065,
+					64.43463169102642
+				],
+				[
+					68.46179617171583,
+					82.55687185412785
+				],
+				[
+					76.51612513309374,
+					90.61120081550598
+				],
+				[
+					80.54328961378314,
+					94.63836529619516
+				],
+				[
+					86.58403633481703,
+					92.62478305585068
+				],
+				[
+					100.67911201722882,
+					86.58403633481703
+				],
+				[
+					110.74702321895165,
+					82.55687185412785
+				],
+				[
+					118.80135218033001,
+					80.54328961378314
+				],
+				[
+					124.8420989013639,
+					78.52970737343867
+				],
+				[
+					128.86926338205285,
+					72.48896065240478
+				],
+				[
+					130.88284562239733,
+					62.42104945068195
+				],
+				[
+					124.8420989013639,
+					56.38030272964829
+				],
+				[
+					114.7741876996406,
+					56.38030272964829
+				],
+				[
+					100.67911201722882,
+					62.42104945068195
+				],
+				[
+					96.65194753653941,
+					72.48896065240478
+				],
+				[
+					98.66552977688434,
+					86.58403633481703
+				],
+				[
+					110.74702321895165,
+					98.66552977688434
+				],
+				[
+					124.8420989013639,
+					106.7198587382627
+				],
+				[
+					138.93717458377614,
+					106.7198587382627
+				],
+				[
+					151.01866802584345,
+					96.65194753653986
+				],
+				[
+					151.01866802584345,
+					82.55687185412785
+				],
+				[
+					149.00508578549852,
+					64.43463169102642
+				],
+				[
+					144.97792130480957,
+					48.32597376826993
+				],
+				[
+					142.9643390644651,
+					40.27164480689157
+				],
+				[
+					142.9643390644651,
+					36.24448032620239
+				],
+				[
+					149.00508578549852,
+					42.28522704723605
+				],
+				[
+					163.10016146791077,
+					70.47537841206031
+				],
+				[
+					175.18165490997853,
+					92.62478305585068
+				],
+				[
+					183.23598387135644,
+					108.7334409786074
+				],
+				[
+					187.26314835204585,
+					118.80135218033024
+				],
+				[
+					189.27673059239078,
+					110.74702321895188
+				],
+				[
+					185.24956611170137,
+					90.61120081550598
+				],
+				[
+					181.22240163101196,
+					70.47537841206031
+				],
+				[
+					181.22240163101196,
+					58.39388496999277
+				],
+				[
+					187.26314835204585,
+					58.39388496999277
+				],
+				[
+					201.35822403445763,
+					72.48896065240478
+				],
+				[
+					213.4397174765254,
+					88.5976185751615
+				],
+				[
+					225.52121091859317,
+					102.69269425757352
+				],
+				[
+					231.5619576396266,
+					110.74702321895188
+				],
+				[
+					233.57553987997107,
+					110.74702321895188
+				],
+				[
+					233.57553987997107,
+					110.74702321895188
+				]
+			],
+			"pressures": [
+				0,
+				0.3325093388557434,
+				0.35913634300231934,
+				0.47162583470344543,
+				0.5002365112304688,
+				0.5155260562896729,
+				0.5273670554161072,
+				0.5278705954551697,
+				0.5263904929161072,
+				0.5288471579551697,
+				0.5352712273597717,
+				0.5352712273597717,
+				0.5332875847816467,
+				0.529839038848877,
+				0.5411917567253113,
+				0.5436484217643738,
+				0.537239670753479,
+				0.4888990521430969,
+				0.45583274960517883,
+				0.45435264706611633,
+				0.4563363194465637,
+				0.4578164219856262,
+				0.4632333815097809,
+				0.4740978181362152,
+				0.4928358793258667,
+				0.5101091265678406,
+				0.5150377750396729,
+				0.5456321239471436,
+				0.5564812421798706,
+				0.5678339600563049,
+				0.5742427706718445,
+				0.572762668132782,
+				0.5550011396408081,
+				0.43413442373275757,
+				0.30734720826148987,
+				0.11494620889425278,
+				0.14996567368507385,
+				0.269855797290802,
+				0.3334859311580658,
+				0.45534446835517883,
+				0.5209582448005676,
+				0.5545128583908081,
+				0.5693141222000122,
+				0.5668421387672424,
+				0.5387197732925415,
+				0.5229266881942749,
+				0.5209582448005676,
+				0.5209582448005676,
+				0.547600507736206,
+				0.5569695830345154,
+				0.5633935928344727,
+				0.5633935928344727,
+				0.5283588767051697,
+				0.3196765184402466,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				233.57553987997107,
+				110.74702321895188
+			]
 		}
 	],
 	"appState": {
@@ -35944,10 +39767,10 @@ how do they all interact???? ^lKTZc1rv
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2613.796189611109,
-		"scrollY": 2130.6907877317344,
+		"scrollX": -1261.3559543848037,
+		"scrollY": 244.7880814954192,
 		"zoom": {
-			"value": 0.19662734402587462
+			"value": 0.6966273440258747
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

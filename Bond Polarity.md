@@ -23,5 +23,7 @@ tags:
 ![[Polyatomic Symmetrical| 5000]] 
 
 ### Asymmetrical 
+![[Polyatomic Asymmetrical | 10000]]
 
-
+### Symmetrical vs Non Symmetrical
+![[Polyatomic Polar vs Non Polar | 10000]]
