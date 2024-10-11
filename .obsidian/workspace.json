@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core charge.md",
+                "file": "Periodicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core charge.md",
+                "file": "Periodicity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core charge.md"
+                "file": "Periodicity.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Core charge.md"
+                "file": "Periodicity.md"
               }
             }
           },
@@ -241,11 +241,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae1de48b662148a2",
+  "floating": {
+    "id": "d38c97e2bbc376a0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "48fd59e66c22f711",
+        "type": "window",
+        "children": [
+          {
+            "id": "fd4496d5a57fe7f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1de5e34c506f5ae",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Core charge Calcualtions.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 5710,
+        "y": 41,
+        "width": 933,
+        "height": 1022,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4d0040820ecafedc",
   "lastOpenFiles": [
-    "Excalidraw/core charge.md",
-    "Core charge.md",
+    "Excalidraw/Core charge Calcualtions.md",
     "Periodicity.md",
+    "Core charge.md",
+    "Excalidraw/core charge.md",
     "Ionisation Energy.md",
     "Successive Ionisation.md",
     "Electronegativity.md",
@@ -273,7 +309,6 @@
     "Pasted Image 20241007121041_734.png",
     "Pasted Image 20241007113731_436.png",
     "Pasted image 20241007113703.png",
-    "Wishlist.md",
     "Chemistry IA4 Canvas.canvas",
     "Pasted Image 20240929075606_090.png",
     "Pasted image 20240929075235.png",

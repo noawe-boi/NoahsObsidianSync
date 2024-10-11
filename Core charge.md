@@ -8,3 +8,7 @@ A measure of the reduction in attractive force between the valence electrons of 
 
 i.e. $F_{nucleus \rightarrow electrons} - F_{inner \space electorns \rightarrow outer \space electrons}$
 ![[Excalidraw/core charge]]
+
+## Calculating core charge
+$n_{protons} - n_{inner \space shell \space electrons}$
+![[Core charge Calcualtions]]
