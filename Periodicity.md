@@ -21,7 +21,7 @@ Due to types of bonds and structures formed by elements
 
 
 
-### Electronic configuration and atomic radii
+### Atomic radii
 #### Trend
 -  **period $\rightarrow$ smaller atomic radii**
 - *down group $\rightarrow$ bigger atomic radii*
@@ -29,9 +29,11 @@ Due to types of bonds and structures formed by elements
 - **Core charge increases, electron shells the same**
 	- **Valence electrons more attracted to nucleus**
 
-- *Core charge constant, number of electrons shells decreasing*
+- *Core charge constant, number of electrons shells increasing
 	- *Valence electrons less attracted to nucleus*
 
+
+### Electronic configuration
 ### First [[Ionisation Energy]] and [[Electronegativity]]
 
 
