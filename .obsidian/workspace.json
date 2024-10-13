@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2ea70ac987f6570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ionisation Energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "25afd97a302d7e7b",
             "type": "leaf",
             "state": {
@@ -77,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodicity.md",
+                "file": "Electronegativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Periodicity.md",
+                "file": "Electronegativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Periodicity.md"
+                "file": "Electronegativity.md"
               }
             }
           },
@@ -207,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Periodicity.md"
+                "file": "Electronegativity.md"
               }
             }
           },
@@ -241,15 +228,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d0040820ecafedc",
+  "active": "25afd97a302d7e7b",
   "lastOpenFiles": [
-    "Core charge.md",
-    "Periodicity.md",
-    "Excalidraw/Core charge Calcualtions.md",
-    "Excalidraw/core charge.md",
+    "Properties of Periodic Groups.md",
     "Ionisation Energy.md",
     "Successive Ionisation.md",
     "Electronegativity.md",
+    "Periodicity.md",
+    "Core charge.md",
+    "Excalidraw/Core charge Calcualtions.md",
+    "Excalidraw/core charge.md",
     "Ionic substance.md",
     "Huygens Principle.md",
     "io.md",
@@ -268,7 +256,6 @@
     "Bond Polarity.md",
     "Excalidraw/Polyatomic Polar vs Non Polar.md",
     "Excalidraw/Electronegativity.md",
-    "Excalidraw/Electronegativity Table.md",
     "Pasted Image 20241007131438_347.png",
     "Pasted Image 20241007121312_760.png",
     "Pasted Image 20241007121041_734.png",

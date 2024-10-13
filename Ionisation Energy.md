@@ -21,7 +21,7 @@ Remember, it takes energy to remove electrons
 
 
 
-## Trends/Factors effecting magnitude of ionisation
+## Trends/Factors effecting magnitude of ionisation energy
 - Higher atomic number $\rightarrow$ higher ionisation energy $\because$ more protons
 - Smaller atomic radius $\rightarrow$ Lower ionisation energy $\because$ Futher apart $\implies$ less force
 - Within the same shell $\rightarrow$ increases ionisation energy $\because$ atom becomes more positively charged

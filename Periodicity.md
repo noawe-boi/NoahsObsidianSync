@@ -13,7 +13,7 @@ The trends we see across the periodic table
 #### Trend
 - Across a period, to the right, elements generally more from a solid to a gaseous state
 #### Why?
-Due to types of bonds and structures formed by elements
+ - Due to types of bonds and structures formed by elements (strong, (solid) lattice structures or weak structres that are easily broken and cause a state change to either a liquid or a gas)
 
 ### [[Core charge]]
 #### Trend
@@ -23,7 +23,7 @@ Due to types of bonds and structures formed by elements
 
 ### Atomic radii
 #### Trend
--  **period $\rightarrow$ smaller atomic radii**
+- **right across period $\rightarrow$ smaller atomic radii**
 - *down group $\rightarrow$ bigger atomic radii*
 #### Why?
 - **Core charge increases, electron shells the same**
@@ -34,6 +34,8 @@ Due to types of bonds and structures formed by elements
 
 
 ### Electronic configuration
+
+
 ### First [[Ionisation Energy]] and [[Electronegativity]]
 
 
