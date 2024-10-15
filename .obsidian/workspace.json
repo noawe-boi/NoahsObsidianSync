@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "6f299f7712e73911",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chem Ions Diagram 1.md"
+              }
+            }
+          },
+          {
             "id": "282ae3ea99d7de04",
             "type": "leaf",
             "state": {
@@ -254,13 +264,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,9 +286,12 @@
   },
   "active": "e79fcd187a9202ac",
   "lastOpenFiles": [
-    "Excalidraw/Gas Laws.md",
-    "Gas Laws.md",
     "Periodicity.md",
+    "Gas Laws.md",
+    "Excalidraw/Chem Ions Diagram 1.md",
+    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
+    "pH.md",
+    "Excalidraw/Gas Laws.md",
     "Electronegativity.md",
     "Successive Ionisation.md",
     "Pasted image 20241013125948.png",
@@ -305,9 +316,6 @@
     "Excalidraw/Polyatomic Asymmetrical.md",
     "Excalidraw/Polyatomic Symmetrical.md",
     "Excalidraw/Predicting electronegativity covalent.md",
-    "Outer Molecular Forces.md",
-    "Dipole Dipole Forces.md",
-    "Excalidraw/Dipole Dipole Forces Diagram.md",
     "Pasted Image 20241007131438_347.png",
     "Pasted Image 20241007121312_760.png",
     "Pasted Image 20241007121041_734.png",

@@ -3,4 +3,8 @@ tags:
   - chem
   - notes
 ---
-![[Excalidraw/Gas Laws]]
+
+
+
+
+![[Excalidraw/Gas Laws | 10000]]
