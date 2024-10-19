@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outer Molecular Forces.md",
+                "file": "Shapes of Simple Molecules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outer Molecular Forces"
+              "title": "Shapes of Simple Molecules"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outer Molecular Forces.md",
+                "file": "Shapes of Simple Molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Outer Molecular Forces"
+              "title": "Backlinks for Shapes of Simple Molecules"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outer Molecular Forces.md",
+                "file": "Shapes of Simple Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Outer Molecular Forces"
+              "title": "Outgoing links from Shapes of Simple Molecules"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outer Molecular Forces.md"
+                "file": "Shapes of Simple Molecules.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Outer Molecular Forces"
+              "title": "Outline of Shapes of Simple Molecules"
             }
           },
           {
@@ -222,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Outer Molecular Forces.md"
+                "file": "Shapes of Simple Molecules.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Outer Molecular Forces"
+              "title": "File properties for Shapes of Simple Molecules"
             }
           },
           {
@@ -260,12 +260,13 @@
   },
   "active": "dbaede8a12bc3cf7",
   "lastOpenFiles": [
+    "Outer Molecular Forces.md",
+    "Shapes of Simple Molecules.md",
     "Dispersion Forces.md",
     "Pasted image 20241019145830.png",
     "Pasted image 20241019145114.png",
     "Dipole Dipole Forces.md",
     "Excalidraw/Hyrdogen bonding wojack.md",
-    "Outer Molecular Forces.md",
     "Hydrogen Bonds.md",
     "Pasted Image 20241019144121_644.png",
     "Pasted Image 20241019143834_626.png",
