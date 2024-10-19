@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1baf22555ca3ee64",
+        "id": "551974b4cb205417",
         "type": "tabs",
         "children": [
           {
-            "id": "dbaede8a12bc3cf7",
+            "id": "59fb230178d16cc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shapes of Simple Molecules.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Shapes of Simple Molecules"
-            }
-          },
-          {
-            "id": "dc7aa042e3ffac9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hydrogen Bonds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydrogen Bonds"
-            }
-          },
-          {
-            "id": "259d78b286dd6846",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Hydrogen bonds in water.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Hydrogen bonds in water"
-            }
-          },
-          {
-            "id": "a258b8f24c70bbd9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-19 15.35.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-19 15.35.08.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electrons",
-                "matchingCase": false,
+                "query": "#chem",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -112,13 +69,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -134,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Hydrogen bonds in water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hydrogen bonds in water"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-19 16.35.06.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-10-19 16.35.06.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -222,7 +174,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -242,57 +195,63 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "259d78b286dd6846",
+  "active": "59fb230178d16cc3",
   "lastOpenFiles": [
-    "Hydrogen Bonds.md",
-    "Excalidraw/Hydrogen bonds in water.md",
-    "Pasted Image 20241019164111_483.png",
-    "Pasted Image 20241019163911_478.png",
-    "Pasted Image 20241019163856_477.png",
-    "Shapes of Simple Molecules.md",
-    "Excalidraw/Drawing 2024-10-19 15.35.08.excalidraw.md",
-    "Pasted Image 20241019154120_392.png",
-    "Excalidraw/Scripts/Downloaded/Text Arch.svg",
-    "Excalidraw/Scripts/Downloaded/Text Arch.md",
-    "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
-    "Excalidraw/Scripts/Downloaded/Split text by lines.md",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded/Select Elements of Type.svg",
-    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Outer Molecular Forces.md",
-    "Dispersion Forces.md",
-    "Pasted image 20241019145830.png",
-    "Dipole Dipole Forces.md",
-    "Excalidraw/Hyrdogen bonding wojack.md",
-    "Excalidraw/Dipole Dipole Forces Diagram.md",
-    "forces.md",
-    "Excalidraw/core charge.md",
-    "Core charge.md",
-    "Successive Ionisation.md",
-    "Ionisation Energy.md",
-    "Electronegativity.md",
-    "Excalidraw/Gas Laws.md",
-    "Excalidraw/Chem Ions Diagram 1.md",
-    "Gas Laws.md",
-    "Periodicity.md",
-    "Chemistry 17.1 The Arrhenius Model of the Atom.md",
-    "Chemistry IA4 Canvas.canvas",
-    "Year 11 Chemistry IA4 Canvas.canvas",
-    "ChemistryResearchTask.ods",
-    "Recording 20240801095235.webm",
-    "Recording 20240801095154.webm",
-    "risk assessment.pdf",
-    "gitkey.pub",
-    "gitkey",
-    "Maths assignment solution .pdf",
-    "Calculated max distance .pdf",
-    "Physics 9.1 Describing a wave.canvas",
+    "Specialist Maths/Year 11/Exam Prep/Specialist Maths IA3 Exam Revision.md",
+    "Specialist Maths/Year 11/Exam Prep/Specialist Maths FA4 Exam Revision.sync-conflict-20241007-112630-UKTOTG6.md",
+    "Specialist Maths/Year 11/Exam Prep/Specialist Maths FA4 Exam Revision.md",
+    "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
+    "Specialist Maths/Year 11/Assignments",
+    "Specialist Maths/Year 11/Untitled Folder",
+    "Specialist Maths/Year 11/Year 11 Specialist Maths Weak Areas.md",
+    "Specialist Maths/Year 11/whatevs.md",
+    "Specialist Maths/Year 11/Specialist Maths IA3 Exam Revision.md",
+    "Specialist Maths/Year 11/Specialist Maths FA4 Exam Revision.sync-conflict-20241007-112630-UKTOTG6.md",
+    "Specialist Maths/Year 11/Specialist Maths FA4 Exam Revision.md",
+    "Specialist Maths/Year 11/Maths assignment solution .pdf",
+    "Physics/Year 11/Notes/Work function.md",
+    "Physics/Year 11/Notes/Work.md",
+    "Physics/Year 11/Notes/Weight.md",
+    "Physics/Year 11/Notes/Waves.md",
+    "Physics/Year 11/Notes/Wavefronts and Waves.md",
+    "Physics/Year 11/Notes/Types of Waves.md",
+    "Physics/Year 11/Notes/Transverse Waves.md",
+    "Physics/Year 11/Notes/Torsional Waves.md",
+    "Physics/Year 11/Notes/Threshold Frequency.md",
+    "Physics/Year 11/Notes/The Universe..md",
+    "Physics/Year 11/Notes/The Specific Heat of Zinc.md",
+    "Physics/Year 11/Notes/Thermal Equilibrium.md",
+    "Physics/Year 11/Notes/The Photoelectric Effect.md",
+    "Physics/Year 11/Notes/The Law Of Conservation of Energy.md",
+    "Physics/Year 11/Notes/The Kinetic Particle Model (Kinetic Theory).md",
+    "Physics/Year 11/Notes/The Atomic Model.md",
+    "Physics/Year 11/Notes/surface area.md",
+    "Physics/Year 11/Notes/Stopping Potential.md",
+    "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
+    "Physics/Year 11/Assignments",
+    "Physics/Year 11/Untitled Folder",
+    "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
+    "Maths Methods/Year 11/Assignments",
+    "Maths Methods/Year 11/Assignemnts",
+    "Maths Methods/Year 11/Untitled Folder",
+    "English/Year 11/Exams - Assignments",
+    "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
+    "Chemistry/Year 11/Assignments/Chemistry IA4 Canvas.canvas",
+    "Chemistry/Year 11/Year 11 Chemistry IA4 Canvas.canvas",
+    "Chemistry/Year 11/Chemistry IA4 Canvas.canvas",
+    "Images/20240830_03h39m20s_grim.png",
+    "Images/20240831_04h40m08s_grim.png",
+    "Images/20240830_03h42m06s_grim.png",
+    "Images/20240830_03h42m06s_grim 1.png",
+    "Images/Pasted Image 20231114122224_732.png",
+    "Images/Pasted image 20240907150040.png",
+    "Images/Pasted image 20240910190929.png",
+    "Images/Pasted image 20240910190937.png",
+    "Chemistry/Year 11 Chemistry IA4 Canvas.canvas",
+    "Physics/Physics 9.1 Describing a wave.canvas",
+    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Images/Pasted Image 20240929075606_090.png",
+    "Images/Pasted Image 20241007113731_436.png"
   ]
 }

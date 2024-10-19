@@ -25,5 +25,6 @@
     "downscalePercent": 85
   },
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }
