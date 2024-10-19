@@ -14,3 +14,13 @@ Like a special dipole-dipole force that is about 10 times stronger than the aver
 
 ![[Hyrdogen bonding wojack | 1000]]
 
+
+# In Water and Ice
+### Density of Ice and Water
+*Ice floats on water??*
+
+   *I thought solids were more dense than liquids!?!?!*
+
+Inter molecular forces of $H_2O$ influence its properties
+
+
