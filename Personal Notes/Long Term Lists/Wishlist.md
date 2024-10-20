@@ -10,6 +10,7 @@
 
 #### Phones
 - Unifone CAT S22 Rugged Flip Phone
+- Unihertz Titan Pocket
 - E Ink Phone 
 	- Boox Palma
 	- Bigme HiBreak
@@ -18,4 +19,4 @@
 
 
 ## Stationary
-- Uni Kuru Toga with lead sleeve (0.3mm)
+- Ohto MS01 0.3mm drafting mechanical pencil
