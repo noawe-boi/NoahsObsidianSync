@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "fd92663dd6c2a593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 11/Notes/Solubility Rules 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solubility Rules 1"
+            }
+          },
+          {
             "id": "eb4572a8b1d4d26e",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Year 11/Notes/Ionic Equations.md"
+                "file": "Chemistry/Year 11/Notes/Solubility Rules 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ionic Equations"
+              "title": "Outline of Solubility Rules 1"
             }
           },
           {
@@ -231,11 +245,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40456202c843ff17",
+  "active": "fd92663dd6c2a593",
   "lastOpenFiles": [
-    "Chemistry/Year 11/Notes/Net ionic equations.md",
-    "Pasted image 20241020141203.png",
+    "Images/Pasted image 20241020144245.png",
     "Chemistry/Year 11/Notes/Ionic Equations.md",
+    "Chemistry/Year 11/Notes/Solubility Rules 1.md",
+    "Chemistry/Year 11/Notes/Net ionic equations.md",
+    "Images/Pasted image 20241020141203.png",
     "Chemistry/Year 11/Notes/Ionic substance.md",
     "Chemistry/Year 11/Notes/Spectator Ions.md",
     "Personal Notes/Long Term Lists/Wishlist.md",
@@ -266,7 +282,6 @@
     "Physics/Year 11/Notes/Waves.md",
     "Physics/Year 11/Notes/Wavefronts and Waves.md",
     "Physics/Year 11/Notes/Types of Waves.md",
-    "Physics/Year 11/Notes/Transverse Waves.md",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Assignments",
     "Physics/Year 11/Untitled Folder",

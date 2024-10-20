@@ -13,4 +13,4 @@ tags:
 #### ![[Ion]] 
 
 ### Solubility Rules
-![[Solubility Rules]]
+![[Chemistry/Year 11/Notes/Solubility Rules]]
