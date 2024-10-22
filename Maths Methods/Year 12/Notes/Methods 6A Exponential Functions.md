@@ -7,7 +7,7 @@ tags:
 For $y=x^x$
 Asymptote at $y=0$ 
 $y$ int at $y=1$ 
-'Multiply by a' as x increases
+'Multiply by a' as $x$ increases
 e.g. 
 ![[Methods 6A exmaple 1]]
 
