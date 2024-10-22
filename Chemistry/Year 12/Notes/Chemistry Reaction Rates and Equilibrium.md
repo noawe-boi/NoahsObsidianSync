@@ -26,3 +26,7 @@ Equilibrium reactions often occur in the human body, atmosphere and hydrosphere
 *These industries want the most yield possible* (without destroying material)
 Could they use collision theory to generate more yield?
 
+
+
+![[Arrhenius Law]]
+
