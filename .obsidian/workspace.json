@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0494bcfcd536db",
+        "id": "050b01f2e208f53b",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc56e12237b8bd5",
+            "id": "eaf2a67d1954a5a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,8 +196,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72e8fdd2224cdc75",
+  "active": "eaf2a67d1954a5a8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Specialist Vector Midpoints.md",
+    "Personal Notes/Handwriting Practice Bigger Noto Sans Mono.odt",
+    "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
+    "Maths Methods/Year 12/Notes",
+    "Maths Methods/Year 12",
+    "Excalidraw/methods expoentjails example 3.md",
+    "Excalidraw/Spesh vector midpoints example.md",
+    "Excalidraw/Methods exponentials example 5.md",
+    "Excalidraw/Drawing 2024-10-22 16.43.35.excalidraw.md",
     "Excalidraw/Equalibrum example 1.md",
     "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
     "Excalidraw/Crap chem rate of reaction digram.md",
@@ -221,17 +231,10 @@
     "Chemistry/Year 11/Notes/Hydrogen Bonds.md",
     "Chemistry/Year 11/Notes/Ionisation Energy.md",
     "Chemistry/Year 11/Notes/Ionic Bonding.md",
-    "Excalidraw/Methods 6A exmaple 1.md",
     "Images/Pasted image 20241021183319.png",
     "Images/Pasted image 20241021183329.png",
     "Images/Pasted image 20241021183309.png",
-    "Chemistry/Year 11/Notes/Ionic Compounds.md",
-    "Chemistry/Year 11/Notes/Covalent Bonding.md",
-    "Excalidraw/Ionic Compounds Example.md",
     "Images/Pasted Image 20241021182754_861.png",
-    "Excalidraw/Covalent bonding diaGRAM.md",
-    "Chemistry/Year 11/Notes/Valency.md",
-    "Excalidraw/Ionic Compo Example.md",
     "Images/Pasted image 20241020144245.png",
     "Images/Pasted image 20241020141203.png",
     "Images/Pasted image 20241020140554.png",
@@ -241,10 +244,7 @@
     "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
     "Specialist Maths/Year 11/Assignments",
     "Specialist Maths/Year 11/Untitled Folder",
-    "Specialist Maths/Year 11/Maths assignment solution .pdf",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
-    "Physics/Year 11/Assignments",
-    "Physics/Year 11/Untitled Folder",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
     "Chemistry/Year 11/Assignments/Chemistry IA4 Canvas.canvas",
