@@ -18,4 +18,4 @@ tags:
 - $764000 = 7.64 \times 10^5$
 - $0.000062 = 6.2 \times 10^-5$
 - $400000m$ (3 significant digits) $= 4.00 \times 10^5 m = 4.00 \times 10^2 km$
-- [[Physics Scientific Notation Example 4]]
+- ![[Physics Scientific Notation Example 4]]

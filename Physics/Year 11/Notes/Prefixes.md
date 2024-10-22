@@ -2,6 +2,8 @@
 Descriptor that comes before unit 
 e.g. KILO-grams
 
+**You don't need to memorize them they are in your formula sheet**
+
 ## Common Prefixes
 #### Nano:
 - Shown as n

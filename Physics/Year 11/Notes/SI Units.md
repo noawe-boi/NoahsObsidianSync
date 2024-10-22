@@ -28,4 +28,6 @@
 - Mole
 
 ### Force
--Newtons
+- Newtons
+
+## All formulas must use S.I. units
