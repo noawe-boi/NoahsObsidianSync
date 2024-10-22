@@ -64,3 +64,5 @@ $y=-3^1$
 $=-3$ 
 
 Since no other changes other than horizontal shift and reflection, y int is $-1$, and asymptote remains at $y=0$
+
+![[Sketching Exponentials example 2]]

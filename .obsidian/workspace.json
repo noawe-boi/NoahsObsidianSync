@@ -4,36 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "9c397d129197642a",
+        "id": "7d3641fe509df279",
         "type": "tabs",
         "children": [
           {
-            "id": "301539a09e01d440",
+            "id": "682b24c312880482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods 6A Exponential Functions.md",
+                "file": "Chemistry/Year 11/Notes/Solubility Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 6A Exponential Functions"
+              "title": "Solubility Rules"
             }
           },
           {
-            "id": "23a34f93428872e8",
+            "id": "7822fa0c510d2c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemistry Reaction Rates and Equilibrium"
+            }
+          },
+          {
+            "id": "0c4a67fbc9961b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collision Theory - Rate of Reaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collision Theory - Rate of Reaction"
+            }
+          },
+          {
+            "id": "326f29061ead78ac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Sketching Exponentials example 2.md"
+                "file": "Excalidraw/Equalibrum example 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Sketching Exponentials example 2"
+              "title": "Equalibrum example 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#chem",
+                "query": "tag:topic",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,12 +114,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -192,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -213,10 +242,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "301539a09e01d440",
+  "active": "0c4a67fbc9961b78",
   "lastOpenFiles": [
-    "Excalidraw/Sketching Exponentials example 2.md",
+    "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
+    "Collision Theory - Rate of Reaction.md",
+    "Excalidraw/Equalibrum example 1.md",
+    "Chemistry/Year 11/Notes/Solubility Rules.md",
     "Methods 6A Exponential Functions.md",
+    "Chemistry/Year 12/Assignments",
+    "Chemistry/Year 12/Assignments.md",
+    "Chemistry/Year 12/Exam prep",
+    "Chemistry/Year 12/Notes",
+    "Chemistry/Year 12",
+    "Excalidraw/Sketching Exponentials example 2.md",
     "Excalidraw/SKetching exponentials example 1.md",
     "Chemistry/Year 11/Notes/Outer Molecular Forces.md",
     "Excalidraw/Hydrogen bonds in water.md",
@@ -239,17 +277,12 @@
     "Chemistry/Year 11/Notes/Ionic Equations.md",
     "Chemistry/Year 11/Notes/Solubility Rules 1.md",
     "Chemistry/Year 11/Notes/Spectator Ions.md",
-    "Chemistry/Year 11/Notes/Solubility Rules.md",
     "Images/Pasted image 20241020144245.png",
     "Chemistry/Year 11/Notes/Net ionic equations.md",
     "Images/Pasted image 20241020141203.png",
-    "Personal Notes/Long Term Lists/Wishlist.md",
     "Images/Pasted image 20241020140554.png",
-    "Chemistry/Year 11/Notes/Complete ionic equation.md",
     "Images/Pasted image 20241020141032.png",
-    "Excalidraw/Writing Chemical equations as Ionic Equations.md",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Images/Pasted Image 20241020133932_811.png",
     "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
     "Specialist Maths/Year 11/Assignments",
@@ -259,10 +292,6 @@
     "Physics/Year 11/Assignments",
     "Physics/Year 11/Untitled Folder",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
-    "Maths Methods/Year 11/Assignments",
-    "Maths Methods/Year 11/Assignemnts",
-    "Maths Methods/Year 11/Untitled Folder",
-    "English/Year 11/Exams - Assignments",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
     "Chemistry/Year 11/Assignments/Chemistry IA4 Canvas.canvas",
     "Chemistry/Year 11/Year 11 Chemistry IA4 Canvas.canvas",
