@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "18aa1f374c34103d",
+        "id": "9c397d129197642a",
         "type": "tabs",
         "children": [
           {
-            "id": "5bcd937b3f6651d2",
+            "id": "301539a09e01d440",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Methods 6A Exponential Functions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Methods 6A Exponential Functions"
+            }
+          },
+          {
+            "id": "647dd54a56d8af25",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-22 11.41.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-22 11.41.46.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -170,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -196,15 +214,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72e8fdd2224cdc75",
+  "active": "647dd54a56d8af25",
   "lastOpenFiles": [
+    "Methods 6A Exponential Functions.md",
+    "Excalidraw/Drawing 2024-10-22 11.41.46.excalidraw.md",
+    "Chemistry/Year 11/Notes/Outer Molecular Forces.md",
+    "Excalidraw/Hydrogen bonds in water.md",
+    "Chemistry/Year 11/Notes/Hydrogen Bonds.md",
+    "Chemistry/Year 11/Notes/Ionisation Energy.md",
+    "Chemistry/Year 11/Notes/Ionic Bonding.md",
+    "Excalidraw/Methods 6A exmaple 1.md",
     "Images/Pasted image 20241021183319.png",
     "Images/Pasted image 20241021183329.png",
     "Images/Pasted image 20241021183309.png",
     "Chemistry/Year 11/Notes/Ionic Compounds.md",
     "Chemistry/Year 11/Notes/Covalent Bonding.md",
     "Excalidraw/Ionic Compounds Example.md",
-    "Chemistry/Year 11/Notes/Ionic Bonding.md",
     "Images/Pasted Image 20241021182754_861.png",
     "Excalidraw/Covalent bonding diaGRAM.md",
     "Chemistry/Year 11/Notes/Valency.md",
@@ -227,15 +252,9 @@
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Images/Pasted Image 20241020133932_811.png",
     "Chemistry/Year 11/Notes/ionic.md",
-    "Excalidraw/battery diagram.md",
-    "Specialist Maths/Year 11/Exam Prep/Specialist Maths IA3 Exam Revision.md",
-    "Specialist Maths/Year 11/Exam Prep/Specialist Maths FA4 Exam Revision.sync-conflict-20241007-112630-UKTOTG6.md",
-    "Specialist Maths/Year 11/Exam Prep/Specialist Maths FA4 Exam Revision.md",
     "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
     "Specialist Maths/Year 11/Assignments",
     "Specialist Maths/Year 11/Untitled Folder",
-    "Specialist Maths/Year 11/Year 11 Specialist Maths Weak Areas.md",
-    "Specialist Maths/Year 11/whatevs.md",
     "Specialist Maths/Year 11/Maths assignment solution .pdf",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Assignments",
