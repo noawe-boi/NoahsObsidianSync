@@ -11,13 +11,58 @@
             "id": "eaf2a67d1954a5a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Year 11/Notes/Scientific Notation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Scientific Notation"
+            }
+          },
+          {
+            "id": "591b222e56d5f46b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Scientific Notation Example 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Physics Scientific Notation Example 4"
+            }
+          },
+          {
+            "id": "97f51f72af6a5664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Specialist Vector Midpoints"
+            }
+          },
+          {
+            "id": "b1256fe3184f6a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientific Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scientific Rules"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,10 +241,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eaf2a67d1954a5a8",
+  "active": "b1256fe3184f6a02",
   "lastOpenFiles": [
+    "Physics/Year 11/Notes/Scientific Notation.md",
+    "Excalidraw/Physics Scientific Notation Example 4.md",
+    "Scientific Rules.md",
+    "Specialist Maths/Year 12/Notes",
+    "Specialist Maths/Year 12",
+    "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
+    "Chemistry/Year 12/Notes/Activated Complex.md",
+    "Chemistry/Year 12/Notes/Equilibrium.md",
     "conflict-files-obsidian-git.md",
-    "Specialist Vector Midpoints.md",
     "Personal Notes/Handwriting Practice Bigger Noto Sans Mono.odt",
     "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
     "Maths Methods/Year 12/Notes",
@@ -212,11 +264,9 @@
     "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
     "Excalidraw/Crap chem rate of reaction digram.md",
     "Chemistry/Year 12/Notes/Arrhenius Law.md",
-    "Equilibrium.md",
     "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
     "Collision Theory - Rate of Reaction.md",
     "Arrhenius Law.md",
-    "Activated Complex.md",
     "Chemistry/Year 11/Notes/Solubility Rules.md",
     "Methods 6A Exponential Functions.md",
     "Chemistry/Year 12/Assignments",
@@ -228,9 +278,6 @@
     "Excalidraw/SKetching exponentials example 1.md",
     "Chemistry/Year 11/Notes/Outer Molecular Forces.md",
     "Excalidraw/Hydrogen bonds in water.md",
-    "Chemistry/Year 11/Notes/Hydrogen Bonds.md",
-    "Chemistry/Year 11/Notes/Ionisation Energy.md",
-    "Chemistry/Year 11/Notes/Ionic Bonding.md",
     "Images/Pasted image 20241021183319.png",
     "Images/Pasted image 20241021183329.png",
     "Images/Pasted image 20241021183309.png",
@@ -242,8 +289,6 @@
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Images/Pasted Image 20241020133932_811.png",
     "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
-    "Specialist Maths/Year 11/Assignments",
-    "Specialist Maths/Year 11/Untitled Folder",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
