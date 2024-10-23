@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fbab74343b96ab4",
+        "id": "4982dd7faa52f128",
         "type": "tabs",
         "children": [
           {
-            "id": "5827c9d3237bf367",
+            "id": "9716661ba3592585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 6.1 Vectors.md",
+                "file": "Physics/Year 12/Physics 6.1 Vectors.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,15 +22,43 @@
             }
           },
           {
-            "id": "7845d14546b9b550",
+            "id": "1b71ab9df4dfca85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 6.2 Distance and Displacement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics 6.2 Distance and Displacement"
+            }
+          },
+          {
+            "id": "33d73c214360e2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 6.1 Key Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics 6.1 Key Questions"
+            }
+          },
+          {
+            "id": "e8e029cdabc13bb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Project 152 Phase 1.md"
+                "file": "Excalidraw/Displacement Diagram.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Project 152 Phase 1"
+              "title": "Displacement Diagram"
             }
           }
         ],
@@ -213,14 +241,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7845d14546b9b550",
+  "active": "1b71ab9df4dfca85",
   "lastOpenFiles": [
+    "Physics 6.1 Key Questions.md",
+    "Physics 6.2 Distance and Displacement.md",
+    "Excalidraw/Displacement Diagram.md",
+    "Physics/Year 12/Physics 6.1 Vectors.md",
+    "Physics/Year 11/Notes/Physics 6.2 Electric Fields.md",
+    "Excalidraw/Project 152 Phase 1.md",
+    "Physics/Year 12/Notes",
+    "Physics/Year 12",
     "Project 152",
     "Excalidraw/Drawing 2024-10-23 12.59.15.excalidraw.md",
-    "Excalidraw/Project 152 Phase 1.md",
-    "Physics 6.1 Vectors.md",
     "Excalidraw/11 Physics 6.1 Review.md",
-    "23-10-2024.md",
+    "Daily Notes/23-10-2024.md",
     "Physics/Year 11/Notes/Prefixes.md",
     "Physics/Year 11/Notes/Scientific Notation.md",
     "Physics/Year 11/Notes/SI Units.md",
@@ -228,7 +262,7 @@
     "Excalidraw/Vector Physics Exampl1.md",
     "Excalidraw/Physics Vector Diagram 2.md",
     "Excalidraw/Physcis vector diagram 3.md",
-    "Scientific Rules.md",
+    "Physics/Year 12/Scientific Rules.md",
     "Excalidraw/Physics Scientific Notation Example 4.md",
     "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
     "Specialist Maths/Year 12/Notes",
@@ -243,13 +277,8 @@
     "Excalidraw/methods expoentjails example 3.md",
     "Excalidraw/Spesh vector midpoints example.md",
     "Excalidraw/Methods exponentials example 5.md",
-    "Excalidraw/Drawing 2024-10-22 16.43.35.excalidraw.md",
-    "Excalidraw/Equalibrum example 1.md",
-    "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
     "Chemistry/Year 12/Assignments",
     "Chemistry/Year 12/Exam prep",
-    "Chemistry/Year 12/Notes",
-    "Chemistry/Year 12",
     "Images/Pasted image 20241021183319.png",
     "Images/Pasted image 20241021183329.png",
     "Images/Pasted image 20241021183309.png",
@@ -260,7 +289,6 @@
     "Images/Pasted image 20241020141032.png",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Images/Pasted Image 20241020133932_811.png",
-    "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
