@@ -4,23 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "050b01f2e208f53b",
+        "id": "0fbab74343b96ab4",
         "type": "tabs",
         "children": [
-          {
-            "id": "b1256fe3184f6a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scientific Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scientific Rules"
-            }
-          },
           {
             "id": "5827c9d3237bf367",
             "type": "leaf",
@@ -36,97 +22,18 @@
             }
           },
           {
-            "id": "14d75c5075fe04ab",
+            "id": "82aaf92125154752",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics Vector Diagram 2.md"
+                "file": "Excalidraw/11 Physics 6.1 Review.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Physics Vector Diagram 2"
-            }
-          },
-          {
-            "id": "a74b6c61d9a2016e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Vector Physics Exampl1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Vector Physics Exampl1"
-            }
-          },
-          {
-            "id": "82e576ceae6ca326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 11/Notes/Significant Digits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Significant Digits"
-            }
-          },
-          {
-            "id": "7d9fb660750c26d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 11/Notes/SI Units.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SI Units"
-            }
-          },
-          {
-            "id": "a2a6d2030767f119",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "eaa74cfc01401486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 11/Notes/Scientific Notation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scientific Notation"
-            }
-          },
-          {
-            "id": "c67e7bf17bda15d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 11/Notes/Prefixes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prefixes"
+              "title": "11 Physics 6.1 Review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -307,16 +215,19 @@
   },
   "active": "5827c9d3237bf367",
   "lastOpenFiles": [
-    "Excalidraw/Physics Vector Diagram 2.md",
-    "Excalidraw/Vector Physics Exampl1.md",
+    "23-10-2024.md",
     "Physics 6.1 Vectors.md",
-    "Scientific Rules.md",
-    "Physics/Year 11/Notes/Significant Digits.md",
-    "Physics/Year 11/Notes/SI Units.md",
+    "Excalidraw/11 Physics 6.1 Review.md",
+    "Physics/Year 11/Notes/Prefixes.md",
     "Physics/Year 11/Notes/Scientific Notation.md",
+    "Physics/Year 11/Notes/SI Units.md",
+    "Physics/Year 11/Notes/Significant Digits.md",
+    "Excalidraw/Vector Physics Exampl1.md",
+    "Excalidraw/Physics Vector Diagram 2.md",
+    "Excalidraw/Physcis vector diagram 3.md",
+    "Scientific Rules.md",
     "Excalidraw/Physics Scientific Notation Example 4.md",
     "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
-    "Physics/Year 11/Notes/Prefixes.md",
     "Specialist Maths/Year 12/Notes",
     "Specialist Maths/Year 12",
     "Chemistry/Year 12/Notes/Activated Complex.md",
@@ -335,9 +246,6 @@
     "Excalidraw/Crap chem rate of reaction digram.md",
     "Chemistry/Year 12/Notes/Arrhenius Law.md",
     "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
-    "Collision Theory - Rate of Reaction.md",
-    "Arrhenius Law.md",
-    "Chemistry/Year 11/Notes/Solubility Rules.md",
     "Chemistry/Year 12/Assignments",
     "Chemistry/Year 12/Exam prep",
     "Chemistry/Year 12/Notes",

@@ -14,6 +14,20 @@ Represented by an arrow
 1. ![[Vector Physics Exampl1]]
 
 2. ![[Physics Vector Diagram 2]]
+##### Textbook Example 6.1.2
+
+![[Physcis vector diagram 3 | 100]]
+$-25+ 16 -44+12 = - 41$
+or $41m$ west
+
+##### Textbook Example 6.1.3
+Determine the change in velocity of an aero plane as it changes from 255m/s west to 160m/s east using sign and directions conventions
+$\Delta V = V_f - V_i$
+$= 160 - -255$
+= $+415$
+or $415ms^-1$ east
+
+
 ### Scalars
 #### Definition
 A Scalar has a magnitude but no direction
@@ -30,3 +44,6 @@ A Scalar has a magnitude but no direction
 | Force (N)               |                     |
 | Poisition               |                     |
 
+
+## 6.1 Review
+![[11 Physics 6.1 Review]]
