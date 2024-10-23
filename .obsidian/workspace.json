@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "82aaf92125154752",
+            "id": "7845d14546b9b550",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/11 Physics 6.1 Review.md"
+                "file": "Excalidraw/Project 152 Phase 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "11 Physics 6.1 Review"
+              "title": "Project 152 Phase 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -213,11 +213,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5827c9d3237bf367",
+  "active": "72e8fdd2224cdc75",
   "lastOpenFiles": [
-    "23-10-2024.md",
+    "Project 152",
+    "Excalidraw/Drawing 2024-10-23 12.59.15.excalidraw.md",
+    "Excalidraw/Project 152 Phase 1.md",
     "Physics 6.1 Vectors.md",
     "Excalidraw/11 Physics 6.1 Review.md",
+    "23-10-2024.md",
     "Physics/Year 11/Notes/Prefixes.md",
     "Physics/Year 11/Notes/Scientific Notation.md",
     "Physics/Year 11/Notes/SI Units.md",
@@ -243,9 +246,6 @@
     "Excalidraw/Drawing 2024-10-22 16.43.35.excalidraw.md",
     "Excalidraw/Equalibrum example 1.md",
     "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
-    "Excalidraw/Crap chem rate of reaction digram.md",
-    "Chemistry/Year 12/Notes/Arrhenius Law.md",
-    "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
     "Chemistry/Year 12/Assignments",
     "Chemistry/Year 12/Exam prep",
     "Chemistry/Year 12/Notes",
