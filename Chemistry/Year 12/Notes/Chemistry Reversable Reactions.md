@@ -35,7 +35,7 @@ $$Ca) \space _{(s)} + H_2O \space _{(g)}  \rightleftharpoons  Ca(OH)_2 \space _{
 
 ## Energy profile diagrams
 - The energy profile diagram is flipped when the reaction goes the opposite direction
-- ![[Drawing 2024-10-24 11.48.23.excalidraw]]
+- ![[Drawing 2024-10-24 11.48.23.excalidraw | 1000]]
 ## Types of systems
 ### Open Systems/Steady State system
 - Both matter and energy is exchanged
