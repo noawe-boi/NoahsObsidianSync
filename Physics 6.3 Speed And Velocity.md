@@ -16,6 +16,7 @@ $v_{avg} = \frac{total \space distance}{time \space taken} = \frac{d}{t}$
 ##### Average velocity
 $v_{avg} = \frac{displacement}{time \space taken} = \frac{s}{t}$
 
+$y=  \frac{e^{2+x}}{4}$
 
 ## Converting Units
 ### Converting $kmh^{-1}$ to $ms^{-1}$
