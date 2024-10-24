@@ -22,4 +22,4 @@ tags:
 ![[Displacement Diagram]]
 
 
-![[Physics 6.1 Key Questions]]
+![[Physics 6.2 Key Questions]]

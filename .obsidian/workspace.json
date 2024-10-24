@@ -8,21 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9716661ba3592585",
+            "id": "2840c736f092b967",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Physics 6.1 Vectors.md",
+                "file": "Physics 6.3 Speed And Velocity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics 6.1 Vectors"
+              "title": "Physics 6.3 Speed And Velocity"
             }
           },
           {
-            "id": "1b71ab9df4dfca85",
+            "id": "1956c769eb4db3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics 6.3 Key Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics 6.3 Key Questions"
+            }
+          },
+          {
+            "id": "08ed89a049018246",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics Worked Example 6.3..md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Physics Worked Example 6.3."
+            }
+          },
+          {
+            "id": "c5f961eff2dbf66d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,29 +62,17 @@
             }
           },
           {
-            "id": "33d73c214360e2c3",
+            "id": "41af7423989c231d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 6.1 Key Questions.md",
+                "file": "Physics 6.2 Key Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics 6.1 Key Questions"
-            }
-          },
-          {
-            "id": "e8e029cdabc13bb2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Displacement Diagram.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Displacement Diagram"
+              "title": "Physics 6.2 Key Questions"
             }
           }
         ],
@@ -118,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -241,12 +256,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b71ab9df4dfca85",
+  "active": "1956c769eb4db3b0",
   "lastOpenFiles": [
-    "Physics 6.1 Key Questions.md",
+    "Physics 6.3 Speed And Velocity.md",
+    "Physics 6.3 Key Questions.md",
+    "Excalidraw/Physics Worked Example 6.3..md",
     "Physics 6.2 Distance and Displacement.md",
-    "Excalidraw/Displacement Diagram.md",
+    "Physics 6.2 Key Questions.md",
+    "Pasted Image 20241024093158_079.png",
     "Physics/Year 12/Physics 6.1 Vectors.md",
+    "Excalidraw/Displacement Diagram.md",
     "Physics/Year 11/Notes/Physics 6.2 Electric Fields.md",
     "Excalidraw/Project 152 Phase 1.md",
     "Physics/Year 12/Notes",
@@ -274,9 +293,6 @@
     "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
     "Maths Methods/Year 12/Notes",
     "Maths Methods/Year 12",
-    "Excalidraw/methods expoentjails example 3.md",
-    "Excalidraw/Spesh vector midpoints example.md",
-    "Excalidraw/Methods exponentials example 5.md",
     "Chemistry/Year 12/Assignments",
     "Chemistry/Year 12/Exam prep",
     "Images/Pasted image 20241021183319.png",
@@ -288,7 +304,6 @@
     "Images/Pasted image 20241020140554.png",
     "Images/Pasted image 20241020141032.png",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
-    "Images/Pasted Image 20241020133932_811.png",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
