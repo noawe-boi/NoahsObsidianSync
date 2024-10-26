@@ -15,7 +15,11 @@
 	- Boox Palma
 	- Bigme HiBreak
 
+#### Monitors
 - CRT PVM
+#### Watch
+- Casio  DWH5600-7D
+![[Pasted image 20241026153629.png | 100]]
 
 
 ## Stationary
