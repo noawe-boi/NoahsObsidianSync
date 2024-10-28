@@ -13,6 +13,7 @@ This will result in either
 or
 - Reformation of reactants
 
+*Both outcomes are equally likely*
 ### Examples
 - Carbon and oxygen react when charcoal burns. This does require a very high activation energy.
 - Lowkey like a roller coaster

@@ -28,25 +28,18 @@ Neither of these reactions proceeds to completion, instead the reactants and pro
 The equation for this reversable reaction is 
 $$Ca) \space _{(s)} + H_2O \space _{(g)}  \rightleftharpoons  Ca(OH)_2 \space _{(s)}$$
 
-
+![[Equilibrium]]
 
 ![[Dynamic Equilibrium]]
+
+![[Activated Complex]]
 
 
 ## Energy profile diagrams
 - The energy profile diagram is flipped when the reaction goes the opposite direction
 - ![[Drawing 2024-10-24 11.48.23.excalidraw | 1000]]
-## Types of systems
-### Open Systems/Steady State system
-- Both matter and energy is exchanged
 
-- Adding new material as the products are removed 
-### Closed Systems
-- Only energy is exchanged
-- [[Dynamic Equilibrium]] only occurs in this system: i.e.
-	- Reversable reactions must be carried out in closed systems in order to reach equilibrium. 
 
-### Isolated systems
-- No matter or energy is exchanged
-- Irrelevant 
+![[Types of Equilibrium Systems]]
+
 
