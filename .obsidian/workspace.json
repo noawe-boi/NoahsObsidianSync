@@ -4,96 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b458fe1bbbd4aa6",
+        "id": "b66c78885c7aa4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb954297507b3d2",
+            "id": "c8b006b32b9498be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods 6B The Exponential Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Methods 6B The Exponential Function"
-            }
-          },
-          {
-            "id": "029e25ba13feb80b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Methods 6B Example 7.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Methods 6B Example 7"
-            }
-          },
-          {
-            "id": "7aff1de520197339",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Worked Example 6.3..md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics Worked Example 6.3."
-            }
-          },
-          {
-            "id": "6305d80c8f7544f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collision Theory - Rate of Reaction"
-            }
-          },
-          {
-            "id": "a3c7efdf7af3442e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chemistry Reaction Rates and Equilibrium"
-            }
-          },
-          {
-            "id": "d881394586de7ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry Reversable Reactions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chemistry Reversable Reactions"
-            }
-          },
-          {
-            "id": "0652b207fb0b73d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Equilibrium.md",
+                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
                 "mode": "source",
                 "source": false
               },
@@ -102,33 +22,21 @@
             }
           },
           {
-            "id": "aa914ca8309d5039",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-24 11.48.23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-24 11.48.23.excalidraw"
-            }
-          },
-          {
-            "id": "3f8e0ac08fd5f5ec",
+            "id": "638ef7b8d67b9ff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 6.3 Speed And Velocity.md",
+                "file": "Personal Notes/Long Term Lists/Wishlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics 6.3 Speed And Velocity"
+              "title": "Wishlist"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -159,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:topic",
-                "matchingCase": true,
+                "query": "dynamic",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
@@ -180,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Equilibrium.md",
+                "file": "Personal Notes/Long Term Lists/Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dynamic Equilibrium"
+              "title": "Backlinks for Wishlist"
             }
           },
           {
@@ -219,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Equilibrium.md",
+                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -245,9 +154,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dynamic Equilibrium"
             }
           },
           {
@@ -282,8 +193,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -307,45 +218,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0652b207fb0b73d8",
+  "active": "638ef7b8d67b9ff7",
   "lastOpenFiles": [
-    "Chemistry Reversable Reactions.md",
-    "Dynamic Equilibrium.md",
-    "Excalidraw/Drawing 2024-10-24 11.48.23.excalidraw.md",
-    "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
-    "Excalidraw/Equalibrum example 1.md",
-    "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
-    "Excalidraw/Physics Worked Example 6.3..md",
+    "Pasted image 20241026153629.png",
+    "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
+    "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
     "Chemistry/Year 12/Notes/Equilibrium.md",
-    "Excalidraw/Methods 6B Example 7.md",
-    "Physics 6.3 Speed And Velocity.md",
-    "Methods 6B The Exponential Function.md",
-    "Physics 6.2 Key Questions.md",
-    "Physics 6.2 Distance and Displacement.md",
-    "Physics 6.3 Key Questions.md",
-    "Pasted Image 20241024093158_079.png",
+    "Excalidraw/Drawing 2024-10-22 16.43.35.excalidraw.md",
+    "Excalidraw/Methods exponentials example 5.md",
+    "Excalidraw/Spesh vector midpoints example.md",
+    "Physics/Year 12/Physics 6.2 Distance and Displacement.md",
+    "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
+    "Specialist Vector Midpoints.md",
+    "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
+    "Physics/Year 12/Scientific Rules.md",
     "Physics/Year 12/Physics 6.1 Vectors.md",
-    "Excalidraw/Displacement Diagram.md",
-    "Physics/Year 11/Notes/Physics 6.2 Electric Fields.md",
-    "Excalidraw/Project 152 Phase 1.md",
-    "Physics/Year 12/Notes",
-    "Physics/Year 12",
-    "Project 152",
-    "Excalidraw/Drawing 2024-10-23 12.59.15.excalidraw.md",
-    "Excalidraw/11 Physics 6.1 Review.md",
-    "Daily Notes/23-10-2024.md",
-    "Physics/Year 11/Notes/Prefixes.md",
-    "Physics/Year 11/Notes/Scientific Notation.md",
-    "Physics/Year 11/Notes/SI Units.md",
-    "Physics/Year 11/Notes/Significant Digits.md",
+    "Physics/Year 12/Physics 6.3 Speed And Velocity.md",
+    "Physics/Year 12/Physics 6.3 Key Questions.md",
+    "Physics/Year 12/Physics 6.2 Key Questions.md",
+    "Images/Pasted Image 20241024093158_079.png",
+    "Maths Methods/Year 12/Notes/Methods 6B The Exponential Function.md",
     "Excalidraw/Vector Physics Exampl1.md",
-    "Specialist Maths/Year 12/Notes",
-    "Specialist Maths/Year 12",
-    "Personal Notes/Handwriting Practice Bigger Noto Sans Mono.odt",
-    "Maths Methods/Year 12/Notes",
-    "Maths Methods/Year 12",
-    "Chemistry/Year 12/Assignments",
-    "Chemistry/Year 12/Exam prep",
+    "Excalidraw/Project 152 Phase 1.md",
+    "Excalidraw/Physics Worked Example 6.3..md",
+    "Excalidraw/Physics Vector Diagram 2.md",
+    "Excalidraw/Physcis vector diagram 3.md",
+    "Excalidraw/Methods 6B Example 7.md",
+    "Excalidraw/Drawing 2024-10-24 11.48.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-23 12.59.15.excalidraw.md",
+    "Excalidraw/Displacement Diagram.md",
     "Images/Pasted image 20241021183319.png",
     "Images/Pasted image 20241021183329.png",
     "Images/Pasted image 20241021183309.png",
@@ -355,8 +256,18 @@
     "Images/Pasted image 20241020140554.png",
     "Images/Pasted image 20241020141032.png",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
+    "Specialist Maths/Year 11/Assignments",
+    "Specialist Maths/Year 11/Untitled Folder",
+    "Specialist Maths/Year 11/Maths assignment solution .pdf",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
+    "Physics/Year 11/Assignments",
+    "Physics/Year 11/Untitled Folder",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
+    "Maths Methods/Year 11/Assignments",
+    "Maths Methods/Year 11/Assignemnts",
+    "Maths Methods/Year 11/Untitled Folder",
+    "English/Year 11/Exams - Assignments",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
     "Chemistry/Year 11/Assignments/Chemistry IA4 Canvas.canvas",
     "Chemistry/Year 11/Year 11 Chemistry IA4 Canvas.canvas",
