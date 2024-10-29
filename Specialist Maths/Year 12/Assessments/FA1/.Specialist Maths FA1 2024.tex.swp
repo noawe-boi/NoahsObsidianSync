@@ -1,12 +1,56 @@
-\documentclass[11pt, letterpaper]{report}
+\documentclass[11pt, letterpaper]{article}
+
 \begin{document}
+
 \title{Modeling and Lighting Interior Spaces using Reflected Natural Light}
 \author{Noah Alexiou}
 \date{\today}
 \maketitle
+\tableofcontents
+\newpage
 
 
-\
+\section{Introduction}
+
+
+\subsection{Premise}
+- Study aims to find optimal mirror placement in order to light as much of the cave as possible
+
+
+
+
+\subsection{Assumptions}
+\par
+In Order for a solution to be formed, a set of constants must be assumed.
+\\
+
+- Light brightness does not decrease as it travels through the cave and bounces off mirrors
+
+
+\subsection{Observations}
+\par
+- Mirrors will stand parralel from the ground and entend to the ceiling, Dimentions unknown... Possibly variable
+\\
+
+
+\subsection{Translation}
+
+
+\section{Solve}
+
+
+\section{Evaluate}
+
+
+
+\subsection{Reasonableness}
+
+
+\subsection{Strenghts and Limitations of Solution}
+
+
+\section{Conclusion}
+
 
  
 
