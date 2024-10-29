@@ -8,77 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc393a5b97742814",
+            "id": "03e6b5f9c78f5572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods 6E Graphic Logaritmithic funtions.md",
+                "file": "6F Determining exponential or log rules from graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 6E Graphic Logaritmithic funtions"
+              "title": "6F Determining exponential or log rules from graphs"
             }
           },
           {
-            "id": "da290627aa5f8f7a",
+            "id": "fedd84d5e7423adc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Methods example 17b.md"
+                "file": "Excalidraw/Methods 6F example 3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Methods example 17b"
+              "title": "Methods 6F example 3"
             }
           },
           {
-            "id": "d9e3d3fa1d36c0d2",
+            "id": "ac901d10b1511944",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Methods example 20 p212.md"
+                "file": "Excalidraw/Methods 6F example 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Methods example 20 p212"
+              "title": "Methods 6F example 2"
             }
           },
           {
-            "id": "eab8484a2314aae6",
+            "id": "cc661b73931f1110",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Methods example 17a.md"
+                "file": "Excalidraw/Methods 6F Example 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Methods example 17a"
-            }
-          },
-          {
-            "id": "4829aab719f889d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/what does logey look like.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "what does logey look like"
-            }
-          },
-          {
-            "id": "2d6a6f098a6f5296",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/methods example 17 log.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "methods example 17 log"
+              "title": "Methods 6F Example 1"
             }
           }
         ]
@@ -262,11 +238,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc393a5b97742814",
+  "active": "03e6b5f9c78f5572",
   "lastOpenFiles": [
+    "Excalidraw/Methods 6F example 3.md",
+    "6F Determining exponential or log rules from graphs.md",
+    "Excalidraw/Methods 6F example 2.md",
+    "Excalidraw/Methods 6F Example 1.md",
+    "Methods 6E Graphic Logaritmithic funtions.md",
     "Excalidraw/Methods example 17b.md",
     "Excalidraw/Methods example 20 p212.md",
-    "Methods 6E Graphic Logaritmithic funtions.md",
     "Excalidraw/Methods example 17a.md",
     "Excalidraw/methods example 17 log.md",
     "Excalidraw/what does logey look like.md",
@@ -290,10 +270,6 @@
     "Images/Pasted image 20241028121609.png",
     "Physics/Year 12/Physics 6.4 Acceleration.md",
     "Images/Pasted image 20241028121403.png",
-    "Excalidraw/Drawing 2024-10-24 11.48.23.excalidraw.md",
-    "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
-    "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md",
-    "Excalidraw/Physics Worked Example 6.3..md",
     "Images/Pasted image 20241026153629.png",
     "Images/Pasted Image 20241024093158_079.png",
     "Pasted Image 20241024093158_079.png",
