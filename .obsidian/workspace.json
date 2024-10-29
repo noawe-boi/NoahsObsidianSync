@@ -4,123 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "b66c78885c7aa4a3",
+        "id": "b5d3e9f8684b8c20",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b006b32b9498be",
+            "id": "8451122a2db4f858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
+                "file": "Daily Notes/28-10-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Equilibrium"
+              "title": "28-10-2024"
             }
           },
           {
-            "id": "3546f501abe9720a",
+            "id": "d280af1fab0cba94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Activated Complex.md",
+                "file": "Specialist 2.3 Vectors in the plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activated Complex"
+              "title": "Specialist 2.3 Vectors in the plane"
             }
           },
           {
-            "id": "6a978ad2be26ebd4",
+            "id": "f9ae0f9e2c095455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 6D Logarithms and Log Laws.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Specialist 2.3 Vectors in the plane.md"
               },
-              "icon": "lucide-file",
-              "title": "Methods 6D Logarithms and Log Laws"
+              "icon": "excalidraw-icon",
+              "title": "Specialist 2.3 Vectors in the plane"
             }
           },
           {
-            "id": "771c6fecbf90d16f",
+            "id": "62519f259586c26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
+                "file": "Daily Notes/29-10-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Equilibrium"
-            }
-          },
-          {
-            "id": "1a6ae1606f3f0886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enthalpy and Entropy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enthalpy and Entropy"
-            }
-          },
-          {
-            "id": "ae09009a9b56bf0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of Equilibrium Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of Equilibrium Systems"
-            }
-          },
-          {
-            "id": "033b30947f6f8f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Equilibrium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equilibrium"
-            }
-          },
-          {
-            "id": "a7d44e128948911f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Position of Equilibrium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Position of Equilibrium"
+              "title": "29-10-2024"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -192,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 6D Logarithms and Log Laws.md",
+                "file": "Daily Notes/28-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Methods 6D Logarithms and Log Laws"
+              "title": "Backlinks for 28-10-2024"
             }
           },
           {
@@ -238,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md"
+                "file": "Daily Notes/28-10-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic Equilibrium"
+              "title": "Outline of 28-10-2024"
             }
           },
           {
@@ -264,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-19 16.35.06.excalidraw.md"
+                "file": "Daily Notes/28-10-2024.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2024-10-19 16.35.06.excalidraw"
+              "title": "File properties for 28-10-2024"
             }
           },
           {
@@ -280,7 +222,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -300,27 +243,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a978ad2be26ebd4",
+  "active": "8451122a2db4f858",
   "lastOpenFiles": [
+    "Specialist 2.3 Vectors in the plane.md",
+    "Excalidraw/Specialist 2.3 Vectors in the plane.md",
+    "Daily Notes/29-10-2024.md",
+    "Daily Notes/28-10-2024.md",
+    "Pasted Image 20241028170956_552.png",
+    "Pasted Image 20241028170204_497.png",
+    "Pasted Image 20241028165346_477.png",
+    "Pasted image 20241028161916.png",
+    "Chemistry/Year 12/Notes/Equilibrium.md",
+    "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
+    "Maths Methods/Year 12/Notes/Methods 6D Logarithms and Log Laws.md",
+    "Chemistry/Year 12/Notes/Activated Complex.md",
     "Chemistry/Year 12/Notes/Position of Equilibrium.md",
-    "28-10-2024.md",
     "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
     "conflict-files-obsidian-git.md",
     "Physics/Year 12/Physics 6.4 Acceleration.md",
     "Physics/Year 12/Physics 6.5 Equations of Motion.md",
     "Images/Pasted image 20241028124503.png",
-    "Maths Methods/Year 12/Notes/Methods 6D Logarithms and Log Laws.md",
     "Images/Pasted image 20241028121609.png",
     "Images/Pasted image 20241028121403.png",
     "Images/Pasted image 20241026153629.png",
     "Excalidraw/dislacement time graph exmapoe.md",
     "Excalidraw/Drawing 2024-10-28 13.55.43.excalidraw.md",
-    "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
     "Chemistry/Year 12/Notes/Enthalpy and Entropy.md",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 W Bibliography.md",
     "Chemistry/Year 12/Notes/Types of Equilibrium Systems.md",
-    "Chemistry/Year 12/Notes/Equilibrium.md",
-    "Chemistry/Year 12/Notes/Activated Complex.md",
     "Personal Notes/Long Term Lists/Wishlist.md",
     "Pasted image 20241026153629.png",
     "Excalidraw/Drawing 2024-10-22 16.43.35.excalidraw.md",
@@ -329,15 +279,7 @@
     "Physics/Year 12/Physics 6.2 Distance and Displacement.md",
     "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
     "Specialist Vector Midpoints.md",
-    "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
-    "Physics/Year 12/Scientific Rules.md",
-    "Physics/Year 12/Physics 6.1 Vectors.md",
-    "Physics/Year 12/Physics 6.3 Speed And Velocity.md",
     "Images/Pasted Image 20241024093158_079.png",
-    "Images/Pasted image 20241021183319.png",
-    "Images/Pasted image 20241021183329.png",
-    "Images/Pasted image 20241021183309.png",
-    "Images/Pasted Image 20241021182754_861.png",
     "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
     "Specialist Maths/Year 11/Assignments",
     "Specialist Maths/Year 11/Untitled Folder",
