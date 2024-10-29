@@ -45,3 +45,7 @@ $a=?$
 $v = 0ms^{-1}$ 
 
 $v^2 = u^2 + 2 as \rightarrow a = \frac{v^2-u^2}{2s} = a = \frac{-10^2}{2(20)} ={-2.5ms^{-2}}$   
+
+
+## Excercise
+![[Physics 6.5 Review]]
