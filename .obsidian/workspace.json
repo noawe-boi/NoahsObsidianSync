@@ -22,42 +22,33 @@
             }
           },
           {
-            "id": "fedd84d5e7423adc",
+            "id": "ac1c3725844ef538",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Methods 6F example 3.md"
+                "file": "Methods Chapter 6 Review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Methods 6F example 3"
+              "icon": "lucide-file",
+              "title": "Methods Chapter 6 Review"
             }
           },
           {
-            "id": "ac901d10b1511944",
+            "id": "ebe133371945e3ac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Methods 6F example 2.md"
+                "file": "Excalidraw/Methods Chapter 6 Review Working.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Methods 6F example 2"
-            }
-          },
-          {
-            "id": "cc661b73931f1110",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Methods 6F Example 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Methods 6F Example 1"
+              "title": "Methods Chapter 6 Review Working"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,12 +229,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03e6b5f9c78f5572",
+  "active": "ebe133371945e3ac",
   "lastOpenFiles": [
-    "Excalidraw/Methods 6F example 3.md",
-    "6F Determining exponential or log rules from graphs.md",
+    "Methods Chapter 6 Review.md",
+    "Excalidraw/Methods Chapter 6 Review Working.md",
     "Excalidraw/Methods 6F example 2.md",
     "Excalidraw/Methods 6F Example 1.md",
+    "6F Determining exponential or log rules from graphs.md",
+    "Excalidraw/Methods 6F example 3.md",
     "Methods 6E Graphic Logaritmithic funtions.md",
     "Excalidraw/Methods example 17b.md",
     "Excalidraw/Methods example 20 p212.md",
@@ -265,10 +258,8 @@
     "Methods 6D Logarithms and Log Laws.md",
     "Excalidraw/Drawing 2024-10-28 13.55.45.excalidraw.md",
     "Excalidraw/Drawing 2024-10-28 13.55.43.excalidraw.md",
-    "Physics 6.5 Equations of Motion.md",
     "Pasted image 20241028124503.png",
     "Images/Pasted image 20241028121609.png",
-    "Physics/Year 12/Physics 6.4 Acceleration.md",
     "Images/Pasted image 20241028121403.png",
     "Images/Pasted image 20241026153629.png",
     "Images/Pasted Image 20241024093158_079.png",
