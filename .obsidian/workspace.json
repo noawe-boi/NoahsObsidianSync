@@ -4,79 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d3e9f8684b8c20",
+        "id": "4cadaf697e47b837",
         "type": "tabs",
         "children": [
           {
-            "id": "8451122a2db4f858",
+            "id": "dda0970216f91a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/29-10-2024.md",
+                "file": "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29-10-2024"
+              "title": "Chemistry Reversable Reactions"
             }
           },
           {
-            "id": "d280af1fab0cba94",
+            "id": "f783124690f103bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist 2.3 Vectors in the plane.md",
+                "file": "Specialist Maths/Year 12/Notes/Specialist 2.3 Vectors in the plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Specialist 2.3 Vectors in the plane"
-            }
-          },
-          {
-            "id": "f9ae0f9e2c095455",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Specialist 2.3 Vectors in the plane.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Specialist 2.3 Vectors in the plane"
-            }
-          },
-          {
-            "id": "62519f259586c26f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/29-10-2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29-10-2024"
-            }
-          },
-          {
-            "id": "32b1eca76ae61053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "29-10-2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29-10-2024"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Enthalpy",
+                "query": "Entropy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -148,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/28-10-2024.md",
+                "file": "Physics 6.5 Equations of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 28-10-2024"
+              "title": "Backlinks for Physics 6.5 Equations of Motion"
             }
           },
           {
@@ -167,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
+                "file": "Dynamic Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,11 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/28-10-2024.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 28-10-2024"
+              "title": "Outline"
             }
           },
           {
@@ -220,10 +178,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/28-10-2024.md"
+                "file": "Excalidraw/Drawing 2024-10-19 16.35.06.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 28-10-2024"
+              "title": "File properties for Drawing 2024-10-19 16.35.06.excalidraw"
             }
           },
           {
@@ -232,16 +190,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,54 +215,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62519f259586c26f",
+  "active": "f783124690f103bc",
   "lastOpenFiles": [
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.XGSLW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.LPBGW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.A7FDW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.MIGQW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.543UW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.784PW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.EXBMW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.O0WMW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.HSVMW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.BGSJW2",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.JQKLW2",
     "29-10-2024.md",
+    "Images/Pasted image 20241028161916.png",
+    "Chemistry/Year 12/Notes/Enthalpy and Entropy.md",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex",
+    "Specialist Maths/Year 12/Assessments/FA1",
+    "Specialist Maths/Year 12/Assessments",
+    "Specialist Maths/Year 12/Notes/Specialist 2.3 Vectors in the plane.md",
+    "Images/Pasted Image 20241028170956_552.png",
+    "Images/Pasted Image 20241028170204_497.png",
+    "Images/Pasted Image 20241028165346_477.png",
+    "Excalidraw/Specialist 2.3 Vectors in the plane.md",
     "Daily Notes/29-10-2024.md",
-    "Daily Notes/28-10-2024.md",
-    "Specialist 2.3 Vectors in the plane.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20241029142425.png",
-    "Pasted Image 20241029144705_292.png",
-    "Maths Methods/Year 12/Notes/Methods Chapter 6 Review.md",
+    "Excalidraw/Chemistry Chapter 2 Examples.md",
+    "Images/Pasted Image 20241029144705_292.png",
+    "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
+    "Images/Pasted image 20241029142425.png",
+    "Chemistry/Year 12/Notes/Chemistry Reaction Rates and Equilibrium.md",
+    "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
     "Maths Methods/Year 12/Notes/Methods 6F Determining exponential or log rules from graphs.md",
-    "Maths Methods/Year 12/Notes/Methods 6E Graphic Logaritmithic funtions.md",
-    "Excalidraw/what does logey look like.md",
-    "Excalidraw/question annie couldnt do.md",
-    "Excalidraw/methods example 17 log.md",
-    "Excalidraw/Methods example 20 p212.md",
-    "Excalidraw/Methods example 17b.md",
-    "Excalidraw/Methods example 17a.md",
+    "Maths Methods/Year 12/Notes/Methods 6D Logarithms and Log Laws.md",
+    "Specialist Maths/Year 12/Notes/Specialist Vector Midpoints.md",
     "Excalidraw/Methods Chapter 6 Review Working.md",
-    "Excalidraw/Methods 6F example 3.md",
+    "Maths Methods/Year 12/Notes/Methods Chapter 6 Review.md",
+    "Excalidraw/question annie couldnt do.md",
     "Excalidraw/Methods 6F example 2.md",
     "Excalidraw/Methods 6F Example 1.md",
-    "Excalidraw/Chemistry Chapter 2 Examples.md",
-    "Excalidraw/Specialist 2.3 Vectors in the plane.md",
-    "Pasted Image 20241028170956_552.png",
-    "Pasted Image 20241028170204_497.png",
-    "Pasted Image 20241028165346_477.png",
-    "Pasted image 20241028161916.png",
-    "Chemistry/Year 12/Notes/Equilibrium.md",
-    "Chemistry/Year 12/Notes/Dynamic Equilibrium.md",
-    "Maths Methods/Year 12/Notes/Methods 6D Logarithms and Log Laws.md",
-    "Chemistry/Year 12/Notes/Activated Complex.md",
-    "Chemistry/Year 12/Notes/Position of Equilibrium.md",
+    "Excalidraw/Methods 6F example 3.md",
+    "Maths Methods/Year 12/Notes/Methods 6E Graphic Logaritmithic funtions.md",
+    "Excalidraw/Methods example 17b.md",
+    "Excalidraw/Methods example 20 p212.md",
+    "Excalidraw/Methods example 17a.md",
+    "Excalidraw/methods example 17 log.md",
+    "Excalidraw/what does logey look like.md",
     "Images/Pasted image 20241028124503.png",
+    "Pasted image 20241028124503.png",
     "Images/Pasted image 20241028121609.png",
     "Images/Pasted image 20241028121403.png",
-    "Images/Pasted image 20241026153629.png",
+    "Physics/Year 12/Notes",
+    "Physics/Year 12",
+    "Project 152",
+    "Specialist Maths/Year 12/Notes",
+    "Specialist Maths/Year 12",
+    "Personal Notes/Handwriting Practice Bigger Noto Sans Mono.odt",
+    "Maths Methods/Year 12/Notes",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
