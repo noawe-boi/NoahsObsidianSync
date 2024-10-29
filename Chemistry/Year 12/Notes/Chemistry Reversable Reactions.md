@@ -42,4 +42,6 @@ $$Ca) \space _{(s)} + H_2O \space _{(g)}  \rightleftharpoons  Ca(OH)_2 \space _{
 
 ![[Types of Equilibrium Systems]]
 
+## Excercises
 
+![[Chemistry Chapter 2 Examples]]

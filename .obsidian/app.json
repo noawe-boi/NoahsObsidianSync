@@ -26,5 +26,6 @@
   },
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": true
 }
