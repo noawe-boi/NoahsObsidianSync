@@ -30,3 +30,6 @@ Could they use collision theory to generate more yield?
 
 ![[Arrhenius Law]]
 
+## Examples
+Nitrogen and Hydrogen to create 
+$N_2 + 3H_2 \rightleftharpoons 2NH_3$  

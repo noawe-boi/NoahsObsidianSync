@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "eeb3118f37cc7929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "d280af1fab0cba94",
             "type": "leaf",
             "state": {
@@ -61,7 +75,8 @@
               "title": "29-10-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,12 +258,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8451122a2db4f858",
+  "active": "eeb3118f37cc7929",
   "lastOpenFiles": [
+    "Daily Notes/28-10-2024.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20241029142425.png",
+    "Pasted Image 20241029144705_292.png",
+    "Maths Methods/Year 12/Notes/Methods Chapter 6 Review.md",
+    "Maths Methods/Year 12/Notes/Methods 6F Determining exponential or log rules from graphs.md",
+    "Maths Methods/Year 12/Notes/Methods 6E Graphic Logaritmithic funtions.md",
+    "Excalidraw/what does logey look like.md",
+    "Excalidraw/question annie couldnt do.md",
+    "Excalidraw/methods example 17 log.md",
+    "Excalidraw/Methods example 20 p212.md",
+    "Excalidraw/Methods example 17b.md",
+    "Excalidraw/Methods example 17a.md",
+    "Excalidraw/Methods Chapter 6 Review Working.md",
+    "Excalidraw/Methods 6F example 3.md",
+    "Excalidraw/Methods 6F example 2.md",
+    "Excalidraw/Methods 6F Example 1.md",
+    "Excalidraw/Chemistry Chapter 2 Examples.md",
+    "29-10-2024.md",
     "Specialist 2.3 Vectors in the plane.md",
     "Excalidraw/Specialist 2.3 Vectors in the plane.md",
     "Daily Notes/29-10-2024.md",
-    "Daily Notes/28-10-2024.md",
     "Pasted Image 20241028170956_552.png",
     "Pasted Image 20241028170204_497.png",
     "Pasted Image 20241028165346_477.png",
@@ -259,27 +292,10 @@
     "Chemistry/Year 12/Notes/Activated Complex.md",
     "Chemistry/Year 12/Notes/Position of Equilibrium.md",
     "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
-    "conflict-files-obsidian-git.md",
-    "Physics/Year 12/Physics 6.4 Acceleration.md",
-    "Physics/Year 12/Physics 6.5 Equations of Motion.md",
     "Images/Pasted image 20241028124503.png",
     "Images/Pasted image 20241028121609.png",
     "Images/Pasted image 20241028121403.png",
     "Images/Pasted image 20241026153629.png",
-    "Excalidraw/dislacement time graph exmapoe.md",
-    "Excalidraw/Drawing 2024-10-28 13.55.43.excalidraw.md",
-    "Chemistry/Year 12/Notes/Enthalpy and Entropy.md",
-    "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 W Bibliography.md",
-    "Chemistry/Year 12/Notes/Types of Equilibrium Systems.md",
-    "Personal Notes/Long Term Lists/Wishlist.md",
-    "Pasted image 20241026153629.png",
-    "Excalidraw/Drawing 2024-10-22 16.43.35.excalidraw.md",
-    "Excalidraw/Methods exponentials example 5.md",
-    "Excalidraw/Spesh vector midpoints example.md",
-    "Physics/Year 12/Physics 6.2 Distance and Displacement.md",
-    "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
-    "Specialist Vector Midpoints.md",
-    "Images/Pasted Image 20241024093158_079.png",
     "Specialist Maths/Year 11/Assignments/Maths assignment solution .pdf",
     "Specialist Maths/Year 11/Assignments",
     "Specialist Maths/Year 11/Untitled Folder",
