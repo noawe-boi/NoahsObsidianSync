@@ -7,6 +7,15 @@ tags:
 **These apply when acceleration is constant**
 
 ## Formulas
+### Displacement
+$$s=\frac{1}{2}(v+u)t$$ 
+
+### Velocity
+#### Average Velocity
+$$V_{Average} = \frac{s}{t}$$
+#### Instantaneous Velocity
+$$V = u+at$$ 
+
 ### Average Acceleration
 If acceleration is constant then:
 $$V_{Average} = \frac{v+u}{2}$$ and
@@ -47,5 +56,5 @@ $v = 0ms^{-1}$
 $v^2 = u^2 + 2 as \rightarrow a = \frac{v^2-u^2}{2s} = a = \frac{-10^2}{2(20)} ={-2.5ms^{-2}}$   
 
 
-## Excercise
+## Exercise
 ![[Physics 6.5 Review]]
