@@ -25,12 +25,12 @@
             "id": "0b0cfec03362b4d2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Physics 6.5 Review.md"
+                "file": "Images/Pasted Image 20241030103743_353.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Physics 6.5 Review"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20241030103743_353"
             }
           }
         ],
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -217,18 +216,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b0cfec03362b4d2",
+  "active": "72e8fdd2224cdc75",
   "lastOpenFiles": [
-    "Pasted Image 20241030103743_353.png",
-    "Pasted Image 20241030100932_277.png",
-    "Physics/Year 12/Physics 6.5 Equations of Motion.md",
     "Excalidraw/Physics 6.5 Review.md",
-    "Pasted Image 20241030100430_278.png",
-    "Pasted Image 20241030095140_279.png",
-    "Pasted Image 20241030093952_295.png",
-    "Pasted Image 20241030093132_391.png",
-    "Pasted Image 20241030092419_296.png",
-    "Pasted Image 20241030092042_352.png",
+    "Images/Pasted Image 20241030103743_353.png",
+    "Images/Pasted Image 20241030100932_277.png",
+    "Physics/Year 12/Physics 6.5 Equations of Motion.md",
+    "Images/Pasted Image 20241030100430_278.png",
+    "Images/Pasted Image 20241030095140_279.png",
+    "Images/Pasted Image 20241030093952_295.png",
+    "Images/Pasted Image 20241030093132_391.png",
+    "Images/Pasted Image 20241030092419_296.png",
+    "Images/Pasted Image 20241030092042_352.png",
     "Daily Notes/29-10-2024.md",
     "Excalidraw/Specialist 2.3 Vectors in the plane.md",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
@@ -240,7 +239,6 @@
     "Specialist Maths/Year 12/Notes/Specialist 2.3 Vectors in the plane.md",
     "Images/Pasted image 20241029142425.png",
     "Images/Pasted image 20241028161916.png",
-    "Images/Pasted Image 20241029144705_292.png",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.8Z1QW2",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.7CBOW2",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.XGSLW2",
