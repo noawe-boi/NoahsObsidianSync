@@ -28,7 +28,7 @@ In Order for a solution to be formed, a set of constants must be assumed.
 \\
 - Light does not decrease in intensity as it travels through the cave and bounces off mirrors
 \\
-- Light will enter the cave parallel to the ground and reflect across the entire length of mirrors
+- Light will enter the cave parallel to the ground and of equal intensity from floor to ceiling.
 \\
 - Any area that light passes will be considered lit. 
 \\
@@ -48,9 +48,22 @@ In Order for a solution to be formed, a set of constants must be assumed.
 
 
 \subsection{Translation}
+\par 
+- Vector adition can be used to join each given vector and form the walls of the cave and the obstacles
+\\
+\\
+- Used excel to do vector adition with steps
+\\ 
+- Took points from excel and inserted them as seperate X and Y list in desmos
+\\
+- Graphed each point on list
+
+\par 
 
 
 \section{Solve}
+
+\par 
 
 
 \section{Evaluate}
