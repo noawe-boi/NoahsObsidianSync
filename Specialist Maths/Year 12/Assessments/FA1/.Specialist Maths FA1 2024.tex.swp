@@ -1,0 +1,71 @@
+
+\documentclass[11pt, letterpaper]{article}
+\begin{document}
+
+\title{Modeling and Lighting Interior Spaces using Reflected Natural Light}
+\author{Noah Alexiou}
+\date{\today}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+
+\section{Introduction}
+
+
+\subsection{Premise}
+- Study aims to find optimal mirror placement in order to light as much of the cave as possible
+
+
+
+
+\subsection{Assumptions}
+\par
+In Order for a solution to be formed, a set of constants must be assumed.
+\\
+- The mirrors and walls of the cave are perfectly parallel to the floor of the cave and extend upwards with an undefined height. This simplifies modeling and can easily be altered to fit revised specifications, such as only needing to light the floor of the cave.
+\\
+- Light does not decrease in intensity as it travels through the cave and bounces off mirrors
+\\
+- Light will enter the cave parallel to the ground and reflect across the entire length of mirrors
+\\
+- Any area that light passes will be considered lit. 
+\\
+
+\subsection{Observations}
+\par
+- Vectors can be modeled on the Cartesian plane as 
+- Light can be modeled as a relative position vector with origin at a mirror surface
+\\
+- Light will reflect so that $angle \: of \:incidence = angle \: of \: refraction$. This relationship can be modeled as the vectors $i$ co-ordinate being scaled by a factor of -1 when it reflects. i.e. a reflection on the x axis.
+\\
+- Mirrors will decrease the area in the cave available for people to occupy. Avoid turning the cave into a mirror maze
+\\
+- 
+
+
+
+
+\subsection{Translation}
+
+
+\section{Solve}
+
+
+\section{Evaluate}
+
+
+
+\subsection{Reasonableness}
+
+
+\subsection{Strenghts and Limitations of Solution}
+
+
+\section{Conclusion}
+
+
+ 
+
+\end{document}
