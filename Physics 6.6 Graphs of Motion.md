@@ -67,5 +67,19 @@ $$ Area=displacement $$ ![[Velcoity time graph physics example 2]]
 ### Gradient
 - Irrelevant!
 
-## Area
+### Area
 $$Area = LW = at = Velocity$$
+
+## Examples
+### Example 6.6.1 p234
+![[Physiscs Example 6.6.1 p234]]
+
+### Example 6.6.2 p237
+![[Physics 6.6.2 p237]]
+
+###  Example 6.6.3 p239
+![[Physics 6.6.3 p239]]
+
+
+## Key Questions
+![[Physics 6.6 Key Questions]]
