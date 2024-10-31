@@ -1,0 +1,1 @@
+![[Chemistry Worked Example 17.3A Drawing | 1000]]
