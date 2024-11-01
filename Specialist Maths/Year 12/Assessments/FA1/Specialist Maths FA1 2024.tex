@@ -1,5 +1,8 @@
 
 \documentclass[11pt, letterpaper]{article}
+%\usepackage{bookmark}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{bm}
 \begin{document}
 
 \title{Modeling and Lighting Interior Spaces using Reflected Natural Light}
@@ -23,40 +26,47 @@
 \subsection{Assumptions}
 \par
 In Order for a solution to be formed, a set of constants must be assumed.
-\\
-- The mirrors and walls of the cave are perfectly parallel to the floor of the cave and extend upwards with an undefined height. This simplifies modeling and can easily be altered to fit revised specifications, such as only needing to light the floor of the cave.
-\\
-- Light does not decrease in intensity as it travels through the cave and bounces off mirrors
-\\
-- Light will enter the cave parallel to the ground and of equal intensity from floor to ceiling.
-\\
-- Any area that light passes will be considered lit. 
-\\
+\begin{itemize}
+	\item The mirrors and walls of the cave are perfectly parallel to the floor of the cave and extend upwards with an undefined height. This simplifies modeling and can easily be altered to fit revised specifications, such as only needing to light the floor of the cave.
+	
+	\item Either light does not decrease in intensity or increase in area according to the inverse square law, or the change is negligible. The suns rays have traveled so far that they can be considered effectively parallel and therefore will not diverge.e 
+		
+	\item Light will enter the cave parallel to the ground and of equal intensity from floor to ceiling.
+	
+	\item 
+\end{itemize}
 
 \subsection{Observations}
 \par
-- Vectors can be modeled on the Cartesian plane as 
-- Light can be modeled as a relative position vector with origin at a mirror surface
-\\
-- Light will reflect so that $angle \: of \:incidence = angle \: of \: refraction$. This relationship can be modeled as the vectors $i$ co-ordinate being scaled by a factor of -1 when it reflects. i.e. a reflection on the x axis.
-\\
-- Mirrors will decrease the area in the cave available for people to occupy. Avoid turning the cave into a mirror maze
-\\
-- 
+\begin{itemize}
+\item Vectors can be modeled on the Cartesian plane as 
+
+\item Light can be modeled as a relative position vector with origin at a mirror surface
+
+\item Light will reflect so that $\textrm{angle  of incidence} = \textrm{angle of refraction}$. This relationship can be modeled as the vectors $\bm{i}$ co-ordinate being scaled by a factor of $-1$ when it reflects. i.e. a reflection on the $x$-axis.
+
+\item Mirrors will decrease the area in the cave available for people to occupy. Avoid turning the cave into a mirror maze
+
+\item  
+\end{itemize}
+
 
 
 
 
 \subsection{Translation}
 \par 
-- Vector adition can be used to join each given vector and form the walls of the cave and the obstacles
-\\
-\\
-- Used excel to do vector adition with steps
-\\ 
-- Took points from excel and inserted them as seperate X and Y list in desmos
-\\
-- Graphed each point on list
+
+\begin{itemize}
+\item Vector addition can be used to join each given vector and form the walls of the cave and the obstacles
+
+\item Used Excel to do vector addition
+
+\item Took points from excel and inserted them as separate $x$ and $y$ list in desmos
+
+\item Graphed each point on list and joined points with lines.
+\end{itemize}
+
 
 \par 
 
@@ -73,7 +83,7 @@ In Order for a solution to be formed, a set of constants must be assumed.
 \subsection{Reasonableness}
 
 
-\subsection{Strenghts and Limitations of Solution}
+\subsection{Strengths and Limitations of Solution}
 
 
 \section{Conclusion}
