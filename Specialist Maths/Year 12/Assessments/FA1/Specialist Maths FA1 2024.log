@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2024.10.29)  1 NOV 2024 10:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2024.10.29)  1 NOV 2024 13:29
 entering extended mode
 **"./Specialist Maths FA1 2024.tex"
 ("Specialist Maths FA1 2024.tex"
@@ -147,34 +147,29 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--60
-
- []
-
-[3] ("Specialist Maths FA1 2024.aux") ) 
+ [3] ("Specialist Maths FA1 2024.aux") ) 
 Here is how much of TeX's memory you used:
  870 strings out of 495222
  12733 string characters out of 3179816
- 67446 words of memory out of 3000000
+ 68446 words of memory out of 3000000
  4199 multiletter control sequences out of 15000+200000
  11886 words of font info for 41 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  24i,6n,32p,378b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\gc021263\PortableApps\CommonF
-iles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi657\cmmi10.pk> <C:\Users\g
-c021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\d
-pi657\cmmib10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/dat
-a\fonts\pk\ljfour\public\cm\dpi657\cmsy10.pk> <C:\Users\gc021263\PortableApps\C
-ommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmbx12.pk> <C:\U
-sers\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\publi
-c\cm\dpi657\cmbx10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmf
-s/data\fonts\pk\ljfour\public\cm\dpi720\cmbx12.pk> <C:\Users\gc021263\PortableA
-pps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi657\cmr10.pk> <
-C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\p
-ublic\cm\dpi600\cmr12.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\te
-xmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmr17.pk>
-Output written on "Specialist Maths FA1 2024.pdf" (3 pages, 65070 bytes).
+ <C:\Users\gc021263\PortableApps\Common
+Files\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi657\cmmi10.pk> <C:\Users\
+gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\
+dpi657\cmmib10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/da
+ta\fonts\pk\ljfour\public\cm\dpi657\cmsy10.pk> <C:\Users\gc021263\PortableApps\
+CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmbx12.pk> <C:\
+Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\publ
+ic\cm\dpi657\cmbx10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texm
+fs/data\fonts\pk\ljfour\public\cm\dpi720\cmbx12.pk> <C:\Users\gc021263\Portable
+Apps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi657\cmr10.pk> 
+<C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\
+public\cm\dpi600\cmr12.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\t
+exmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmr17.pk>
+Output written on "Specialist Maths FA1 2024.pdf" (3 pages, 65019 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
