@@ -1,0 +1,41 @@
+# Created by Octave 9.2.0, Fri Nov 01 20:31:46 2024 AEST <noah@noah-Crackhead>
+# name: A
+# type: scalar
+1
+
+
+# name: B
+# type: scalar
+2
+
+
+# name: ans
+# type: scalar
+0.19329241723721846
+
+
+# name: c
+# type: matrix
+# rows: 4
+# columns: 1
+ 1
+ 2
+ 3
+ 4
+
+
+# name: m
+# type: matrix
+# rows: 2
+# columns: 2
+ 0.86315438407772371 0.41372987859757837
+ 0.64634964796742189 0.7493743070496347
+
+
+# name: r
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 2 3 4
+
+

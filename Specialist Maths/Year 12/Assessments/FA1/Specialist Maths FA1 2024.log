@@ -1,85 +1,79 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2024.10.29)  1 NOV 2024 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.29)  1 NOV 2024 18:48
 entering extended mode
-**"./Specialist Maths FA1 2024.tex"
-("Specialist Maths FA1 2024.tex"
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Specialist Maths FA1 2024.tex"
+(./Specialist Maths FA1 2024.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\bas
-e\article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\bas
-e\size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\geo
-metry\geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\gra
-phics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\generic\o
-berdiek\ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\generic\o
-berdiek\ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\generic\i
-fxetex\ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
-\Gm@dimlist=\toks15
-
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\geo
-metry\geometry.cfg))
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\too
-ls\bm.sty
-Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+(/usr/share/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
-LaTeX Info: Redefining \bm on input line 207.
-) ("Specialist Maths FA1 2024.aux")
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box51
+)
+(./Specialist Maths FA1 2024.aux)
 \openout1 = `"Specialist Maths FA1 2024.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -128,50 +122,40 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 [1
 
-
-
-pdfTeX warning: pdflatex.exe (file pdftex.map): cannot open font map file
-] ("Specialist Maths FA1 2024.toc"
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./Specialist Maths FA1 2024.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
 \tf@toc=\write3
 \openout3 = `"Specialist Maths FA1 2024.toc"'.
 
- [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
-
-(C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs\install\tex\latex\bas
-e\omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
- [3] ("Specialist Maths FA1 2024.aux") ) 
+ [2] [3] (./Specialist Maths FA1 2024.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 870 strings out of 495222
- 12733 string characters out of 3179816
- 68446 words of memory out of 3000000
- 4199 multiletter control sequences out of 15000+200000
- 11886 words of font info for 41 fonts, out of 3000000 for 9000
+ 1190 strings out of 476076
+ 19673 string characters out of 5793774
+ 1934187 words of memory out of 5000000
+ 23336 multiletter control sequences out of 15000+600000
+ 566656 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 24i,6n,32p,378b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\gc021263\PortableApps\Common
-Files\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi657\cmmi10.pk> <C:\Users\
-gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\
-dpi657\cmmib10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/da
-ta\fonts\pk\ljfour\public\cm\dpi657\cmsy10.pk> <C:\Users\gc021263\PortableApps\
-CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmbx12.pk> <C:\
-Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\publ
-ic\cm\dpi657\cmbx10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texm
-fs/data\fonts\pk\ljfour\public\cm\dpi720\cmbx12.pk> <C:\Users\gc021263\Portable
-Apps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi657\cmr10.pk> 
-<C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\
-public\cm\dpi600\cmr12.pk> <C:\Users\gc021263\PortableApps\CommonFiles\MiKTeX\t
-exmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmr17.pk>
-Output written on "Specialist Maths FA1 2024.pdf" (3 pages, 65019 bytes).
+ 57i,6n,65p,321b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/noah/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "Specialist Maths FA1 2024.pdf" (3 pages, 100114 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
