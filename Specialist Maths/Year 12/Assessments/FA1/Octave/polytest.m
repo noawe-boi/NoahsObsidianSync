@@ -1,3 +1,5 @@
+pkg load matgeom
+graphics_toolkit gnuplot
 close all
 rotm = @(a) [cos(a) -sin(a); sin(a) cos(a)];
 h = -0.5; # distance from existing polygon
