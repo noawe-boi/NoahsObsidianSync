@@ -18,6 +18,6 @@ Consider WW2. Germany's fate was looking dire. In the wake of their first confli
 Clearly German government had an ultimatum:  Succeed as a global power by taking what you need and becoming big enough that no one can stop you, or recede into a subpar country and play catch up for an indefinite amount of time.
 
 ##### Point again
-It's clear that war is in no way necessary, however the desires of man for  seemingly infinite growth and power make world peace a pipe dream. 
+It's clear that war is in no way necessary, however the desires of man for  seemingly infinite growth and power make world peace a pipe dream.
 
 
