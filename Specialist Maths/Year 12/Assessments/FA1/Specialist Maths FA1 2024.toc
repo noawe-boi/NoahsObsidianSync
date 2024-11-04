@@ -1,10 +1,11 @@
-\contentsline {section}{\numberline {1}Introduction}{3}{}%
-\contentsline {subsection}{\numberline {1.1}Premise}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Assumptions}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Observations}{3}{}%
-\contentsline {subsection}{\numberline {1.4}Translation}{3}{}%
-\contentsline {section}{\numberline {2}Solve}{3}{}%
-\contentsline {section}{\numberline {3}Evaluate}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Reasonableness}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Strengths and Limitations of Solution}{3}{}%
-\contentsline {section}{\numberline {4}Conclusion}{3}{}%
+\contentsline {section}{\numberline {1}{\Huge {Note:}}}{3}{}%
+\contentsline {section}{\numberline {2}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Premise}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Assumptions}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Observations}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Translation}{3}{}%
+\contentsline {section}{\numberline {3}Solve}{4}{}%
+\contentsline {section}{\numberline {4}Evaluate}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Reasonableness}{4}{}%
+\contentsline {subsection}{\numberline {4.2}Strengths and Limitations of Solution}{4}{}%
+\contentsline {section}{\numberline {5}Conclusion}{4}{}%

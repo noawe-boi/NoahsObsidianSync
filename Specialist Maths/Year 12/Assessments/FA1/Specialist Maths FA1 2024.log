@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.29)  3 NOV 2024 09:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.29)  3 NOV 2024 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -125,37 +125,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (./Specialist Maths FA1 2024.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 2.
+(Font)              <10.95> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `"Specialist Maths FA1 2024.toc"'.
 
- [2] [3] (./Specialist Maths FA1 2024.aux)
+ [2] [3] [4] (./Specialist Maths FA1 2024.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 19 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 1190 strings out of 476076
- 19673 string characters out of 5793774
+ 1194 strings out of 476076
+ 19733 string characters out of 5793774
  1934187 words of memory out of 5000000
- 23336 multiletter control sequences out of 15000+600000
- 566656 words of font info for 64 fonts, out of 8000000 for 9000
+ 23339 multiletter control sequences out of 15000+600000
+ 567616 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,6n,65p,321b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/noah/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Specialist Maths FA1 2024.pdf" (3 pages, 100355 bytes).
+ 57i,6n,65p,321b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/noah/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcr
+m1095.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Specialist Maths FA1 2024.pdf" (4 pages, 114380 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
