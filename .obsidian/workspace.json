@@ -4,115 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a38b8b0053fbb525",
+        "id": "98812c9b7915b063",
         "type": "tabs",
         "children": [
           {
-            "id": "f54008f6eedb5098",
+            "id": "e33a37b82e5cb17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/03-11-2024.md",
+                "file": "Methods 6H Applications of Exponential Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-11-2024"
+              "title": "Methods 6H Applications of Exponential Functions"
             }
           },
           {
-            "id": "151383d327ee78a8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20241103150002.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241103150002"
-            }
-          },
-          {
-            "id": "0a1e74d94907e335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics 7.1 Forces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physics 7.1 Forces"
-            }
-          },
-          {
-            "id": "33cb35f48de3c83c",
+            "id": "ade6d964501ea6b4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Physics 7.1 Key Questions 2-10 P258.md"
+                "file": "Excalidraw/Exercise 6H Applications of Exponential Functions.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Physics 7.1 Key Questions 2-10 P258"
-            }
-          },
-          {
-            "id": "47e80dca0aca9393",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics Example 7.1.1. p257.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics Example 7.1.1. p257"
-            }
-          },
-          {
-            "id": "58366811c6fa6dc2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Net force example.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Net force example"
-            }
-          },
-          {
-            "id": "46351411566c2904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Practice Peel Paragraph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English Practice Peel Paragraph"
-            }
-          },
-          {
-            "id": "b4891a74a9ab9c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Activity - The Bosnian War.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English Activity - The Bosnian War"
+              "title": "Exercise 6H Applications of Exponential Functions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -294,22 +217,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33cb35f48de3c83c",
+  "active": "ade6d964501ea6b4",
   "lastOpenFiles": [
+    "Methods 6H Applications of Exponential Functions.md",
+    "Excalidraw/Exercise 6H Applications of Exponential Functions.md",
+    "Excalidraw/Methods Example 35.md",
+    "Excalidraw/Methods Example 34.md",
+    "Excalidraw/Methods  Example 33 p222.md",
+    "English Activity - The Bosnian War.md",
+    "English Practice Peel Paragraph.md",
+    "Excalidraw/Net force example.md",
+    "Excalidraw/Physics Example 7.1.1. p257.md",
+    "Excalidraw/Physics 7.1 Key Questions 2-10 P258.md",
     "Pasted Image 20241104124359_360.png",
     "Pasted Image 20241104124113_270.png",
     "Pasted Image 20241104123852_267.png",
     "Physics 7.1 Forces.md",
-    "Excalidraw/Physics 7.1 Key Questions 2-10 P258.md",
     "Pasted Image 20241104123642_381.png",
     "Pasted Image 20241104123433_273.png",
     "Pasted image 20241104123424.png",
-    "Excalidraw/Physics Example 7.1.1. p257.md",
     "Daily Notes/03-11-2024.md",
-    "Excalidraw/Net force example.md",
     "Images/Pasted image 20241103150002.png",
-    "English Activity - The Bosnian War.md",
-    "English Practice Peel Paragraph.md",
     "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
     "Images/Business/Pasted Image 20241031095804_184.png",
     "Daily Notes/01-11-2024.md",
@@ -321,7 +249,6 @@
     "Specialist Maths/Year 12/Assessments/FA1/Images/pasted_image-2.png",
     "Specialist Maths/Year 12/Assessments/FA1/Images",
     "Images/Pasted image 20241101205021.png",
-    "Images/Pasted image 20241101202604.png",
     "Octave Cheat Sheet.md",
     "Maths Methods/Year 12/Notes/Methods 6G Solving equations involving exponential and logarithmic functions.md",
     "Physics/Year 12/Physics 6.6 Graphs of Motion.md",
@@ -335,10 +262,6 @@
     "Excalidraw/Physics position time graph example.md",
     "Excalidraw/Velcoity time graph physics example 2.md",
     "Excalidraw/Velcoity time graph physics example.md",
-    "Excalidraw/Physics 6.6 Key Questions.md",
-    "Excalidraw/Physiscs Example 6.6.1 p234.md",
-    "Excalidraw/Physics 6.6.3 p239.md",
-    "Excalidraw/Physics 6.6.2 p237.md",
     "Specialist Maths/Year 12/Assessments/FA1/Vector Addition.ods",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.II6SW2",
