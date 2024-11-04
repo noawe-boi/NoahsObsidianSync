@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "98812c9b7915b063",
+        "id": "60f5d6c02449498f",
         "type": "tabs",
         "children": [
           {
-            "id": "e33a37b82e5cb17b",
+            "id": "4eafd10442bbab7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Methods 6H Applications of Exponential Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted Image 20241104124359_360.png"
               },
-              "icon": "lucide-file",
-              "title": "Methods 6H Applications of Exponential Functions"
-            }
-          },
-          {
-            "id": "ade6d964501ea6b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Exercise 6H Applications of Exponential Functions.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Exercise 6H Applications of Exponential Functions"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20241104124359_360"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -217,10 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ade6d964501ea6b4",
+  "active": "4eafd10442bbab7c",
   "lastOpenFiles": [
-    "Methods 6H Applications of Exponential Functions.md",
+    "Untitled.canvas",
+    "Images/Pasted Image 20241104124359_360.png",
+    "Images/Pasted Image 20241104124113_270.png",
     "Excalidraw/Exercise 6H Applications of Exponential Functions.md",
+    "Methods 6H Applications of Exponential Functions.md",
     "Excalidraw/Methods Example 35.md",
     "Excalidraw/Methods Example 34.md",
     "Excalidraw/Methods  Example 33 p222.md",
@@ -229,13 +216,11 @@
     "Excalidraw/Net force example.md",
     "Excalidraw/Physics Example 7.1.1. p257.md",
     "Excalidraw/Physics 7.1 Key Questions 2-10 P258.md",
-    "Pasted Image 20241104124359_360.png",
-    "Pasted Image 20241104124113_270.png",
-    "Pasted Image 20241104123852_267.png",
+    "Images/Pasted Image 20241104123852_267.png",
     "Physics 7.1 Forces.md",
-    "Pasted Image 20241104123642_381.png",
-    "Pasted Image 20241104123433_273.png",
-    "Pasted image 20241104123424.png",
+    "Images/Pasted Image 20241104123642_381.png",
+    "Images/Pasted Image 20241104123433_273.png",
+    "Images/Pasted image 20241104123424.png",
     "Daily Notes/03-11-2024.md",
     "Images/Pasted image 20241103150002.png",
     "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
@@ -255,13 +240,11 @@
     "Excalidraw/Chemistry Worked Example 17.3A Drawing.md",
     "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
-    "Untitled.canvas",
     "Chemistry/Year 12/Notes/Chemistry Worked Example 17.3A.md",
     "Excalidraw/Chemistry Worked Example 2.4B.md",
     "Excalidraw/Drawing 2024-10-31 12.11.02.excalidraw.md",
     "Excalidraw/Physics position time graph example.md",
     "Excalidraw/Velcoity time graph physics example 2.md",
-    "Excalidraw/Velcoity time graph physics example.md",
     "Specialist Maths/Year 12/Assessments/FA1/Vector Addition.ods",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.II6SW2",
