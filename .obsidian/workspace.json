@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "151383d327ee78a8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241103150002.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241103150002"
+            }
+          },
+          {
             "id": "46351411566c2904",
             "type": "leaf",
             "state": {
@@ -49,8 +61,7 @@
               "title": "English Activity - The Bosnian War"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,14 +243,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4891a74a9ab9c3b",
+  "active": "f54008f6eedb5098",
   "lastOpenFiles": [
+    "Images/Pasted image 20241103150002.png",
+    "Daily Notes/03-11-2024.md",
     "English Activity - The Bosnian War.md",
     "English Practice Peel Paragraph.md",
     "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
-    "Images/Pasted image 20241103150002.png",
     "Images/Business/Pasted Image 20241031095804_184.png",
-    "Daily Notes/03-11-2024.md",
     "Daily Notes/01-11-2024.md",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt2.m",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt workspace",
@@ -280,7 +291,6 @@
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.II6SW2",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.toc",
-    "Specialist Maths/Year 12/Notes/Specialist 2.3 Vectors in the plane.md",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
