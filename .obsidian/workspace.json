@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "60f5d6c02449498f",
+        "id": "1959c8df75ba27e7",
         "type": "tabs",
         "children": [
           {
-            "id": "4eafd10442bbab7c",
+            "id": "9b3991860a57f864",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted Image 20241104124359_360.png"
+                "file": "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20241104124359_360"
+              "icon": "lucide-file",
+              "title": "The Equilibrium Constant"
+            }
+          },
+          {
+            "id": "cd62aef4dc25ba0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Finding Qc Sample Problem 22.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Finding Qc Sample Problem 22"
+            }
+          },
+          {
+            "id": "89273cdcfb1fdd17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chemistry Sample Problem 22.3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chemistry Sample Problem 22.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Enthalpy",
+                "query": "k_c",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -71,11 +98,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -201,10 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4eafd10442bbab7c",
+  "active": "cd62aef4dc25ba0d",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Pasted Image 20241104145715_615.png",
+    "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
+    "Excalidraw/Finding Qc Sample Problem 22.md",
+    "Excalidraw/Chemistry Sample Problem 22.3.md",
+    "Pasted Image 20241104144955_852.png",
+    "Pasted image 20241104143914.png",
+    "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
     "Images/Pasted Image 20241104124359_360.png",
+    "Untitled.canvas",
     "Images/Pasted Image 20241104124113_270.png",
     "Excalidraw/Exercise 6H Applications of Exponential Functions.md",
     "Methods 6H Applications of Exponential Functions.md",
@@ -223,7 +259,6 @@
     "Images/Pasted image 20241104123424.png",
     "Daily Notes/03-11-2024.md",
     "Images/Pasted image 20241103150002.png",
-    "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
     "Images/Business/Pasted Image 20241031095804_184.png",
     "Daily Notes/01-11-2024.md",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt2.m",
@@ -231,20 +266,15 @@
     "Specialist Maths/Year 12/Assessments/FA1/Octave/PSMT 1.m",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/polytest.m",
     "Specialist Maths/Year 12/Assessments/FA1/Octave",
-    "Specialist Maths/Year 12/Assessments/FA1/Images/pasted_image-2.png",
     "Specialist Maths/Year 12/Assessments/FA1/Images",
-    "Images/Pasted image 20241101205021.png",
     "Octave Cheat Sheet.md",
     "Maths Methods/Year 12/Notes/Methods 6G Solving equations involving exponential and logarithmic functions.md",
     "Physics/Year 12/Physics 6.6 Graphs of Motion.md",
     "Excalidraw/Chemistry Worked Example 17.3A Drawing.md",
-    "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
     "Excalidraw/Drawing 2024-07-15 12.35.49.excalidraw.md",
     "Chemistry/Year 12/Notes/Chemistry Worked Example 17.3A.md",
     "Excalidraw/Chemistry Worked Example 2.4B.md",
     "Excalidraw/Drawing 2024-10-31 12.11.02.excalidraw.md",
-    "Excalidraw/Physics position time graph example.md",
-    "Excalidraw/Velcoity time graph physics example 2.md",
     "Specialist Maths/Year 12/Assessments/FA1/Vector Addition.ods",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
     "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.tex.II6SW2",
