@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "fce35bf869b18706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics Finding Uncertainty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics Finding Uncertainty"
+            }
+          },
+          {
             "id": "11c87804d449e808",
             "type": "leaf",
             "state": {
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25cdaef8f5a3a274",
@@ -232,8 +245,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d48adf803917553",
+  "active": "fce35bf869b18706",
   "lastOpenFiles": [
+    "Physics/Year 12/Experiments/F279F820",
+    "Physics/Year 12/Experiments/F0B7F820",
+    "Physics/Year 12/Experiments/50B7F820",
+    "Physics/Year 12/Experiments/6A87F820",
+    "Physics/Year 12/Experiments/B987F820",
+    "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
+    "Physics Finding Uncertainty.md",
     "Chemistry/Year 12/Notes/Chemistry The RICE Table.md",
     "Excalidraw/CHemistry Worked Example 17.3D.md",
     "Pasted Image 20241105141026_181.png",
@@ -254,7 +274,6 @@
     "English/Year 12/ExcerCises/English Activity - The Bosnian War.md",
     "English/Year 12/ExcerCises",
     "English/Year 12",
-    "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
     "Excalidraw/Finding Qc Sample Problem 22.md",
     "Pasted Image 20241104145715_615.png",
     "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
@@ -271,15 +290,10 @@
     "English Practice Peel Paragraph.md",
     "Excalidraw/Net force example.md",
     "Excalidraw/Physics Example 7.1.1. p257.md",
-    "Excalidraw/Physics 7.1 Key Questions 2-10 P258.md",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt2.m",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt workspace",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/PSMT 1.m",
     "Specialist Maths/Year 12/Assessments/FA1/Octave/polytest.m",
-    "Specialist Maths/Year 12/Assessments/FA1/Octave",
-    "Specialist Maths/Year 12/Assessments/FA1/Images",
-    "Specialist Maths/Year 12/Assessments/FA1/Vector Addition.ods",
-    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
     "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
     "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
     "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
