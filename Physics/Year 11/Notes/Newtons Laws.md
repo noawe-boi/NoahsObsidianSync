@@ -1,4 +1,4 @@
-- [[Newtons First Law]]
-- [[Newtons Second Law]]
-- [[Newtons Third Law]]
+- ![[Newtons First Law]]
+- ![[Newtons Second Law]]
+- ![[Newtons Third Law]]
 - laws on how [[Energy]] interacts with object
