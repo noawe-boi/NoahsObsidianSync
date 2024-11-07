@@ -26,4 +26,3 @@ line (p2(1, :), p2(2, :), "color", "red");
 axis equal
 grid on
 
-generated plot

@@ -46,7 +46,7 @@ for J=[0:7]
   end
 EQNS(ROW, 1) = x(1)
 EQNS(ROW, 2) = x(2)
-save x.dat EQNS
+save X1.dat EQNS
 ROW = ROW + 1
 
 

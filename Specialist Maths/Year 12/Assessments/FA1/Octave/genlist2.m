@@ -15,20 +15,20 @@ plot(0, 0)
 
 hold on
 %finding X1 equations
-for J=[0:7]
+for J=[0:8]
   K=J+1
 
-  if gt(X1(1+J), X1(2+J))
+  if gt(X2(1+J), X2(2+J))
 
 
 
   h=2
-  x=polyfit(X1(J+1:J+2),Y1(J+1:J+2), 1)
-  plot(X1(K+1):X1(K) , x(1)*(X1(K+1):X1(K)) + x(2), 'p')
+  x=polyfit(X2(J+1:J+2),Y2(J+1:J+2), 1)
+  plot(X2(K+1):X2(K) , x(1)*(X2(K+1):X2(K)) + x(2), 'p')
   end
 
 
-  if gt(X1(2+J), X1(1+J))
+  if gt(X2(2+J), X2(1+J))
 
 
 
@@ -41,18 +41,18 @@ for J=[0:7]
 
 
   h=1
-  x=polyfit(X1(J+1:J+2),Y1(J+1:J+2), 1)
-  plot(X1(K):X1(K+1) , x(1)*(X1(K):X1(K+1)) + x(2), 'p')
+  x=polyfit(X2(J+1:J+2),Y2(J+1:J+2), 1)
+  plot(X2(K):X2(K+1) , x(1)*(X2(K):X2(K+1)) + x(2), 'p')
   end
 EQNS(ROW, 1) = x(1)
 EQNS(ROW, 2) = x(2)
-save x.dat EQNS
+save X2.dat EQNS
 ROW = ROW + 1
 
 
   %plotting
 %plot(X1(K+1):X1(K) , x(1)*(X1(K+1):X1(K)) + x(2), 'p')
-a=(X1(K):X1(K+1))
+a=(X2(K):X2(K+1))
 %plot(X1(K):X1(K+1) , x(1)*(X1(K):X1(K+1)) + x(2), 'p')
 line(X1(1:9),Y1(1:9))
 line(X2(1:10),Y2(1:10))
