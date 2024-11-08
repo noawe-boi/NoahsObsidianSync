@@ -1,132 +1,66 @@
 {
   "main": {
-    "id": "f95aebb792ed6f10",
+    "id": "5da01a89d1ed116b",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "f80696757c4461eb",
+        "id": "68354a12b2a03227",
         "type": "tabs",
         "children": [
           {
-            "id": "4d36f32bd626507a",
-=======
-        "id": "18df2f4ee4688ac0",
-        "type": "tabs",
-        "children": [
-          {
-<<<<<<< HEAD
-            "id": "26e18d9f5a7b3615",
+            "id": "e37627307311e804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 6H Applications of Exponential Functions.md",
+                "file": "Daily Notes/08-11-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 6H Applications of Exponential Functions"
+              "title": "08-11-2024"
             }
           },
           {
-            "id": "b335d6734535ba75",
-=======
-            "id": "ee9d59694ef4c581",
->>>>>>> 41303e02670399a06048ba9522223943f6bd6abd
->>>>>>> d839cfa8bfe3bb81b9e5e675d9b64afc6e033211
+            "id": "8eff123cd05f0aa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Specliast Chapter 2 Review Year 11 Textbook.md"
               },
-              "icon": "lucide-file",
-              "title": "Le Chateliers Principle"
+              "icon": "excalidraw-icon",
+              "title": "Specliast Chapter 2 Review Year 11 Textbook"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "564c49ee98c1df10",
-=======
-<<<<<<< HEAD
-            "id": "1ebecfc9eeeb8cb8",
+            "id": "e258deb877239211",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Physics/Year 12/Physics 7.1 Forces.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Specialist Excercise 2.8.md"
               },
-              "icon": "lucide-file",
-              "title": "Physics 7.1 Forces"
-            }
-          },
-          {
-            "id": "c0aae4ee979fd819",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "07bdd9a624708d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 12/Physics 6.3 Key Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physics 6.3 Key Questions"
+              "icon": "excalidraw-icon",
+              "title": "Specialist Excercise 2.8"
             }
           }
         ],
-        "currentTab": 4
-=======
-            "id": "135da01b10160b9b",
->>>>>>> d839cfa8bfe3bb81b9e5e675d9b64afc6e033211
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20241104201847.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241104201847"
-            }
-          }
-<<<<<<< HEAD
-        ]
-=======
-        ],
-        "currentTab": 1
->>>>>>> 41303e02670399a06048ba9522223943f6bd6abd
->>>>>>> d839cfa8bfe3bb81b9e5e675d9b64afc6e033211
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9ca0893186ab1f33",
+    "id": "e1f90159b1539ca5",
     "type": "split",
     "children": [
       {
-        "id": "d2a5ff39f8625121",
+        "id": "85e1193427d0ef70",
         "type": "tabs",
         "children": [
           {
-            "id": "a2dc3f84dabd50cb",
+            "id": "71f905eb9a247d5c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -138,7 +72,7 @@
             }
           },
           {
-            "id": "6d65862a6837d9d7",
+            "id": "3e93f4df32d940e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -155,7 +89,7 @@
             }
           },
           {
-            "id": "0aba816150cb6bf0",
+            "id": "9157a1eae381025c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -168,23 +102,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "633c880920acd7c6",
+    "id": "c15155f403a57a28",
     "type": "split",
     "children": [
       {
-        "id": "91e153c843e6fd24",
+        "id": "90d8bb537c005691",
         "type": "tabs",
         "children": [
           {
-            "id": "439fa7cb6da5ad8d",
+            "id": "65067e368d3e8dc1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 6H Applications of Exponential Functions.md",
+                "file": "Daily Notes/08-11-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,25 +129,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Methods 6H Applications of Exponential Functions"
+              "title": "Backlinks for 08-11-2024"
             }
           },
           {
-            "id": "397750230fb881bf",
+            "id": "970cd2ac188a298f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 6H Applications of Exponential Functions.md",
+                "file": "Daily Notes/08-11-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Methods 6H Applications of Exponential Functions"
+              "title": "Outgoing links from 08-11-2024"
             }
           },
           {
-            "id": "4efca2c3c7ada813",
+            "id": "2ecd4b1c4c53bd70",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -225,7 +160,7 @@
             }
           },
           {
-            "id": "37d3606b91543422",
+            "id": "9d5826a8fbdd6b7d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -239,19 +174,19 @@
             }
           },
           {
-            "id": "1ccf5ff220e9f5fa",
+            "id": "8fa64b66873c39c3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 6H Applications of Exponential Functions.md"
+                "file": "Daily Notes/08-11-2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Methods 6H Applications of Exponential Functions"
+              "title": "Outline of 08-11-2024"
             }
           },
           {
-            "id": "08e2bb6e388c9394",
+            "id": "39b7628e6af5c0ba",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -281,93 +216,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "4d36f32bd626507a",
-=======
-<<<<<<< HEAD
-  "active": "07bdd9a624708d18",
+  "active": "e258deb877239211",
   "lastOpenFiles": [
-    "Physics/Year 12/Physics 6.4 Acceleration.md",
-    "Physics/Year 11/Notes/Physics 5.2 Series Circuts.md",
-    "Maths Methods/Year 12/Notes/Methods 6H Applications of Exponential Functions.md",
-    "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
-    "Physics/Year 12/Experiments/Finding the magnitude of acceleration of gravity physics.xlsx",
-    "Physics/Year 12/Experiments",
-    "Physics Finding Uncertainty.md",
-=======
-  "active": "135da01b10160b9b",
->>>>>>> d839cfa8bfe3bb81b9e5e675d9b64afc6e033211
-  "lastOpenFiles": [
-    "Images/Pasted image 20241104201847.png",
-    "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
-    "Excalidraw/Physics Example 7.2.3 p266.md",
-    "Excalidraw/Physics Example 7.2.1 p265.md",
-    "Excalidraw/Physics Example 7.2.2 p266.md",
-    "Excalidraw/Physics Example 7.2.4 p267.md",
-    "Pasted Image 20241107094016_635.png",
-    "Physics 7.2 Newton's Laws of motion.md",
-    "Physics Finding Uncertainty.md",
-    "Pasted Image 20241107093737_747.png",
-    "Pasted Image 20241107093254_688.png",
-    "Pasted Image 20241107093223_662.png",
-    "Physics/Year 11/Notes/Newtons Laws.md",
-    "Physics/Year 12/Experiments/F279F820",
-    "Physics/Year 12/Experiments/F0B7F820",
-    "Physics/Year 12/Experiments/50B7F820",
-    "Physics/Year 12/Experiments/6A87F820",
-    "Physics/Year 12/Experiments/B987F820",
-    "Chemistry/Year 12/Notes/Chemistry The RICE Table.md",
-    "Excalidraw/CHemistry Worked Example 17.3D.md",
->>>>>>> 41303e02670399a06048ba9522223943f6bd6abd
-    "Pasted Image 20241105141026_181.png",
-    "Methods 6I Applications of Logarithmic Functions.md",
-    "Excalidraw/Methods Example 40 P230.md",
-    "Excalidraw/Methods Example 39 P230.md",
-    "Excalidraw/Methods Example 38 P229.md",
-<<<<<<< HEAD
-    "Excalidraw/Methods Example 37 P228.md",
-    "Excalidraw/CHemistry Worked Example 17.3D.md",
-    "Images/Pasted image 20241104201847.png",
-    "Chemistry/Year 12/Notes/Chemistry The RICE Table.md",
-    "Images/Pasted Image 20241104200436_700.png",
-    "Excalidraw/Chemistry Worked Example 2.4C.md",
-    "English/Year 12/ExcerCises/English Activity - The Bosnian War.md",
-    "English/Year 12/ExcerCises",
-    "Images/Pasted image 20241104143914.png",
-    "Images/Pasted Image 20241104144955_852.png",
-    "Physics/Year 12/Physics 7.1 Forces.md",
-    "Images/Pasted Image 20241104145715_615.png",
-    "English/Year 12/ExcerCises/English Practice Peel Paragraph.md"
-=======
-    "Images/Pasted Image 20241104145715_615.png",
-    "Images/Pasted Image 20241104144955_852.png",
-    "Images/Pasted Image 20241031095804_184.png",
-    "Images/Pasted Image 20241031095607_398.png",
-    "Images/Pasted Image 20241031095409_141.png",
-    "English/Year 12/ExcerCises/English Practice Peel Paragraph.md",
-    "English/Year 12/ExcerCises/English Activity - The Bosnian War.md",
-    "English/Year 12/ExcerCises",
-    "English/Year 12",
-    "Excalidraw/Finding Qc Sample Problem 22.md",
-    "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
-    "Excalidraw/Chemistry Sample Problem 22.3.md",
-    "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
-    "Untitled.canvas",
-    "Excalidraw/Exercise 6H Applications of Exponential Functions.md",
-    "Methods 6H Applications of Exponential Functions.md",
-    "Excalidraw/Methods Example 35.md",
-    "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt2.m",
-    "Specialist Maths/Year 12/Assessments/FA1/Octave/psmt workspace",
-    "Specialist Maths/Year 12/Assessments/FA1/Octave/PSMT 1.m",
-    "Physics/Year 11/Notes/Physics 9.1 Describing a wave.canvas",
-    "Physics/Year 11/Physics 9.1 Describing a wave.canvas",
-    "Chemistry/Year 11/Assignments/Year 11 Chemistry IA4 Canvas.canvas",
-    "Chemistry/Year 11/Assignments/Chemistry IA4 Canvas.canvas",
-    "Chemistry/Year 11/Year 11 Chemistry IA4 Canvas.canvas",
-    "Chemistry/Year 11/Chemistry IA4 Canvas.canvas",
-    "Chemistry/Year 11 Chemistry IA4 Canvas.canvas",
-    "Physics/Physics 9.1 Describing a wave.canvas",
-    "Untitled 1.canvas"
->>>>>>> 41303e02670399a06048ba9522223943f6bd6abd
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Specliast Chapter 2 Review Year 11 Textbook.md",
+    "Excalidraw/Specialist Excercise 2.8.md",
+    "Daily Notes/08-11-2024.md",
+    "{9CEEF361-EDFF-4D14-90B7-5DA31F839D2B}.png",
+    "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md"
   ]
 }
