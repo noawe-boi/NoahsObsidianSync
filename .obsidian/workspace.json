@@ -37,12 +37,14 @@
             "id": "e258deb877239211",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Specialist Excercise 2.8.md"
+                "file": "Physics/Year 11/Notes/Physics 11.3 Reflection of light.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Specialist Excercise 2.8"
+              "icon": "lucide-file",
+              "title": "Physics 11.3 Reflection of light"
             }
           }
         ],
@@ -77,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reflection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +100,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c15155f403a57a28",
@@ -218,10 +220,17 @@
   },
   "active": "e258deb877239211",
   "lastOpenFiles": [
+    "Physics/Year 11/Notes/9.3 Reflection.md",
+    "English/Year 11/Notes/English Narrative Writing Exercise 12-5-2024.md",
+    "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
+    "Physics/Year 11/Notes/Physics 11.1 Light as a wave.md",
+    "Excalidraw/Transverse reflection loose end.md",
+    "Excalidraw/Transverse Reflection DIagram.md",
+    "Physics/Year 11/Notes/Physics 11.3 Reflection of light.md",
+    "Excalidraw/Specialist Excercise 2.8.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Excalidraw/Scripts/Downloaded/Palette loader.md",
     "Excalidraw/Specliast Chapter 2 Review Year 11 Textbook.md",
-    "Excalidraw/Specialist Excercise 2.8.md",
     "Daily Notes/08-11-2024.md",
     "{9CEEF361-EDFF-4D14-90B7-5DA31F839D2B}.png",
     "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md"
