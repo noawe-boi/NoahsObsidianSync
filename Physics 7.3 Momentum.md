@@ -25,7 +25,6 @@ $\Delta \rho = ft$
 ![[Physics Example 7.3.2]]
 
 ### Example 7.3.3
-
+![[Physics Example 7.3.3]]
 ## 7.3 Review
-
-
+![[Physics 7.3 Review]]
