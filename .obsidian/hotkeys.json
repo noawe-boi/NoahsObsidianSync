@@ -14,5 +14,14 @@
       ],
       "key": "]"
     }
+  ],
+  "switcher:open": [],
+  "obsidian-another-quick-switcher:search-command_recent-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }
