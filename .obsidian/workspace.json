@@ -61,7 +61,8 @@
               "title": "Holidays TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,10 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88f066eddcea0419",
+  "active": "dc406f1f94627f0a",
   "lastOpenFiles": [
-    "Excalidraw/Methods 8A Example 2.md",
     "Methods 8A The Chain Rule.md",
+    "Excalidraw/Methods 8A Example 2.md",
     "Excalidraw/Methods 8A Example 1.md",
     "Personal Notes/Holidays TODO.md",
     "Daily Notes/11-11-2024.md",
