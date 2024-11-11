@@ -2,7 +2,7 @@
 tags:
   - physics
 ---
-o![[mr ace mirror diagram]]
+![[mr ace mirror diagram]]
 ### Virtual Images
 When an image forms behind a mirror and can be seen by looking into a mirror, it is classified as a virtual image. 
 
