@@ -21,6 +21,8 @@ for k=1:columns(p)
   line ([p(1, k);p2(1,k)], [p(2, k);p2(2,k)], "color", "magenta");
 endfor
 
+
+
 line (p(1, :), p(2, :), "color", "green");
 line (p2(1, :), p2(2, :), "color", "red");
 axis equal
