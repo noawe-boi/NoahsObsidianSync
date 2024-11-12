@@ -8,8 +8,7 @@ tags:
 The concentration of components in an equilibrium reaction
 
 ## Conditions
-- Rate of product formation = rate of reactant formation
-However
+- Rate of However
 - Concentration of product $\ne$ Concentration of reactant 
 	- Or at least, it doesn't have to
 
