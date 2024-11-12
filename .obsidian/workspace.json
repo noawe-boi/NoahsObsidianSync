@@ -50,19 +50,21 @@
             }
           },
           {
-            "id": "099c9a1bdd7356a7",
+            "id": "b56e1fa16d1a759f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Chemistry Le Chatliers Examples.md"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Chemistry Le Chatliers Examples"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Le Chateliers Principle.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Le Chateliers Principle"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -232,11 +234,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a68691eda5172ad",
+  "active": "b56e1fa16d1a759f",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
+    "conflict-files-obsidian-git.md",
+    "Methods 8B Differentiating Rational Powers.md",
     "Le Chatliers Princiople backup.md",
     "Excalidraw/Chemistry Le Chatliers Examples.md",
-    "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
     "Pasted Image 20241111183459_679.png",
     "Daily Notes/12-11-2024.md",
     "Daily Notes/11-11-2024.md",
@@ -266,7 +270,6 @@
     "Excalidraw/Transverse Reflection DIagram.md",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "{9CEEF361-EDFF-4D14-90B7-5DA31F839D2B}.png",
-    "Chemistry/Year 12/Notes/Collision Theory - Rate of Reaction.md"
+    "{9CEEF361-EDFF-4D14-90B7-5DA31F839D2B}.png"
   ]
 }
