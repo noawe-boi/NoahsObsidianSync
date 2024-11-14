@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3bc9f4464432af62",
+        "id": "d185bb437656e888",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2b5e3a3d0bfe91",
+            "id": "7cd5b0472d157977",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Methods 8B Differentiating Rational Powers.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Physics Chapter 7 Review Year 11 Textbook.md"
               },
-              "icon": "lucide-file",
-              "title": "Methods 8B Differentiating Rational Powers"
+              "icon": "excalidraw-icon",
+              "title": "Physics Chapter 7 Review Year 11 Textbook"
             }
           }
         ]
@@ -183,8 +181,8 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
@@ -192,8 +190,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab2b5e3a3d0bfe91",
+  "active": "7cd5b0472d157977",
   "lastOpenFiles": [
+    "Excalidraw/Physics Exercise 7.5.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Physics Chapter 7 Review Year 11 Textbook.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Daily Notes/14-11-2024.md",
+    "Specialist Maths/Year 12/Assessments/FA1/Mirror Locations Spreadsheet.ods",
+    "Physics/Year 12/Physics Finding Uncertainty.md",
+    "Physics/Year 12/Physics 7.3 Momentum.md",
+    "Physics/Year 12/Physics 7.2 Newton's Laws of motion.md",
+    "Maths Methods/Year 12/Notes/Methods 8B Differentiating Rational Powers.md",
+    "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
+    "Maths Methods/Year 12/Notes/Methods 6I Applications of Logarithmic Functions.md",
+    "Images/{9CEEF361-EDFF-4D14-90B7-5DA31F839D2B}.png",
+    "Images/{88636552-CABE-44CC-AD6F-F86CD73C98A3}.png",
+    "Images/Pasted Image 20241111121954_596.png",
+    "Images/Pasted Image 20241111121814_520.png",
+    "Methods 8B Differentiating Rational Powers.md",
+    "Images/Pasted Image 20241111121713_890.png",
+    "Images/Pasted Image 20241107094016_635.png",
+    "Images/Pasted Image 20241107093737_747.png",
+    "Images/Pasted Image 20241107093254_688.png",
+    "Images/Pasted Image 20241107093223_662.png",
+    "Images/Pasted Image 20241105141026_181.png",
     "Excalidraw/Methods 8C example drawng 2.md",
     "Excalidraw/Methods 8C example drawng.md",
     "Excalidraw/Specialist Excercise 2.8.md",
@@ -203,28 +225,10 @@
     "Chemistry le chatliers examples 2.md",
     "Daily Notes/11-11-2024.md",
     "Chemistry/Year 12/Notes/Le Chateliers Principle.md",
-    "Methods 8B Differentiating Rational Powers.md",
     "Daily Notes/08-11-2024.md",
     "Physics 7.3 Momentum.md",
     "Excalidraw/Physics 7.3 Review.md",
     "Daily Notes/2-09-2024.md",
-    "Excalidraw/Specliast Chapter 2 Review Year 11 Textbook.md",
-    "Physics/Year 11/Notes/Physics 11.3 Reflection of light.md",
-    "{88636552-CABE-44CC-AD6F-F86CD73C98A3}.png",
-    "Pasted Image 20241111121954_596.png",
-    "Pasted Image 20241111121814_520.png",
-    "Pasted Image 20241111121713_890.png",
-    "Methods 8A The Chain Rule.md",
-    "Excalidraw/Physics Example 7.3.3.md",
-    "Excalidraw/Physics Example 7.3.2.md",
-    "Excalidraw/Physics Example 7.3.1 p277.md",
-    "Excalidraw/Methods 8A Example 1.md",
-    "Physics/Year 11/Notes/9.3 Reflection.md",
-    "English/Year 11/Notes/English Narrative Writing Exercise 12-5-2024.md",
-    "Maths Methods/Year 12/Notes/Methods 6A Exponential Functions.md",
-    "Physics/Year 11/Notes/Physics 11.1 Light as a wave.md",
-    "Excalidraw/Transverse reflection loose end.md",
-    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "{9CEEF361-EDFF-4D14-90B7-5DA31F839D2B}.png"
+    "Excalidraw/Specliast Chapter 2 Review Year 11 Textbook.md"
   ]
 }
