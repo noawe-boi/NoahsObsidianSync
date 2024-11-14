@@ -27,5 +27,6 @@
   "alwaysUpdateLinks": true,
   "vimMode": false,
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showLineNumber": false
 }
