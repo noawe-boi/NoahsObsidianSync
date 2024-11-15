@@ -13,7 +13,7 @@
 	
 	\maketitle
 	\centering
-	\includegraphics[width=15cm]{Images/6Cave.png}
+	\includegraphics[width=15cm]{Images/Cave.png}
 	
 \end{titlepage}
 
@@ -22,12 +22,32 @@
 
 
 \newpage
+\section{Draft Note}
+Hey Sir!
+I know this looks bad but I ended up doing the mental equlivalent of banging my head against the wall for an hour after you left me in the library and then I passed out on the floor under a desk for an hour...
+
+Major Questions:
+\begin{itemize}
+	\item Should I be describing how I got to my solution the way I am (in tems of number of steps as I am yet to flesh each step out fully)  
+	
+	\item What excatly goes in the solve section? I am describing a lot of my math in the translation section and I believe I should be moving a lot of it to my solve section. Would you agree or disagree?
+	
+	\item I have multiple solutions that are iterations on the previous one. I have one that I know is the best, but I also have another that I believe was a major inprovement on the previous one and directly leads to my final solution. Any advice on if, and how, I should integrate this into my final submission. 
+	
+	\item I believe that I am on the right track when it comes to my strengths and limitations, I just dont have much there yet. As to say i think what I have is good I just need more of it. Agree or disagree?
+
+\end{itemize}
+
+\par 
+Sorry for hitting you with a wall of text before you even got to the assignment. Especially considering im probably submitting this at 11:59pm on saturday night... 
+
+oh and also I didnt use spell check because its broken on linux. I will fix this in my final
 
 \section{Introduction}
 
 
 \subsection{Premise}
-- Study aims to find optimal mirror placement for minimum decrease in intensity as light travels throughout the cave
+- Study aims to find optimal mirror placement for minimum decrease in intensity as light travels throughout the cave 
 
 
 
@@ -38,14 +58,18 @@ In Order for a solution to be formed, a set of constants must be assumed.
 \begin{itemize}
 	\item The mirrors and walls of the cave are perfectly parallel to the floor of the cave and extend upwards with an undefined height. This simplifies modeling and can easily be altered to fit revised specifications, such as only needing to light the floor of the cave.
 	
+
 	\item Either light does not decrease in intensity or increase in area according to the inverse square law, or the change is negligible. The suns rays have traveled so far that they can be considered effectively parallel and therefore will not diverge. 
 	\textbf{find a source for this}
 		
 	\item mirrors will reflect light across their entire surface, even at the very tips of their edges. 
+	
+		\item mirrors are perfectly flat and do not distort or affect light beams in any other way than reflecting them
+	
 		
 	\item Light will enter the cave parallel to the ground and of equal intensity from floor to ceiling.
 	
-	\item 
+
 \end{itemize}
 
 \subsection{Observations}
@@ -85,7 +109,7 @@ In Order for a solution to be formed, a set of constants must be assumed.
 
 \item Graphed each point on list and joined points with lines.
 
-\item Imported Lists as points in physdemo.app
+\item Imported Lists as points in phydemo.app
 
 \item Used the given lists and entry vector to draft a path through the cave
 
@@ -100,6 +124,10 @@ In Order for a solution to be formed, a set of constants must be assumed.
 \item calculate angle of reflected beam 
 
 \item repeat for all items and alter angles if a collision with the walls of the cave or an obstacle occurs
+
+\item if a colission occurs, then tweak mirror angle to correct and repeat
+
+\item verify light exiting cave is aligned with exit vector by measusing angle against entry vector
 \end{itemize}
 
 
@@ -109,24 +137,38 @@ In Order for a solution to be formed, a set of constants must be assumed.
 \section{Solve}
 
 \par 
-
+what do i put here exactly?
 
 \section{Evaluate}
 
+
+
 \subsection{Extentions}
 \begin{itemize}
-\item Use of Lenses	
+\item Use of Lenses	or curved mirrors to focus or manipulate light 
+\item Quantification of intensity and how factors such as distance and number of mirrors affect it in order to further optimize for maximum intensity. 
 	
 \end{itemize}
 
 
 
 \subsection{Reasonableness}
-
+\begin{itemize}
+\item verified that solution was valid through visual inspection in desmos and through checking angle of exit vector
+\end{itemize}
 
 \subsection{Strengths and Limitations of Solution}
+\subsubsection{Strengths}
+\begin{itemize}
+\item No light was lost through absoption into the cave walls
+\item the solution used the minimum amount of mirrors found to be required
+\end{itemize}
+\subsubsection{Limitations}
+\begin{itemize}
 
 
+\item Low tollerance for error in mirror placement in case of physical instalation, which is imminent considering the context of the task
+\end{itemize}
 \section{Conclusion}
 
 
