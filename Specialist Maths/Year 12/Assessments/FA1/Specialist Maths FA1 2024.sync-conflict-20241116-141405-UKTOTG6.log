@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.12)  16 NOV 2024 20:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.15)  15 NOV 2024 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -192,7 +192,7 @@ Here is how much of TeX's memory you used:
  24111 multiletter control sequences out of 15000+600000
  566656 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,6n,65p,427b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,426b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/noah/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></
 usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/t
@@ -202,7 +202,7 @@ sfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib
 are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb>
-Output written on "Specialist Maths FA1 2024.pdf" (5 pages, 435662 bytes).
+Output written on "Specialist Maths FA1 2024.pdf" (5 pages, 435595 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
