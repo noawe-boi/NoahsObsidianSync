@@ -68,6 +68,7 @@ $$
 ## Strength vs Concentration 
 
 $$\textrm{Strength} \neq \textrm{Concentration}$$
-Remember that Strength is how easily an acid or base can diccociate, while concentration is how much of that acid there is present. A strong acid can be dilute, etc...
+Remember that Strength is how easily an acid or base can dissociate, while concentration is how much of that acid there is present. A strong acid can be dilute, etc...
 ![[Pasted image 20241118192725.png]]
+
 
