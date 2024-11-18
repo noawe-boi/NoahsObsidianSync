@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.12)  17 NOV 2024 14:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.12)  18 NOV 2024 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -178,8 +178,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `"Specialist Maths FA1 2024.toc"'.
 
- [1] [2] [3] [4]
-(./Specialist Maths FA1 2024.aux)
+ [1] [2] [3] (./Specialist Maths FA1 2024.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -202,10 +201,10 @@ sfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib
 are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb>
-Output written on "Specialist Maths FA1 2024.pdf" (5 pages, 435612 bytes).
+Output written on "Specialist Maths FA1 2024.pdf" (4 pages, 432194 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
