@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d96860c51d13cf",
+        "id": "51c1884628ebc21d",
         "type": "tabs",
         "children": [
           {
-            "id": "e52ad07d99e412ad",
+            "id": "59179168fcf7ab40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods 8E Derivatives of Trig Functions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Methods 8E Derivatives of Trig Functions"
-            }
-          },
-          {
-            "id": "05efcd1a49e63652",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Methods 8E Examples.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Methods 8E Examples"
-            }
-          },
-          {
-            "id": "20b5dd9bef6f29ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics 8.1 Key Questions Review.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics 8.1 Key Questions Review"
+              "title": "New tab"
             }
           }
         ]
@@ -101,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c15155f403a57a28",
@@ -216,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e52ad07d99e412ad",
+  "active": "59179168fcf7ab40",
   "lastOpenFiles": [
     "Excalidraw/Methods 8E Examples.md",
     "Methods 8E Derivatives of Trig Functions.md",
