@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.12)  18 NOV 2024 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.12)  19 NOV 2024 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -173,7 +173,7 @@ Package pdftex.def Info: Images/Cave.png  used on input line 16.
 y)>]
 (./Specialist Maths FA1 2024.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
+(Font)              <10.95> on input line 2.
 )
 \tf@toc=\write3
 \openout3 = `"Specialist Maths FA1 2024.toc"'.
@@ -185,26 +185,25 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1994 strings out of 476076
- 31428 string characters out of 5793774
+ 1996 strings out of 476076
+ 31452 string characters out of 5793774
  1936187 words of memory out of 5000000
- 24111 multiletter control sequences out of 15000+600000
- 566656 words of font info for 64 fonts, out of 8000000 for 9000
+ 24112 multiletter control sequences out of 15000+600000
+ 567002 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,6n,65p,427b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/noah/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></
 usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib
-10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on "Specialist Maths FA1 2024.pdf" (4 pages, 432194 bytes).
+sfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Specialist Maths FA1 2024.pdf" (4 pages, 425703 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
