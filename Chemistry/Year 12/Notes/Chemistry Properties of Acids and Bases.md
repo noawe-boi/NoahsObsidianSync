@@ -72,3 +72,5 @@ Remember that Strength is how easily an acid or base can dissociate, while conce
 ![[Pasted image 20241118192725.png]]
 
 
+## Water as a weak electrolyte
+
