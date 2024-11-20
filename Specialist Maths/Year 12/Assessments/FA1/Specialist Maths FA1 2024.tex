@@ -27,15 +27,18 @@
 
 
 \subsection{Premise}
-- Study aims to find optimal mirror placement for minimum decrease in intensity as light travels throughout the cave 
+- Study aims to find optimal mirror placement for minimum decrease in intensity as light travels throughout the cave. This will be achieved by mapping the cave's geometry and simulating the travel of light throughout the cave as a vector. 
 
 
 
 
 \subsection{Assumptions} 
 \par
-In Order for a solution to be formed, a set of constants must be assumed.
+In Order for a solution to be formed, a set of conditions must be assumed.
 \begin{itemize}
+
+	\item The given specifications do not list whether the cave is horizontal or vertical, so it will be assumed that the cave described is traversed horizontally. This also implies that in all diagrams and depictions, the cave is being viewed from a 'top-down' view.
+	
 	\item The mirrors and walls of the cave are perfectly parallel to the floor of the cave and extend upwards with an undefined height. This simplifies modeling and can easily be altered to fit revised specifications, such as only needing to light the floor of the cave.
 	
 
@@ -46,7 +49,7 @@ In Order for a solution to be formed, a set of constants must be assumed.
 	
 	\item mirrors are perfectly flat and do not distort or affect light beams in any other way than reflecting them
 	
-	\item While the entry vector has no with, it will be assumed that light will enter the cave through the entire entrance. Each point along the entrace will be the beginning of its own vector, with equal direction to the entry vector. This assumption allows the 
+	\item While the entry vector has no width, it will be assumed that light will enter the cave through the entire entrance. Each point along the entrance will be the beginning of its own vector, with equal direction to the entry vector. This assumption allows the 
 	
 		
 	\item Light will enter the cave parallel to the ground and of equal intensity from floor to ceiling.
@@ -57,19 +60,23 @@ In Order for a solution to be formed, a set of constants must be assumed.
 \subsection{Observations}
 \par
 \begin{itemize}
-\item Vectors can be modeled on the Cartesian plane as 
+\item Vectors can be modeled on the Cartesian plane and translated without affecting their properties. 
 
 \item Light can be modeled as a relative position vector with origin at a mirror surface
 
 \item Light will reflect so that $\textrm{angle  of incidence} = \textrm{angle of refraction}$.
 
-\item Light will not diverge however contaminatns in the air may decrease the intensity of light. Distance light travels in cave must me minimized
+\item Light will not diverge however contaminants in the air may decrease the intensity of light. Distance light travels in cave must me minimized
 
 \item Mirrors are not perfect and will only reflect a portion of light that hits them. 
 
-\item  Since it is assumed that light will not diverge. the maximum size a mirror must be to reflect all the light hitting it will be 2 units, or the size of the cave's entrance. Clearly some paths are not wide enough for a beam of 2 units to pass through them without a significant number of mirrors, therefore the beam may have to be split in order for them to be passed through the cave efficiently 
+\item Only the edges of each beam of light need to be found as any light that is within a beam will be traveling the same direction as the light at the edges. This allows intersections with mirrors and cave walls to be found without introducing unnecessary calculations. 
 
-\item in the case of the beam being split, the edges of each beam will be found and used 
+\item  Since it is assumed that light will not diverge. the maximum size a mirror must be to reflect all the light hitting it will be 2 units, or the size of the cave's entrance. 
+
+\item Clearly paths are not wide enough for a beam of 2 units to pass through them without a significant number of mirrors, therefore the beam may have to be split in order for them to be passed through the cave efficiently 
+
+\item in the case of the beam being split, the edges of each beam will be found and each 
 
 \end{itemize}
 
@@ -154,7 +161,10 @@ what do i put here exactly?
 \begin{itemize}
 
 
-\item Low tollerance for error in mirror placement in case of physical instalation, which is imminent considering the context of the task
+\item Low tolerance for error in mirror placement in case of physical instalation, which is imminent considering the context of the task
+
+\item Solution is not very refined or automated. There are many steps that require manual intervention and this process is easily repeatable for other cave geometries
+
 \end{itemize}
 \section{Conclusion}
 
