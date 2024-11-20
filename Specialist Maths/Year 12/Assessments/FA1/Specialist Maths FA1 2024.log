@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2024.10.29)  20 NOV 2024 08:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2024.10.29)  20 NOV 2024 11:51
 entering extended mode
 **"./Specialist Maths FA1 2024.tex"
 ("Specialist Maths FA1 2024.tex"
@@ -212,18 +212,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
- <Images/Cave.png, id=1, 1312.905pt x 1778.645pt>
-File: Images/Cave.png Graphic file (type png)
+ <Images/cave2.png, id=1, 426.84468pt x 612.78937pt>
+File: Images/cave2.png Graphic file (type png)
 
-<use Images/Cave.png>
-Package pdftex.def Info: Images/Cave.png used on input line 16.
-(pdftex.def)             Requested size: 426.79134pt x 578.18848pt.
+<use Images/cave2.png>
+Package pdftex.def Info: Images/cave2.png used on input line 16.
+(pdftex.def)             Requested size: 398.33858pt x 571.89856pt.
  [1
 
 
 
 pdfTeX warning: pdflatex.exe (file pdftex.map): cannot open font map file
- <./Images/Cave.png (PNG copy)>] ("Specialist Maths FA1 2024.toc"
+ <./Images/cave2.png>] ("Specialist Maths FA1 2024.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
@@ -242,7 +242,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
  [2] [3] [4] ("Specialist Maths FA1 2024.aux") ) 
 Here is how much of TeX's memory you used:
  1800 strings out of 495222
- 28069 string characters out of 3179816
+ 28074 string characters out of 3179816
  90578 words of memory out of 3000000
  5074 multiletter control sequences out of 15000+200000
  12232 words of font info for 42 fonts, out of 3000000 for 9000
@@ -263,9 +263,9 @@ ljfour\public\cm\dpi657\cmr10.pk> <C:\Users\gc021263\PortableApps\CommonFiles\M
 iKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi600\cmr12.pk> <C:\Users\gc021263
 \PortableApps\CommonFiles\MiKTeX\texmfs/data\fonts\pk\ljfour\public\cm\dpi600\c
 mr17.pk>
-Output written on "Specialist Maths FA1 2024.pdf" (5 pages, 396163 bytes).
+Output written on "Specialist Maths FA1 2024.pdf" (5 pages, 152126 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
+ 254 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
