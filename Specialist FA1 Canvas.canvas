@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"dbaaf6fdf0714c59","type":"file","file":"Pasted image 20241121055037.png","x":-620,"y":-440,"width":1058,"height":483},
+		{"id":"de9b8c85e661a4a0","type":"text","text":"While could be modeled as a linear eqn, vectors are more easily translated and can have their magnitude easily adjusted without having to deal with domain. ","x":-620,"y":-840,"width":685,"height":130,"color":"3"},
+		{"id":"1b02059ecc36436f","type":"file","file":"Pasted image 20241121055714.png","x":-1440,"y":-490,"width":780,"height":583},
+		{"id":"d299a919bdb62f68","type":"text","text":"- [ ] Add Figure Names\n- [ ] ","x":121,"y":-878,"width":635,"height":336,"color":"3"},
+		{"id":"8b783f9bf56be636","type":"file","file":"Specialist Maths/Year 12/Assessments/FA1/Images/New Diagram.jpg","x":-1680,"y":160,"width":1020,"height":762},
+		{"id":"e02de0266f56cecf","type":"file","file":"Pasted image 20241121061856.png","x":1240,"y":578,"width":379,"height":344},
+		{"id":"82a68796e741b03e","type":"file","file":"Pasted image 20241121061808.png","x":840,"y":560,"width":368,"height":400},
+		{"id":"7b35c07e176b6a7b","type":"file","file":"Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 2.jpg","x":-1910,"y":1160,"width":1250,"height":1438},
+		{"id":"99567b2b601de3e1","type":"file","file":"Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 3.jpg","x":-469,"y":1240,"width":1180,"height":1358},
+		{"id":"1700ca92ab296f39","type":"text","text":"This is wrong","x":-1420,"y":2700,"width":410,"height":92},
+		{"id":"247f55a67adff4d0","type":"text","text":"Stupid Collision that was different from simulation. Altered angles slightly and found that there was error in previous mirrors that compounded. Increased precision of list values and double checked.","x":1050,"y":1060,"width":760,"height":200,"color":"3"},
+		{"id":"cfcc5aba162bf8b8","type":"text","text":"Clearly in this case, the edge must be redefined as the head of the mirror vectors in both of these cases. ","x":-480,"y":110,"width":880,"height":100,"color":"4"},
+		{"id":"dfeec5c75428fc43","x":1048,"y":1640,"width":762,"height":107,"color":"1","type":"text","text":"Still need to figure out why sometimes I add and sometimes I subtract and sometimes I make negative\n"},
+		{"id":"6137eeb6d0750440","x":-2200,"y":2220,"width":692,"height":143,"color":"3","type":"text","text":"For exit vector to be correct, it must be 180 degrees. because thats the same as the exit vector in the task sheet"}
+	],
+	"edges":[
+		{"id":"9b9bb496713ae2e9","fromNode":"1700ca92ab296f39","fromSide":"top","toNode":"7b35c07e176b6a7b","toSide":"bottom"},
+		{"id":"2ba271d1c27bd5d9","fromNode":"247f55a67adff4d0","fromSide":"top","toNode":"82a68796e741b03e","toSide":"bottom"},
+		{"id":"6a3c4dff36bc03d5","fromNode":"247f55a67adff4d0","fromSide":"top","toNode":"e02de0266f56cecf","toSide":"bottom"},
+		{"id":"d3141f1a70d26911","fromNode":"cfcc5aba162bf8b8","fromSide":"top","toNode":"dbaaf6fdf0714c59","toSide":"bottom"},
+		{"id":"ec3ccc9db95e920d","fromNode":"cfcc5aba162bf8b8","fromSide":"bottom","toNode":"8b783f9bf56be636","toSide":"right"}
+	]
+}

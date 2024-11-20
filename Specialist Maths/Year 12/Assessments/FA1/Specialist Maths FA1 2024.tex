@@ -4,7 +4,10 @@
 \usepackage[a4paper,margin=2cm]{geometry}
 \usepackage[]{graphicx}
 \usepackage{bm}
+\usepackage[strings]{underscore}
+\usepackage{apacite}
 \graphicspath{ {./Images} }
+
 \begin{document}
 \begin{titlepage}
 	\title{Modeling and Lighting Interior Spaces using Reflected Natural Light}
@@ -13,7 +16,7 @@
 	
 	\maketitle
 	\centering
-	\includegraphics[width=14cm]{Images/cave2.png}
+	\includegraphics[width=14cm]{cave2.png}
 	
 \end{titlepage}
 
@@ -34,7 +37,7 @@
 
 \subsection{Assumptions} 
 \par
-In Order for a solution to be formed, a set of conditions must be assumed.
+In Order for a solution to be formed, a set of conditions must be assumed .
 \begin{itemize}
 
 	\item The given specifications do not list whether the cave is horizontal or vertical, so it will be assumed that the cave described is traversed horizontally. This also implies that in all diagrams and depictions, the cave is being viewed from a 'top-down' view.
@@ -43,7 +46,7 @@ In Order for a solution to be formed, a set of conditions must be assumed.
 	
 
 	\item Either light does not decrease in intensity or increase in area according to the inverse square law, or the change is negligible. The suns rays have traveled so far that they can be considered effectively parallel and therefore will not diverge. 
-	\textbf{find a source for this}
+	\cite{yasuda_2024_why}
 		
 	\item mirrors will reflect light across their entire surface, even at the very tips of their edges. 
 	
@@ -76,7 +79,7 @@ In Order for a solution to be formed, a set of conditions must be assumed.
 
 \item Clearly paths are not wide enough for a beam of 2 units to pass through them without a significant number of mirrors, therefore the beam may have to be split in order for them to be passed through the cave efficiently 
 
-\item in the case of the beam being split, the edges of each beam will be found and each 
+\item in the case of the beam being split, the edges of each beam will be found and each considered the new edge for the split path
 
 \end{itemize}
 
@@ -169,6 +172,8 @@ what do i put here exactly?
 \section{Conclusion}
 
 
- 
+ \newpage
+ \bibliographystyle{apacite}
+ \bibliography{References}
 
 \end{document}

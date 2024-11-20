@@ -1,0 +1,29 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Yasuda%
+}{%
+Yasuda%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+yasuda_2024_why}
+\APACinsertmetastar {%
+yasuda_2024_why}%
+\begin{APACrefauthors}%
+Yasuda, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Why the Earth receives parallel rays of light from the Sun -
+  Earthguide Online Classroom.} {Why the earth receives parallel rays of light
+  from the sun - earthguide online classroom.}
+\newblock
+\begin{APACrefURL}
+  [{2024-11-20}] \url{https://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_sunlight_parallel.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
