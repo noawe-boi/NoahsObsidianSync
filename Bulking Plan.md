@@ -10,8 +10,8 @@
 ##### Calories
 - 4 calories per gram
 ##### Found in?
-- Fruits, nuts veggies and grains
-	Sugars and fiber
+- Fruits, nuts veggies and grains like rice
+- Sugars and Fiber
 ##### How much
 - Should be like 30% of calorie intake
 ##### Why?
@@ -25,6 +25,9 @@
 ##### How much?
 - Should be at least 20% of calorie protein
 ##### Why?
-- Good for runnings
+- Good for running
 
 
+### Easy Meals
+
+![[Easy Meals]]
