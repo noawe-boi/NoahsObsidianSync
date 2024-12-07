@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.20)  24 NOV 2024 23:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.20)  24 NOV 2024 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"Specialist Maths FA1 2024.tex"
-(./Specialist Maths FA1 2024.tex
+**"Specialist Maths FA1 2024 Draft 2.tex"
+(./Specialist Maths FA1 2024 Draft 2.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -94,21 +94,13 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip53
 \biblabelsep=\skip54
 )
-(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen151
-\WF@size=\dimen152
-\c@WF@wrappedlines=\count266
-\WF@box=\box51
-\WF@everypar=\toks19
-Package: wrapfig 2003/01/31  v 3.6
-)
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count267
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box51
 )
-(./Specialist Maths FA1 2024.aux)
-\openout1 = `"Specialist Maths FA1 2024.aux"'.
+(./Specialist Maths FA1 2024 Draft 2.aux)
+\openout1 = `"Specialist Maths FA1 2024 Draft 2.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -161,17 +153,17 @@ LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
-\scratchdimen=\dimen153
-\scratchbox=\box53
-\nofMPsegments=\count269
-\nofMParguments=\count270
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count271
-\MPscratchDim=\dimen154
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count267
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen152
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks20
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -181,7 +173,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@maskedRefs=\count274
+\c@maskedRefs=\count273
 
 (/usr/share/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -202,100 +194,29 @@ Package pdftex.def Info: ./Images/cave2.png  used on input line 20.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/cave2.png>]
-(./Specialist Maths FA1 2024.toc
+(./Specialist Maths FA1 2024 Draft 2.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
 \tf@toc=\write3
-\openout3 = `"Specialist Maths FA1 2024.toc"'.
+\openout3 = `"Specialist Maths FA1 2024 Draft 2.toc"'.
 
- [1]
-Underfull \hbox (badness 10000) in paragraph at lines 82--84
-
- []
-
-[2]
-<./Images/new diagram.jpg, id=21, 2615.7725pt x 1955.305pt>
-File: ./Images/new diagram.jpg Graphic file (type jpg)
-<use ./Images/new diagram.jpg>
-Package pdftex.def Info: ./Images/new diagram.jpg  used on input line 85.
-(pdftex.def)             Requested size: 341.43306pt x 255.21298pt.
-<./Images/Diagram 7.jpg, id=22, 1165.35374pt x 308.15125pt>
-File: ./Images/Diagram 7.jpg Graphic file (type jpg)
-<use ./Images/Diagram 7.jpg>
-Package pdftex.def Info: ./Images/Diagram 7.jpg  used on input line 109.
-(pdftex.def)             Requested size: 455.24408pt x 120.37598pt.
- [3 <./Images/New Diagram.jpg> <./Images/Diagram 7.jpg>]
-<./Images/Diagram 8.png, id=32, 112.2594pt x 171.2799pt>
-File: ./Images/Diagram 8.png Graphic file (type png)
-<use ./Images/Diagram 8.png>
-Package pdftex.def Info: ./Images/Diagram 8.png  used on input line 132.
-(pdftex.def)             Requested size: 116.0899pt x 177.12592pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--137
-
- []
-
-<./Images/Diagram 6.png, id=33, 3212.0pt x 2425.06pt>
-File: ./Images/Diagram 6.png Graphic file (type png)
-<use ./Images/Diagram 6.png>
-Package pdftex.def Info: ./Images/Diagram 6.png  used on input line 153.
-(pdftex.def)             Requested size: 284.52756pt x 214.80467pt.
-
-Overfull \hbox (8.8168pt too wide) in paragraph at lines 153--155
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--155
-
- []
-
-[4 <./Images/Diagram 8.png>] [5 <./Images/Diagram 6.png>]
-<../../../../../../../../Pictures/2024-11-24-233025_hyprshot.png, id=42, 1386.1
-7876pt x 1758.57pt>
-File: ../../../../../../../../Pictures/2024-11-24-233025_hyprshot.png Graphic f
-ile (type png)
-<use ../../../../../../../../Pictures/2024-11-24-233025_hyprshot.png>
-Package pdftex.def Info: ../../../../../../../../Pictures/2024-11-24-233025_hyp
-rshot.png  used on input line 267.
-(pdftex.def)             Requested size: 338.58632pt x 429.552pt.
- [6]
-<../../../../../../../../Pictures/2024-11-24-233035_hyprshot.png, id=47, 1395.2
-125pt x 1794.705pt>
-File: ../../../../../../../../Pictures/2024-11-24-233035_hyprshot.png Graphic f
-ile (type png)
-<use ../../../../../../../../Pictures/2024-11-24-233035_hyprshot.png>
-Package pdftex.def Info: ../../../../../../../../Pictures/2024-11-24-233035_hyp
-rshot.png  used on input line 275.
-(pdftex.def)             Requested size: 338.58632pt x 435.53036pt.
- [7 <../../../../../../../../Pictures/2024-11-24-233025_hyprshot.png (PNG copy)
->]
-<../../../../../../../../Pictures/2024-11-24-234059_hyprshot.png, id=51, 731.73
-375pt x 947.54pt>
-File: ../../../../../../../../Pictures/2024-11-24-234059_hyprshot.png Graphic f
-ile (type png)
-<use ../../../../../../../../Pictures/2024-11-24-234059_hyprshot.png>
-Package pdftex.def Info: ../../../../../../../../Pictures/2024-11-24-234059_hyp
-rshot.png  used on input line 283.
-(pdftex.def)             Requested size: 338.58632pt x 438.44725pt.
- [8 <../../../../../../../../Pictures/2024-11-24-233035_hyprshot.png (PNG copy)
->]
-(./Specialist Maths FA1 2024.bbl) [9 <../../../../../../../../Pictures/2024-11-
-24-234059_hyprshot.png (PNG copy)>] (./Specialist Maths FA1 2024.aux)
+ [1] [2] [3] [4]
+(./Specialist Maths FA1 2024 Draft 2.bbl) [5]
+(./Specialist Maths FA1 2024 Draft 2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2683 strings out of 476076
- 43526 string characters out of 5793774
- 1951187 words of memory out of 5000000
- 24776 multiletter control sequences out of 15000+600000
+ 2541 strings out of 476076
+ 39776 string characters out of 5793774
+ 1939187 words of memory out of 5000000
+ 24638 multiletter control sequences out of 15000+600000
  567170 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,6n,65p,639b,251s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,885b,201s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/noah/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></
 usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/t
@@ -308,10 +229,11 @@ nts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public
 y10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Specialist Maths FA1 2024.pdf" (10 pages, 2497106 bytes).
+Output written on "Specialist Maths FA1 2024 Draft 2.pdf" (6 pages, 245970 byte
+s).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

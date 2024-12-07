@@ -17,7 +17,6 @@ $$K_c = \frac{(C)^c \times (D)^d}{(A)^a \times (B)^b}$$
 - $Kc >>1 \implies Concentration_{products} > Concentration_{reactants}$  
 - $Kc << 1 \implies Concentration_{reactants} > Concentration_{proudcts}$
 - Neither $\implies Concentration_{reactatnts} \approx Concentration_{products}$ 
-<<<<<<< HEAD
 
 ![[Chemistry Worked Example 17.3A]]
 
@@ -63,4 +62,4 @@ Using the same equations as using Kc
 ## What is $Q_c$ used for 
 Used to determine which direction a reaction must proceed in order to reach equilibrium
 
->>>>>>> 83a3fde67a6a5a5d02708213024d3385e80ae972
+
