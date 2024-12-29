@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "d04d24708846bc20",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb51dc8cb3194a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143adb69c22140a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 Specialist Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 Specialist Questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faf01ca643b5599d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec4ca0240d0ea811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d839841372d0ca8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd05651dfcbee3d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4373e37d2f2d76c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d00db90d643cc927",
+    "type": "split",
+    "children": [
+      {
+        "id": "927d9e00ced3fcb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42eb770e148c2ff6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/23-11-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 23-11-2024"
+            }
+          },
+          {
+            "id": "04d636a7b237b089",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Specialist FA1 Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Specialist FA1 Canvas"
+            }
+          },
+          {
+            "id": "da46a2bc6899ce16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52cd7aeba1c04791",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a384e8ad423c9cb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/23-11-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 23-11-2024"
+            }
+          },
+          {
+            "id": "93c81e65709d153a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "143adb69c22140a3",
+  "lastOpenFiles": [
+    "Daily Notes/03-12-2024.md",
+    "2025 Specialist Questions.md",
+    "Chemistry/Year 12/Notes/The Equilibrium Constant.md",
+    "Chemistry Graphing Le Chatliers.md",
+    "Chemistry/Year 12/Notes/Chemistry Reversable Reactions.md",
+    "Chemistry/Year 12/Notes/Activated Complex.md",
+    "Chemistry/Year 12/Notes/Chemistry le chatliers examples 2.md",
+    "Chemistry/Year 12/Notes/Arrhenius Law.md",
+    "Bulking Plan.md",
+    "Easy Meals.md",
+    "Physics/Year 12/{0EC16140-B36C-4131-9B4A-104668E20D2E}.png",
+    "Physics/Year 12/12 Physics Gravitational Potential Energy.md",
+    "Images/Pasted Image 20241120091016_582.png",
+    "Daily Notes/24-11-2024.md",
+    "Daily Notes/23-11-2024.md",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.synctex(busy)",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.synctex.gz",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024.pdf",
+    "Specialist Maths/Year 12/Assessments/FA1/lu101348f49v.tmp",
+    "Specialist Maths/Year 12/Assessments/FA1/lu101348f2p6.tmp",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 8.png",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 7.jpg",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 6.png",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 6(2).png",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 6(1).png",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024 Draft 2.synctex(busy)",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024 Draft 2.bbl",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024 Draft 2.blg",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024 Draft 2.synctex.gz",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist Maths FA1 2024 Draft 2.toc",
+    "Specialist Maths/Year 12/Assessments/FA1/Specialist FA1 Canvas.canvas",
+    "Daily Notes/22-11-2024.md",
+    "Images/Pasted image 20241121170745.png",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 3.jpg",
+    "Specialist Maths/Year 12/Assessments/FA1/Images/Diagram 2.jpg",
+    "Specialist FA1 Canvas.md"
+  ]
+}
