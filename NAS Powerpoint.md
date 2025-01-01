@@ -1,4 +1,4 @@
-## Types of NAS infastructure
+	y## Types of NAS infastructure
 
 ### Custom
 #### Pros
