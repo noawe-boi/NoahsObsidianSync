@@ -639,3 +639,17 @@ This is the config for hyprland
 ### Etc
 #### LocalSend
 Airdrop for linux. Absolutely seamless. Blazing fast. 10/10. 
+
+
+#### Emoji Picker (unipicker)
+Fuzzy search for symbols and emojis in terminal. Run in alacritty using 
+```
+alacritty -e unipicker --copy-command wl-copy
+```
+
+
+#### hyprshot
+Screenshotting tool. Can select area, screen or window. saves to photos directory in home. Also copies to clipboard. Run using 
+```
+hyprshot --mode region --mode active
+```
