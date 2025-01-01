@@ -624,7 +624,16 @@ This is the config for hyprland
 - Cons
 	- You may need to change the XDG_MENU_PREFIX (see startup programs in hyprland section) for file associations to work correctly
 #### Nemo
+- Pros
+	- 
+- Cons
+	- Does not pick up already mounted hard drives or drives mounted through dolphin often
 
+#### Index
+- Pros
+	- Designed to have built in previews for most common files
+- Cons
+	- Missing a lot of quality of life features. I can't remember why I stopped using it but I can remember how much nicer it was to go back to dolphin once I fixed file accusations
 
 
 ### Etc
