@@ -4,17 +4,24 @@ I reccomend keeping your root partition and home partition combined. 20GB is not
 ![[Pasted image 20250101135346.png | 1200]]
 #### boot
 Partition code: EF00
+
 Recommended Size: 1GiB-2GiB
+
 To make fs: mkfs.fat -F32 /dev/sdX
 #### swap
 partition code: 8200
+
 Recommended size: 8Gib-(System memory size) + 4GiB
+
 To make fs: mkswap /dev/sdX
 
 #### root
 Partition code: 8300
+
 Recommended size (with separate home): 60GiB-150GiB
+
 Recommended size (Combined): All remaining space on disk
+
 To make fs: mkfs.ext4 /dev/sdX
 
 #### home
