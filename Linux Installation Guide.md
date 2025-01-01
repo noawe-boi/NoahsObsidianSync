@@ -598,3 +598,35 @@ This is the config for hyprland
 
 #### dwm
 
+
+## Applications
+### Terminals
+#### Kitty
+- Pros
+	- Pretty good terminal.
+	- Really fast
+	- Better looking text imo
+
+- Cons
+	- No built in search
+	- Can only ctrl delete backwards
+#### Alacrity
+- Pros
+	- More customisation 
+- Cons
+	- Changing config is like learning ancient Egyptian 
+### File Managers
+#### Dolphin
+- Pros
+	- Quite possible the best file manager available for linux
+	- Easy mounting
+	- Supports protocols like SMB and the one that connects to GoPros and other cameras
+- Cons
+	- You may need to change the XDG_MENU_PREFIX (see startup programs in hyprland section) for file associations to work correctly
+#### Nemo
+
+
+
+### Etc
+#### LocalSend
+Airdrop for linux. Absolutely seamless. Blazing fast. 10/10. 
