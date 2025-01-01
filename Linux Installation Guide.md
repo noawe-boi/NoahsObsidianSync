@@ -2,6 +2,8 @@
 
 I reccomend keeping your root partition and home partition combined. 20GB is not nearly enough for a root partition if you are fucking around like I am. 
 ![[Pasted image 20250101135346.png | 1200]]
+
+I partition my disks with cgdisk and I assume you will too. The following information only applies to cgdisk use cases.
 #### boot
 Partition code: EF00
 
@@ -26,8 +28,11 @@ To make fs: mkfs.ext4 /dev/sdX
 
 #### home
 Partition code: 8300
+
 Recommended size (with separate home): All remaining space on disk
+
 Recommended size (Combined): N.A
+
 To make fs: mkfs.ext4 /dev/sdX
 
 ## DE
