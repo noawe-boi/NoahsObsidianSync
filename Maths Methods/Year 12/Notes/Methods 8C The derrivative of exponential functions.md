@@ -18,6 +18,8 @@ i.e. *the derivative is the same as the original function*
 ### For $y=e^{f(x)}$ 
 The derivative is 
 $$\frac{dy}{dx} = f'(x) \times e^{f(x)}$$
+
+
 ## Examples
 ![[Methods 8C Example 1]]
 
