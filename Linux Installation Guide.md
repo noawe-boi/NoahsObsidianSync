@@ -608,7 +608,7 @@ This is the config for hyprland
 	- Better looking text imo
 
 - Cons
-	- No built in search
+	- No built in search functionality
 	- Can only ctrl delete backwards
 #### Alacrity
 - Pros
@@ -625,9 +625,9 @@ This is the config for hyprland
 	- You may need to change the XDG_MENU_PREFIX (see startup programs in hyprland section) for file associations to work correctly
 #### Nemo
 - Pros
-	- 
+	- Works most of the time I guess
 - Cons
-	- Does not pick up already mounted hard drives or drives mounted through dolphin often
+	- Does not pick up already mounted hard drives or drives mounted through dolphin often. Annoying enough to make me tolerate dolphin missing file associations 
 
 #### Index
 - Pros
