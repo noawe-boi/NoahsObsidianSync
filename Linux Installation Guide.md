@@ -1,6 +1,8 @@
+This is a general guide or wiki for my personal use of linux. Usually after making a fresh install I'll forget how I configured something for use or how I set up a specific tool. This is my consolidated knowledge for future reference.
+
 ## Partitioning
 
-I reccomend keeping your root partition and home partition combined. 20GB is not nearly enough for a root partition if you are fucking around like I am. 
+I recommend keeping your root partition and home partition combined. 20GB is not nearly enough for a root partition if you are fucking around like I am. 
 ![[Pasted image 20250101135346.png | 1200]]
 
 I partition my disks with cgdisk and I assume you will too. The following information only applies to cgdisk use cases.
@@ -610,7 +612,7 @@ This is the config for hyprland
 - Cons
 	- No built in search functionality
 	- Can only ctrl delete backwards
-#### Alacrity
+#### Alacritty
 - Pros
 	- More customisation 
 - Cons
@@ -642,11 +644,12 @@ Airdrop for linux. Absolutely seamless. Blazing fast. 10/10.
 
 
 #### Emoji Picker (unipicker)
-Fuzzy search for symbols and emojis in terminal. Run in alacritty using 
+Fuzzy search for symbols and emojis in terminal. Run in Alacritty using 
 ```
 alacritty -e unipicker --copy-command wl-copy
 ```
 
+For some reason kitty hangs after copying
 
 #### hyprshot
 Screenshotting tool. Can select area, screen or window. saves to photos directory in home. Also copies to clipboard. Run using 
