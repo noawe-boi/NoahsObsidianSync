@@ -56,5 +56,11 @@ It states that is an equilibrium system is subjected to a change, the system wil
 - Change in temperature
 - Reactant and product curves more in opposite directions according to which side is endothermic and which is exothermic.
 - Rate of change is proportional to molar ratio
+
+
+#### When a catalyst is added...
+- The addition of a catalyst will NOT affect the position of equilibrium
+- However if a change occurs after the addition of the catalyst, equilibrium will be reached quicker. Seen as steeper curves. 
 ## Examples
 ![[Chemistry Le Chatliers Examples]]
+![[Pasted image 20250112161148.png]]
