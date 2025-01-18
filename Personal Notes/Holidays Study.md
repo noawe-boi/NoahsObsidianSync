@@ -70,6 +70,10 @@
 - [ ] Chapter 8 Review
 	Partially completed: Q9
 
+### Things I should revise in future
+#### Chapter 8
+- [ ] Chapter 8 Review: Q10
+
 
 ### Things I need help with
 
