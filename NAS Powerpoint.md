@@ -1,4 +1,4 @@
-	y## Types of NAS infastructure
+## Types of NAS infastructure
 
 ### Custom
 #### Pros
@@ -9,13 +9,14 @@
 - More flexibility 
 #### Cons
 - Harder setup (takes roughly 3-4 hours to fully set up)
+- You basically have to build another PC
 - You'll end up like these fucking nerds 
 	"I ended up with like 80 terrabytes for only like, 1000 bucks"
 	![[Pasted image 20241226102119.png]]
 ### Prebuilt
 #### Pros
 - Comes with SATA and stuff by default
-- Lower power usage by 'out the box'
+- Lower power usage 'out the box'
 - Can more easily add drives (however there is still configuration when you do add them)
 - Usually more robust 
 
@@ -30,6 +31,7 @@ RAID (Redundant Array of Independent Disks) is a storage system that combines mu
 ### Pros
 - Splitting load between drives (like putting power supply in parallel to get more current)
 - Redundancy for drive failures
+- Faster read and write speeds
 ![[Pasted image 20241226103904.png]]
 ### Cons
 - Requires multiple drives, which can be most costly than a single higher capacity drive
@@ -49,12 +51,22 @@ When building a custom NAS, you'll have to choose your software yourself and set
 - Requires more ram
 - Cannot expand without expanding by the same amount
 	- e.g. If you have 2 drives you have to add another 2 of the same capacity
-##
-Other Things NAS can do 
-- Outside of network access to files
-- Simultaneous file access 
-- backup files from your pc whenever they are both onj (syncthing)
-- Block ads network wide automatically (pi hole)
+
 
 #### Unraid
-Better but expensive 
+https://craftassets.unraid.net/uploads/Video-01_Creating-an-Array_V1.mp4#t=0.001
+- Built around being flexible with what drives you add
+- Can use multiple mismatched drives
+- Better web interface (easier to set up)
+- Can add more drives whenever you want
+- Can run VM's and docker containers 
+- Has an app store like truenas
+##### Pricing (in USD)
+![[Pasted image 20250118121853.png]]
+
+
+## Other Things NAS can do 
+- Outside of network access to files
+- Simultaneous file access from multiple computers
+- backup files from your pc whenever they are both onj (syncthing)
+- Block ads network wide on ANY device automatically (pi hole)
