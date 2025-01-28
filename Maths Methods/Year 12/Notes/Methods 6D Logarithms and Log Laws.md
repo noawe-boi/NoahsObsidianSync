@@ -6,6 +6,8 @@ tags:
 ---
 ## Remember
 
+What power (answer) do I need to apply to this number (base of log) in order to get this result (thing inside brackets of log)
+
 ### The Log function
 $3^x = 81$
 $Log_3 81 = x \rightarrow Log_3 364 = x = 4$ 
@@ -14,12 +16,15 @@ $Log_3 81 = x \rightarrow Log_3 364 = x = 4$
 - $a^m = n \rightarrow log_a n = m$ 
 - $log_a (m) + log_a (n) = log_a (mn)$ 
 - $log_a (m) - log_a (n) = log_a(\frac{m}{n})$
-- $log_(a) a = 1$ 
+- $log_{a} (a) = 1$ 
 - $log_a (1) = 0$ 
-- $Log_a (0) \rightarrow undefined$ 
+- $log_a (0) \rightarrow undefined$ 
 - $log_a (-m) \rightarrow \space non \space real \space number$ 
 - $log_a (m^n) = nlog_a (m)$ 
 
+
+### Changing the base of a log
+$$log_a (x) = \frac{log_b (x)}{log_b (a)}$$
 ## The Natural Logarithm
 The natural logarithm, "ln" is defined as $\ln = log_e$  
 

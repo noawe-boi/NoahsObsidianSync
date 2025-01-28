@@ -5,8 +5,6 @@
 - Finish the chemistry excercises that mr sonter gave us 
 ### Things I need help with
 ![[Chemistry Questions for Mr Sonter T1 2025]]
-
-
 ## Specialist maths
 
 ### Chapters
@@ -17,11 +15,6 @@
 
 
 ![[2025 Specialist Questions]]
-
-
-
-
-
 
 ## Physics
 ### Chapters
