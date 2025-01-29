@@ -13,8 +13,15 @@ Vector addition is performed by arranging vectors head to tails
 
 
 ### Resolving a vector into its components
+![[Drawing 2025-01-29 09.34.16.excalidraw]]
+#### To find the horizontal component
+$$V_x = u \cos{(\theta)}$$
+#### To find the vertical component
+$$V_t = u \sin{(\theta)}$$
 
-
+#### This is because...
+$$\frac{O}{H} = \sin{\theta}$$
+$$O\sin{\theta} = H$$
 
 ## Projectile motion
 
