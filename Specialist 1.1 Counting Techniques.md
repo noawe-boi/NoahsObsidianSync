@@ -51,7 +51,7 @@ b) with the aid of the venn diagram, determine the elements in the following set
 
 
 Consider the sets $A={1, 8, 9, 11, 12, 15, 16}, B={4, 5, 6, 9, 10 , 11, 14}, C={2, 3, 4, 7, 8, 9, 13, 15}, \textsection={1...18}$
-
+![[Drawing 2025-01-31 09.33.53.excalidraw]]
 
 
 
