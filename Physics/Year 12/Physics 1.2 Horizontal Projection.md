@@ -44,4 +44,4 @@ Once the object reaches the peak, its path is the same as if it was experiencing
 
 
 ## Excercise
-![[Physics 1.2 Horizontal Projection Excercise]]
+![[Physics/Year 12/Physics 1.2 Horizontal Projection Excercise]]
