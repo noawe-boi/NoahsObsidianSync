@@ -56,3 +56,30 @@ Consider the sets $A={1, 8, 9, 11, 12, 15, 16}, B={4, 5, 6, 9, 10 , 11, 14}, C={
 
 
 
+
+## The set exclusion principle
+
+### Foundational concepts
+- Set theory (see above)
+### Big ideas and concepts
+
+![[Drawing 2025-01-31 09.53.48.excalidraw]]
+$15 + 10 - 7$ 
+
+![[Drawing 2025-01-31 09.58.13.excalidraw]]
+
+### Vocab and definitions
+Inclusion - Exclusion
+To find how many elements are in $A\cup B$:
+$n(A\cup B) = n(A) + n(B) - n(A\cap B)$
+
+To find how many elements are in $A\cup B \cup C$:
+$n(A \cup B \cup C) = n(A) + N(B) + n(C) -$
+$n(A\cap B) - n(A \cap C) - n(B \cap C) + n(A\cap B \cap C)$  
+
+
+
+## Examples
+![[Drawing 2025-01-31 10.04.38.excalidraw]]
+
+
