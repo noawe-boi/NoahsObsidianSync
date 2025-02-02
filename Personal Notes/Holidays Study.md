@@ -57,7 +57,7 @@
 ### Chapters
 #### Chapter 6
 - [ ] Chapter 6 Review
-	Partially completed: Q8
+	Partially completed: Q10
 
 #### Chapter 8
 - [ ] Chapter 8 Review
