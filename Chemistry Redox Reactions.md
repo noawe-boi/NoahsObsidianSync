@@ -6,10 +6,10 @@ tags:
 ---
 ## What are redox reactions??
 Redox reactions are reactions that involve the transfer of electrons between atoms. 
-These reactions convert chemical potential energy to electical energy. 
+These reactions convert chemical potential energy to electrical energy. 
 
 ## Reduction and Oxidation reactions
-**Redox** is an abbreviation for a pair or reactions where electrons are exchanged or transferred between reactants. These are *oxidation* and *reduction*. They cannot occur without eachother
+**Redox** is an abbreviation for a pair or reactions where electrons are exchanged or transferred between reactants. These are *oxidation* and *reduction*. They **cannot** occur without each other
 
 ### Oxidation
 - When a chemical species loses one or more electrons
@@ -45,4 +45,16 @@ Ionisation energy and electronegativity can be used to predicted which reactant 
 
 ## Worked Example 6.1
 ![[Chemistry Worked Example 6.1|800]]
-## Reactions modelled by redox. 
+## Displacment reactions of metals/Single displacement reactions
+### Definition
+Single displacement reacitons occur whena stronger reducing agent relaces a weaker reducing agent
+
+
+### Example
+Consider the reaction of magnesium with zinc nitrate
+$$ Zn(NO_3)_2 \; _{(aq)} + Mg_{(s)} \rightarrow Mg(NO_3)_{2 \;(aq)} + Zn_{(s)}$$
+
+- Magnesium is a stronger reducing agent $\therefore$ it gives away elections more readily than zinc (removing it from the nitrate ion)
+- This forms $Mg(NO_3)_2$ and $Zn$ 
+- Therefore, $Mg$ (magnesium) has undergone oxidation
+
