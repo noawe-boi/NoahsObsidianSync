@@ -2,8 +2,26 @@
 tags:
   - Personal
 ---
+**Urgent**
+*Time sensitive*
+
 ## School
-- [ ] Finish Schindler's Ark
+### Chemistry 
+
+- Fill in chemistry notes for corrosion and combustion more 
+	- pg 142 for corrosion
+
+- Watch atmoi for electrochemical series and finish worked example
+- Fill in Ideal gas laws
+### Physics
+- Exercise 1.3
+- Chapter 3 Review
+### English
+
+- [ ] **Finish Schindler's Ark**
+- [ ] **Start planning English assessment** 
+### Methods
+
 ## Personal
 - [ ] Sort through laptops and computers in basement and choose what to keep and what to sell/throw away
 - [ ] Show Sarah FPV drone game on roblox (rodrone)
