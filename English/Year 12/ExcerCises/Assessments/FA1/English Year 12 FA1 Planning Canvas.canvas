@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"b96bf4160a2a510f","x":-920,"y":-960,"width":300,"height":120,"type":"text","text":"# Sacrifice"},
-		{"id":"500e51caf2e4ba4b","x":-2000,"y":-660,"width":816,"height":1780,"type":"text","text":"#### Point\nSchindler Financially ruining himself to save the Jews\n#### Examples\nHe spent all of his fortune bribing officials and relocating his factory so his workers would be safe. By time the war is over, Schindler is broke.  \n\n\n#### Explanation (this is an example of sacrifice because)\n\nWhile Schindler never had any hatred towards the Jews specifically, his end goal was to walk away from the war filthy rich and therefore he did not care of them either. Schindler was initially motivated by the vast profits associated with the war effort, however, he eventually grew to feel that it was his responsibility to keep his workers safe.\n\n\n#### Example\nFurthermore, it could also be said in order to achieve this, Schindler had to sacrifice not just his wealth, but part of his nature. Schindler was a materialistic and diplomatic man. \n\n\n#### Explanation\nHaunted by the fact that his own greed was what kept other jews still in the camps. \n\n"},
-		{"id":"71bb399eebeaefd9","x":-1020,"y":-1460,"width":680,"height":200,"type":"text","text":"Remember to use characters full name first time they are addressed"},
-		{"id":"c20de925d15fdcc8","x":-1184,"y":360,"width":560,"height":280,"type":"text","text":"Jojo had to sacrifice part of himself too. The part of him that felt comfort in belonging to the Nazi party"}
+		{"id":"b96bf4160a2a510f","type":"text","text":"# Sacrifice","x":-920,"y":-960,"width":300,"height":120},
+		{"id":"500e51caf2e4ba4b","type":"text","text":"#### Point\nSchindler Financially ruining himself to save the Jews\n#### Examples\nHe spent all of his fortune bribing officials and relocating his factory so his workers would be safe. By time the war is over, Schindler is broke.  \n\n\n#### Explanation (this is an example of sacrifice because)\n\nSchindler was initially motivated by the vast profits associated with the war effort, however, he eventually grew to feel that it was his responsibility to keep his workers safe.\n\n\n#### Example\nFurthermore, it could also be said in order to achieve this, Schindler had to sacrifice not just his wealth, but part of his nature. Schindler was a materialistic and diplomatic man. \n\n\n#### Explanation\nHaunted by the fact that his own greed was what kept other jews still in the camps. \n\n","x":-2000,"y":-660,"width":816,"height":1780},
+		{"id":"71bb399eebeaefd9","type":"text","text":"Remember to use characters full name first time they are addressed","x":-1110,"y":-1520,"width":680,"height":200},
+		{"id":"91a9684ded9b84aa","x":-2880,"y":-2020,"width":325,"height":69,"type":"text","text":"# Structure"},
+		{"id":"ab6e89c0a1078eab","x":-3050,"y":-1900,"width":665,"height":815,"type":"text","text":"What is schindlers ark\n\nwhat is jojo rabbit\n\nsacrifice is the most prominent theme\n\nwhy is sacrifice significant\n\n\nexamples\nof sacrifice"},
+		{"id":"c20de925d15fdcc8","type":"text","text":"Jojo had to sacrifice part of himself too. The part of him that felt comfort in belonging to the Nazi party","x":-1110,"y":340,"width":560,"height":280},
+		{"id":"632e8248c11baf41","x":-2960,"y":-660,"width":908,"height":431,"type":"text","text":"#### Point\nThe solders of the SS had to sacrifice their morals and humanity in order to commit the atrocities they were responsible for and gain the approval of their superiors and by extension the Nazi party\n\nNot noble in the slightest "},
+		{"id":"015bfb05af28db7d","x":-1960,"y":-1077,"width":432,"height":117,"type":"text","text":"Much of it is symbolic, not really physical?"}
 	],
 	"edges":[
-		{"id":"471ecec57d93a3db","fromNode":"b96bf4160a2a510f","fromSide":"bottom","toNode":"500e51caf2e4ba4b","toSide":"top"}
+		{"id":"471ecec57d93a3db","fromNode":"b96bf4160a2a510f","fromSide":"bottom","toNode":"500e51caf2e4ba4b","toSide":"top"},
+		{"id":"c5d656151ed3b71e","fromNode":"91a9684ded9b84aa","fromSide":"bottom","toNode":"ab6e89c0a1078eab","toSide":"top"},
+		{"id":"0f817e7a37bd93a1","fromNode":"500e51caf2e4ba4b","fromSide":"right","toNode":"c20de925d15fdcc8","toSide":"left"},
+		{"id":"a3ae938b12f51513","fromNode":"b96bf4160a2a510f","fromSide":"left","toNode":"015bfb05af28db7d","toSide":"right"},
+		{"id":"f180339752d2a876","fromNode":"b96bf4160a2a510f","fromSide":"left","toNode":"632e8248c11baf41","toSide":"top"}
 	]
 }
