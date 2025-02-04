@@ -3,11 +3,12 @@
 		{"id":"b96bf4160a2a510f","type":"text","text":"# Sacrifice","x":-920,"y":-960,"width":300,"height":120},
 		{"id":"500e51caf2e4ba4b","type":"text","text":"#### Point\nSchindler Financially ruining himself to save the Jews\n#### Examples\nHe spent all of his fortune bribing officials and relocating his factory so his workers would be safe. By time the war is over, Schindler is broke.  \n\n\n#### Explanation (this is an example of sacrifice because)\n\nSchindler was initially motivated by the vast profits associated with the war effort, however, he eventually grew to feel that it was his responsibility to keep his workers safe.\n\n\n#### Example\nFurthermore, it could also be said in order to achieve this, Schindler had to sacrifice not just his wealth, but part of his nature. Schindler was a materialistic and diplomatic man. \n\n\n#### Explanation\nHaunted by the fact that his own greed was what kept other jews still in the camps. \n\n","x":-2000,"y":-660,"width":816,"height":1780},
 		{"id":"71bb399eebeaefd9","type":"text","text":"Remember to use characters full name first time they are addressed","x":-1110,"y":-1520,"width":680,"height":200},
-		{"id":"91a9684ded9b84aa","x":-2880,"y":-2020,"width":325,"height":69,"type":"text","text":"# Structure"},
-		{"id":"ab6e89c0a1078eab","x":-3050,"y":-1900,"width":665,"height":815,"type":"text","text":"What is schindlers ark\n\nwhat is jojo rabbit\n\nsacrifice is the most prominent theme\n\nwhy is sacrifice significant\n\n\nexamples\nof sacrifice"},
+		{"id":"91a9684ded9b84aa","type":"text","text":"# Structure","x":-2880,"y":-2020,"width":325,"height":69},
+		{"id":"ab6e89c0a1078eab","type":"text","text":"What is schindlers ark\n\nwhat is jojo rabbit\n\nsacrifice is the most prominent theme\n\nwhy is sacrifice significant\n\n\nexamples\nof sacrifice","x":-3050,"y":-1900,"width":665,"height":815},
 		{"id":"c20de925d15fdcc8","type":"text","text":"Jojo had to sacrifice part of himself too. The part of him that felt comfort in belonging to the Nazi party","x":-1110,"y":340,"width":560,"height":280},
-		{"id":"632e8248c11baf41","x":-2960,"y":-660,"width":908,"height":431,"type":"text","text":"#### Point\nThe solders of the SS had to sacrifice their morals and humanity in order to commit the atrocities they were responsible for and gain the approval of their superiors and by extension the Nazi party\n\nNot noble in the slightest "},
-		{"id":"015bfb05af28db7d","x":-1960,"y":-1077,"width":432,"height":117,"type":"text","text":"Much of it is symbolic, not really physical?"}
+		{"id":"632e8248c11baf41","type":"text","text":"#### Point\nThe solders of the SS had to sacrifice their morals and humanity in order to commit the atrocities they were responsible for and gain the approval of their superiors and by extension the Nazi party\n\nNot noble in the slightest ","x":-2960,"y":-660,"width":908,"height":431},
+		{"id":"015bfb05af28db7d","type":"text","text":"Much of it is symbolic, not really physical?","x":-1960,"y":-1077,"width":432,"height":117},
+		{"id":"dd61597a3581f688","x":-1295,"y":-248,"width":250,"height":60,"type":"text","text":"Cool timeline \n\nhttps://www.timetoast.com/timelines/oskar-schindler-7d2fc09c-8bf1-41dd-b7d9-c7df86d4ce82"}
 	],
 	"edges":[
 		{"id":"471ecec57d93a3db","fromNode":"b96bf4160a2a510f","fromSide":"bottom","toNode":"500e51caf2e4ba4b","toSide":"top"},
