@@ -59,3 +59,6 @@ $\frac{n!}{(n-r)!}$
 
 ### Procedures 
 USE THE FORMULER 
+
+### Examples
+![[Drawing 2025-02-04 10.10.50.excalidraw|5000]]
