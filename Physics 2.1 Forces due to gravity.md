@@ -41,6 +41,7 @@ The forces between stacked objects are not always equal to the force between the
 - $F_{AB} \implies$ Force on A due to B
 
 
-
+## Check your leaning 2.1
+6 7 and 9
 
 
