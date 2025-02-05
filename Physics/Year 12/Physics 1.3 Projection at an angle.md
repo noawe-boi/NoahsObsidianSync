@@ -67,9 +67,11 @@ Substitute known value for $v_x$ and multiply by $t$. Substitute known value for
 	$\therefore s=\frac{u^2 \cos \theta }{4.9} \sin \theta$ 
 
 This is in the form of $y=mx+c$ (where $c=0$)
-	$s=\frac{u^2 \cos \theta }{4.9} \sin \theta$ 
-	$s=y, m=u^2 \cos \theta , x=\sin \theta$ 
+	$s=\frac{u^2 \cos \theta }{4.9} \sin \theta$
+	$= \frac{u \cos \theta }{4.9}u \sin \theta$ 
+	$u_x \sin \theta$ (horizontal velocity) is constant. Clearly top of fraction is just $u_x \sin \theta \times u$  
 
 
-
+#### Where $s\neq 0$
+![[Physics THrowaway]]
 

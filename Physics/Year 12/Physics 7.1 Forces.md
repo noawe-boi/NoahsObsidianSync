@@ -21,6 +21,7 @@ e.g. $\rightarrow$
 - "Equal and opposite"
 	- Equal in the total force applied
 	- In opposite direction
+i.e $F_N=F_g$
 #### Notation
 - $F_R$ or $F_N$ 
 ### Frictional Force
