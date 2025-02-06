@@ -62,3 +62,34 @@ USE THE FORMULER
 
 ### Examples
 ![[Drawing 2025-02-04 10.10.50.excalidraw|5000]]
+
+## Permutations with restrictions and indistinguishable objects 
+
+### Foundational Concepts
+#### Permutation
+$^7 P _3 = 7 \times 6 \times 5 \leftarrow \; \textrm{3 terms}$
+$^n P _r = \frac{n!}{(n-r)!}$
+
+### Vocab
+#### Indistinguishable objects
+Consider $AAABBB \; \textrm{vs} \; AAABBB$ 
+Order of *specific instance* of A may be *different* however *final result* is the *same.* 
+
+### Big ideas and concepts
+#### The box method
+Permutations are just a shortcut here
+
+#### Formula
+For $n$ objects with $a, b, c, d,...$ indistinguishable objects:
+$n(\textrm{arrangements}) = \frac{n!}{a!b!c!d!...}$
+
+$a, b, c$ and $d$ are number of specific identical objects
+	e.g. I have $a$ number of object $n$ 
+
+
+### Procedures
+#### The box method
+
+#### Applying formula 
+
+### Worked Example
