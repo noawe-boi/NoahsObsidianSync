@@ -16,7 +16,7 @@ tags:
 ### What is tension?
 The pulling force transmitted through ropes or chains. 
 
-
-
-
 If acceleration is 0, then net force is 0
+
+### Worked Example
+#### 2.2A
