@@ -22,7 +22,7 @@ These reactions convert chemical potential energy to electrical energy.
 $$4Na_{(s)} + O_2 \rightarrow 2Na_2O_{(s)}$$
 In this example, Sodium loses and election, and oxygen gains two. This transfer results in $Na$ becoming $Na^+$, and $O$ becoming $O^{2-}$ 
 
-**Sodium** has been **oxidized** and *oxygen* has been *reduced*
+**Sodium** has been **oxidised** and *oxygen* has been *reduced*
 
 
 ## Redox Terminology 
