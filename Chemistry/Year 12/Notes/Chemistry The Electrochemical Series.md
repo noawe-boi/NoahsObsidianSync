@@ -14,19 +14,12 @@ Smaller number (or negative) $\rightarrow$ less likely and lesser ability to 'su
 
 If the reduced element is lower in the series then the reductant (reducing agent) will oxidize. 
 ## Half  Equations 
-The chemical equations in the table (e.g. $Li^{+} + e^-$) are called half equation
- 
- - $E^0$ is the potential energy of the reaction of each half equation
-	 - defined under standard concentration (1mol/L) against standard hydrogen electrode with $E^0 = 0\textrm{V}$ 
+![[Chemistry Half Equations]]
+
+### Example
 
 
-- Half Equations are reversable
 
-electrons on left hand side of half equation $\implies$ reduction of half equation as the species gains electrons
-$\therefore$ 
-electrons on right hand side of half equation $\implies$ oxidation of half equation as the species loses electrons
-
-To consider which reaction will occur we use the **electrochemical series table**
 ## Using the Electrochemical Series Table
 
 **Lower** $E^0$ $\implies$ Stronger **oxidizing** agent/Weaker reducing agent
@@ -58,27 +51,7 @@ See the oxidation number:
 or
 se the half equation method
 ### Rules for oxidation numbers
-#### General
-
-- Must be written with $\pm$ before number
-	- e.g. $+2$ 
-
-- The oxidation number of hydrogen is +1 
-- The net oxidation number of a molecule is 0
-
-#### Group 1 Elements
-Have an oxidation number of $+1$
-
-#### Free elements ($H_2, O_2, Cu$) 
-(i.e basically all gasses)
-Have an oxidation number of $0$ 
-
-#### Ions
-An ion has an oxiation number equal to the charge on the ion
-e.g. $Al^{3+}$ has an oxidation number of $+3$ 
-
-#### Elements in group 7 ($Cl, F, Br$)
-Have an oxidation number of -1
+![[Chemistry Rules for oxidation numbers]]
 ## Worked Example
 #### 6.2A 
 ##### Determine the oxidation state of a magnesium ion
