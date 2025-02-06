@@ -8,4 +8,5 @@ tags:
 - Friction is a force between two surfaces moving relative to one another. 
 - It opposes motion
 - Measured in Newtons
-##
+## Worked Example
+### 2.2A
