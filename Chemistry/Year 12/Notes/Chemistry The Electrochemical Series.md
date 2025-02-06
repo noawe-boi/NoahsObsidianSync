@@ -77,8 +77,9 @@ Have an oxidation number of $0$
 An ion has an oxiation number equal to the charge on the ion
 e.g. $Al^{3+}$ has an oxidation number of $+3$ 
 
-
-## Worked Exmple
+#### Elements in group 7 ($Cl, F, Br$)
+Have an oxidation number of -1
+## Worked Example
 #### 6.2A 
 ##### Determine the oxidation state of a magnesium ion
 
