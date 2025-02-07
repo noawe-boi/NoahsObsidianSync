@@ -31,4 +31,4 @@ When splitting into 2 groups (chosen and not chosen. Literally what $^n C _r$ do
 i.e $^n C _r$ = $^n C _{n - r}$
 
 ### Examples
-
+![[Drawing 2025-02-07 10.00.55.excalidraw]]
