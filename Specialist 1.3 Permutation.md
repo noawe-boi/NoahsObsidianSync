@@ -93,3 +93,4 @@ $a, b, c$ and $d$ are number of specific identical objects
 #### Applying formula 
 
 ### Worked Example
+![[Drawing 2025-02-06 17.31.22.excalidraw]]
