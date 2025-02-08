@@ -19,7 +19,7 @@ $= \frac{1}{a(r+1)}(ax+b)^{r+1}+ c$
 Where:
 - $r \neq -1$ 
 #### When $r=- 1$
-$(a_b)^r = \frac{1}{ax+b}$
+$(ax+b)^{-1} = \frac{1}{ax+b}$
 $\int \frac{1}{ax+b}dx = \frac{1}{a} \ln (ax+b)+c$
 Where $ax+b=0$
 ### Big ideas and concepts
