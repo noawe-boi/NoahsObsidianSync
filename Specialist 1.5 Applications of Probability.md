@@ -31,4 +31,4 @@ $Pr(A) = 1-Pr(A')$
 4.  Repeat!
 
 ### Examples
-![[Specialist 1.5 Applications of Probability 2025-02-11 09.07.31.excalidraw]]
+![[Specialist 1.5 Applications of Probability 2025-02-11 09.07.31.excalidraw | 1000]]
