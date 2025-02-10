@@ -45,9 +45,9 @@ Ionisation energy and electronegativity can be used to predicted which reactant 
 
 ## Worked Example 6.1
 ![[Chemistry Worked Example 6.1|800]]
-## Displacment reactions of metals/Single displacement reactions
+## Displacement reactions of metals/Single displacement reactions
 ### Definition
-Single displacement reacitons occur whena stronger reducing agent relaces a weaker reducing agent
+Single displacement reactions occur when a stronger reducing agent relaces a weaker reducing agent
 
 
 ### Example
