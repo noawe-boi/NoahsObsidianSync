@@ -25,13 +25,18 @@ tags:
 
 ### Exploring the First Text
 
-*   **Briefly introduce the novel (Schindler's Ark OR The Cellist of Sarajevo) and its war context.**
+*   **Briefly introduce the novel (Schindler's Ark) and its war context.**
 
-'Schindler's Ark', by Thomas Keneally depicts the true story of Oskar Schindler, a WWII industrialist who, between 1938 and 1945 (https://echoesandreflections.org/wp-content/uploads/2019/01/Companion_Resource_to_Schindlers_List_Bios.pdf), was responsible for saving roughly 1200 Jewish workers who he employed at his enamelware and ammunition's factory.
+'Schindler's Ark', by Thomas Keneally depicts the true story of Oskar Schindler, a WWII industrialist who, between 1938 and 1945 (https://echoesandreflections.org/wp-content/uploads/2019/01/Companion_Resource_to_Schindlers_List_Bios.pdf), was responsible for saving roughly 1200 Jewish workers who he employed at his enamelware and ammunition's factory from Auschwitz.
 
-The challenge Oscar faces at this time is the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
 
-*   **Highlight how it represents sacrifice or resilience—through character journeys, key moments, or historical realities.**
+The main challenge Oscar faces at this time is the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
+
+*   **Highlight how it represents sacrifice through character journeys, key moments, or historical realities.**
+	- Death
+	- Doctor H cyanide
+	- Humanity sacrifice
+	- Jewish OD sacrifice
 
 
 *   **Consider: What does this novel add to the broader conversation on war literature?**
@@ -39,23 +44,27 @@ The challenge Oscar faces at this time is the immense oppression and mass execut
 
 ### Bringing in the Second Text
 
-*   **Introduce the second text (Jojo Rabbit OR Wilfred Owen's poetry) and its unique take on war.**
+*   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
+	- Satirises war
+
+*   **How does its medium (film) shape the emotional impact or message?**
+	-  Since its satire it focuses much less on suffering and brutality. 
+	- Film allows for more expression and 
+	
 
 
-*   **How does its medium (film or poetry) shape the emotional impact or message?**
+*   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice?**
 
-
-*   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice or resilience?**
-
-
+	- Focus on the German characters and their relationships more as individuals instead of as a collective SS conscienceless
 ### Why This Matters
 
 *   **Step back and reflect: How do these works contribute to the ongoing cultural and literary conversation about war?**
-    *   Schindler: other side is bad!
-    *   Jojo: sympathize w/ Germans
+	- They contribute to meaningful discussion about war
 
 
 *   **Are they confronting war's brutality, humanising its participants, or offering hope amid destruction?**
+    *   Schindler: other side is bad!
+    *   Jojo: Low key relate w/ Germans
 
 
 *   **How do they encourage readers/viewers to think differently about war, sacrifice, or resilience?**
@@ -64,7 +73,7 @@ The challenge Oscar faces at this time is the immense oppression and mass execut
 ### Conclusion - A Final Thought
 
 *   E**nd with a thought-provoking insight or question: Why do we keep telling these stories?**
-
+	- We like novelty. War is an interesting scenario
 
 *   **Consider how literature and film shape our collective memory of war and whether they challenge or reinforce dominant narratives.**
 
