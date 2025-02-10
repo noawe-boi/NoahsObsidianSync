@@ -12,7 +12,7 @@ tags:
 #### Permutations
 - Ordered selections ($BA \neq AB$ )
 - $^n P _r = \frac{n!}{(n-r)!}$ the first r terms or n!
-#### Combinations 
+#### Combinations
 - Unordered selections ($AB=BA$ )
 - $^n C _r = \frac{n!}{r!(n-r)!}$
 
