@@ -40,7 +40,7 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 
 *   **Consider: What does this novel add to the broader conversation on war literature?**
-
+	- 
 
 ### Bringing in the Second Text
 

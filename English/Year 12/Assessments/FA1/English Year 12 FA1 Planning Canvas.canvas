@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"676e92f56bc9cf61","x":-1008,"y":-1161,"width":250,"height":60,"type":"text","text":"ther side is bad!"},
 		{"id":"b96bf4160a2a510f","type":"text","text":"# Sacrifice","x":-920,"y":-960,"width":300,"height":120},
 		{"id":"71bb399eebeaefd9","type":"text","text":"Remember to use characters full name first time they are addressed","x":-200,"y":-1972,"width":680,"height":200},
 		{"id":"c20de925d15fdcc8","type":"text","text":"Jojo had to sacrifice part of himself too. The part of him that felt comfort in belonging to the Nazi party","x":-1084,"y":700,"width":560,"height":280},
@@ -32,7 +33,6 @@
 		{"id":"7e197da44cc398c0","type":"text","text":"Jojo's mother being hanged for being part of the resistance","x":-2551,"y":-4520,"width":495,"height":113},
 		{"id":"6d26fa334ba88adc","type":"text","text":"Jojo","x":-2931,"y":-4240,"width":250,"height":60},
 		{"id":"d9f070077b02a1d7","type":"text","text":"The prisoner only referred to as Krautwirt, The engineer, slashed both of his wrists with a razor, as to not allow Goeth to have as much satisfaction from his death, and so that his demise would be quicker","x":-2472,"y":-3970,"width":982,"height":150},
-		{"id":"4ba676c9931a6a94","type":"text","text":"Schindlers","x":-2931,"y":-3880,"width":250,"height":60},
 		{"id":"cbf7fc305dd515b1","x":-2472,"y":-3792,"width":985,"height":148,"type":"text","text":"Dr. H giving all the patients cyanide to save them from having to suffer death to automatic weapon or worse"},
 		{"id":"0e204feae37ccecd","type":"text","text":"Captain K expiditing his own death (and the death of his fellow soilders) in order to save jojo from being executed ","x":-2560,"y":-4276,"width":609,"height":133},
 		{"id":"cc9d0a0b81e46f6c","type":"text","text":"Schindler - Profiteering -> Humanitarian","x":-2979,"y":-2765,"width":540,"height":81},
@@ -43,7 +43,8 @@
 		{"id":"17f17d215487aa17","x":800,"y":-3581,"width":250,"height":60,"type":"text","text":"400"},
 		{"id":"a3e620486d343732","x":800,"y":-3246,"width":250,"height":60,"type":"text","text":"400"},
 		{"id":"68a576b51ed8ff31","x":800,"y":-3044,"width":250,"height":60,"type":"text","text":"150"},
-		{"id":"0cc96502c56fe0a6","x":800,"y":-4030,"width":250,"height":45,"type":"text","text":"150"}
+		{"id":"0cc96502c56fe0a6","x":800,"y":-4030,"width":250,"height":45,"type":"text","text":"150"},
+		{"id":"4ba676c9931a6a94","type":"text","text":"Schindlers","x":-2880,"y":-3784,"width":250,"height":66}
 	],
 	"edges":[
 		{"id":"471ecec57d93a3db","fromNode":"b96bf4160a2a510f","fromSide":"bottom","toNode":"500e51caf2e4ba4b","toSide":"top"},
