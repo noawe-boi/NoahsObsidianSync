@@ -49,14 +49,15 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 *   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
 	* Jojo rabbit, a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
+	* Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harboring her. 
+	
 	* By depicting Hitler as imagined by a 10 year old boy  (i.e downright idiotic) and 
 	* *I feel like I should replace "(i.e downright idiotic)" with ", that is; downright idiotic,"*  
-	-
 
 *   **How does its medium (film) shape the emotional impact or message?**
-	-  Since its satire it focuses much less on suffering and brutality. 
-	- Film allows for more expression and 
-	- Should one reconsider their beleifs based on newly avalable evidence (epistemic sacrifice)
+	- As a film, 'Jojo Rabbit' is able to captivate 
+	- Film allows for more expression
+	- Should one reconsider their beliefs based on newly available evidence (epistemic sacrifice)
 
 
 *   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice?**
@@ -65,7 +66,7 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 ### Why This Matters
 
 *   **Step back and reflect: How do these works contribute to the ongoing cultural and literary conversation about war?**
-	- They contribute to meaningful discussion about war
+	- 
 
 
 *   **Are they confronting war's brutality, humanising its participants, or offering hope amid destruction?**
