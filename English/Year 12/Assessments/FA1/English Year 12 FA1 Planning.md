@@ -6,11 +6,14 @@ tags:
 ## Note from the author (me)
 Hi MISS Turner. Low key mostly dot points and schizophrenic ramblings. I don't blame you if you see a dot point under a heading and it literally doesn't make any sense. Feel free to hit a "???" in the comments if applicable. Also nothing it cited properly, I know ;-; 
 Also the paragraphs are broken up way too much. Yeah it's to kinda separate the ideas if that makes sense.
-![[goguarding.jpg]]
+
+also will be in actual newspaper formatting when done. working on content still
+<br>
+![[goguarding.jpg|300]]
 
 ### Title
 
-Something about sacrifice
+Something about sacrifice idk yet
 
 ### Hook & Introduction
 
@@ -39,7 +42,7 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 *   **Highlight how it represents sacrifice through character journeys, key moments, or historical realities.**
 	- Death
-	- Doctor H cyanide
+	- Doctor H giving patients cyanide
 	- Humanity sacrifice
 	- Jewish OD sacrifice
 
@@ -108,7 +111,7 @@ The conflict between imaginary Hitler and Jojo isn't really between 2 people, bu
 What would you do in the shoes of Jojo, Schindler, or even Captain K?
 	 I doubt you would have what it takes to sacrifice your own safety and the safety of your family to save a single Jew ngl.
 	Its easy to look back and think "yeah I would have done something about it" but nah you wouldn't 
-	texts like jojo and schindler both make us consider the fact that we would probably be just as helpless and complacient in similar scnearios, unwilling to make sacrifices like Jojo or schindler. 
+	texts like Jojo and Schindler both make us consider the fact that we would probably be just as helpless and complacent in similar scenarios, unwilling to make sacrifices like Jojo or Schindler. 
 
 *   **Consider how literature and film shape our collective memory of war and whether they challenge or reinforce dominant narratives.**
 
