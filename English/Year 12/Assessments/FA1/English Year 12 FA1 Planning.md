@@ -18,10 +18,12 @@ tags:
 
 
 *   **Mention the two chosen texts and their significance in depicting war.**
-
+	- One is a true and shocking story
+	- One is an immersive and relatable made up story
 
 *   **Set up the angle of the article: How do these texts shape public conversations about war and its consequences?**
-
+	- Suffering
+	- However makes us consider the moral dilemmas and issues that people in war would have to face. 
 
 ### Exploring the First Text
 
@@ -40,17 +42,21 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 
 *   **Consider: What does this novel add to the broader conversation on war literature?**
-	- 
+	- It makes us consider that not all individuals that we would consider our enemies share the same beliefs and goals as their leaders.
+		- Makes us consider people as individuals rather than a collective conscience in the context of 2 opposing sides
 
 ### Bringing in the Second Text
 
 *   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
-	- Satirises war
+	* Jojo rabbit, a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
+	* By depicting Hitler as imagined by a 10 year old boy  (i.e downright idiotic) and 
+	* *I feel like I should replace "(i.e downright idiotic)" with ", that is; downright idiotic,"*  
+	-
 
 *   **How does its medium (film) shape the emotional impact or message?**
 	-  Since its satire it focuses much less on suffering and brutality. 
 	- Film allows for more expression and 
-	
+	- Should one reconsider their beleifs based on newly avalable evidence (epistemic sacrifice)
 
 
 *   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice?**
