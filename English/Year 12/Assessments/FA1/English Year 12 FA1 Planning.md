@@ -3,11 +3,14 @@ tags:
   - assignment
   - english
 ---
-## Suggested Structure Guide for IA1 Literary Article
+## Note from the author (me)
+Hi MISS Turner. Low key mostly dot points and schizophrenic ramblings. I don't blame you if you see a dot point under a heading and it literally doesn't make any sense. Feel free to hit a "???" in the comments if applicable. Also nothing it cited properly, I know ;-; 
+Also the paragraphs are broken up way too much. Yeah it's to kinda separate the ideas if that makes sense.
+![[goguarding.jpg]]
 
 ### Title
 
-(A compelling, engaging title that hints at the discussion—e.g., The Cost of War: Stories of Sacrifice and Survival in Literature)
+Something about sacrifice
 
 ### Hook & Introduction
 
@@ -22,7 +25,7 @@ tags:
 	- One is an immersive and relatable made up story
 
 *   **Set up the angle of the article: How do these texts shape public conversations about war and its consequences?**
-	- Suffering
+	- 
 	- However makes us consider the moral dilemmas and issues that people in war would have to face. 
 
 ### Exploring the First Text
@@ -42,27 +45,49 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 
 *   **Consider: What does this novel add to the broader conversation on war literature?**
-	- It makes us consider that not all individuals that we would consider our enemies share the same beliefs and goals as their leaders.
-		- Makes us consider people as individuals rather than a collective conscience in the context of 2 opposing sides
+War has a way of pushing people to the extreme ends of spectra both when it comes to nationalism and stubbornness. While its easy to think of conflict as an "us VS them" scenario, books like Schindler ark can spark discussion that challenges the binary aspect of friend or foe.
 
 ### Bringing in the Second Text
 
 *   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
-	* Jojo rabbit, a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
-	* Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harboring her. 
+ 'Jojo rabbit', a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
+
+ Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harbouring her. 
 	
-	* By depicting Hitler as imagined by a 10 year old boy  (i.e downright idiotic) and 
-	* *I feel like I should replace "(i.e downright idiotic)" with ", that is; downright idiotic,"*  
+
 
 *   **How does its medium (film) shape the emotional impact or message?**
-	- As a film, 'Jojo Rabbit' is able to captivate 
-	- Film allows for more expression
-	- Should one reconsider their beliefs based on newly available evidence (epistemic sacrifice)
+'Jojo Rabbit' would undoubtedly impact audiences far less if it were a novel. Seeing Hitler's fly through a second story window, hearing the gunfire as Captain K and the other soldiers are executed, or feeling the tension in the air as the Gestapo search Jojo's house are all immersive and dynamic scenes that, for certain, would not be as substantial *on paper*.
+
+**INSERT IMAGE OF HITLER FLYING THROUGH WINDOW (with source hopefully)**
+![[Pasted image 20250211170026.png]]
+	
+ The bright and modern interior of Jojo's house as well as the colourful streets contrast greatly with the cold and monotone war scenes at the end. Many 'bright' or lively scenes also contrast with the final war scenes. This impacts viewers more subtly but nonetheless strongly than text based mediums. 
 
 
 *   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice?**
 
-	- Focus on the German characters and their relationships more as individuals instead of as a collective SS conscienceless
+Similarly to 'Schindler's Ark', physical sacrifice is also seen in 'Jojo Rabbit'. Facing almost certain death after being defeated by the Americans, Captain K pulls a ruse on them and manages to convince them that Jojo is actually Jewish by spitting on him and telling the soldiers that he '$[$doesn't$]$ know $[$that$]$ dirty Jew'. 
+
+
+Earlier in the movie, when the Gestapo "inspect", or more accurately, raid Jojo's house, Captain K shows up, claiming to have gotten a flat tire while riding his bike. When the Gestapo find Elsa, a Jew, they are rightfully suspicious of her. However, using Jojo's dead sister Inge's Aryan papers, she is able to avoid suspicion when Captain K volunteers to inspect their legitimacy, and despite the date of birth Elsa provided being different than the one on the papers, Captain K gives the all okay. 
+
+Any sort of rebellion or treason against the Nazi party was a serious offence, and considering that the Gestapo had just had Jojo's mother hung for that, I'ts safe to say that Captain K's fate would have been sooner rather than later if the Gestapo called his bluff. 
+However by sacrificing his safety, he was able to save the life of Elsa and Jojo because, as Captain K said himself, "If you see a Jew, you tell us, we tell the Gestapo, they tell the SS, and then they go out and they kill the Jew. And anyone who helped the Jew. And, because these are very paranoid times, probably some other people just in case"
+
+
+While the theme physical of sacrifice is less apparent in 'Jojo Rabbit', much of it takes a different form. Many of the sacrifices that Jojo must endure are not physical, but epistemic.
+
+Jojo must sacrifice his previous mindset and prejudices towards the Jewish people. This is difficult because he doesn't know what to expect from Elsa now that he can't rely on what he previously thought
+
+Jojo must realise and grow from the fact that imaginary-Hitler, no matter how supportive he's been in the past, does not have his best interests in mind. 
+
+The conflict between imaginary Hitler and Jojo isn't really between 2 people, but is an internal conflict between Jojo's comfort in his previous beliefs and his willingness to accept new truths
+
+ This may prompt viewers to consider their own beliefs and how willing they are to accept new truths 
+
+
+
 ### Why This Matters
 
 *   **Step back and reflect: How do these works contribute to the ongoing cultural and literary conversation about war?**
@@ -70,7 +95,7 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 
 *   **Are they confronting war's brutality, humanising its participants, or offering hope amid destruction?**
-    *   Schindler: other side is bad!
+    *   Schindler: other side is bad! fantasy fiction good guys vs bad guys lookin ahh.
     *   Jojo: Low key relate w/ Germans
 
 
@@ -79,8 +104,11 @@ The main challenge Oscar faces at this time is the immense oppression and mass e
 
 ### Conclusion - A Final Thought
 
-*   E**nd with a thought-provoking insight or question: Why do we keep telling these stories?**
-	- We like novelty. War is an interesting scenario
+*   **End with a thought-provoking insight or question: ~~Why do we keep telling these stories?~~**
+What would you do in the shoes of Jojo, Schindler, or even Captain K?
+	 I doubt you would have what it takes to sacrifice your own safety and the safety of your family to save a single Jew ngl.
+	Its easy to look back and think "yeah I would have done something about it" but nah you wouldn't 
+	texts like jojo and schindler both make us consider the fact that we would probably be just as helpless and complacient in similar scnearios, unwilling to make sacrifices like Jojo or schindler. 
 
 *   **Consider how literature and film shape our collective memory of war and whether they challenge or reinforce dominant narratives.**
 
