@@ -11,8 +11,10 @@ tags:
 - Fill in chemistry notes for corrosion and combustion more 
 	- pg 142 for corrosion
 
-- Watch atmoi for electrochemical series and finish worked example
+- Watch atomi for electrochemical series and finish worked example
 - Fill in Ideal gas laws
+
+- Do Exercises in the workbook he gave us 
 ### Physics
 - Exercise 1.3
 - Chapter 3 Review

@@ -54,6 +54,9 @@ To consider which reaction will occur, use the **electrochemical series table**
 #### Worked Example 6.3
 ![[Chemistry Half Equations 2025-02-10 09.50.09.excalidraw]]
 
+#### Worksheet Examples
+![[Chemistry Half Equations 2025-02-12 13.32.49.excalidraw]]
+
 ## Under Acidic Conditions
 ### Steps
 1. Balance all elements except oxygen and hydrogen
