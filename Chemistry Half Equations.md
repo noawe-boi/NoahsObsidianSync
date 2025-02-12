@@ -57,13 +57,18 @@ To consider which reaction will occur, use the **electrochemical series table**
 #### Worksheet Examples
 ![[Chemistry Half Equations 2025-02-12 13.32.49.excalidraw]]
 
+
+
 ## Under Acidic Conditions
 ### Steps
 1. Balance all elements except oxygen and hydrogen
 2. Balance oxygen by adding water molecules
 3. Balance hydrogen by adding hydrogen ions
 4. Balance the charge by adding electrons
+
 ![[Pasted image 20250206175337.png]]
 
 
-
+### Examples
+#### "sample question 2" (i think we did this before?)
+![[Chemistry Half Equations 2025-02-12 13.52.41.excalidraw | 1000]]
