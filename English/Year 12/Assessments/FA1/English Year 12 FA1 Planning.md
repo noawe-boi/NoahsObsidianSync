@@ -8,9 +8,6 @@ Hi MISS Turner. Low key mostly dot points and schizophrenic ramblings. I don't b
 Also the paragraphs are broken up way too much. Yeah it's to kinda separate the ideas if that makes sense.
 
 also will be in actual newspaper formatting when done. working on content still
-<br>
-![[goguarding.jpg|300]]
-
 ### Title
 
 Something about sacrifice idk yet
@@ -21,6 +18,9 @@ Something about sacrifice idk yet
 
 
 *   **Introduce the concept of sacrifice or resilience in war literature—why do these themes continue to resonate?**
+If you take a bit of war, and boil it down to its simplest form, all you are left with is a set of strategic decisions and sacrifices from both sides, not just on the front lines, but also within society. Additionally, sacrifice doesn't just have to be physical, like death or loss of property, but can be metaphorical, or epistemic. 
+
+Sacrifice and loss can prompt reflection on our own personal values and moral dilemmas, and reveal the extreme choices that arise in life-or-death situations. 
 
 
 *   **Mention the two chosen texts and their significance in depicting war.**
@@ -28,7 +28,7 @@ Something about sacrifice idk yet
 	- One is an immersive and relatable made up story
 
 *   **Set up the angle of the article: How do these texts shape public conversations about war and its consequences?**
-	- 
+	
 	- However makes us consider the moral dilemmas and issues that people in war would have to face. 
 
 ### Exploring the First Text

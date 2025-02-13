@@ -33,25 +33,4 @@ $Pr(A) = 1-Pr(A')$
 
 ### Examples
 ![[Specialist 1.5 Applications of Probability 2025-02-11 09.07.31.excalidraw | 1000]]
-## Pascals Formula
-### Foundational Concepts
-#### $^n C _r$
- $^n C _r = \frac{n!} {r!(n-r)!}$
-
-### Vocab and Definitions
-#### Pascals Triangle
-![[Specialist 1.5 Applications of Probability 2025-02-11 09.49.27.excalidraw|1000]]
-	and so on...
-
-$^2 C _1 = \textrm{Row 2, Position 1}$
-
-#### Pascals formula
-$^n C _r = ^{n-1}C_{r-1} + ^{n-1}C_{r}$
-
-### Big ideas and Concepts
-Maths is cool 
-![[Pasted image 20250211095647.png]]
-
-### Examples
-![[Specialist 1.5 Applications of Probability 2025-02-11 09.57.35.excalidraw]]
-
+## 
