@@ -4,7 +4,7 @@ tags:
   - english
 ---
 ## Note from the author (me)
-Hi MISS Turner. Low key mostly dot points and schizophrenic ramblings. I don't blame you if you see a dot point under a heading and it literally doesn't make any sense. Feel free to hit a "???" in the comments if applicable. Also nothing it cited properly, I know ;-; 
+Hi MISS Turner. Low key mostly dot points and schizophrenic ramblings. I don't blame you if you see a dot point under a heading and it literally doesn't make any sense. Feel free to hit a "???" in the comments if applicable. Also nothing is cited properly, I know ;-; 
 Also the paragraphs are broken up way too much. Yeah it's to kinda separate the ideas if that makes sense.
 
 also will be in actual newspaper formatting when done. working on content still
@@ -41,10 +41,13 @@ Something about sacrifice idk yet
 The main challenge Oscar faces at this time is the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
 
 *   **Highlight how it represents sacrifice through character journeys, key moments, or historical realities.**
-	- Death
-	- Doctor H giving patients cyanide
-	- Humanity sacrifice
-	- Jewish OD sacrifice
+Death and sacrifice are abundant throughout Schindler's story, not only surrounding Schindler, but among all of those impacted by the war effort. 
+
+Schindler himself sacrificed his safety, security, and profits for the sake of his Jewish workers. Masses of money and liters of liquor practically flowed from Schindler's pockets and into those of SS Guards, NCO's Investigators, SS Officials, and SS Untersturmfuhrer Liepold to spare both himself and workers safe from prosecution and execution. 
+
+Sacrifice is not just a tax for the persecuted and attacked though. The atrocities committed by SS Solders could not have been natural for many, and therefore it can be said that they must have partially sacrificed part of their humanity in order to serve their leaders. 
+
+'Doctor H' had to face a moral dilemma and intentionally poison four terminally ill patients rather than attempt an escape from the ghetto and let them face execution by automatic weapon. 
 
 
 *   **Consider: What does this novel add to the broader conversation on war literature?**
@@ -55,9 +58,7 @@ War has a way of pushing people to the extreme ends of spectra both when it come
 *   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
  'Jojo rabbit', a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
 
- Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harbouring her. 
-	
-
+ Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, however when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harboring her. 
 
 *   **How does its medium (film) shape the emotional impact or message?**
 'Jojo Rabbit' would undoubtedly impact audiences far less if it were a novel. Seeing Hitler's fly through a second story window, hearing the gunfire as Captain K and the other soldiers are executed, or feeling the tension in the air as the Gestapo search Jojo's house are all immersive and dynamic scenes that, for certain, would not be as substantial *on paper*.
