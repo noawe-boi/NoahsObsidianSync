@@ -51,3 +51,6 @@ If you add the numbers going down any diagonal starting with 1 and stopping at a
 er added. 
 ### Examples
 ![[Specialist 1.6 Pascals Triangle 2025-02-14 09.16.07.excalidraw]]
+
+### Exercise 1.6
+![[Specialist 1.6 Pascals Triangle 2025-02-14 09.31.27.excalidraw]]
