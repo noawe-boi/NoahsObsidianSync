@@ -7,7 +7,7 @@ tags:
 ## What is the electrochemical series
 - Redox Reactions convert chemical potential energy into electrical energy
 - The ability for elements, ions, or molecules to gain or lose electrons can be determined from the **electrochemical series**
-
+![[Pasted image 20250217095233.png]]
 ### What do the numbers mean??
 Bigger number $\rightarrow$ More likely and stronger ability to 'suck up' or gain an electron (reduce)
 Smaller number (or negative) $\rightarrow$ less likely and lesser ability to 'suck up' or gain an electron (oxidise)

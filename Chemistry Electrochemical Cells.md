@@ -23,10 +23,9 @@ i.e. anode is oxidation, reduction is at cathode.
 ##### The Salt Bridge
 The salt bridge helps electrons balance out when the battery becomes saturated.
 $KNO_3$ will always be a suitable salt bridge because it is always soluble
+However it is a spectator ion and therefore is irrelevant when considering redox
 ##### Example Galvanic Cell
 ![[Drawing 2025-02-17 09.20.52.excalidraw|1000]]
-
-
 #### Electrolytic cell
 An electrochemical cell that converts *electrical energy to chemical energy* from **non-spontaneous** redox reactions
 
