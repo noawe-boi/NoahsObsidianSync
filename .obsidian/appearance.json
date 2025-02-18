@@ -4,6 +4,6 @@
   "textFontFamily": "Hack Nerd Font",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
-  "baseFontSize": 26,
+  "baseFontSize": 25,
   "accentColor": "#006eb3"
 }
