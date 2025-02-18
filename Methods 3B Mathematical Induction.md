@@ -44,3 +44,9 @@ $P(4) \implies ...$
 
 ### Examples
 ![[Methods 3B Mathematical Induction 2025-02-18 09.14.32.excalidraw]]
+
+
+## Mathematical Induction with summation notation
+
+### Examples
+![[Methods 3B Mathematical Induction 2025-02-18 10.05.09.excalidraw]]
