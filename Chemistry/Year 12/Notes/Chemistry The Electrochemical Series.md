@@ -13,6 +13,10 @@ Bigger number $\rightarrow$ More likely and stronger ability to 'suck up' or gai
 Smaller number (or negative) $\rightarrow$ less likely and lesser ability to 'suck up' or gain an electron (oxidise)
 
 If the reduced element is lower in the series then the reductant (reducing agent) will oxidize. 
+
+Consider $Li^+$ and $H_2$
+- $Li^+$ is a very strong oxidizing agent and will reduce
+- $H_2$ is 'higher' on the series and is a very weak reducing agent in this case. $H_2$ will oxidize. 
 ## Half  Equations 
 ![[Chemistry Half Equations]]
 

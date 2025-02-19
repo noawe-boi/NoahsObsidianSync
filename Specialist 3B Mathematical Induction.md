@@ -1,9 +1,9 @@
 ---
 tags:
-  - methods
   - 12Textbook
   - notes
   - topic
+  - Specialist
 ---
 ## Mathematical Induction for Sums
 ### Foundational Concepts

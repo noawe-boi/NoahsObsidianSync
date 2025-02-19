@@ -5,7 +5,7 @@ tags:
   - subtopic
 ---
 ## What are standard Electrode Potentials?
-Consider the series
+Consider the series:
 ![[Pasted image 20250217100405.png]]
 
 These half equations and their strengths are measured by connecting them to a hydrogen half cell.

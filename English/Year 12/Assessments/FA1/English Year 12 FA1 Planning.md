@@ -38,20 +38,20 @@ Sacrifice and loss can prompt reflection on our own personal values and moral di
 'Schindler's Ark', by Thomas Keneally depicts the true story of Oskar Schindler, a WWII industrialist who, between 1938 and 1945 (https://echoesandreflections.org/wp-content/uploads/2019/01/Companion_Resource_to_Schindlers_List_Bios.pdf), was responsible for saving roughly 1200 Jewish workers who he employed at his enamelware and ammunition's factory from Auschwitz.
 
 
-The main challenge Oscar faces at this time is the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
+The main challenge Oskar faces at this time is the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
 
 *   **Highlight how it represents sacrifice through character journeys, key moments, or historical realities.**
 Death and sacrifice are abundant throughout Schindler's story, not only surrounding Schindler, but among all of those impacted by the war effort. 
 
 Schindler himself sacrificed his safety, security, and profits for the sake of his Jewish workers. Masses of money and liters of liquor practically flowed from Schindler's pockets and into those of SS Guards, NCO's Investigators, SS Officials, and SS Untersturmfuhrer Liepold to spare both himself and workers safe from prosecution and execution. 
 
-Sacrifice is not just a tax for the persecuted and attacked though. The atrocities committed by SS Solders could not have been natural for many, and therefore it can be said that they must have partially sacrificed part of their humanity in order to serve their leaders. 
+Sacrifice is not just a tax for the persecuted and attacked though. The atrocities committed by SS Soldiers could not have been natural for many, and therefore it can be said that they must have partially sacrificed part of their humanity in order to serve their leaders by submitting to the brainwashing and propaganda of the Nazi party. 
 
 'Doctor H' had to face a moral dilemma and intentionally poison four terminally ill patients rather than attempt an escape from the ghetto and let them face execution by automatic weapon. 
 
 
 *   **Consider: What does this novel add to the broader conversation on war literature?**
-War has a way of pushing people to the extreme ends of spectra both when it comes to nationalism and stubbornness. While its easy to think of conflict as an "us VS them" scenario, books like Schindler ark can spark discussion that challenges the binary aspect of friend or foe.
+War has a way of pushing people to the extreme ends of the spectrum both when it comes to nationalism and stubbornness. While its easy to think of conflict as an "us VS them" scenario, books like Schindler ark can spark discussion that challenges the binary aspect of friend or foe.
 
 ### Bringing in the Second Text
 
@@ -61,12 +61,16 @@ War has a way of pushing people to the extreme ends of spectra both when it come
  Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, however when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harboring her. 
 
 *   **How does its medium (film) shape the emotional impact or message?**
-'Jojo Rabbit' would undoubtedly impact audiences far less if it were a novel. Seeing Hitler's fly through a second story window, hearing the gunfire as Captain K and the other soldiers are executed, or feeling the tension in the air as the Gestapo search Jojo's house are all immersive and dynamic scenes that, for certain, would not be as substantial *on paper*.
+'Jojo Rabbit' would undoubtedly impact audiences far less if it were a novel. Seeing Hitler fly through a second story window, hearing the gunfire as Captain K and the other soldiers are executed, or feeling the tension in the air as the Gestapo search Jojo's house are all immersive and dynamic scenes that, for certain, would not be as substantial *on paper*. 
+This helps viewers engage and relate with the characters on a deeper level 
 
 **INSERT IMAGE OF HITLER FLYING THROUGH WINDOW (with source hopefully)**
 ![[Pasted image 20250211170026.png]]
 	
- The bright and modern interior of Jojo's house as well as the colourful streets contrast greatly with the cold and monotone war scenes at the end. Many 'bright' or lively scenes also contrast with the final war scenes. This impacts viewers more subtly but nonetheless strongly than text based mediums. 
+ The bright and modern interior of Jojo's house as well as the colourful streets contrast greatly with the cold and monotone war scenes at the end. Many 'bright' or lively scenes also contrast with the final war scenes. 
+
+ 
+ This impacts viewers more subtly but nonetheless strongly than text based mediums. 
 
 
 *   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice?**
