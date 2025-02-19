@@ -38,7 +38,7 @@ $\int{}f(x) + g(x) \; dx\rightarrow\int f(x) \; dx + \int{} g(x) \; dx$
 $\int f(x) - g(x) \; dx \rightarrow \int f(x) \; dx - \int g(x) \; dx$
 
 
-$\int k \times f(x) \; dx \rightarrow k\int f(x) \; dx \; dx$
+$\int k \times f(x) \; dx \rightarrow k\int f(x) \; dx$
 
 
 
