@@ -3,11 +3,7 @@ tags:
   - assignment
   - english
 ---
-## Note from the author (me)
-Hi MISS Turner. Low key mostly dot points and schizophrenic ramblings. I don't blame you if you see a dot point under a heading and it literally doesn't make any sense. Feel free to hit a "???" in the comments if applicable. Also nothing is cited properly, I know ;-; 
-Also the paragraphs are broken up way too much. Yeah it's to kinda separate the ideas if that makes sense.
 
-also will be in actual newspaper formatting when done. working on content still
 ### Title
 
 Something about sacrifice idk yet
@@ -58,7 +54,7 @@ War has a way of pushing people to the extreme ends of the spectrum both when it
 *   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
  'Jojo rabbit', a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
 
- Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, however when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harboring her. 
+ Jojo and Imaginary-Hitler both believe that Jews are disgusting and deadly creatures, however when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harboring her. He attempts to interrogate her at first but  
 
 *   **How does its medium (film) shape the emotional impact or message?**
 'Jojo Rabbit' would undoubtedly impact audiences far less if it were a novel. Seeing Hitler fly through a second story window, hearing the gunfire as Captain K and the other soldiers are executed, or feeling the tension in the air as the Gestapo search Jojo's house are all immersive and dynamic scenes that, for certain, would not be as substantial *on paper*. 
