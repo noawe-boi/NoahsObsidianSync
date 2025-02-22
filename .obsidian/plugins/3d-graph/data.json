@@ -1,13 +1,13 @@
 {
   "filters": {
     "doShowOrphans": true,
-    "doShowAttachments": false
+    "doShowAttachments": true
   },
   "groups": {
     "groups": []
   },
   "display": {
-    "nodeSize": 5,
+    "nodeSize": 8,
     "linkThickness": 9,
     "particleSize": 15,
     "particleCount": 13
