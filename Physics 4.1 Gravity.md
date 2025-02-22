@@ -12,4 +12,4 @@ The closest object has the strongest force of attraction, however this force may
 The force of gravity on objects due to one another is equal and opposite
 
 
-if the earth was flat it would be crazy
+if the earth was flat it would be **crazy**
