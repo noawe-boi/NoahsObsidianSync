@@ -36,6 +36,7 @@ Sacrifice and loss in texts and media can prompt reflection on our own personal 
 The main challenge Oskar faced at this time was the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
 
 *   **Highlight how it represents sacrifice through character journeys, key moments, or historical realities.**
+
 Death and sacrifice were abundant throughout Schindler's story, not only surrounding Schindler, but among all of those impacted by the war effort. 
 
 Schindler himself sacrificed his safety, security, and profits for the sake of his Jewish workers. Masses of money and litres of liquor practically flowed from Schindler's pockets and into those of SS Guards, NCO's Investigators, SS Officials, and hundreds of other's on a regular basis to spare both himself and workers from prosecution and execution. 
@@ -44,8 +45,6 @@ Sacrifice is not just a tax for the persecuted and attacked though. The atrociti
 
 "Doctor H" had to face a moral dilemma and intentionally poison four terminally ill patients rather than attempt an escape from the ghetto and let them face execution by automatic weapon. 
 
-
-*   **Consider: What does this novel add to the broader conversation on war literature?**
 War has a way of pushing people to the extreme ends of the spectrum both when it comes to nationalism and stubbornness. While its easy to think of conflict as an "us VS them" scenario, books like Schindler ark can spark discussion that challenges the binary aspect of friend or foe.
 
 ### Bringing in the Second Text
@@ -89,29 +88,18 @@ Jojo must realise and grow from the fact that "Imaginary-Hitler" was a crutch; s
 
 ### Why This Matters
 
-*   **Step back and reflect: How do these works contribute to the ongoing cultural and literary conversation about war?**
+
 Both "Schindler's Ark" and "Jojo Rabbit" change how viewers see war stories by exposing the messy, human elements within them that arise under the circumstances. Schindler's transformation from Nazi profiteer to saviour pushes the idea of inherent heroism, the idea that everyone has the potential for heroic actions if they are able to act selflessly in the face of danger. Jojo's Journey from indoctrinated to empathetic can cause audiences to consider whether their biases are taught, rather than innate. 
 These works confront and reject the "Good vs Evil" framework and instead start new conversations by highlighting how war forces ordinary people to make impossible choices and by doing so, they reframe sacrifice not as a noble and righteous endeavour, but a survival tactic.
 
-*   **Are they confronting war's brutality, humanising its participants, or offering hope amid destruction?**
-	"Schindler's Ark" depicts mass and systematic genocide but is able to counter hopelessness and despair by sprinkling in Schindler's incremental acts of rebellion. His story shows that while complacency and complicity with the terrible acts committed by the SS was rampant, redemption is possible through costly action.
-	"Jojo Rabbit" uses satire to disarm viewers, while also juxtaposing absurd humour, like Captain K approaching battle with a cape and tassels, with visceral tragedy, like his execution mere moments later. This creates an entertaining film while still confronting the inherent brutality and of war
-	
 
-
-*   **How do they encourage readers/viewers to think differently about war or sacrifice?
+"Schindler's Ark" depicts mass and systematic genocide but is able to counter hopelessness and despair by sprinkling in Schindler's incremental acts of rebellion. His story shows that while complacency and complicity with the terrible acts committed by the SS was rampant, redemption is possible through costly action.
+"Jojo Rabbit" uses satire to disarm viewers while also juxtaposing absurd humour, like Captain K approaching battle with a cape and tassels, with visceral tragedy, like his execution mere moments later. This creates an entertaining film while still confronting the inherent brutality of war.
 
 
 ### Conclusion - A Final Thought
 
-*   **End with a thought-provoking insight or question: ~~Why do we keep telling these stories?~~**
-What would you do in the shoes of Jojo, Schindler, or even Captain K?
-	 I doubt you would have what it takes to sacrifice your own safety and the safety of your family to save a single Jew ngl.
-	Its easy to look back and think "yeah I would have done something about it" but nah you wouldn't 
-	texts like Jojo and Schindler both make us consider the fact that we would probably be just as helpless and complacent in similar scenarios, unwilling to make sacrifices like Jojo or Schindler. 
+"Schindler's Ark" and "Jojo Rabbit" force us to consider uncomfortable truth that heroism is hard to come by, and complacency is contagious.  We like to think that we would be like Schindler in these situations, however history suggest that we'd probably stand by, averting our eyes like Jojo when his mother takes him to see the executed in the town square.
 
-*   **Consider how literature and film shape our collective memory of war and whether they challenge or reinforce dominant narratives.**
-
-
-*   **Perhaps reference modern conflicts—how does war literature of the past connect with the wars of today?**
+Literature and film don't just imortalise war stories, they change how we see its legacy. When Captain K spits on Jojo to save him, or when Schindler cries out, realising that all his possessions are not worth a cent compared to the lives he could have exchanged them for, we are reminded that war's true cost is measured in fractured souls, not just body counts. "I could have saved one more.." (INSERT SOURCE). 
 
