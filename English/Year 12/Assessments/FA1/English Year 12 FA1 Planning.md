@@ -90,16 +90,16 @@ Jojo must realise and grow from the fact that "Imaginary-Hitler" was a crutch; s
 ### Why This Matters
 
 *   **Step back and reflect: How do these works contribute to the ongoing cultural and literary conversation about war?**
-	- 
-
+Both "Schindler's Ark" and "Jojo Rabbit" change how viewers see war stories by exposing the messy, human elements within them that arise under the circumstances. Schindler's transformation from Nazi profiteer to saviour pushes the idea of inherent heroism, the idea that everyone has the potential for heroic actions if they are able to act selflessly in the face of danger. Jojo's Journey from indoctrinated to empathetic can cause audiences to consider whether their biases are taught, rather than innate. 
+These works confront and reject the "Good vs Evil" framework and instead start new conversations by highlighting how war forces ordinary people to make impossible choices and by doing so, they reframe sacrifice not as a noble and righteous endeavour, but a survival tactic.
 
 *   **Are they confronting war's brutality, humanising its participants, or offering hope amid destruction?**
-    *   Schindler: other side is bad! fantasy fiction good guys vs bad guys lookin ahh.
-	    * Schindler vs the world 
-    *   Jojo: Low key relate w/ Germans
+	"Schindler's Ark" depicts mass and systematic genocide but is able to counter hopelessness and despair by sprinkling in Schindler's incremental acts of rebellion. His story shows that while complacency and complicity with the terrible acts committed by the SS was rampant, redemption is possible through costly action.
+	"Jojo Rabbit" uses satire to disarm viewers, while also juxtaposing absurd humour, like Captain K approaching battle with a cape and tassels, with visceral tragedy, like his execution mere moments later. This creates an entertaining film while still confronting the inherent brutality and of war
+	
 
 
-*   **How do they encourage readers/viewers to think differently about war, sacrifice, or resilience?**
+*   **How do they encourage readers/viewers to think differently about war or sacrifice?
 
 
 ### Conclusion - A Final Thought
