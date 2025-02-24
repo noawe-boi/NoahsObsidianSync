@@ -32,7 +32,7 @@
 \section{Formulation}
 \subsection{Assumptions}
 \begin{itemize}
-	\item The terminology 'smooth' was used to describe the transition between pieces of track. It is assumed that this means they are both at the same location in space, meaning there will be no gaps, and that their gradient will be the same at the point of intersection, so that there is no sharp change gradient. Thus it will also be assumed that the gradient of the start and end sections of track is 0.
+	\item The terminology 'smooth' was used to describe the transition between pieces of track. It is assumed that this means they are both at the same location in space, meaning there will be no gaps, and that their gradient will be the same at the point of intersection, so that there is no sudden change gradient. Thus it will also be assumed that the gradient of the start and end sections of track is 0.
 	\item 
 \end{itemize}
 
@@ -41,7 +41,7 @@
 
 \subsection{Observations}
 \begin{itemize}
-	\item The roller coaster can be faithfully modeled in 2D to simplify calculations as the width of the track and much of its geometry is not relevant in this case. 
+	\item The roller coaster can be faithfully modeled in 2D to simplify calculations as the width of the track and much of its geometry is not relevant in this case and we are not provided with specifications regarding the width available. 
 	\item The task sheet defines the success criteria as causing the maximum amount of exhilaration, caused by "swift changes in direction, height and steepness". 
 \end{itemize}
 
@@ -49,7 +49,7 @@
 \begin{itemize}
 	\item Since the roller coaster has been assumed to be 2D, its track can be represented on the Cartesian plane. This allows us to use desmos to graph its track and perform calculations by letting 1 unit be 1 meter. 
 	\item The derivative function of modeled section of track can be used to determine the gradient at that point and therefore be used to determine if the track fulfills the specified "Maximum Slope for safety" requirement provided by the task sheet.
-	\item "Swift changes in direction, height and steepness" can be translated to swift changes in the $y-$axis, and gradient.  
+	\item "Swift changes in direction, height and steepness" can be translated to swift changes in the $y-$axis, and gradient. However, there is a maximum gradient specified that must be considered. 
 \end{itemize}
 
 
