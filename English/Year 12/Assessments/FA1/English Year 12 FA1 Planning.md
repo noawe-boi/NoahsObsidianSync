@@ -10,34 +10,20 @@ Something about sacrifice idk yet
 
 ### Hook & Introduction
 
-*   **Start with a compelling hook: a striking quote, a brief anecdote, or a thought-provoking statement about war's impact on humanity.**
+War memorials embed names of the dead in stone for the rest of eternity. They are an anchor, not only keeping those who lost family attached, but newer generations accountable, and aware of the consequences of conflict. However, what can never be recorded, lest we run out of space to write, are the unrecorded losses. A child's innocence, the solder's humanity, the elder's wisdom.
+
+These losses aren't just physical, but metaphorical, or epistemic. Sacrifice's like these in texts and media can prompt reflection on our own personal values and moral dilemmas by revealing the extreme choices that arise in life-or-death situations. 
 
 
-*   **Introduce the concept of sacrifice or resilience in war literature—why do these themes continue to resonate?**
-If you take a bit of war, and boil it down to its simplest form, all you are left with is a set of strategic decisions and sacrifices from both sides, not just on the front lines, but also within society. However, these sacrifices aren't just physical, like death or loss of property, but can be metaphorical, or epistemic. 
-Sacrifice and loss in texts and media can prompt reflection on our own personal values and moral dilemmas, and reveal the extreme choices that arise in life-or-death situations. 
-
-
-
-*   **Mention the two chosen texts and their significance in depicting war.**
-	- One is a true and shocking story
-		- 
-	- One is an immersive and relatable made up story
-		- 
-
-*   **Set up the angle of the article: How do these texts shape public conversations about war and its consequences?**
-	
-	- However makes us consider the moral dilemmas and issues that people in war would have to face. 
 
 ### Exploring the First Text
 
-*   **Briefly introduce the novel (Schindler's Ark) and its war context.**
 
 'Schindler's Ark', by Thomas Keneally depicts the true story of Oskar Schindler, a WWII industrialist who, between 1938 and 1945 (https://echoesandreflections.org/wp-content/uploads/2019/01/Companion_Resource_to_Schindlers_List_Bios.pdf), was responsible for saving roughly 1200 Jewish workers, who he employed at his enamelware and ammunition's factory, from concentration camps like Auschwitz.
 
 The main challenge Oskar faced at this time was the immense oppression and mass execution of Jewish individuals during the war. "They don’t have a future, Schindler. That’s not just old-fashioned Jew-hate talking, I assure you. It’s policy." (INSERT REFERENCE)
 
-*   **Highlight how it represents sacrifice through character journeys, key moments, or historical realities.**
+
 
 Death and sacrifice were abundant throughout Schindler's story, not only surrounding Schindler, but among all of those impacted by the war effort. 
 
@@ -51,12 +37,10 @@ War has a way of pushing people to the extreme ends of the spectrum both when it
 
 ### Bringing in the Second Text
 
-*   **Introduce the second text (Jojo Rabbit) and its unique take on war.**
  "Jojo rabbit", a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
 
  Jojo and Imaginary-Hitler both believe that Jewish people are disgusting and deadly creatures, however when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harbouring her. Jojo attempts to interrogate Elsa to gain insight on and document the strengths and weaknesses of the "Jews" so, and the Nazi Party, can be better equipped to take them on. However as he learns more about Elsa and the events that lead her to his home, his feelings of hatred turn to sympathy.
 
-*   **How does its medium (film) shape the emotional impact or message?**
 
 As a film, "Jojo Rabbit" is able to reach broader audiences in creative and impactful ways. I strongly believe that as a novel, it would have seen much less success. In fact, the film was adapted from the novel "Caging Skies", which many viewers may not have heard about until seeing the more accessible "JoJo Rabbit". Seeing Hitler fly through a second story window, hearing the gunfire as Captain K and the other soldiers are executed, or feeling the tension in the air as the Gestapo search Jojo's house are all immersive and dynamic scenes that help viewers engage and relate with the characters on a deeper level. 
 
@@ -65,8 +49,6 @@ As a film, "Jojo Rabbit" is able to reach broader audiences in creative and impa
  The bright and modern interior of Jojo's house as well as the colorful streets become a grotesque juxtaposition to the events occurring within them. When we see Jojo's mother lifeless in the town center, the color subtly disappears from the world, subconsciously highlighting the magnitude of the loss to viewers, and the climax of consequences that his mother endured for doing "what they could." 
 ![[Pasted image 20250222153724.png]]
 
-
-*   **Compare/contrast it with the novel: Does it challenge, reinforce, or expand the discussion on sacrifice?**
 
 Evidently, just like 'Schindler's Ark', physical sacrifice is a major theme in 'Jojo Rabbit'. Another example of this is when, facing almost certain death after being defeated in battle by the invading Americans, Captain K pulls a ruse on them and manages to convince them that Jojo is Jewish by spitting on him and telling the soldiers that he '\[doesn't\] know \[that\] **dirty** Jew'. Sealing his own fate and expediting his own death, Captain K sacrifices his own life for the sake of Jojo's.
 
@@ -80,11 +62,11 @@ However by sacrificing his safety, he was able to save the life of Elsa and Jojo
 
 While the theme physical of sacrifice is less apparent in 'Jojo Rabbit', much of it takes a different form. Many of the sacrifices that Jojo must endure are not physical, but epistemic.
 
-Jojo had to sacrifice his previous mindset and prejudices towards the Jewish people in order to embrace the new truth and has such difficulty doing so because, without the information Jojo gathered from propaganda and "Hitlers Youths", he wouldn't know what to expect from Elsa. This fear of the unknown kept Jojo from dismissing his previous beliefs and the internal conflict because of this is materialises, and climaxes when Jojo has a fight with "Imaginary-Hitler" and decides that he is better off without him. 
+Jojo had to sacrifice his previous mindset and prejudices towards the Jewish people in order to embrace the new truth and has such difficulty doing so because, without the information Jojo gathered from propaganda and "Hitlers Youths", he wouldn't know what to expect from Elsa. This fear of the unknown kept Jojo from dismissing his previous beliefs and the internal conflict because of this is materialises, and climaxes when Jojo has a fight with "Imaginary-Hitler", eventually deciding that he is better off without him. 
 
-Jojo must realise and grow from the fact that "Imaginary-Hitler" was a crutch; supportive and comforting in the short term, but nonetheless a burden at some point that prevented Jojo from living the life he deserved, free from antisemitism. 
+Jojo must realise and grow from the fact that "Imaginary-Hitler" was a crutch; supportive and comforting in the short term, but nonetheless a burden at some point that prevented Jojo from living the life he deserved, one of a 10 year old boy, not a Nazi
 
- This may prompt viewers to consider their own beliefs and how willing they are to accept new truths 
+ This may prompt viewers to consider their own beliefs and how willing they are to accept new truths despite their prejudices.
 
 
 
@@ -103,5 +85,5 @@ These works confront and reject the "Good vs Evil" framework and instead start n
 
 "Schindler's Ark" and "Jojo Rabbit" force us to consider uncomfortable truth that heroism is hard to come by, and complacency is contagious.  We like to think that we would be like Schindler in these situations, however history suggest that we'd probably stand by, averting our eyes like Jojo when his mother takes him to see the executed in the town square.
 
-Literature and film don't just imortalise war stories, they change how we see its legacy. When Captain K spits on Jojo to save him, or when Schindler cries out, realising that all his possessions are not worth a cent compared to the lives he could have exchanged them for, we are reminded that war's true cost is measured in fractured souls, not just body counts. "I could have saved one more.." (INSERT SOURCE). 
+Literature and film don't just immortalise war stories, they change how we see its legacy. When Captain K spits on Jojo to save him, or when Schindler cries out, realising that all his possessions are not worth a cent compared to the lives he could have exchanged them for, we are reminded that war's true cost is measured in sacrifices and fractured souls, not just body counts. "I could have saved one more.." (INSERT SOURCE). 
 
