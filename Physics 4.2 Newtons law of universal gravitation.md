@@ -33,4 +33,13 @@ Where:
 - $r$ is the radius between the objects
 - $g$ is the gravitational field. 
 
+### $F_g$'s proportionality
+$$F_{G}\propto \frac{1}{r^2}$$
+Consider r=2r
+$$\frac{1}{(2r)^2} = \frac{1}{2^2r^2}=\frac{1}{4r^2}=\frac{1}{4}F_{g}$$
+
+
+
+## Examples
+![[Physics 4.2 Newtons law of universal gravitation 2025-02-25 13.46.43.excalidraw]]
 
