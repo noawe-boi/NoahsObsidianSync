@@ -37,7 +37,7 @@ War has a way of pushing people to the extreme ends of the spectrum both when it
 
 ### Bringing in the Second Text
 
- "Jojo rabbit", a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzle, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
+ "Jojo rabbit", a film written, directed by, and starring Taika Waititi, is a satirical take on WWII from the perspective of a Johannes "Jojo" Betzler, a 10 year old  boy obsessed with the Nazi regime, and his imaginary friend, Adolf Hitler!
 
  Jojo and Imaginary-Hitler both believe that Jewish people are disgusting and deadly creatures, however when Jojo finds himself face to face with Elsa, a Jewish girl his mother provided with refuge in her home, his only option is to befriend her, lest he face prosecution for harbouring her. Jojo attempts to interrogate Elsa to gain insight on and document the strengths and weaknesses of the "Jews" so, and the Nazi Party, can be better equipped to take them on. However as he learns more about Elsa and the events that lead her to his home, his feelings of hatred turn to sympathy.
 
