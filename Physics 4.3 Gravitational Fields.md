@@ -5,6 +5,9 @@ tags:
   - topic
   - notes
 ---
+## What is a gravitational field?
+A gravitational field is a region of space around a body or mass that causes other bodies to experience a force of gravitational attraction.
+
 ## Gravitational fields
 ![[Physics 4.3 Gravitational Fields 2025-02-26 09.05.26.excalidraw]]
 
@@ -23,11 +26,13 @@ Where:
 ### Example
 ![[Physics 4.3 Gravitational Fields 2025-02-26 09.12.01.excalidraw]]
 
+## Kepler's Laws of orbits
+![[Kepler's Laws of orbits]]
 
 
 
 
+## Exercises
 
-
-
+![[Physics 4.3 Gravitational Fields 2025-02-26 09.59.06.excalidraw]]
 
