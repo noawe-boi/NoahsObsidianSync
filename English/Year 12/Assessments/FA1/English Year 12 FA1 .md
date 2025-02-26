@@ -51,3 +51,10 @@ Together, they force us to examine the uncomfortable truth that heroism is hard 
 
 
 Literature and film don't just immortalise war stories, they change how we see it's legacy. When Captain K spits on Jojo to save him, or when Schindler cries out, realising that all his possessions are not worth a cent compared to the lives he could have exchanged them for, we are reminded that war's true cost is measured in sacrifices and fractured souls, not just body counts. Our only choices are to be contempt with the horrors we lay witness to, or regret our complacency, just like Schindler, believing that we "could have saved one more..." (Keneally, 1982)
+
+### References
+Keneally, T. (1982). _Schindler’s ark_. Hodder & Stoughton.
+
+Waititi, T. (Director). (2019). _Jojo rabbit_ [Film]. Fox Searchlight Pictures.
+
+Echoes & Reflections. (2019). _Companion resource to using Schindler's List in the classroom_. Retrieved from [https://echoesandreflections.org/wp-content/uploads/2019/01/Companion_Resource_to_Schindlers_List_Bios.pdf](https://echoesandreflections.org/wp-content/uploads/2019/01/Companion_Resource_to_Schindlers_List_Bios.pdf)
