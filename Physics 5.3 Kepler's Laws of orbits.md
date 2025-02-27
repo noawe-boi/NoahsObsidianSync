@@ -46,3 +46,5 @@ $$\frac{GMm}{r^2}=\frac{mv^2}{r}$$
 $$\frac{GMmr}{r^2m}=\frac{GM}{r}=v^2$$
 $$\therefore GM=v^2r=\left( \frac{2\pi r}{2} \right)^2r$$
 $$\therefore\text{Keplers third law,}\; \frac{T^2}{r^2}= \frac{4\pi ^2}{GM},\; \text{is a constant} $$ 
+## Example
+![[Physics 5.3 Kepler's Laws of orbits 2025-02-27 11.44.41.excalidraw]]
