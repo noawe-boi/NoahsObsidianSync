@@ -4,6 +4,7 @@ tags:
   - subtopic
   - notes
 ---
+## The laws
 ### The first law of planetary motion
 
 Orbits aren't actually perfect circles.
@@ -31,3 +32,17 @@ Kepler's third law of motion states that:
 
 This also means that:
 	If you increase the distance from the orbiting body, you increase the time it takes for a revolution to occur
+
+## Example 
+
+![[Physics 5.3 Kepler's Laws of orbits 2025-02-27 11.20.23.excalidraw]]
+
+
+## Combining Kepler's and Newton's laws
+### Newtons Third law and Keplers third law
+Consider 
+$$F_{g}=F_{}{c}$$
+$$\frac{GMm}{r^2}=\frac{mv^2}{r}$$
+$$\frac{GMmr}{r^2m}=\frac{GM}{r}=v^2$$
+$$\therefore GM=v^2r=\left( \frac{2\pi r}{2} \right)^2r$$
+$$\therefore\text{Keplers third law,}\; \frac{T^2}{r^2}= \frac{4\pi ^2}{GM},\; \text{is a constant} $$ 
