@@ -27,7 +27,7 @@ Where:
 ![[Physics 4.3 Gravitational Fields 2025-02-26 09.12.01.excalidraw]]
 
 ## Kepler's Laws of orbits
-![[Kepler's Laws of orbits]]
+![[Physics 5.3 Kepler's Laws of orbits]]
 
 
 
