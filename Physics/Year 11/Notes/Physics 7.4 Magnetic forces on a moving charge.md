@@ -26,7 +26,7 @@ Where:
 ### For Current Carrying Wires
 ![[rhr diagram 4]]
 
-$F=BIL*sing(\theta)$
+$F=BIL*sin(\theta)$
 Where
 - B is the strength of the field
 - q is the strength of the charge

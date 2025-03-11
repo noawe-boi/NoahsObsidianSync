@@ -2,6 +2,9 @@
 tags:
   - physics
 ---
+### Banger video
+https://www.youtube.com/watch?v=6T7aG3Gd_38
+
 ### Definition(s).
 Magnetic Flux: A measurement of the total field that passes through a given area. Measured in 'weber' 
 Magnetic Flux Density: the strength of a magnetic field of number of field lines per unit area (B)
