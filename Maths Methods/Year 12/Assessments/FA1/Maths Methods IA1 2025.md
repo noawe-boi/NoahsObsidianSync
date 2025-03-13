@@ -37,3 +37,17 @@ $ln(x)$
 - $Tan$
 #### Polynomial
 
+
+
+### notes/todo
+#### overall
+- Make sure use of term "maximum" is correct
+- Source vertex formula
+#### Modelling in desmos
+- i didnt end up using the desmos project... Is this that bad of a thing??
+	\item The community made desmos project "Cubic through four points" allowed for a cubic to be constructed via dragging points in the desmos UI. This allowed for the creation of a viable function through trial and error.  \url{https://www.desmos.com/calculator/r0slnoidco}
+
+##### The second function:
+- Is adding the linear slope a good thing or a bad thing?? does it take away from the fact that I am using a trig function??
+- Is this the right way to say this??
+	-  $9.5\times0.2\cos (0.2(30+c))-0.1 \Rightarrow c=-6.174775557$

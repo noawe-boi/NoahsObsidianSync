@@ -4,7 +4,7 @@ tags:
   - notes
   - topic
 ---
-## What is the gradient of an exponential function?
+ ## What is the gradient of an exponential function?
 Consider
 ![[Methods 8C example drawng]]
 The derivative of this function will be
