@@ -73,7 +73,20 @@ Remember that Strength is how easily an acid or base can dissociate, while conce
 
 
 ## Water as a weak electrolyte
-Consider $[H^+] = 1\times 10^{-14}M$
-
+Consider for water, $[H^+] = 1\times 10^{-14}M. 
 Since $H^+$ is present but very weak, we can say that water is a weak electrolyte
 
+## pH
+$pH = -\log_{10}[H^+]$ 
+
+### Example
+*Find pH of $[H^+]=0.0123M \; HCL$*
+Since $HCL$ literally has $H^+$ in it, $pH = -\log(0.0123)\approx 1.91$
+
+## pOH
+$pOH=-\log [OH^-]$
+$pH + pOH = 14$
+### Example
+Consider the $pH$ of $0.123M$ of $NaOH$
+$pOH = -\log[0.0123] = 1.91$
+$\therefore pH = 14-pOH = 14-1.91 = 12.09$ 
