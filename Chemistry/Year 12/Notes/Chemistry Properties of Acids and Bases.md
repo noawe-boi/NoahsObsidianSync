@@ -73,4 +73,7 @@ Remember that Strength is how easily an acid or base can dissociate, while conce
 
 
 ## Water as a weak electrolyte
+Consider $[H^+] = 1\times 10^{-14}M$
+
+Since $H^+$ is present but very weak, we can say that water is a weak electrolyte
 
