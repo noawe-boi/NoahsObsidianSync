@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.21)  14 MAR 2025 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.21)  21 MAR 2025 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -282,14 +282,27 @@ Package pdftex.def Info: ./Images/Start and End.png  used on input line 52.
 <./Images/Eaxmple Cubic.png, id=27, 1204.5pt x 803.0pt>
 File: ./Images/Eaxmple Cubic.png Graphic file (type png)
 <use ./Images/Eaxmple Cubic.png>
-Package pdftex.def Info: ./Images/Eaxmple Cubic.png  used on input line 106.
+Package pdftex.def Info: ./Images/Eaxmple Cubic.png  used on input line 105.
 (pdftex.def)             Requested size: 426.79134pt x 284.534pt.
 <./Images/c(x).png, id=29, 1204.5pt x 803.0pt>
 File: ./Images/c(x).png Graphic file (type png)
 <use ./Images/c(x).png>
-Package pdftex.def Info: ./Images/c(x).png  used on input line 125.
+Package pdftex.def Info: ./Images/c(x).png  used on input line 124.
 (pdftex.def)             Requested size: 426.79134pt x 284.534pt.
- [4 <./Images/Eaxmple Cubic.png>] [5 <./Images/c(x).png>] (Methods FA1.aux)
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./Images/Eaxmple Cubic.png>]
+Overfull \hbox (8.17589pt too wide) in paragraph at lines 138--139
+[]\OT1/cmr/m/n/10.95 It was found that $\OML/cmm/m/it/10.95 a \OT1/cmr/m/n/10.9
+5 = []$, there-fore $\OML/cmm/m/it/10.95 g\OT1/cmr/m/n/10.95 (80) = [] \OMS/cms
+y/m/n/10.95 ^^B \OML/cmm/m/it/10.95 e[]$\OT1/cmr/m/n/10.95 . This gives $\OML/c
+mm/m/it/10.95 b \OT1/cmr/m/n/10.95 = [] \OMS/cmsy/m/n/10.95 ^^Y ^^@\OT1/cmr/m/n
+/10.95 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 023308398873$ 
+ []
+
+[5 <./Images/c(x).png>] (Methods FA1.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -298,7 +311,7 @@ L3 programming layer <2024-01-04>
 Here is how much of TeX's memory you used:
  4059 strings out of 474486
  65628 string characters out of 5753561
- 1937542 words of memory out of 5000000
+ 1938542 words of memory out of 5000000
  26293 multiletter control sequences out of 15000+600000
  567002 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -307,16 +320,18 @@ Here is how much of TeX's memory you used:
 crm1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
 iles/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program 
-Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmti10.pfb>
-Output written on "Methods FA1.pdf" (6 pages, 303578 bytes).
+fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Methods FA1.pdf" (6 pages, 330574 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

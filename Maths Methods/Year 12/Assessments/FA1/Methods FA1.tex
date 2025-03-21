@@ -84,7 +84,6 @@
 \subsection{Modelling in Desmos}
 \subsubsection{The First Function}
 \begin{itemize}
-	\item The cubic function was considered as the beginning of the coaster as 
 	\item Considering that the starting points for the middle section were already 80m in the air, it was determined that climbing further was futile as there was already sufficient height for the maximum gradient to be reached for a reasonable duration and the anticipation had already been built during the climb to the beginning of the middle section. 
 	
 	
@@ -133,6 +132,11 @@
 \begin{itemize}
 	\item It was decided that the third function would be an exponential that traveled downwards towards the ground, becoming more steep in the process. 
 	\item Considering the general form of an exponential, $g(x)=ae^{b(x+c)}+d$, it was found that solving for variables $a, b, c$ and $d$ would require significant computation.
+	\item Therefore it was decided that only $a$ and $b$ would need to be solved for, while $c=0$, and $d=0$.
+	\item It was required that $g(80)=c(80)$, and $g'(80)=c'(80)$.
+	\item Now that $g(x)=ae^{bx}$, $g'(x)=abe^{bx}$, we could solve for $a$ and $b$ using simultaneous equations.
+	\item It was found that $a=\frac{c'(80)}{be^{80b}}$, therefore $g(80)=\frac{c'(80)}{be^{80b}}\times e^{80b}$. This gives $b=\frac{c'(80)}{c(80)}\approx -0.023308398873$.
+	\item Since $a$ is a function of $b$ 
 \end{itemize}
 
 
