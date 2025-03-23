@@ -130,13 +130,20 @@
 \end{itemize}
 \subsubsection{The Third Function}
 \begin{itemize}
-	\item It was decided that the third function would be an exponential that traveled downwards towards the ground, becoming more steep in the process. 
+	\item It was decided that the third function would be an exponential that travelled downwards towards the ground, becoming more steep in the process. 
 	\item Considering the general form of an exponential, $g(x)=ae^{b(x+c)}+d$, it was found that solving for variables $a, b, c$ and $d$ would require significant computation.
 	\item Therefore it was decided that only $a$ and $b$ would need to be solved for, while $c=0$, and $d=0$.
-	\item It was required that $g(80)=c(80)$, and $g'(80)=c'(80)$.
+	\item The point $(80, 0)$ was considered the origin for $g(x)$ during computation, so that  initial requirements such as $g(80)=c(80)$ became $g(0)=c(80)$. 
 	\item Now that $g(x)=ae^{bx}$, $g'(x)=abe^{bx}$, we could solve for $a$ and $b$ using simultaneous equations.
 	\item It was found that $a=\frac{c'(80)}{be^{80b}}$, therefore $g(80)=\frac{c'(80)}{be^{80b}}\times e^{80b}$. This gives $b=\frac{c'(80)}{c(80)}\approx -0.023308398873$.
-	\item Since $a$ is a function of $b$, this also acts as a solution for $b$.
+	\item Since $a$ is a function of $b$, this also acts as a solution for $a$.
+	\item However this solution causes the exponential to intersect with the $x-\textrm{axis}$, or the ground in this scenario, prematurely. 
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=15cm]{PrematureIntersecion.png}
+		\caption{Graph of $g(x)$ prematurely intersects with the $x-\textrm{axis}$}
+	\end{figure}
+	\item Therefore 
 \end{itemize}
 
 
