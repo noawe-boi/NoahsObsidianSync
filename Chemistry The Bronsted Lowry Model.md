@@ -18,7 +18,9 @@ Therefore there aren't actually $H^+$ ions in solution.
 
 
 ### Conjugate acids and bases
-#### Conjugate acids
-when a basic substance gains a proton, it forms an acid called the conjugate acid of a base.
-#### Conjugate bases
-when an acidic substance loses a proton, it forms a base, called the conjugate base of an acid
+![[Chemistry Conjugate Acids and Bases]]
+
+### Amphiprotic Species
+
+![[Chemistry Amphiprotic Species]]
+
