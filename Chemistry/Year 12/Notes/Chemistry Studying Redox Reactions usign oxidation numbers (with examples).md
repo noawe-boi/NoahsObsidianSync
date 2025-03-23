@@ -25,3 +25,8 @@ For each of the following reactions
 
 
 
+
+#### Acid
+A substance which in solution produces hydrogen ($H^+$ or more strictly $H_3O^+$) ions, or hydronium ions. 
+##### Strong Acid
+Acid that readily or easily dissociates or dissolves into water
