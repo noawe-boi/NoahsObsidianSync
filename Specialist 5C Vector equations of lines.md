@@ -1,4 +1,4 @@
-
+sl
 ### Foundational Concepts
 #### Vector
 - Has direction and magnitude
