@@ -5,7 +5,7 @@ tags:
 ---
 
 
-![[Acid]]
+![[Chemistry Acid]]
 
 ![[Base]]
 

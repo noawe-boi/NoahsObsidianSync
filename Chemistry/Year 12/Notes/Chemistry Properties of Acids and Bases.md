@@ -53,9 +53,12 @@ e.g. $HCl _{aq} + NaOH _{aq} \rightarrow NaCl _{aq} + H_2O _{I}$
 
 
 ## Strengths of Acids and Bases
+
+
 ### Define "Strong" and "Weak"
 Stronger $\implies$ Can dissociate or break down into its cation in water more easily. i.e. easier to ionise or dissociate 
-
+### Strength of acids
+![[Chemistry Strength of Acids]]
 ### Examples
 1. HCL is strong acid because it dissociates completely in water:
 $${\ce{}HCL_{(g)} + H_2 O _{(I)} \rightarrow Cl^-_{(aq)} + H_3O^-_{(aq)}}$$
