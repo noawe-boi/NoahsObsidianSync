@@ -5,5 +5,6 @@
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 21,
-  "accentColor": "#006eb3"
+  "accentColor": "#006eb3",
+  "enabledCssSnippets": []
 }
