@@ -5,9 +5,9 @@ tags:
 **Urgent**
 *Time sensitive*
 
-Friday: Submit asessment 
+Friday: Submit assessment 
 
-Monday: Have WOW Stuff done
+Monday: Have WOW Stuff done and direct message to Mrs Strickland
 
 ## School
 ### Chemistry 
