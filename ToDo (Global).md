@@ -5,6 +5,10 @@ tags:
 **Urgent**
 *Time sensitive*
 
+Friday: Submit asessment 
+
+Monday: Have WOW Stuff done
+
 ## School
 ### Chemistry 
 
@@ -19,6 +23,7 @@ tags:
 - Exercise 1.3
 - Chapter 3 Review
 ### English
+**ASSIGNMENT**
 
 - [ ] **Finish Schindler's Ark**
 - [ ] **Start planning English assessment** 
