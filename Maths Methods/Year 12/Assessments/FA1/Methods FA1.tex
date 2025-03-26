@@ -144,6 +144,11 @@
 		\caption{Graph of $g(x)$ prematurely intersects with the $x-\textrm{axis}$}
 	\end{figure}
 	\item Attempting to insert another condition such as $g(50)=10$ causes the equation to become over constrained, therefore another technique must be used. 
+	
+	\item By considering $s'(\lambda)=g'(0)$, a suitable $x$ value for the starting point of the function was defined, which did not cause over constraint when later conditions were established. 
+	\item This was rearranged to give $a=\frac{s'(\lambda)}{b}$, which can be substituted into $g(\theta)=-2$, which gave $g'(\theta)=s'(\lambda)e^{\theta b}$.
+		\item Solving for $b$ gave $b=\frac{1}{\theta}\ln(\frac{-2}{s'(\lambda)})$, which was then substituted back into $g(x)=ae^{bx}$ to give $g(x)=\frac{s'(\lambda)}{\frac{1}{\theta}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\theta}\cdot \ln (\frac{-2}{s'(\lambda)})}$, where $\theta$ is the distance that the function takes to reach $g'(x)=-2$, and $\lambda$ is the x value that the function starts at, and joins with the previous function, $s(x)$.
+	
 \end{itemize}
 
 
