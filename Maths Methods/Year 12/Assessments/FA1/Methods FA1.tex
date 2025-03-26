@@ -146,11 +146,24 @@
 	\item Attempting to insert another condition such as $g(50)=10$ causes the equation to become over constrained, therefore another technique must be used. 
 	
 	\item By considering $s'(\lambda)=g'(0)$, a suitable $x$ value for the starting point of the function was defined, which did not cause over constraint when later conditions were established. 
-	\item This was rearranged to give $a=\frac{s'(\lambda)}{b}$, which can be substituted into $g(\theta)=-2$, which gave $g'(\theta)=s'(\lambda)e^{\theta b}$.
-		\item Solving for $b$ gave $b=\frac{1}{\theta}\ln(\frac{-2}{s'(\lambda)})$, which was then substituted back into $g(x)=ae^{bx}$ to give $g(x)=\frac{s'(\lambda)}{\frac{1}{\theta}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\theta}\cdot \ln (\frac{-2}{s'(\lambda)})}$, where $\theta$ is the distance that the function takes to reach $g'(x)=-2$, and $\lambda$ is the x value that the function starts at, and joins with the previous function, $s(x)$.
-	
+	\item This was rearranged to give $a=\frac{s'(\lambda)}{b}$, which can be substituted into $g(\gamma)=-2$, which gave $g'(\gamma)=s'(\lambda)e^{\gamma b}$.
+		\item Solving for $b$ gave $b=\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})$, which was then substituted back into $g(x)=ae^{bx}$ to give $g(x)=\frac{s'(\lambda)}{\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\gamma}\cdot \ln (\frac{-2}{s'(\lambda)})\cdot x}$, where $\gamma$ is the distance that the function takes to reach $g'(x)=-2$, and $\lambda$ is the x value that the function starts at, and joins with the previous function, $s(x)$.
+		
+		\item $x$ was replaced by $(x-\lambda)$ to horizontally shift, and $s(\lambda)-a$ was added to vertically shift so that $g(\lambda)=s(\lambda)$.
+		
+		\item After inserting the equation into desmos, suitable values for $\lambda$ and $\gamma$ were found. It was required that the equation terminate at $y=10$ so that there would be suitable room for the final function to revert direction and climb. Therefore $g(\lambda + \gamma)=10$, where $\gamma=130-\lambda$ was considered, as this would ensure that $g'(\lambda-\lambda-130)=g'(130)=-2$, while still allowing for $\lambda$ to be altered until a suitable answer was found.
+		
+		\item It was found that for $g'(130)=-2$ and $g(130)=10$, $\lambda=77.2487110854776$. Therefore $g(x)=\frac{s'(\lambda)}{\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\gamma}\cdot \ln (\frac{-2}{s'(\lambda)})\cdot (x-\lambda)}+s\left(\lambda\right)-\frac{s'(\lambda)}{\frac{1}{\gamma}}\ln\left(\frac{-2}{s'\left(\lambda\right)}\right)$ where $\lambda=77.2487110854776$, and $\gamma=130-\lambda$.
 \end{itemize}
 
+\subsubsection{The Fourth Function}
+\begin{itemize}
+	\item The final function was decided to be a cubic function, as multiple turning points were required, and the process for defining a cubic with constraints had already been established when creating the first function. 
+	
+	\item It was required that for the cubic function, say $f_2(x)$, $f_2'(130)=g'(130)$, $(130)=g(130), u'(150)=0$, and $f_2(150)=30$. 
+	
+	\item  
+\end{itemize}
 
 
 
