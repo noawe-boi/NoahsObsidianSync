@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Arch Linux) (preloaded format=pdflatex 2025.3.11)  27 MAR 2025 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Arch Linux) (preloaded format=pdflatex 2025.3.11)  27 MAR 2025 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -141,7 +141,7 @@ Package csquotes Info: ... none found.
 
 
 Package csquotes Warning: No multilingual support.
-(csquotes)                Cannot enable multilingual quotes on input line 15.
+(csquotes)                Cannot enable multilingual quotes on input line 19.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
@@ -151,20 +151,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./Methods FA1.aux)
 \openout1 = `"Methods FA1.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -259,18 +259,24 @@ File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-Package csquotes Info: Making character " active on input line 15.
+Package csquotes Info: Making character " active on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+(Font)              <6> on input line 28.
+<./Images/finalgraph.png, id=1, 2007.5pt x 2007.5pt>
+File: ./Images/finalgraph.png Graphic file (type png)
+<use ./Images/finalgraph.png>
+Package pdftex.def Info: ./Images/finalgraph.png  used on input line 30.
+(pdftex.def)             Requested size: 483.69687pt x 483.67839pt.
 
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Methods FA1.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/finalgraph.png>] 
+(./Methods FA1.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
@@ -280,48 +286,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 [1]
-<./Images/Start and End.png, id=14, 635.37375pt x 357.335pt>
+<./Images/Start and End.png, id=17, 635.37375pt x 357.335pt>
 File: ./Images/Start and End.png Graphic file (type png)
 <use ./Images/Start and End.png>
-Package pdftex.def Info: ./Images/Start and End.png  used on input line 53.
+Package pdftex.def Info: ./Images/Start and End.png  used on input line 65.
 (pdftex.def)             Requested size: 426.79134pt x 240.03479pt.
 
 
 [2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./Images/S
 tart and End.png (PNG copy)>]
-<./Images/Eaxmple Cubic.png, id=20, 1204.5pt x 803.0pt>
+<./Images/Eaxmple Cubic.png, id=24, 1204.5pt x 803.0pt>
 File: ./Images/Eaxmple Cubic.png Graphic file (type png)
 <use ./Images/Eaxmple Cubic.png>
-Package pdftex.def Info: ./Images/Eaxmple Cubic.png  used on input line 98.
+Package pdftex.def Info: ./Images/Eaxmple Cubic.png  used on input line 123.
 (pdftex.def)             Requested size: 426.79134pt x 284.534pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Images/c(x).png, id=22, 1204.5pt x 803.0pt>
+<./Images/c(x).png, id=25, 1204.5pt x 803.0pt>
 File: ./Images/c(x).png Graphic file (type png)
 <use ./Images/c(x).png>
-Package pdftex.def Info: ./Images/c(x).png  used on input line 117.
+Package pdftex.def Info: ./Images/c(x).png  used on input line 148.
 (pdftex.def)             Requested size: 426.79134pt x 284.534pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 [3]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./Images/PrematureIntersecion.png, id=30, 1204.5pt x 803.0pt>
+<./Images/PrematureIntersecion.png, id=32, 1204.5pt x 803.0pt>
 File: ./Images/PrematureIntersecion.png Graphic file (type png)
 <use ./Images/PrematureIntersecion.png>
 Package pdftex.def Info: ./Images/PrematureIntersecion.png  used on input line 
-135.
+175.
 (pdftex.def)             Requested size: 426.79134pt x 284.534pt.
 
-
-[4 <./Images/Eaxmple Cubic.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+
+[4 <./Images/Eaxmple Cubic.png>]
 
 [5 <./Images/c(x).png>]
 
@@ -334,13 +340,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4197 strings out of 475171
- 66629 string characters out of 5767103
+ 4203 strings out of 475171
+ 66806 string characters out of 5767103
  484340 words of memory out of 5000000
- 27141 multiletter control sequences out of 15000+600000
+ 27147 multiletter control sequences out of 15000+600000
  568030 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 59i,7n,67p,515b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,7n,67p,550b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -354,10 +360,10 @@ sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
 per/sfrm1095.pfb>
-Output written on "Methods FA1.pdf" (8 pages, 379782 bytes).
+Output written on "Methods FA1.pdf" (8 pages, 478455 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -52,7 +52,10 @@ Add back
 
 - Should I actually fill in the "Final functions" ahh section?? 
 	- Does this even matter since I defined them earlier on??
-- What is the cost?? Its low key not on the one on seqta
 - Is the weakness about organisation valid?
 	- The organisation and labelling of functions and variables throughout the solution were inconsistent and confusing. A better naming scheme was adopted toward the end of the task, with the last function becoming $f_2(x)$, rather than an arbitrary letter. 
 - Should I actually be talking about the general form of each function. 
+- Is this appropriate:
+	- \item The roller coaster required structural support, lest it defy the laws of physics or collapse. For this task, the supporting structure of roller coasters consists of equally spaced main columns priced at \$180/metre, and interconnecting bracing priced at \$20/metre$^2$
+- Why choose each function??
+- Is it worth it to consider the difference between a creative, human approach, rather than simply choosing a cos, then a sin function because they have the greatest change in gradient, direction, and $y$ value over time??
