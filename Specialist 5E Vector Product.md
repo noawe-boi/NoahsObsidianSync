@@ -62,7 +62,7 @@ The dot product gives a *scalar*
 #### The cross product is distributive
 $a\times(a+b)=a\times a +a\times b$ 
 
-### Procedures.p
+### Procedures
 #### Apply the formula!
 
 $a\times b$ gives the area of a parallelogram defined by $\mathbf{a}$ and $\mathbf{b}$
