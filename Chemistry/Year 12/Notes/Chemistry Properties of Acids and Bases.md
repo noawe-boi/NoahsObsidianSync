@@ -55,21 +55,7 @@ e.g. $HCl _{aq} + NaOH _{aq} \rightarrow NaCl _{aq} + H_2O _{I}$
 ## Strengths of Acids and Bases
 
 
-### Define "Strong" and "Weak"
-Stronger $\implies$ Can dissociate or break down into its cation in water more easily. i.e. easier to ionise or dissociate 
-### Strength of acids
-![[Chemistry Strength of Acids]]
-### Examples
-1. HCL is strong acid because it dissociates completely in water:
-$${\ce{}HCL_{(g)} + H_2 O _{(I)} \rightarrow Cl^-_{(aq)} + H_3O^-_{(aq)}}$$
-
-2. NaOH is a strong base because it dissociates completely in water
-$$HCl_{(g)} + H_2O_{(l)} \rightarrow Cl^{-}_{(aq)} + H_3O^{-}_{(aq)}
-$$
-3. Ethanoic acid  ($CH_3COOH$) , or 'the acid in vinegar', is a weak acid. It only partially dissociates and actually sits in equilibrium 
-$$CH_3COOH_{(aq)} + H_2O_{(l)} \rightleftharpoons CH_3COO^{-}_{(aq)} + H_3O^{+}_{(aq)}
-$$
-
+![[Chemistry Strengths of Acids and Bases]]
 
 ## Strength vs Concentration 
 

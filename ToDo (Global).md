@@ -7,13 +7,15 @@ tags:
 
 Friday: Submit assessment 
 
-Monday: Have WOW Stuff done and direct message to Mrs Strickland
+Monday: 
+- Have WOW Stuff done and direct message to Mrs Strickland
+- Have physics experiment decided
 
 ## School
 ### Chemistry 
 
 - Fill in chemistry notes for corrosion and combustion more 
-	- pg 142 for corrosion
+	pg 142 for corrosion
 
 - Watch atomi for electrochemical series and finish worked example
 - Fill in Ideal gas laws
