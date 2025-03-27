@@ -8,4 +8,9 @@
 \contentsline {subsubsection}{\numberline {2.1.2}The Second Function}{4}{}%
 \contentsline {subsubsection}{\numberline {2.1.3}The Third Function}{5}{}%
 \contentsline {subsubsection}{\numberline {2.1.4}The Fourth Function}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Final Functions and Domains}{7}{}%
 \contentsline {section}{\numberline {3}Evaluate and Verify}{7}{}%
+\contentsline {section}{\numberline {4}Bibliography}{7}{}%
+\contentsline {section}{Appendices}{7}{}%
+\contentsline {section}{\numberline {A}The First Function}{7}{}%
+\contentsline {section}{\numberline {B}The Fourth Function}{7}{}%

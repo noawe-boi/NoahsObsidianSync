@@ -10,6 +10,7 @@
 \graphicspath{ {./Images} }
 \usepackage{wrapfig}
 \usepackage[autostyle, english = american]{csquotes}
+\usepackage[toc,page]{appendix}
 \MakeOuterQuote{"}
 \begin{document}
 \begin{titlepage}
@@ -44,7 +45,7 @@
 \subsection{Observations}
 \begin{itemize}
 
-	\item The track was divided into 3 segments. The first segment's start was partially undefined, say $(x, 80)$, and ended at $(0, 80)$. This was referred to as the "first" segment. The "middle'' segment started at $(0, 80)$, and continued to $(150,30)$. The final section stared at $(150,30)$, and continued for an undefined length, say until $(x, 30)$. This final section was referred to as the "end".
+	\item 
 
 		\begin{figure}[h]
 		
@@ -65,7 +66,7 @@
 	\item In order for the roller coaster to have sufficient speed to overcome any peaks or hills in the track, each successive peak should be at a lower height than any preceding it.
 
 \end{itemize}
-\end{itemize}
+
 
 
 \subsection{Translation of aspects to Mathematical concepts and techniques}
@@ -156,20 +157,56 @@
 		\item It was found that for $g'(130)=-2$ and $g(130)=10$, $\lambda=77.2487110854776$. Therefore $g(x)=\frac{s'(\lambda)}{\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\gamma}\cdot \ln (\frac{-2}{s'(\lambda)})\cdot (x-\lambda)}+s\left(\lambda\right)-\frac{s'(\lambda)}{\frac{1}{\gamma}}\ln\left(\frac{-2}{s'\left(\lambda\right)}\right)$ where $\lambda=77.2487110854776$, and $\gamma=130-\lambda$.
 \end{itemize}
 
+
+
+
 \subsubsection{The Fourth Function}
 \begin{itemize}
 	\item The final function was decided to be a cubic function, as multiple turning points were required, and the process for defining a cubic with constraints had already been established when creating the first function. 
 	
-	\item It was required that for the cubic function, say $f_2(x)=a_2x^3+b_2x^2+C_2x+d_2$, $f_2'(130)=g'(130)$, $f_2(130)=g(130), f_2'(150)=0$, and $f_2(150)=30$. 
+	\item It was required that for the cubic function, say $f_2(x)=a_2x^3+b_2x^2+c_2x+d_2$, $f_2'(130)=g'(130)$, $f_2(130)=g(130), f_2'(150)=0$, and $f_2(150)=30$. 
 	
-	\item However to simplify calculations, it was considered that $f_2'(0)=g'(130)$, $f_2(0)=g(130), f_2'(20)=0$, and $f_2(20)=30$. Horizontal shift was found once
+	\item However to simplify calculations, it was considered that $f_2'(0)=g'(130)$, $f_2(0)=g(130), f_2'(20)=0$, and $f_2(20)=30$. Horizontal shift was later accounted for by substituting $x=x-130$
+	
+	\item Solving simultaneously for these conditions gave values 
+	
+	$a_{2}=\frac{g'\left(130\right)+40b_{2}}{-1200}$, 
+	
+	$b_{2}=\frac{3}{400}\cdot\left(30-\frac{g'\left(130\right)\cdot8000}{-1200}-\left(20\cdot g'\left(130\right)\right)-g\left(130\right)\right)$
+	
+	$c_{2}=g'\left(130\right)$
+	
+	$d_{2}=g\left(130\right)$
+
+For further working see appendix $\mathbf{A}$
+	
 \end{itemize}
+
+\subsection{Final Functions and Domains}
+
+$f_1$=
+
 
 
 
 
 
 \section{Evaluate and Verify}
+
+
+
+\section {Bibliography}
+\begin{appendices}
+	\section{The First Function}
+	
+	
+	\section{The Fourth Function}
+	
+	
+	
+\end{appendices}
+
+
 
 
 
