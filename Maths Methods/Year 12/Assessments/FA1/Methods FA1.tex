@@ -35,8 +35,8 @@
 \section{Formulation}
 \subsection{Assumptions}
 \begin{itemize}
-	\item The terminology 'smooth' was used to describe the transition between pieces of track. It is assumed that this means they are both at the same location in space, meaning there will be no gaps, and that their gradient will be the same at the point of intersection, so that there is no sudden change gradient.
-	\item The task sheet specified "The beginning and end sections... have been erected and are in a perfectly straight alignment". While this did clarify that the first, and end pieces of track were parallel, it did not state whether they had a slope. Therefore it was assumed that the start and end pieces of track had a gradient of 0.
+	\item The terminology "smooth" was used to describe the required transition between pieces of track. It is assumed that this implied that at intersections, segments would be at same position, and have the same gradient.
+	\item The task sheet specified "The beginning and end sections... have been erected and are in a perfectly straight alignment". While this did clarify that the first, and end pieces of track were parallel, their slope was not specified, and therefore assumed to be 0.
 \end{itemize}
 
 
@@ -58,11 +58,12 @@
 
 		\end{figure}
 
-	\item The roller coaster could be faithfully modelled in 2D to simplify calculations as the width of the track and much of its geometry were not relevant in this case and we were not provided with specifications regarding the width available. 
-	\item The task sheet defined the success criteria as causing the maximum amount of exhilaration, caused by "swift changes in direction, height and steepness". 
+	\item The roller coaster was modelled in 2D to simplify calculations as graphing functions in 3D was out of the scope of the project. 
+	\item The task sheet defined the success criteria as maximising exhilaration, caused by "swift changes in direction, height and steepness". 
 		
-	\item It was required that the track be constructed of at least 3 or more types of functions, including at least two types that are covered in Unit 3 Topic 2. The functions covered were exponential, logarithms, and trigonometric functions, like sine, cosine, and tangent.
-	\item It was decided that any calculations involving trigonometric functions would use radians, rather than degrees, in order for them to naturally oscillate more with smaller change in $x$.
+	\item It was required that the track be constructed of at least 3 or more types of functions, including at least two types that are covered in Unit 3 Topic 2. The functions covered were exponential, logarithmic, and trigonometric functions.
+	
+	\item Trigonometric functions were calculated in radians, rather than degrees, in order for them to naturally oscillate more with smaller change in $x$.
 	\item In order for the roller coaster to have sufficient speed to overcome any peaks or hills in the track, each successive peak should be at a lower height than any preceding it.
 
 \end{itemize}
@@ -71,11 +72,11 @@
 
 \subsection{Translation of aspects to Mathematical concepts and techniques}
 \begin{itemize}
-	\item Since the roller coaster had been assumed to be 2D, it's track could be represented on the Cartesian plane. This allowed us to use desmos to graph its track and perform calculations by letting 1 unit be 1 meter. 
+	\item Since the roller coaster had been assumed to be 2D, it's track was represented on the Cartesian plane. This allowed the use of desmos to graph its track and perform calculations by letting 1 unit be 1 meter. 
 	\item The derivative function of modelled section of track could be used to determine the gradient at that point and therefore be used to determine if the track exceeded the specified "Maximum Slope for safety" requirement provided by the task sheet. In this case, it was $-2$.
 	\item "Swift changes in direction, height and steepness" could be translated to swift changes in the $y-$axis, and gradient. However, there was a maximum gradient specified that must be considered. 
-	\item In order to achieve as much of a thrill as possible, the maximum slope should be reached whenever possible and appropriate.
-	\item Cubic in general form
+	\item In order to achieve as much of a thrill as possible, the maximum allowed slope should be reached whenever feasible.
+
 
 
 \end{itemize}
@@ -85,21 +86,12 @@
 \subsection{Modelling in Desmos}
 \subsubsection{The First Function}
 \begin{itemize}
-	\item Considering that the starting points for the middle section were already 80m in the air, it was determined that climbing further was futile as there was already sufficient height for the maximum gradient to be reached for a reasonable duration and the anticipation had already been built during the climb to the beginning of the middle section. 
-	
-	
-
-	
-	\item By defining the cubic generated as $f(x)$, desmos could generate the derivative function, $f'(x)$, automatically. Therefore by checking $f'(x)$ for intercepts with y=-2, it could be determined whether the generated cubic exceeded the maximum gradient.
-	\item Clearly the first point will be $(80, 0)$ to connect with the start of the first segment. However we required for $f'(0)=0$ so the gradient so that the middle segment could smoothly connect to the first segment. By differentiating the general form of a cubic, it was found that $f'(x)=3ax^2+2bx+c$. The only part of the equation that did not have a coefficient of $x^n$ is $c$, therefore $c$ must be equal to $0$ for $f'(0)=0$.
-	
-	\item It was considered that during the first drop, a trigonometric function could be added so that more variability in the gradient could occur, therefore causing more of a thrill. 
-	\item The sine function was chosen as it could be easily differentiated to the cosine function. 
-	\item This meant that the second turning point of the cubic had to be placed so that it would coincide with one of the lower turning points of the sine function. 
-	\item However the cubic was yet to be defined. We required maximum gradient during the drop. Since the derivative function was a quadratic, its lowest point could be considered the maximum gradient reached by the original.
-	\item The $x$-coordinates of the turning points were found using the \textit{vertex} formula, which stated that for turning point $(x, y),\; x=\frac{-b}{2a}$.
-	\item Considering the derivative function, $f'(x)=3ax^2+2bx$, by substituting the corresponding coefficients of $x^2$ and $x$ as $a$, and $b$ into the vertex formula respectively, it was found that the $x$-coordinates of the turning point were $\frac{-2b}{2\times3a}=\frac{-b}{3a}$.
-	\item Therefore by finding $f'(\frac{-b}{3a})=-2$, a generic function could be found with minimum gradient -2, located at turning point. It was found that $f'(\frac{-b}{3a})=-2$ simplified to $b=\pm\sqrt{6a}$. Therefore the cubic $f(x)=ax^3\pm\sqrt{6a}x+d, a\geq0$ is found. 
+	\item Considering that the starting point of the first function was 80 meters in the air, there was already sufficient height for the maximum gradient to be reached for a reasonable duration and  anticipation had already been built during the climb to the start.
+	\item Clearly the first point will be $(80, 0)$ to connect with the start of the first segment. It was required that for the cubic function, say $f(x)=ax^3 +bx^2 +cx +d$, $f'(0)=0$. Since variables with $x$ coefficients 'drop out',$f(0)=0\Rightarrow c=0$.
+	\item Since the derivative function was a quadratic, its lowest point could be considered the maximum slope reached by the original.
+	\item The $x$-coordinates of the turning point of a quadratic could found using the vertex formula, which stated that for turning point $(x, y),\; x=\frac{-b}{2a}$.
+	\item Considering the derivative function, $f'(x)=3ax^2+2bx$, it was found that the $x$-coordinates of the turning point were $\frac{-2b}{2\cdot3a}=\frac{-b}{3a}$.
+	\item Therefore by finding $f'(\frac{-b}{3a})=-2$, a generic function could be found with minimum gradient -2, located at turning point. It was found that $f'(\frac{-b}{3a})=-2$ simplified to $b=\pm\sqrt{6a}$. Therefore the cubic $f(x)=ax^3\pm\sqrt{6a}x+d, a\geq0$ was found. 
 	\item It was decided that the function inserted would be $f(x)=ax^3-\sqrt{6a}x+80, a\geq0$ as it placed the "drop" on the right hand side of the start of the coaster, and aligned the point on both tracks where their gradients were the same.
 		\begin{figure}[h]
 		\centering
@@ -116,8 +108,8 @@
 \subsubsection{The Second Function}
 \begin{itemize}
 	\item To connect the first and second functions, a point must be found where their gradients match.
-	\item Consider $s(x)=a\sin(b(x+c))+d$. Therefore $s'(x)=ab\cos(b(x+c))$. Clearly the minimum gradient is defined by $ab\times-1$, where $a,b \epsilon \mathbf{N}$, as $a$ and $b$ both multiply with $\cos(b(x+c))$ which naturally oscillates between 1, and -1.
-	\item However, if the function was allowed to continue for a period or more, the peak of the next oscillation would be smaller than the previous one. Therefore if the function was to continue, it must be modified in order for each successive peak to be lower. This was achieved though the creation of a new function, $c(x)=a\sin(b(x+c))+d+gx$, so that $c'(x)=ab\cos(b(x+c))+g$.
+	\item Consider $s(x)=a\sin(b(x+c))+d$. Therefore $s'(x)=ab\cos(b(x+c))$. Clearly the maximum downwards gradient was defined by $ab\cdot-1$, where $a,b \epsilon \mathbf{N}$, and $\cos(b(x+c))=-1$.
+	\item However the peak of the next oscillation would be the same height than the previous one. Therefore if the function  had to be modified as to maintain sufficient speed to overcome the next peak. This was achieved though the creation of a new function, $c(x)=a\sin(b(x+c))+d+gx$, so that $c'(x)=ab\cos(b(x+c))+g$.
 	\item Clearly now when $g<0$, the function will slope downwards throughout its oscillation. 
 
 	\begin{figure}[h]
@@ -126,23 +118,22 @@
 		\caption{The function $y=sin(x)$ with various slopes applied}
 	\end{figure}
 	
-	\item By letting $g=-0.1$, suitable values for $a$ and $b$ can be resolved. Clearly $ab\times-1-0.1=-2$ for minimum gradient to be achieved. Therefore through trial and error in Desmos it was found that for $c'(x)=-2$, $a=9.5,b=0.2$ were appropriate. Therefore all that was left to do was to let $f'(x)=c'(x)$, shifting horizontally until the minimums were at the same $x$ co-ordinates, then shift vertically shift using $d$ until the functions met.  
-	\item It was found  that $9.5\times0.2\cos (0.2(30+c))-0.1=0 \Rightarrow c=-6.174775557$, and therefore $9.5sin(0.2(30-6.174775557))+d+3=40 \Rightarrow d=52.48683298$
+	\item By letting $g=-0.1$, suitable values for $a$ and $b$ could be resolved. Clearly $ab\cdot -1-0.1=-2$ would result in a minimum gradient of $-2$. Therefore through trial and error in Desmos it was found that for $c'(x)=-2$, $a=9.5,b=0.2$ were appropriate. Therefore all that was left to do was to let $f'(x)=c'(x)$, shifting horizontally until the minimums were at the same $x$ co-ordinates, then shift vertically shift using $d$ until the functions met.  
+	\item It was found  that $9.5\cdot0.2\cos (0.2(30+c))-0.1=0 \Rightarrow c=-6.174775557$, and therefore $9.5sin(0.2(30-6.174775557))+d+3=40 \Rightarrow d=52.48683298$
 \end{itemize}
 \subsubsection{The Third Function}
 \begin{itemize}
-	\item It was decided that the third function would be an exponential that travelled downwards towards the ground, becoming more steep in the process. 
+	\item It was decided that the third function would be an exponential with an increasing downwards slope.
 	\item Considering the general form of an exponential, $g(x)=ae^{b(x+c)}+d$, it was found that solving for variables $a, b, c$ and $d$ would require significant computation.
 	\item Therefore it was decided that only $a$ and $b$ would need to be solved for, while $c=0$, and $d=0$.
 	\item The point $(80, 0)$ was considered the origin for $g(x)$ during computation, so that  initial requirements such as $g(80)=c(80)$ became $g(0)=c(80)$. 
 	\item Now that $g(x)=ae^{bx}$, $g'(x)=abe^{bx}$, we could solve for $a$ and $b$ using simultaneous equations.
-	\item It was found that $a=\frac{c'(80)}{be^{80b}}$, therefore $g(80)=\frac{c'(80)}{be^{80b}}\times e^{80b}$. This gives $b=\frac{c'(80)}{c(80)}\approx -0.023308398873$.
-	\item Since $a$ is a function of $b$, this also acts as a solution for $a$.
+	\item It was found that $a=\frac{c'(80)}{be^{80b}}$, therefore $g(80)=\frac{c'(80)}{be^{80b}}\cdot e^{80b}\Rightarrow b=\frac{c'(80)}{c(80)}\approx -0.023308398873$.
 	\item However this solution causes the exponential to intersect with the $x-\textrm{axis}$, or the ground in this scenario, prematurely. 
 	\begin{figure}[h]
 		\centering
 		\includegraphics[width=15cm]{PrematureIntersecion.png}
-		\caption{Graph of $g(x)$ prematurely intersects with the $x-\textrm{axis}$}
+		\caption{Graph of $g(x)$ prematurely intersecting with the $x-\textrm{axis}$}
 	\end{figure}
 	\item Attempting to insert another condition such as $g(50)=10$ causes the equation to become over constrained, therefore another technique must be used. 
 	
@@ -150,7 +141,7 @@
 	\item This was rearranged to give $a=\frac{s'(\lambda)}{b}$, which can be substituted into $g(\gamma)=-2$, which gave $g'(\gamma)=s'(\lambda)e^{\gamma b}$.
 		\item Solving for $b$ gave $b=\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})$, which was then substituted back into $g(x)=ae^{bx}$ to give $g(x)=\frac{s'(\lambda)}{\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\gamma}\cdot \ln (\frac{-2}{s'(\lambda)})\cdot x}$, where $\gamma$ is the distance that the function takes to reach $g'(x)=-2$, and $\lambda$ is the x value that the function starts at, and joins with the previous function, $s(x)$.
 		
-		\item $x$ was replaced by $(x-\lambda)$ to horizontally shift, and $s(\lambda)-a$ was added to vertically shift so that $g(\lambda)=s(\lambda)$.
+		\item $x$ was replaced by $(x-\lambda)$ to horizontally shift, and $s(\lambda)-a$ was inserted at the end to vertically shift so that $g(\lambda)=s(\lambda)$.
 		
 		\item After inserting the equation into desmos, suitable values for $\lambda$ and $\gamma$ were found. It was required that the equation terminate at $y=10$ so that there would be suitable room for the final function to revert direction and climb. Therefore $g(\lambda + \gamma)=10$, where $\gamma=130-\lambda$ was considered, as this would ensure that $g'(\lambda-\lambda-130)=g'(130)=-2$, while still allowing for $\lambda$ to be altered until a suitable answer was found.
 		
@@ -187,12 +178,37 @@ For further working see appendix $\mathbf{A}$
 $f_1$=
 
 
-
+\subsection{Supporting Structures}
 
 
 
 \section{Evaluate and Verify}
+\subsubsection{Reasonableness}
 
+
+
+The assumption that the start and end pieces had a slope of 0 was found to be optimal for smother joining tracks to the  turning points of the inside functions. However, if it was instead assumed that the start and end pieces of track were slanted, with a gradient of, say $-2$, then the roller coaster would be more thrilling, as the passengers would be travelling faster and experience greater forces with the same gradient. 
+
+
+While simplification of the model to 2D did make the roller coaster less thrilling, as passengers would only experience thrilling movements in 2 dimensions, rather than 3, it greatly simplified calculations as intended
+
+
+\subsubsection{Strengths}
+
+
+The function $c(x)$ had the largest changes in gradient, which theoretically contributed the largest thrill to passengers. Additionally, it not only reached the maximum slope naturally throughout its oscillation, but ensured that passengers maintained enough speed to overcome each one of its peaks through its integrated linear function.
+
+While the cubic function was utilised heavily, the requirements for there to be at least two types of functions that were covered in Unit 3 Topic 2 included in the roller coaster and least 3 types of functions overall, were fulfilled.
+
+\subsubsection{Weaknesses}
+
+
+The organisation and labelling of functions and variables throughout the solution were inconsistent and confusing. A better naming scheme was adopted toward the end of the task, with the last function becoming $f_2$, rather than an arbitrary letter. 
+
+Many variables lacked exact solutions. This resulted in extremely long and complex functions which lacked readability and accuracy. While this was sub optimal, the rounding errors were found to be inconsequential considering the real world scale.
+
+
+\section{Conclusion}
 
 
 \section {Bibliography}
@@ -201,7 +217,11 @@ $f_1$=
 	
 	
 	\section{The Fourth Function}
+	$f_2(0)=g(130)\Rightarrow d=g(130)$
 	
+	$f_2'(0) = g'(130)\Rightarrow c=g'(130)$
+	
+	$f'(20)=0\Rightarrow a=1200a+40b+g'(130)$
 	
 	
 \end{appendices}

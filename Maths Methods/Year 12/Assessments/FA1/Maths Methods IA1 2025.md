@@ -43,11 +43,16 @@ $ln(x)$
 #### overall
 - Make sure use of term "maximum" is correct
 - Source vertex formula
-#### Modelling in desmos
-- i didnt end up using the desmos project... Is this that bad of a thing??
-	\item The community made desmos project "Cubic through four points" allowed for a cubic to be constructed via dragging points in the desmos UI. This allowed for the creation of a viable function through trial and error.  \url{https://www.desmos.com/calculator/r0slnoidco}
 
-##### The second function:
-- Is adding the linear slope a good thing or a bad thing?? does it take away from the fact that I am using a trig function??
-- Is this the right way to say this??
-	-  $9.5\times0.2\cos (0.2(30+c))-0.1 \Rightarrow c=-6.174775557$
+Add back 
+	\item It was considered that after the first function, a sine function could be added so that more variability in the gradient could occur, therefore causing more of a thrill. 
+	\item This meant that the second turning point of the cubic had to be placed so that it would coincide with one of the lower turning points of the sine function. 
+
+#### Questions for Mr McClintock
+
+- Should I actually fill in the "Final functions" ahh section?? 
+	- Does this even matter since I defined them earlier on??
+- What is the cost?? Its low key not on the one on seqta
+- Is the weakness about organisation valid?
+	- The organisation and labelling of functions and variables throughout the solution were inconsistent and confusing. A better naming scheme was adopted toward the end of the task, with the last function becoming $f_2(x)$, rather than an arbitrary letter. 
+- Should I actually be talking about the general form of each function. 
