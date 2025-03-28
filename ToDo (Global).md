@@ -4,12 +4,13 @@ tags:
 ---
 **Urgent**
 *Time sensitive*
-
-Friday: Submit assessment 
-
-Monday: 
+SATURDAY:
 - Have WOW Stuff done and direct message to Mrs Strickland
-- Have physics experiment decided
+- Have wow video done
+SUNDAY MIGNIGHT:
+- SUBMIT MATHS
+
+
 
 ## School
 ### Chemistry 

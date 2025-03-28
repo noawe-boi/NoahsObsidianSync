@@ -43,6 +43,9 @@ $ln(x)$
 #### overall
 - Make sure use of term "maximum" is correct
 - Source vertex formula
+- State final function as peice wise
+- Actually calculate cost
+- Include cost in reasonableness
 
 Add back 
 	\item It was considered that after the first function, a sine function could be added so that more variability in the gradient could occur, therefore causing more of a thrill. 
@@ -55,7 +58,9 @@ Add back
 - Is the weakness about organisation valid?
 	- The organisation and labelling of functions and variables throughout the solution were inconsistent and confusing. A better naming scheme was adopted toward the end of the task, with the last function becoming $f_2(x)$, rather than an arbitrary letter. 
 - Should I actually be talking about the general form of each function. 
+	- **Low key should actualy say WHy a function was chosen but pretty breifly** 
 - Is this appropriate:
 	- \item The roller coaster required structural support, lest it defy the laws of physics or collapse. For this task, the supporting structure of roller coasters consists of equally spaced main columns priced at \$180/metre, and interconnecting bracing priced at \$20/metre$^2$
 - Why choose each function??
 - Is it worth it to consider the difference between a creative, human approach, rather than simply choosing a cos, then a sin function because they have the greatest change in gradient, direction, and $y$ value over time??
+	- **yeah i guess put it under strengths**
