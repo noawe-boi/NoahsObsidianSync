@@ -17,7 +17,10 @@ Similarly to how $pH$ takes very large values and converts them to more manageab
 $pK_a$ and $pK_b$ for an acid and conjugate base, or vise versa, will always add up to $14$ 
 i.e.) for original and conjugate: $(pK_a)_{original} + (pK_b)_{conjugate} = 14$ 
 
+### Solving for $pK_a$ and $pK_b$. 
 
+$pK_a=-\log_{10} K_a$ 
+$pK_b=-\log_{10}K_b$  
 ## Examples
 ### Finding $K_a$ of a weak acid
 1. $– 0.029$ mole of ethanoic acid $(CH_3COOH)$ dissolved in 1 liter of water has a $pH$ of $3.15$ at $25^o$C. Determine $K_a$ for this acid
@@ -28,3 +31,4 @@ Considering that $pH = - log_10 [H_3 O^+]=3.15$
 so $[H_3 O^+] = x = 10^{-3.15} = 7.08 \cdot 10^{(-4)}$mol/L
 
 ![[Chemistry pKa and pKb 2025-03-27 12.44.08.excalidraw]]
+

@@ -4,13 +4,12 @@ tags:
 ---
 **Urgent**
 *Time sensitive*
-SATURDAY:
-- Have WOW Stuff done and direct message to Mrs Strickland
-- Have wow video done
+
 SUNDAY MIGNIGHT:
 - SUBMIT MATHS
 
-
+SATURDAY:
+- Have WOW Stuff done and direct message to Mrs Strickland
 
 ## School
 ### Chemistry 
