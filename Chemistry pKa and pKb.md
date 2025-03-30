@@ -24,11 +24,18 @@ $pK_b=-\log_{10}K_b$
 ## Examples
 ### Finding $K_a$ of a weak acid
 1. $– 0.029$ mole of ethanoic acid $(CH_3COOH)$ dissolved in 1 liter of water has a $pH$ of $3.15$ at $25^o$C. Determine $K_a$ for this acid
+
+
 The chemical equation is $CH_3COOH + H_2O \rightleftharpoons CH_4COO^- + H_3O$ 
+
 Therefore the $K_a$ expression is $\frac{[H_3O^+][CH_3COO^-]}{[CH_3COOH]}$
+
 Considering that $pH = - log_10 [H_3 O^+]=3.15$
 
-so $[H_3 O^+] = x = 10^{-3.15} = 7.08 \cdot 10^{(-4)}$mol/L
+so $[H_3 O^+] =  10^{-3.15} = 7.08 \cdot 10^{(-4)}$mol/L
 
+Since this is a weak acid, clearly $[H^+]$ is going to be smaller than $[CH_3COOH]$
 ![[Chemistry pKa and pKb 2025-03-27 12.44.08.excalidraw]]
+Consider $\frac{[H_3O^+][CH_3COO^-]}{[CH_3COOH]}$, and RICE table rice concentrations.
+$\therefore K_a = \frac{(7.08\cdot10^{-4})(7.08\cdot10^{-4})}{0.029}$
 
