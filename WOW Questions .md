@@ -19,3 +19,25 @@ Without a religious backbone, or set of rules, to govern our behavior, all sorts
 Would you rather have faith in your partner, rather than fear of their past?
 
 
+
+
+
+
+
+Sex before marriage
+
+The bible is against sex before marriage
+
+Virginity used to be valuable. Women used to be a prize
+
+Tell bible verse about virginity and how dude didn't want her 
+
+Clearly in bible times, a lot of a woman's value came from her virginity. People were punished for taking it from people without being committed to them because other men wouldn't want them. 
+
+When you remove the 
+
+
+
+
+
+
