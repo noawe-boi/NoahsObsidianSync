@@ -101,7 +101,159 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "yNOZUbL7yz0o1tS_PgaTb",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "tQLU4NPdMM0RNcOuAIDja",
+            "type": "freedraw",
+            "x": 35,
+            "y": 165.75,
+            "width": 73,
+            "height": 43,
+            "angle": 0.3497152903665075,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "aa",
+            "roundness": null,
+            "seed": 532229602,
+            "version": 87,
+            "versionNonce": 1514425406,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1743377104667,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                -7,
+                2
+              ],
+              [
+                -10,
+                3
+              ],
+              [
+                -17,
+                6
+              ],
+              [
+                -27,
+                9
+              ],
+              [
+                -33,
+                10
+              ],
+              [
+                -52,
+                17
+              ],
+              [
+                -58,
+                20
+              ],
+              [
+                -62,
+                24
+              ],
+              [
+                -65,
+                26
+              ],
+              [
+                -68,
+                30
+              ],
+              [
+                -70,
+                31
+              ],
+              [
+                -72,
+                32
+              ],
+              [
+                -73,
+                33
+              ],
+              [
+                -73,
+                34
+              ],
+              [
+                -69,
+                34
+              ],
+              [
+                -64,
+                36
+              ],
+              [
+                -58,
+                38
+              ],
+              [
+                -48,
+                41
+              ],
+              [
+                -43,
+                43
+              ],
+              [
+                -41,
+                43
+              ],
+              [
+                -41,
+                43
+              ]
+            ],
+            "pressures": [
+              0.1044921875,
+              0.134765625,
+              0.1494140625,
+              0.16015625,
+              0.1669921875,
+              0.169921875,
+              0.1806640625,
+              0.18359375,
+              0.185546875,
+              0.1845703125,
+              0.1796875,
+              0.177734375,
+              0.177734375,
+              0.1787109375,
+              0.1796875,
+              0.1904296875,
+              0.2080078125,
+              0.21484375,
+              0.205078125,
+              0.1435546875,
+              0.078125,
+              0
+            ],
+            "simulatePressure": false,
+            "lastCommittedPoint": null
+          }
+        ],
+        "created": 1743377104985
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

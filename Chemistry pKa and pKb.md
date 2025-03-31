@@ -39,3 +39,14 @@ Since this is a weak acid, clearly $[H^+]$ is going to be smaller than $[CH_3COO
 Consider $\frac{[H_3O^+][CH_3COO^-]}{[CH_3COOH]}$, and RICE table rice concentrations.
 $\therefore K_a = \frac{(7.08\cdot10^{-4})(7.08\cdot10^{-4})}{0.029}$
 
+
+### Worked Example 22.7
+![[Chemistry pKa and pKb 2025-03-31 09.21.11.excalidraw]]
+
+
+### Worked Example 23.4
+![[Chemistry pKa and pKb 2025-03-31 09.40.04.excalidraw]]
+
+
+### Example Calculating the pH of a weak base
+![[Chemistry pKa and pKb 2025-03-31 09.51.39.excalidraw]]
