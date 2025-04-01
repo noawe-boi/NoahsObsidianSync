@@ -6,7 +6,7 @@ tags:
 ---
 ### Muon decay (yap)
 #### Wtf is a muon?
-A tiny subatomic particle formed by cosmic rays colliding with oxygen and nitrogen. They have an extremely short lifespan of $\approx 2.2$ microseconds and travel at $>99c$.
+A tiny subatomic particle formed by cosmic rays colliding with oxygen and nitrogen. They have an extremely short lifespan of $\approx 2.2$ microseconds and travel at $>0.99c$.
 This short lifespan means that despite their speed, *they* **should** *never hit the earths surface.*
 However **special relativity** proves this wrong, as it was proven that objects travelling close to the speed of light experience time differently. 
 

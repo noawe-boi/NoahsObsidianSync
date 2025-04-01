@@ -24,6 +24,7 @@ SATURDAY:
 ### Physics
 - Exercise 1.3
 - Chapter 3 Review
+- minute physics special relativity.
 ### English
 **ASSIGNMENT**
 
