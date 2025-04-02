@@ -4,7 +4,7 @@ tags:
   - notes
   - topic
 ---
-### What is titration
+### What is titration?
 When a solution of known concentration is added to a solution of unknown concentration until they are equal in quantity.
 
 Usually performed with [[Acid - Base pH Indicators]] in solution
