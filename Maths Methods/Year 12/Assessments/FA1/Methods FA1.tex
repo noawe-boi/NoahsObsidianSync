@@ -1,8 +1,9 @@
 
-\documentclass[11pt, letterpaper]{article}
+\documentclass[10pt, letterpaper]{article}
 %\usepackage{bookmark}
 \usepackage[a4paper,margin=2cm]{geometry}
 \usepackage[]{graphicx}
+\usepackage{mathtools}
 \usepackage{bm}
 \usepackage[strings]{underscore}
 \usepackage{apacite}
@@ -49,20 +50,26 @@
 Roller coasters are investment opportunities in which profit is largely affected by the amount of exhilaration they produce. While enticing passengers, and making a profit, are important factors, safety must also be considered. 
 In this project, a roller coaster and support structure were designed using mathematical functions to cultivate maximum exhilaration and satisfactory safety, all while minimising costs.
 \subsection{Assumptions and Observations}
-
-The task sheet specified "The beginning and end sections... have been erected and are in a perfectly straight alignment". While this did clarify that the first, and end pieces of track were parallel, their slope was not specified, and therefore assumed to be 0.
-
-The terminology "smooth" was used to describe the required transition between pieces of track. It is assumed that this implied that at transitions segments would be at same position and have the same gradient.
-
-For this task, the supporting structure under the track consists of equally spaced main columns priced at \$180/metre, and interconnecting bracing priced at \$20/metre$^2$. It was assumed that placing support liberally to ensure sufficient integrity would be more cost effective than repairing catastrophic failure in the aftermath of improper placement.
-
+The following assumptions and observations were made before, and throughout the completion of the task. The assumptions made are required prerequisites, or simplifications, that ensure a valid solution can be achieved.
 The roller coaster was modelled in 2D to simplify calculations, and because graphing functions in 3D was out of the scope of the project. 
-		
-It was required that the track be constructed of at least 3 or more types of functions, including at least two types that are covered in Unit 3 Topic 2. The functions covered were exponential, logarithmic, and trigonometric functions.
+\begin{itemize}
+	\item The task sheet specified "The beginning and end sections... have been erected and are in a perfectly straight alignment". While this did clarify that the first, and end pieces of track were parallel, their slope was not specified, and therefore assumed to be 0.
 	
-Trigonometric functions were calculated in radians, rather than degrees, in order for them to oscillate more with smaller change in $x$.
+	\item The terminology "smooth" was used to describe the required transition between pieces of track. It is assumed that this implied that at transitions segments would be at same position and have the same gradient.
+	
+	\item The success criteria is maximum exhilaration, caused by "swift changes in direction, height and steepness". This could be could be translated to swift changes in the $y-$axis, and gradient. However if this was interpreted at face value, the ideal roller coaster would be a sine, or cosine function, with the lowest period possible. While this would fulfil the success criteria, it would not be enjoyable for passengers, and therefore caused them to be less exhilarated. Therefore while exhilarating features were incorporated, variation and comfort were considered as equally important. 
+	
+	\item For this task, the supporting structure under the track was required to consist of equally spaced main columns priced at \$180/metre, and interconnecting bracing priced at \$20/metre$^2$. It was assumed that placing support liberally to ensure sufficient integrity would be more cost effective than repairing catastrophic failure in the aftermath of improper placement.
+	
+	
+	\item It was required that the track be constructed of at least 3 or more types of functions, including at least two types that are covered in Unit 3 Topic 2. The functions covered were exponential, logarithmic, and trigonometric functions.
+	
+	\item Trigonometric functions were calculated in radians, rather than degrees, in order for them to oscillate more with smaller change in $x$.
+	
+	\item In order for the roller coaster to have sufficient speed to overcome any peaks or hills in the track, each successive peak should be at a lower height than any preceding it.
+	
+\end{itemize}
 
-In order for the roller coaster to have sufficient speed to overcome any peaks or hills in the track, each successive peak should be at a lower height than any preceding it.
 
 
 \subsection{Translation of aspects to Mathematical concepts and techniques}
@@ -82,7 +89,7 @@ Considering the track criteria provided, the start of the track should be at $(0
 		\includegraphics[width=10cm]{Start and End.png}
 		
 		\caption{Start and 
-			wehreEnd sections of the track}
+			End sections of the track}
 	\end{center}
 	
 	
@@ -90,10 +97,9 @@ Considering the track criteria provided, the start of the track should be at $(0
 
 The derivative function of modelled sections of track could be used to determine if the track exceeded the "maximum slope for safety" requirement provided by the task sheet.
 
-The success criteria is maximum exhilaration, caused by "swift changes in direction, height and steepness". This could be could be translated to swift changes in the $y-$axis, and gradient.
 
 In order to achieve as much of a thrill as possible, the maximum allowed slope should be reached whenever feasible while still incorporating change in gradient.
-While the maximum slope is defined as $-2$, interpreting it directly as $-2\geq \textbf{slope}$ would result in a dangerously steep coaster that could only travel downwards. Henceforth any mention of a "maximum" or "highest possible" slope should be interpreted as $-2$, so that $-2\leq \textbf{slope}$.
+While the maximum slope is defined as $-2$, interpreting it directly as $-2\geq \textbf{slope}$ would result in a dangerously steep coaster that could only travel downwards. Henceforth any mention of a "maximum" or "highest possible" slope should be interpreted as "steepest negative", so that $-2\leq \textbf{slope}$.
 
 
 
@@ -104,19 +110,19 @@ While the maximum slope is defined as $-2$, interpreting it directly as $-2\geq 
 
 Considering that the starting point $(0, 80)$, there was already sufficient height for the maximum gradient to be reached for a reasonable duration.
 The cubic function was found suitable as it forms 2 stationary points, useful for "smoothly" joining tracks.
-Clearly the first function will pass intersect  $(80, 0)$, therefore initial requirements for the first function were:
+Clearly the first function will intersect, and requires a gradient of $0$, at $(80, 0)$. Therefore initial requirements for the first function were:
 $$f(x)=ax^3 +bx^2 +cx +d$$
 $$f(0)=80\because\textrm{Vertical alignment}$$
 $$f'(x)=0 \because \textrm{Smooth transition from beginning}$$
 $$f'(0)=0\Rightarrow c=0\because \textrm{Variables with } x \textrm{ coefficient's become 0}$$
 
-Since the derivative function was a quadratic, its lowest point could be considered the maximum slope reached by the original.
-The $x$-coordinate of the turning point could found using the vertex formula, which stated that for turning point $(x, y),\; x=\frac{-b}{2a}$.
+Since the derivative function was a quadratic, when $a>0$, its lowest point could be considered the maximum slope reached by the original.
+The $x$-coordinate of the turning point could found using the vertex formula, which stated that for turning point $(x, y),\; x=\frac{-b'}{2a'}$. In this case, since there are other coefficients of $x^2$ and $x$ than $a$ and $b$ respectively, we let $a'=3a$, and $b'=2b$ when solving.
 
 Considering the derivative function
  $$f'(x)=3ax^2+2bx$$
  $x$-coordinate of the turning point was: 
- $$\frac{-2b}{2\cdot3a}=\frac{-b}{3a}$$
+ $$\frac{-b'}{2a'}=\frac{-2b}{2\cdot3a}=\frac{-b}{3a}$$
 
 
 
@@ -143,16 +149,17 @@ $$\therefore f(x)=\frac{2}{675}x^{3}-\frac{2}{15}x^{2}+80$$
 
 
 \subsubsection{The Second Function}
-The sine function had potential for "swift changes in direction, height, and steepness". It was chosen to be the second function.
+The sine function was ideal for "swift changes in direction, height, and steepness", and possessed infinite stationary points. It was chosen to be the second function.
 
-Consider $$s(x)=a\sin(b(x+c))+d $$
+Considering 
+$$s(x)=a\sin(b(x+c))+d $$
 $$s'(x)=ab\cos(b(x+c))$$
 
 Clearly the maximum downwards gradient was defined by $$ab\cdot-1$$
 when
 $$\cos(b(x+c))=-1$$
 
-However the peak of the next oscillation was the same height than the previous one. Therefore the function was modified to ensure passengers had sufficient speed to overcome the next peak though the creation of a new function.
+However the peak of the next oscillation was the same height than the previous one. Therefore new function was created to ensure passengers had sufficient speed to overcome the next peak.
 
 Considering
 $$c(x)=a\sin(b(x+c))+d+gx$$ 
@@ -165,12 +172,10 @@ Clearly now when $g<0$, the function will slope downwards throughout its oscilla
 		\includegraphics[width=10cm]{c(x).png}
 		\caption{$y=sin(x)$ with various slopes applied}
 	\end{figure}
-	\pagebreak
 
 
 
-
-When $g=-0.1$, clearly $ab\cdot -1-0.1=-2$ would result in a minimum gradient of $-2$. Through trial and error in desmos it was found that $c'(x)=-2$, $a=9.5$ and $b=0.2$ were appropriate. To align the functions, $f'(x)=c'(x)$ was considered. The function was shifted horizontally using $d$ until the minimums were aligned, then shifted vertically using $d$ until the functions met.  
+When $g=-0.1$, clearly $ab\cdot -1-0.1=-2$ would result in a minimum gradient of $-2$. Through trial and error in desmos it was found that $c'(x)=-2$, $a=9.5$ and $b=0.2$ were appropriate. To align the functions, $f'(x)=c'(x)$ was considered. The function was shifted horizontally by letting $c'(30)=f'(30)$, and choosing an appropriate solution for $c$ where the minimums were aligned. The function was then shifted vertically, by letting $c(30)=f(30)$, altering $d$ until the functions met.  
 
 It was found  that
 
@@ -278,13 +283,25 @@ For further working see appendix $\mathbf{A}$
 	
 
 
-\subsection{Final Functions and Domains}
+\subsection{Final Functions
+}
 
-$f_1$=
+$$
+\begin{Bmatrix}
+	\frac{2}{675}x^{3}-\frac{2}{15}x^{2}+80 & 0\le x<30 \\
+	9.5\sin(0.2(x-6.174775557))-0.1x+52.48683298  & 30\le x<77.2487110854776 \\
+	-6.24204780148\cdot e^{0.0396232574628(x-77.2487110854776)} + 60.4754058113 & 77.2487110854776 \leq x < 130 \\
+	
+	-0.01(x-130)^{3}+0.35\left(x-130\right)^{2}+-2\left(x-130\right)+10 & 130\le x\leq150
+	
+\end{Bmatrix}
+$$
+
+
 
 
 \subsection{Supporting Structures}
-Pillars were defined by:
+columns were defined by:
 
 $$x=k_{4}\left\{0\le y\le f\left(x\right)\right\}$$
 
@@ -306,7 +323,7 @@ $$k_{4}=k_{1}\left[k_{3}\right]\cdot k_{2}$$
 
 This ensures that there will always be support at the start and end of the track, while allowing the density of supports to be easily altered via $k_3$ when $1\leq k_3\leq12$
 
-Summating the result of each function at the $x$ value of each pillar gave the total length of pillar required in meters. Multiplying this by the cost per meter gave the total cost for pillars.
+Summating the result of each function at the $x$ value of each column gave the total length of column required in meters. Multiplying this by the cost per meter gave the total cost for columns.
 
 
 
@@ -340,7 +357,7 @@ While simplification of the model to 2D did make the roller coaster less thrilli
 
 
 \subsubsection{Strengths}
-
+While the actual level of exhilaration cannot be measured, as the model is purely theoretical, the solution has been deemed successful due to the successful incorporation of exhilarating features, and the consideration comfort and variation across such features.
 
 The function $c(x)$ had the largest changes in gradient, which theoretically contributed the largest thrill to passengers. Additionally, it not only reached the maximum slope throughout its oscillation, but ensured that passengers maintained enough speed to overcome each one of its peaks through its integrated linear function.
 
@@ -351,17 +368,17 @@ While the cubic function was utilised heavily, the requirements for there to be 
 \subsubsection{Limitations}
 
 
-The organisation and labelling of functions and variables throughout the solution were inconsistent and confusing. A better naming scheme was adopted toward the end of the task, with the last function becoming $f_2(x)$, rather than an arbitrary letter. 
+The organisation and labelling of functions and variables throughout the solution was inconsistent and confusing. Variables, such as $b$, were often defined multiple times in different functions. A better naming scheme was adopted toward the end of the task, with the last function becoming $f_2(x)$, rather than an arbitrary letter. 
 
-Many variables lacked exact solutions. This resulted functions which lacked readability and accuracy, however, the rounding errors were assumed inconsequential considering the real world scale.
+Many variables lacked exact solutions. This resulted functions which lacked readability and accuracy, however, the rounding errors were assumed inconsequential, and were imperceivable against exact solutions, considering the real world scale.
 
 Cost of the attraction was considered when placing the supports after the design had been finalised, rather than during the design or refinement process. Lowering the coaster would result in lower support costs, but less of a thrill from the final drop along $g(x)$. 
 
-Being restricted to equally spaced main columns means that rather than placing fewer, but more intentionally placed, pillars meant that the amount of pillars had to be increased in order to support sections of the track misaligned, or under higher load. Additionally, rather than calculating the load on the track, pillar spacing was decided arbitrarily.
+Being restricted to equally spaced main columns means that rather than placing fewer, but more intentionally placed, columns meant that the amount of columns had to be increased in order to support sections of the track misaligned, or under higher load. Additionally, rather than calculating the load on the track, column spacing was decided arbitrarily.
 \section{Conclusion}
-In this project, a roller coaster was modelled and defined by the functions $f(x), c(x), p(x),$ and $f_2(x)$, which were found through substituting and simultaneously solving for specific values, the values of each other, the value of their derivative, or the value of each others derivatives. While much of the process involved imprecise measurement and arbitrary decisions, the final result was considered to be varied, and exhilarating. 
+In this project, an exhilarating roller coaster was modelled and defined by the functions $f(x), c(x), p(x),$ and $f_2(x)$, which were found through substituting and simultaneously solving for specific values, the values of each other, the value of their derivative, or the value of each others derivatives. While much of the process involved imprecise measurement and arbitrary decisions, the final result was considered to be varied, and exhilarating. 
 
-The total cost was $\$370,537.58$. While we lack a frame of reference to evaluate the reasonableness of the cost against, cost reducing measures would have decreased the exhilaration the coaster caused, therefore it was deiced that the current cost-to-exhilaration ratio was satisfactory.
+The total cost was $\$370,537.58$. While we lack a frame of reference to evaluate the reasonableness of the cost against, cost reducing measures would have decreased the exhilaration the coaster caused, therefore it was decided that the current cost-to-exhilaration ratio was satisfactory.
 
 
 
