@@ -26,18 +26,18 @@ Would you rather have faith in your partner, rather than fear of their past?
 
 Sex before marriage
 
-The bible is against sex before marriage
+So it's pretty clear the the bible is against sex before marriage, but not without a good reason
 
 Virginity used to be valuable. Women used to be a prize
 
-Tell bible verse about virginity and how dude didn't want her 
+(Deuteronomy 22:13-21) describes a hypothetical scenario where a dude who marries a girl, sleeps with her, and then claims she wasn't a virgin when they got married. We are told he was found to be lying about that, he could get fined 100 shekels of silver. 
 
-Clearly in bible times, a lot of a woman's value came from her virginity. People were punished for taking it from people without being committed to them because other men wouldn't want them. 
+Clearly in bible times, a lot of a woman's value came from her virginity. People were punished for taking it from people without being committed to them. In the case of arranged marriages, the woman's marriage was literally worth less if she wasn't a virgin, and often if a man took her virginity outside or marriage, he would have to pay a fine, and then marry her anyways. 
 
-When you remove the 
+It was also a way for society to stay structured and to keep people accountable
 
+now days it is supposed to do the same thing, but without fines, peoples ethics are the only thing stopping them from sleeping around. 
 
+but although we don't face prosecution, it is low key a red flag to be sleeping around. 1 Corinthians 6:12 tells us that technically, we can do whatever we want with our bodies, however, we must be willing to accept the consequences that come with it.
 
-
-
-
+### Q18 Why is it easier to have faith when you are younger.
