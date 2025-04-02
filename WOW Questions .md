@@ -18,9 +18,7 @@ However, if you consider trying to use a hammer to remove branches from a tree, 
 
 ### Q18 Why is it easier to have faith when you are younger.
 
-When I was about 8 or 9, I used to go to church every Saturday, pray every night, and sing in chapel. I think many of my friends could tell you how often I do those things in the present. 
-
-You're more likely to find me asleep in chapel, rather than participating.
+When I was about 8 or 9, I used to go to church every Saturday, pray every night, and sing in chapel. Nowadays you're more likely to find me asleep in chapel, rather than participating.
 
 Ideas like "I'm too tired to go to church today", and, "I'm busy right now, God can wait" are intentional spiritual sabotage on ourselves, disguised as self care. I know because these are the reasons I lost my relationship with God.
 
@@ -28,8 +26,8 @@ These ideas don't just appear though. As I got older, more responsibilities fell
 
 I didn't realise it happening at the time, but I can only hope that you guys do, and not just if, but when, your faith is tested.
 
-Matthew 18:3-4
-"Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven."
+Matthew 18:3
+"Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. 
 
 
 
