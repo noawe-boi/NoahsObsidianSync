@@ -1,31 +1,35 @@
-### Q17: What does god say about sex before marriage
+### Q17: What does God say about sex before marriage
 
-Sex before marriage
+So it says uhhhh, don't have sex before marriage.
 
-So it's pretty clear the the bible is against sex before marriage, but not without a good reason. Back then, being a virgin was a big deal for women. 
+But in all seriousness, you've probably heard about marriage being the union of two people, both metaphorically, as they now share responsibility over the household, and physically, through... you know... sexual relations. 
 
-In the case of arranged marriages, the woman's marriage was literally worth less if she wasn't a virgin, and often if a man took her virginity outside or marriage, he would have to pay a fine, and then marry her anyways. 
+Genesis 4:1 says: Now Adam knew Eve his wife, and she conceived and bore Cain.
 
-Deuteronomy 22:13-21 describes a hypothetical scenario where a dude marries a girl, does the deed, and then claims she wasn't a virgin. We are told that if he was found to be lying about that, he would be fined 100 shekels of silver.
+This is what sex was intended to be: a personal weaving together of two lives, akin to knowing someone on a deep and profound level.
 
-It was also a way for society to stay structured and to keep people accountable for their actions. Imagine how hard it would have been in bible times to get child support. Without a religious backbone, or set of rules, to govern our behavior, all sorts of immorality to thrive.
+I think a metaphor that can illustrate this point is by considering sex as a tool, like a hammer. If you wanted to use a hammer to sink a nail, it would be an effective tool, just like how using sexual relations to form a deeper connection with your partner is an effective way to fulfilled in your relationship. 
 
-nowadays, we don't have fines, and I hope none of you are being forced into an arranged marriage, so waiting till marriage before you have sex with someone is more about morals, rather than condemnation.
+However, if you consider trying to use a hammer to remove branches from a tree, it's going to take a lot more effort, and you might not even get the job done, or you could injure yourself during the process. This is like trying to use sexual relations to achieve short term pleasure. Even though you might feel good for a bit, you'll find yourself hurt, or unfulfilled in the long term. 
 
 1 Corinthians 6:12-14
 
  “I have the right to do anything,” you say—but not everything is beneficial. “I have the right to do anything”—but I will not be mastered by anything" ... The body, however, is not meant for sexual immorality but for the Lord.
 
-Either way I think its a red flag to be sleeping around.
 ### Q18 Why is it easier to have faith when you are younger.
 
-When I was about 8 or 9, I used to go to church every Saturday, pray every night, and sing in chapel. I even used to do communion at church. I think many of my friends could tell you the frequency I do those things now. 
+When I was about 8 or 9, I used to go to church every Saturday, pray every night, and sing in chapel. I think many of my friends could tell you how often I do those things in the present. 
 
-The answer is that I don't do any of them now. 
+You're more likely to find me asleep in chapel, rather than participating.
 
-For some of us, ideas like "I'll pray tomorrow", and, 
+Ideas like "I'm too tired to go to church today", and, "I'm busy right now, God can wait" are intentional spiritual sabotage on ourselves, disguised as self care. I know because these are the reasons I lost my relationship with God.
 
+These ideas don't just appear though. As I got older, more responsibilities fell on my shoulders. School was getting harder every year, I had new duties around the house, and my relationships with my fellow students grew more complex. These factors lead to me thinking more about myself, than my faith. 
 
+I didn't realise it happening at the time, but I can only hope that you guys do, and not just if, but when, your faith is tested.
+
+Matthew 18:3-4
+"Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven."
 
 
 
