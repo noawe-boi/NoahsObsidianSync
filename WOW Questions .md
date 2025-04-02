@@ -1,43 +1,19 @@
 ### Q17: What does god say about sex before marriage
-Now I think we've all heard the 10 commandments. I'd like to focus on exodus 20:14
-
-"Thou shalt not commit adultery."
-
-I think a lot of people see this and they think of cheaters or maybe even people who sleep around a lot. However what a lot of us don't think about, and what society nowadays is so willing to accept as morally correct, is SEX BEFORE MARRAGE. 
-
-
-While its not like having sex before marriage is going to kill you, and the idea of waiting till marriage seems super lame to a lot of you, you might be surprised to hear that 1 Corinthians 6:12 tells us that technically, we can do whatever we want with our bodies, however, we must be willing to accept the consequences that come with it.
-
-
-Genesis 2:24 tells us that marriage is the uniting of man and wife, so that they may symbolically be considered a single entity. 
-
-Besides, is it not a massive red flag if your partner has a really high body count? Even if you look at it through a non religious lens, would you rather know that your partner is fully committed to you and only you, so much that they could resist their desires to physically be united with you, until you are in a symbolic, and somewhat legal, entity. 
-
-
-Without a religious backbone, or set of rules, to govern our behavior, all sorts of immorality to thrive
-
-Would you rather have faith in your partner, rather than fear of their past?
-
-
-
-
-
-
 
 Sex before marriage
 
-So it's pretty clear the the bible is against sex before marriage, but not without a good reason
+So it's pretty clear the the bible is against sex before marriage, but not without a good reason. Back then, being a virgin was a big deal for women. 
 
-Virginity used to be valuable. Women used to be a prize
+In the case of arranged marriages, the woman's marriage was literally worth less if she wasn't a virgin, and often if a man took her virginity outside or marriage, he would have to pay a fine, and then marry her anyways. 
 
-(Deuteronomy 22:13-21) describes a hypothetical scenario where a dude who marries a girl, sleeps with her, and then claims she wasn't a virgin when they got married. We are told he was found to be lying about that, he could get fined 100 shekels of silver. 
+(Deuteronomy 22:13-21) describes a hypothetical scenario where a dude marries a girl, sleeps with her, and then claims she wasn't a virgin when they got married. We are told that if he was found to be lying about that, he would be fined 100 shekels of silver.
 
-Clearly in bible times, a lot of a woman's value came from her virginity. People were punished for taking it from people without being committed to them. In the case of arranged marriages, the woman's marriage was literally worth less if she wasn't a virgin, and often if a man took her virginity outside or marriage, he would have to pay a fine, and then marry her anyways. 
+It was also a way for society to stay structured and to keep people accountable for their actions. Imagine how hard it would have been in bible times to get child support back when 
 
-It was also a way for society to stay structured and to keep people accountable
-
-now days it is supposed to do the same thing, but without fines, peoples ethics are the only thing stopping them from sleeping around. 
-
-but although we don't face prosecution, it is low key a red flag to be sleeping around. 1 Corinthians 6:12 tells us that technically, we can do whatever we want with our bodies, however, we must be willing to accept the consequences that come with it.
-
+nowadays, we don't have fines, and I hope none of you are being forced into an arranged marriage, so waiting till marriage before you have sex with someone is more about morals, rather than condemnation.
+Without a religious backbone, or set of rules, to govern our behavior, all sorts of immorality to thrive.
+Either way I think its a red flag to be sleeping around.
 ### Q18 Why is it easier to have faith when you are younger.
+
+
+
