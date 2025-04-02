@@ -1,4 +1,4 @@
-### Q17: What does God say about sex before marriage
+### Q17: What does the bible say about sex before marriage
 
 So it says uhhhh, don't have sex before marriage.
 
