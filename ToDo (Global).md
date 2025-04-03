@@ -25,12 +25,16 @@ SATURDAY:
 - Exercise 1.3
 - Chapter 3 Review
 - minute physics special relativity.
+- fill in 9.3 notes
 ### English
 **ASSIGNMENT**
 
 - [ ] **Finish Schindler's Ark**
 - [ ] **Start planning English assessment** 
 ### Methods
+
+### Specialist
+6B - probably chapter 6 as a whole
 
 ## Personal
 - [ ] Sort through laptops and computers in basement and choose what to keep and what to sell/throw away

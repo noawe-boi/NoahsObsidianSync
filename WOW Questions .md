@@ -6,11 +6,11 @@ But in all seriousness, you've probably heard about marriage being the union of 
 
 Genesis 4:1 says: Now Adam knew Eve his wife, and she conceived and bore Cain.
 
-This is what sex was intended to be: a personal weaving together of two lives, akin to knowing someone on a deep and profound level.
+This is what sex and marriage were intended to be: a personal weaving together of two lives, akin to knowing someone on a deep and profound level.
 
-I think a metaphor that can illustrate this point is by considering sex as a tool, like a hammer. If you wanted to use a hammer to sink a nail, it would be an effective tool, just like how using sexual relations to form a deeper connection with your partner is an effective way to fulfilled in your relationship. 
+I think a metaphor that can illustrate this point is by considering sex as a tool, like a hammer. If you wanted to use a hammer to sink a nail, it would be an effective tool, just like how using sexual relations to form a deeper connection with your partner is an effective way to find further fulfillment in your relationship. 
 
-However, if you consider trying to use a hammer to remove branches from a tree, it's going to take a lot more effort, and you might not even get the job done, or you could injure yourself during the process. This is like trying to use sexual relations to achieve short term pleasure. Even though you might feel good for a bit, you'll find yourself hurt, or unfulfilled in the long term. 
+However, if you consider trying to use a hammer to remove branches from a tree, it's going to take a lot more effort, and you might not even get the job done, or injure yourself in the process. This is like trying to use sexual relations to achieve short term pleasure. Even though you might feel good for a bit, you'll find yourself hurt, or unfulfilled in the long term. 
 
 1 Corinthians 6:12-14
 
