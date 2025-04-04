@@ -129,7 +129,7 @@
             "version": 28,
             "versionNonce": 1744059012,
             "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1743724420999,
             "link": null,
             "locked": false,
@@ -193,10 +193,7 @@
               0
             ],
             "simulatePressure": false,
-            "lastCommittedPoint": [
-              19.008470649733226,
-              103.3585591579249
-            ]
+            "lastCommittedPoint": null
           }
         ],
         "created": 1743724421362
