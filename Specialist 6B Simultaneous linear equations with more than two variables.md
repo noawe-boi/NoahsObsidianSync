@@ -34,15 +34,29 @@ $$\begin{bmatrix}
 0 & 0 & 1 & | & c\\ 
 
 \end{bmatrix}$$
-### Procedures
-#### All zero's in a row???
+
+####  Solutions in edge cases
+$$\begin{bmatrix}
+1 & 0 & 0 & | & a\\ 
+0 & 1 & 0 & | & b \\ 
+0 & 0 & c & | & d\\ 
+
+\end{bmatrix}$$
+If
+- $c=d=0 \implies$ infinite solutions
+- $c\neq \implies$ unique solutions
+- $c=0, d\neq 0 \implies$ no solutions
+#### For infinite solutions
 $$\begin{bmatrix}
 1 & 0 & 0 & | & a\\ 
 0 & 1 & 0 & | & b \\ 
 0 & 0 & 0 & | & 0\\ 
 
 \end{bmatrix}$$
+Any value for c is valid!!!
 
+
+### Procedures
 ### Examples
 ![[Specialist 6B 2025-04-04 09.13.49.excalidraw]]
 

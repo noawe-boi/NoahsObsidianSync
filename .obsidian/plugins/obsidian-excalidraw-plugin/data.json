@@ -103,6 +103,105 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
     "libraryItems": [
       {
+        "id": "Ggy0-N6n0-hMMxx_vOr9E",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "cBbx0WggJm8-Fzudfsnd_",
+            "type": "freedraw",
+            "x": -1225.0104865329517,
+            "y": 10684.74999963037,
+            "width": 27.32467655899154,
+            "height": 103.3585591579249,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "bGa",
+            "roundness": null,
+            "seed": 1899107844,
+            "version": 28,
+            "versionNonce": 1744059012,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1743724420999,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                14.256352987299806,
+                21.384529480948913
+              ],
+              [
+                21.384529480949823,
+                34.45285305264042
+              ],
+              [
+                24.948617727774945,
+                51.08526487115705
+              ],
+              [
+                27.32467655899154,
+                67.71767668967368
+              ],
+              [
+                27.32467655899154,
+                89.10220617062441
+              ],
+              [
+                26.136647143383016,
+                93.85432383305852
+              ],
+              [
+                22.57255889655812,
+                99.79447091109978
+              ],
+              [
+                19.008470649733226,
+                102.17052974231592
+              ],
+              [
+                19.008470649733226,
+                103.3585591579249
+              ],
+              [
+                19.008470649733226,
+                103.3585591579249
+              ]
+            ],
+            "pressures": [
+              0.02734375,
+              0.0673828125,
+              0.080078125,
+              0.09375,
+              0.1064453125,
+              0.1220703125,
+              0.1240234375,
+              0.125,
+              0.07421875,
+              0.03125,
+              0
+            ],
+            "simulatePressure": false,
+            "lastCommittedPoint": [
+              19.008470649733226,
+              103.3585591579249
+            ]
+          }
+        ],
+        "created": 1743724421362
+      },
+      {
         "id": "yNOZUbL7yz0o1tS_PgaTb",
         "status": "unpublished",
         "elements": [
