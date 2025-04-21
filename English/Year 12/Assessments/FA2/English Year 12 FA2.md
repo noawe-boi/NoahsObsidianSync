@@ -34,7 +34,6 @@ However, healthcare isn't the only sector discriminating against disabled indivi
 
 While some organisations put the effort in to "maximise \[Justin's\] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. I find it ironic that the very system established to help people with disabilities live "normal" lives, they are often treated more like numbers than people.
 
-
-
+The article further cites an interview with a woman under the pseudonym Rebecca, a fellow support worker, some of the factors that contribute to desirable outcomes for supported individuals. 
 
 

@@ -12,7 +12,6 @@
 		{"id":"2cbd5307486c4cb0","type":"text","text":"causes positive feedback loop","x":-1160,"y":20,"width":322,"height":97},
 		{"id":"cf59acfb076f6a43","type":"text","text":"Link","x":-635,"y":180,"width":250,"height":60},
 		{"id":"9c4eea0010b510a2","type":"text","text":"Seciond Source: Experience of discrimination/Genreal stats","x":-633,"y":268,"width":497,"height":180},
-		{"id":"5decfd8ea0b2e68f","type":"text","text":"Retard is now a slur??","x":-633,"y":468,"width":351,"height":60},
 		{"id":"b90c48d517364155","type":"text","text":"What issues does source suggest cause premature death?","x":-1400,"y":180,"width":629,"height":115},
 		{"id":"8dec7d7890a860cc","type":"text","text":"From a purely statistical point of view - disabled people are less capable than 'normal' people by varying degrees, and therefore worth less, but - from a human point of view - everyone deserves equal treatment","x":-2260,"y":-392,"width":711,"height":223},
 		{"id":"adf9c05622859d12","type":"text","text":"While they may not able to live 'normal' lives, the best we can do is support them and help them feel 'normal'","x":-2182,"y":-76,"width":556,"height":232},
@@ -25,7 +24,8 @@
 		{"id":"ba3a80a465aa4653","type":"text","text":"Disabled people are being treateed like numbers, not people. Many NDIS workers are doing the base minimum to support these people, and some are even using disabled people to financially support themselves through 'farming'","x":-200,"y":680,"width":666,"height":224},
 		{"id":"f1be9aa851d99ec1","type":"text","text":"Discrimination from hospital staff","x":-2094,"y":705,"width":477,"height":87},
 		{"id":"e2e3b0bf845ba5fa","type":"text","text":"Health professionals do not communicate the details of their health to one another, like they would with their regular patients.","x":-2847,"y":646,"width":611,"height":148},
-		{"id":"985d28b0189237a6","type":"text","text":"Inaccessable buldings. ","x":-2342,"y":358,"width":438,"height":50}
+		{"id":"985d28b0189237a6","type":"text","text":"Inaccessable buldings. ","x":-2342,"y":358,"width":438,"height":50},
+		{"id":"f1606bc6aafed52e","x":-633,"y":920,"width":512,"height":98,"type":"text","text":"These issues compound. Show stats around isolation and discrimination\n\n\n"}
 	],
 	"edges":[
 		{"id":"f8c46f81061277cb","fromNode":"70f68d043d75483b","fromSide":"right","toNode":"223853c5287a03b8","toSide":"left"},
