@@ -46,3 +46,4 @@ More than 4 in 5 (82% or 216,000) people aged 15–64 who have experienced disab
 ![[Pasted image 20250422063627.png]]
 
 "25% (or 15,000) of people aged 15–64 with disability who experienced disability discrimination from health staff avoided medical facilities"
+https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination#Health
