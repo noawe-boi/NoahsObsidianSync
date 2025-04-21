@@ -56,6 +56,11 @@ Number of ways to permute r number of objects from n objects.
 ### Vocab and definitions
 #### Permutation
 $\frac{n!}{(n-r)!}$
+Where
+- $n$ is the total number of items
+- $r$ is the number of items being chosen at that time
+
+
 
 ### Procedures 
 USE THE FORMULER 
@@ -85,6 +90,9 @@ $n(\textrm{arrangements}) = \frac{n!}{a!b!c!d!...}$
 
 $a, b, c$ and $d$ are number of specific identical objects
 	e.g. I have $a$ number of object $n$ 
+#### Combinations
+Arrangements in which order does not matter  
+e.g. $ABC=ACB=BAC$
 
 
 ### Procedures

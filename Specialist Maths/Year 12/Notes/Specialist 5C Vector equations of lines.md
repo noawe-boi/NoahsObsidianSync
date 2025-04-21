@@ -1,4 +1,10 @@
-sl
+---
+tags:
+  - Specialist
+  - notes
+  - topic
+---
+
 ### Foundational Concepts
 #### Vector
 - Has direction and magnitude
@@ -10,7 +16,7 @@ $\vec{AB}=\mathbf{b}-\mathbf{a}$
 
 #### Equating Coefficients
 
-#### Parralel lines
+#### Parallel lines
 - Same direction (or gradient)
 
 However, in the concetxt of a vector equation, $d$ is the direction of the line. 
@@ -112,8 +118,11 @@ $=\frac{3}{10}i-\frac{1}{10}j+2k$
 $\therefore |\vec{OP}|=\sqrt{(\frac{3}{10})^2+(\frac{-1}{10})^2+2^2}=\frac{\sqrt{410}}{10}$
 
 #### Example 5.12
+
+![[Pasted image 20250413173616.png]]
 ##### a) **THIS IS ON THE EXAM!!!!**
-**embed example 3**
+
+
 $r(t)=a+t(b-a), t\epsilon \mathbb{R}$
 $=i-4j+t((2-3)i+(0--4)j+(-3-0)k)$
 $=i-4j+t(i_4j-4k), t\epsilon \mathbb{R}$

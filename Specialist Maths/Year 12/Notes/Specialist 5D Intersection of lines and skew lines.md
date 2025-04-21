@@ -24,11 +24,11 @@ Two lines are skew if they do *not* intersect and *are* parallel.
 Where 3 or more lines meet.
 
 #### The angle between two lines
-$\cos(\theta) = \frac{d_1 \cdot d_2}{|d_1||d_2|}
+$\cos(\theta) = \frac{d_1 \cdot d_2}{|d_1||d_2|}$ 
 
 
 ### Examples
-#### Example 5.13 
+#### ![[Pasted image 20250413173548.png]]Example 5.13 
 ##### a)
 To find when the lines will cross:
 Let $r_1 = r_2$
@@ -54,10 +54,10 @@ Let $r_2 = r_2$:
 $(5+2\lambda)i_2+\lambda)j+\lambda k = (\mu - 3)i+(4-\mu$j+(6-2\mu)k$
 
 Equate coeffiencts
-$i:5+2\lambda = \mu - 3 \; \textcircled{1}$
-$j:2+\mu = 4-\mu \; \textcircled{2}$ 
-$k:\mu = 6-2\mu \; \textcircled{3}$
-sub $\textcircled{4}$ in $\textcircled{3}$:
+$i:5+2\lambda = \mu - 3 \; \mathbf{1}$
+$j:2+\mu = 4-\mu \; \mathbf{2}$ 
+$k:\mu = 6-2\mu \; \mathbf{3}$
+sub $\mathbf{4}$ in $\mathbf{3}$:
 $-2=6-2\mu$
 $\mu = 2$
 
@@ -71,22 +71,22 @@ EMBED SCANNED DOCUMENT
 
 
 #### 5.16
+![[Pasted image 20250413173942.png]]
 ##### a)
 let $r_1=r_2$
 $\therefore (t-2)i+(t+1)j = si + (1+2s)j$
-Equate coeffients
-$i$:$t-2=s$	$\textcircled{1}$
-$j$:$1+t=1+s$	$\textcircled{2}$
+Equate coefficients
+$i$:$t-2=s$	$\mathbf{1}$
+$j$:$1+t=1+s$	$\mathbf{2}$
 
-Sub $\textcircled{1}$ in \textcircled{2}
+Sub $\mathbf{1}$ in $\mathbf{2}$
 
 $1+t=1+2(t-2)$
 $t=4$
 
-
 $\therefore r_1(4) = 2i+5j$
 
-Calcualte s, dont worry about working. substutute s into $r_2(s)$ when $s=2$
+Calculate s, don't worry about working. substitute s into $r_2(s)$ when $s=2$
 
 For $l_3$:Let $r_3(u) = 2i+5j$
 $2i+5j = (8-3u)i+(3+u)j$

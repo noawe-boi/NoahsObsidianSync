@@ -5,7 +5,7 @@ tags:
   - topic
   - 12Textbook
 ---
-### Foundational Concepts
+ ### Foundational Concepts
 
 #### Domain and range on the  $x-y$ plane
 We can reach any point in the $x-y$ plane with a linear combinations of the vectors $\hat{j}$, and $hat{j}$. 
@@ -22,6 +22,8 @@ A plane can be defined by the normal to the plane, and a point on the plane.
 	We need the normal, and a point to give the height of the plane
 
 ### Vocab and definitions
+#### How do vectors even form planes? 
+![[Pasted image 20250413150521.png]]
 #### Vector equation of a plane
 
 $\mathbf{r} \cdot \mathbf{n} = \mathbf{a} \cdot \mathbf{n}$ 

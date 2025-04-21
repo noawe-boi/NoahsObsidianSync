@@ -69,7 +69,7 @@ $15 + 10 - 7$
 ![[Drawing 2025-01-31 09.58.13.excalidraw]]
 
 ### Vocab and definitions
-Inclusion - Exclusion
+#### Inclusion - Exclusion
 To find how many elements are in $A\cup B$:
 $n(A\cup B) = n(A) + n(B) - n(A\cap B)$
 

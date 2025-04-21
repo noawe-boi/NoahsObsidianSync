@@ -19,6 +19,9 @@ or
 #### Formula 
 - $^n C _r = \frac{^n P _r }{r!} = \frac{n!}{(n-r)!} * \frac{1}{r!}$
 $$=\frac{n!}{r!(n-r)!}$$
+Where
+- $n$ is the total number of items
+- $r$ is the number of items being chosen at that time
 ### Big ideas and concepts
 #### Combinations 
 Unordered selections
