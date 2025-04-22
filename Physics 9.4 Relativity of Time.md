@@ -5,13 +5,7 @@ tags:
   - topic
 ---
 ### Time Dilation formula
-Consider the formula $$t=\frac{t_0}{\sqrt{1-\frac{v^2}{c^2}}}$$
-
-Where:
-- $t$ is the time that the observer sees
-- $t_0$ is the initial time (usually 1)
-- $c$ is the speed of light
-- $v$ is the velocity that the observer is travelling.
+!
 ### Einstein's thought experiment
 Basically boils down to: 
 If I was travelling close to the speed of light, then the light would have to catch up to me before I could see it. 
