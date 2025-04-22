@@ -12,6 +12,8 @@ Disabled people are facing systematic oppression and exploitation from the very 
 
 People assume that just because someone is disabled they cannot, or do not deserve to, experience a high quality of life
 ### Hospitals 
+
+#### Finlay's case
 While not always the case, many people with disabilities find themselves with a number of other underling conditions that impact their lives. 
 
 An investigation by the University of Melbourne shockingly titled "Australians with disability are 4 times more likely to die early", reveals just that. While disappointing, the increase in early moralities falls in line with society's expectations. Clearly people with health issues relating to their disabilities will live shorter lives than otherwise healthy individuals. That would be the case if the reasons that disabled people were dying early were actually related to their pre-existing condition. 
@@ -27,6 +29,10 @@ These conditions aren't caused, or related to specific disabilities at all, and 
 Don't just think of people in wheelchairs, with down syndrome, or with obesity; Think of people who are blind or deaf! Why are disabled people of all kinds dying earlier from conditions that we can mitigate. 
 
 The study points out three major issues that are contributing to these high numbers: lack of accessibility, discrimination, and a general disregard for the health of disabled patents. One of the largest issues when it came to this neglect was poor communication between healthcare professionals signalling a lack of effort and a devaluation of lives.
+#### other
+
+
+
 
 
 ### NDIS "Farming"
@@ -52,4 +58,6 @@ The Australian Institute of Health and Welfare (AIHW) measures a variety of fact
 https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination#Health
 
 
+Something feels off though... If the government is the one collecting all these statistics, they have to be aware of the issue, and therefore should be doing something about it... right?
+### Despite this... disability royal commission response
 
