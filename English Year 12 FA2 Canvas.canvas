@@ -25,7 +25,7 @@
 		{"id":"f1be9aa851d99ec1","type":"text","text":"Discrimination from hospital staff","x":-2094,"y":705,"width":477,"height":87},
 		{"id":"e2e3b0bf845ba5fa","type":"text","text":"Health professionals do not communicate the details of their health to one another, like they would with their regular patients.","x":-2847,"y":646,"width":611,"height":148},
 		{"id":"985d28b0189237a6","type":"text","text":"Inaccessable buldings. ","x":-2342,"y":358,"width":438,"height":50},
-		{"id":"f1606bc6aafed52e","x":-633,"y":920,"width":512,"height":98,"type":"text","text":"These issues compound. Show stats around isolation and discrimination\n\n\n"}
+		{"id":"2145d4cc402771f8","x":-638,"y":964,"width":568,"height":160,"type":"text","text":"Woman living in filth dies in hospital \nhttps://www.abc.net.au/news/2024-10-30/major-crime-investigate-death-woman-with-disabilities/104536302"}
 	],
 	"edges":[
 		{"id":"f8c46f81061277cb","fromNode":"70f68d043d75483b","fromSide":"right","toNode":"223853c5287a03b8","toSide":"left"},

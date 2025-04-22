@@ -236,13 +236,15 @@ Instanced of $x$ were replaced with $(x-\lambda)$ horizontally shift, and "$+s(\
 It was required that the equation terminate at $g(x)=10$ so that there would be room for the final function to invert direction and climb. Therefore $g(\lambda + \gamma)=10$, where $\gamma=130-\lambda$, was considered, as this would ensure that $g'(\lambda-\lambda-130)=g'(130)=-2$, while still allowing for $\lambda$ to be altered until a suitable answer was found.
 		
 
-It was found that for 
-$$g'(130)=-2 \textrm{ and } g(130)=10$$ 
+It was found that for
+\begin{align*}
+	g'(130)&=-2 \textrm{ and } g(130)=10 \\
+	\lambda&=77.2487110854776 \\
+	\therefore g(x)&=\frac{s'(\lambda)}{\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\gamma}\cdot \ln (\frac{-2}{s'(\lambda)})\cdot (x-\lambda)}+s\left(\lambda\right)-\frac{s'(\lambda)}{\frac{1}{\gamma}}\ln\left(\frac{-2}{s'\left(\lambda\right)}\right) \\
+	\textrm{where }\lambda&=77.2487110854776 \\
+	\gamma&=130-\lambda
+\end{align*} 
 
-$$\lambda=77.2487110854776$$ 
-
-$$\therefore g(x)=\frac{s'(\lambda)}{\frac{1}{\gamma}\ln(\frac{-2}{s'(\lambda)})}\cdot e^{\frac{1}{\gamma}\cdot \ln (\frac{-2}{s'(\lambda)})\cdot (x-\lambda)}+s\left(\lambda\right)-\frac{s'(\lambda)}{\frac{1}{\gamma}}\ln\left(\frac{-2}{s'\left(\lambda\right)}\right)$$ where $$\lambda=77.2487110854776$$
-$$\gamma=130-\lambda$$
 
 
 
@@ -254,11 +256,13 @@ The final function was decided to be a cubic function, as multiple turning point
 	
 
 Requirements for cubic $f_2(x)=a_2x^3+b_2x^2+c_2x+d_2$ were:
+\begin{align*}
+	f_2'(130)&=g'(130) \\
+	f_2(130)&=g(130) \\
+	f_2'(150)&=0 \\
+	f_2(150)&=30 \\
+\end{align*}
 
-$$f_2'(130)=g'(130)$$
-$$f_2(130)=g(130)$$
-$$f_2'(150)=0$$
-$$f_2(150)=30$$
 	
 However to simplify calculations, alternative requirements were considered.
 $$f_2'(0)=g'(130)\because \textrm{Smooth transition}$$

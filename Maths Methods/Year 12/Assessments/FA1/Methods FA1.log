@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.21)  3 APR 2025 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.21)  22 APR 2025 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,13 +415,13 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5575 strings out of 474486
- 85070 string characters out of 5753561
- 1938542 words of memory out of 5000000
- 27782 multiletter control sequences out of 15000+600000
+ 5577 strings out of 474486
+ 85126 string characters out of 5753561
+ 1942542 words of memory out of 5000000
+ 27784 multiletter control sequences out of 15000+600000
  571784 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,7n,79p,637b,278s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,10n,79p,637b,278s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\gc021263\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
@@ -436,7 +436,7 @@ public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "Methods FA1.pdf" (10 pages, 464130 bytes).
+Output written on "Methods FA1.pdf" (10 pages, 464147 bytes).
 PDF statistics:
  129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
