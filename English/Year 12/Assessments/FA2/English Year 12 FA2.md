@@ -10,7 +10,7 @@ tags:
 - Cite all sources in text and make bibliography
 
 ### Introduction
-It's no breaking news that many disabled people face unjust treatment daily. But what is constantly overlooked is the extent this injustice is embedded into the organisations designed to help them live normal lives. We aren't just talking about a few bad eggs here, but a system that allows deliberate neglect and profiteering on societies most venerable.
+It's no breaking news that many disabled people face unjust treatment daily. But what is constantly overlooked is the extent this injustice is embedded into the organisations designed to help them live normal lives. We aren't just talking about a few bad eggs here, but a system that allows deliberate neglect and profiteering on societies most vulnerable.
 
 #### Thesis
 Disabled people are facing systematic oppression and exploitation from the very people who are meant to be serving them, and helping them live independent lives. 
@@ -61,7 +61,7 @@ https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/c
 
 Something feels off though... If the government is the one collecting all these statistics, they have to be aware of the issue, and therefore should be doing something about it... right?
 ### Despite this... - disability royal commission response
-A major source of evidence and general information regarding the poor treatment of society's venerable is the Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. 
+A major source of evidence and general information regarding the poor treatment of society's vulnerable is the Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. 
 
 A royal commission is an independent investigation into an issue relating to the Commonwealth's responsibilities. The investigating party is given sufficient power to scrutinise all facets of an issue and parties involved in order to determine  who is responsible, how and why they did it, and what can be done.
 
@@ -75,12 +75,17 @@ To search your local tip for scraps to fix your wheelchair.
 
 To have your child removed from you right after birth.
 
-To be paid $2.50 an hour for manual labour, or to be denied a job simply because you were disabled."
+To be paid $2.50 an hour for manual labour, or to be denied a 
+job simply because you were disabled."
 
-
+What is just as disappointing is the governments response to the report. Out of the 172 recommendations made, only 13 were accepted, or implemented in full. These changes were already in the pipeline and seem to have been accepted due to their convenience. 
+While 117 were accepted in principle, which seems like a good thing, this wording is vague enough to sound supportive, without actually creating commitment or plans regarding implementation.
 
 https://dcj.nsw.gov.au/community-inclusion/disability-and-inclusion/disability-royal-commission.html
 https://www.abc.net.au/news/2024-08-01/disability-royal-commission-government-response-analysis/104160958
 https://www.abc.net.au/news/2024-07-31/government-responds-to-disability-royal-commission/104141938
 
 https://disability.royalcommission.gov.au/
+
+
+### Conclusion
