@@ -60,7 +60,7 @@ https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/c
 
 
 Something feels off though... If the government is the one collecting all these statistics, they have to be aware of the issue, and therefore should be doing something about it... right?
-### Despite this... - disability royal commission response
+### Despite this... (disability royal commission response)
 A major source of evidence and general information regarding the poor treatment of society's vulnerable is the Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. 
 
 A royal commission is an independent investigation into an issue relating to the Commonwealth's responsibilities. The investigating party is given sufficient power to scrutinise all facets of an issue and parties involved in order to determine  who is responsible, how and why they did it, and what can be done.

@@ -5,7 +5,7 @@ tags:
   - topic
 ---
 ### Time Dilation formula
-!
+![[Time Dilation Formula]]
 ### Einstein's thought experiment
 Basically boils down to: 
 If I was travelling close to the speed of light, then the light would have to catch up to me before I could see it. 
