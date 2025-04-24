@@ -53,6 +53,11 @@ The Australian Institute of Health and Welfare (AIHW) measures a variety of fact
 
 ![[Pasted image 20250422063627.png]]
 
+In 2022, 11% of people with disabilities found it difficult to access medical facilities, which although a 3% improvement since 2018, does not mean that they are receiving adequate care in these facilities.
+
+In addition to the 11% of people who find it difficult to access healthcare. In 2019, 
+
+
 14% of all people with disabilities stated that at least one time in the last year, they have avoided visiting medical facilities, such as the GP, dentist, or hospital.
 
 25% of people with disabilities aged 15–64 who had experienced discrimination from health staff due to their disability avoided healthcare facilities.
@@ -87,5 +92,4 @@ https://www.abc.net.au/news/2024-07-31/government-responds-to-disability-royal-c
 
 https://disability.royalcommission.gov.au/
 
-
-### Conclusion
+### So what can we do? (Conclusion)
