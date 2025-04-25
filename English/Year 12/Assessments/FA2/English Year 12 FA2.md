@@ -53,14 +53,9 @@ The Australian Institute of Health and Welfare (AIHW) measures a variety of fact
 
 ![[Pasted image 20250422063627.png]]
 
-In 2022, 11% of people with disabilities found it difficult to access medical facilities, which although a 3% improvement since 2018, does not mean that they are receiving adequate care in these facilities.
+In 2022, 11% of people with disabilities found it difficult to access medical facilities, which although a 3% improvement since 2018, does not mean that they are receiving adequate care in these facilities. This was a point made by the previously mentioned study by the university of Melbourne. 
 
-In addition to the 11% of people who find it difficult to access healthcare. In 2019, 
-
-
-14% of all people with disabilities stated that at least one time in the last year, they have avoided visiting medical facilities, such as the GP, dentist, or hospital.
-
-25% of people with disabilities aged 15–64 who had experienced discrimination from health staff due to their disability avoided healthcare facilities.
+In addition to inaccessibility, it was found that in 14% of people with disabilities had actively avoided visiting a medical facility, such as a dentist, GP, or hospital. 43% of those that avoided medical facilities did so because they had experienced discrimination within those facilities. 
 https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination#Health
 
 
@@ -83,8 +78,8 @@ To have your child removed from you right after birth.
 To be paid $2.50 an hour for manual labour, or to be denied a 
 job simply because you were disabled."
 
-What is just as disappointing is the governments response to the report. Out of the 172 recommendations made, only 13 were accepted, or implemented in full. These changes were already in the pipeline and seem to have been accepted due to their convenience. 
-While 117 were accepted in principle, which seems like a good thing, this wording is vague enough to sound supportive, without actually creating commitment or plans regarding implementation.
+What is just as disappointing is the governments response to the report. Out of the 172 recommendations made to the federal government, only 13 were accepted, or implemented in full. These changes were allegedly already in the pipeline and seem to have been accepted due to their convenience. 
+Although 117 were accepted in principle, which seems like a good thing, this wording is vague enough to sound supportive, without actually creating commitment or plans regarding implementation.
 
 https://dcj.nsw.gov.au/community-inclusion/disability-and-inclusion/disability-royal-commission.html
 https://www.abc.net.au/news/2024-08-01/disability-royal-commission-government-response-analysis/104160958
@@ -93,3 +88,4 @@ https://www.abc.net.au/news/2024-07-31/government-responds-to-disability-royal-c
 https://disability.royalcommission.gov.au/
 
 ### So what can we do? (Conclusion)
+
