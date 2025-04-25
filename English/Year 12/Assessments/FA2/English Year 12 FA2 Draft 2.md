@@ -9,8 +9,7 @@ tags:
 - Maybe move around/link that hospital part
 - Cite all sources in text and make bibliography
 - Write call to action/conclusion.
-- cut down words a bit/make it sound more like an actual piece of journalism 
-
+- cut down words a bit/make it sound more like an actual piece of journalism
 #### Thesis
 People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. Despite billion dollar reforms and one of the largest investigations into misconduct in history being conducted, we are seeing little increase in quality of life due to them in the current year, and some changes are even leaving some people without care. 
 ### Hospitals 
@@ -36,9 +35,9 @@ https://theconversation.com/australians-with-disability-are-4-times-more-likely-
 ### NDIS "Farming"
 However, healthcare isn't the only sector discriminating against people with disabilities. An article by The Saturday Paper titled "The view from inside the NDIS" details the experience of, among others, Luke Stickels. Stickels is now a registered NDIS support worker and coordinator, however much of the reason he is successful now, is because of the hardships he endured while supporting his late brother, Justin. 
 
-Stickels witnessed first hand the neglect and exploitation his brother was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One specific provider would Justin occasionally, then blatantly bill for a 3 hour visit.  
+Stickels witnessed first hand the neglect and exploitation his brother was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One specific provider would call Justin occasionally, then bill the NDIS for a 3 hour visit.  
 
-I find it ironic that in the very system's established to help people with disabilities live "normal" lives, they are often treated more like paychecks than people.
+I find it ironic that in the very system's established to help people with disabilities live "normal" lives ends up encouraging people to treat them more like paychecks than people.
 
 
 https://www.thesaturdaypaper.com.au/news/education/2024/09/21/the-view-inside-the-ndis
