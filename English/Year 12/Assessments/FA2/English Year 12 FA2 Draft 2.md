@@ -9,6 +9,7 @@ tags:
 - Maybe move around/link that hospital part
 - Cite all sources in text and make bibliography
 - Write call to action/conclusion.
+- cut down words a bit/make it sound more like an actual piece of journalism 
 
 #### Thesis
 People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. Despite billion dollar reforms and one of the largest investigations into misconduct in history being conducted, we are seeing little increase in quality of life due to them in the current year, and some changes are even leaving some people without care. 
@@ -41,7 +42,7 @@ I find it ironic that in the very system's established to help people with disab
 
 
 https://www.thesaturdaypaper.com.au/news/education/2024/09/21/the-view-inside-the-ndis
-### NDIS Cutoff
+### NDIS cutoff and stress
 However, what is arguably worse than receiving subpar care is being locked out of support entirely. 
 
 Ros Collins, the 95 year old mother of her son, Dan, has found herself as his only lifeline after he was hospitalised just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
