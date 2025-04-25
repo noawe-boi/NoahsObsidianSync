@@ -5,17 +5,13 @@ tags:
 ---
 
 ###### ToDo
-- Fix thesis
-- Finish the statistics part/link it
+- Fix thesis/introduction
+- Maybe move around/link that hospital part
 - Cite all sources in text and make bibliography
-
-### Introduction
-It's no breaking news that many disabled people face unjust treatment daily. But what is constantly overlooked is the extent this injustice is embedded into the organisations designed to help them live normal lives. We aren't just talking about a few bad eggs here, but a system that allows deliberate neglect and profiteering on societies most vulnerable.
+- Write call to action/conclusion.
 
 #### Thesis
-Disabled people are facing systematic oppression and exploitation from the very people who are meant to be serving them, and helping them live independent lives. 
-
-People assume that just because someone is disabled they cannot, or do not deserve to, experience a high quality of life
+People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. Despite billion dollar reforms and one of the largest investigations into misconduct in history being conducted, we are seeing little increase in quality of life due to them in the current year, and some changes are even leaving some people without care. 
 ### Hospitals 
 
 While not always the case, many people with disabilities find themselves with a number of other underling conditions that impact their lives. 
@@ -50,22 +46,24 @@ However, what is arguably worse than receiving subpar care is being locked out o
 
 Ros Collins, the 95 year old mother of her son, Dan, has found herself as his only lifeline after he was hospitalised just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
 
-While Dan's injury was before his 65th birthday, the age which separates NDIS and aged care support, legislation says that he is not eligible to NDIS benefits since he was not receiving them prior to hitting that cutoff. This has forced Dan, described by Collins as ambitious and lively, to likely live out the rest of his days in "God's waiting room."
-
-### AIHW Study
-
-The Australian Institute of Health and Welfare (AIHW) measures a variety of factors to measure when and where, and how discrimination is occurring, as well as its impact. Their most recent update to their dataset displayed trends in line with what the anecdotal evidence would suggest. 
+While Dan's injury was before his 65th birthday, the age which separates NDIS and aged care support, legislation says that he is not eligible to NDIS benefits since he was not receiving them prior to hitting that cutoff and therefore must settle for an inadequate aged care package.. This has forced Dan, described by Collins as ambitious and lively, to likely live out the rest of his days in "God's waiting room."
+https://www.smh.com.au/national/i-m-a-95-year-old-carer-for-my-son-i-fear-i-ll-die-before-he-gets-help-20250219-p5ldf6.html
+https://hellocare.com.au/95-year-old-carer-slams-ndis-age-cut-off-rules-in-plea-for-her-disabled-son/
 
 
-![[Pasted image 20250422063627.png]]
+Not even those with lifelong, or even degenerative conditions have been put under the iron recently.
 
-In 2022, 11% of people with disabilities found it difficult to access medical facilities, which although a 3% improvement since 2018, does not mean that they are receiving adequate care in these facilities. This was a point made by the previously mentioned study by the university of Melbourne. 
+Under new reforms that came into effect in October last year many changes to the support-needs assessment tool, intended to determine the severity of disability and extent of care they required, have caused significant distress among disabled individuals and caregivers alike. 
 
-In addition to inaccessibility, it was found that in 14% of people with disabilities had actively avoided visiting a medical facility, such as a dentist, GP, or hospital. 43% of those that avoided medical facilities did so because they had experienced discrimination within those facilities. 
-https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination#Health
+one woman received a request in the mail from the National Disability Insurance Scheme (NDIA) which asked her to prove that she was still eligible for support she was receiving for her chronic and lifelong illnesses within 28 days, or risk having her supposedly "lifelong" plan revoked.
+
+Despite the urgency and pressure the NDIA was willing to put her under, they seemed much less willing to reveal exactly what information they required, saying "They would not give me a definite answer."
+
+The guardian details that one man was put under review, not because there was doubt regarding the degree of their disability, but simply because they did not have a digital copy of his ID. 
+https://www.theguardian.com/australia-news/2025/jan/27/comedy-of-errors-ndis-reform-leaves-disabled-australians-fearing-what-comes-next
 
 
-Something feels off though... If the government is the one collecting all these statistics, they have to be aware of the issue, and therefore should be doing something about it... right?
+
 ### Despite this... (disability royal commission response)
 A major source of evidence and general information regarding the poor treatment of society's vulnerable is the Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. 
 
