@@ -9,9 +9,10 @@ tags:
 - Maybe move around/link that hospital part
 - Cite all sources in text and make bibliography
 - Write call to action/conclusion.
+- Focus more on impact on issues and how they affect real people, rather than the exact stats of the issues themselves. Maybe focus more on a specific issue (or is my issue quality of life...?)
 - cut down words a bit/make it sound more like an actual piece of journalism
 #### Thesis
-People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. Despite billion dollar reforms and one of the largest investigations into misconduct in history being conducted, we are seeing little increase in quality of life due to them in the current year, and some changes are even leaving some people without care. 
+People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in the current year, and some changes are even leaving some people without care. 
 ### Hospitals 
 
 While not always the case, many people with disabilities find themselves with a number of other underling conditions that impact their lives. 
@@ -26,18 +27,20 @@ The study found that "people with disability are dying of conditions such as can
 
 These conditions aren't caused, or related to specific disabilities at all, and while not completely preventable, the data should show relatively equal moralities for both people with, and without disabilities.
 
-Don't just think of people in wheelchairs, with down syndrome, or with obesity; Think of people who are blind or deaf! Why are disabled people of all kinds dying earlier from conditions that we can mitigate. 
+Don't just think of people in wheelchairs, with down syndrome, or with obesity; Think of people who are blind or deaf! Why are people with disabilities of all kinds dying earlier from conditions that we can mitigate. 
 
-The study points out three major issues that are contributing to these high numbers: lack of accessibility, discrimination, and a general disregard for the health of disabled patents. One of the largest issues when it came to this neglect was poor communication between healthcare professionals signalling a lack of effort and a devaluation of lives.
+The study points out three major issues that are contributing to these high numbers: accessibility issues, discrimination, and a general disregard for the health of disabled patents. One of the largest issues when it came to this neglect was poor communication between healthcare professionals signalling a lack of effort and a devaluation of lives.
 
 https://theconversation.com/australians-with-disability-are-4-times-more-likely-to-die-early-often-not-due-to-their-disability-245262
 
 ### NDIS "Farming"
 However, healthcare isn't the only sector discriminating against people with disabilities. An article by The Saturday Paper titled "The view from inside the NDIS" details the experience of, among others, Luke Stickels. Stickels is now a registered NDIS support worker and coordinator, however much of the reason he is successful now, is because of the hardships he endured while supporting his late brother, Justin. 
 
-Stickels witnessed first hand the neglect and exploitation his brother was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One specific provider would call Justin occasionally, then bill the NDIS for a 3 hour visit.  
+Stickels witnessed first hand the neglect and exploitation his brother was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One provider would call Justin occasionally, then bill the NDIS for a 3 hour visit.  
 
 I find it ironic that in the very system's established to help people with disabilities live "normal" lives ends up encouraging people to treat them more like paychecks than people.
+
+*I dont like this part, I don't think its the right point to make?*
 
 
 https://www.thesaturdaypaper.com.au/news/education/2024/09/21/the-view-inside-the-ndis
@@ -46,30 +49,30 @@ However, what is arguably worse than receiving subpar care is being locked out o
 
 Ros Collins, the 95 year old mother of her son, Dan, has found herself as his only lifeline after he was hospitalised just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
 
-While Dan's injury was before his 65th birthday, the age which separates NDIS and aged care support, legislation says that he is not eligible to NDIS benefits since he was not receiving them prior to hitting that cutoff and therefore must settle for an inadequate aged care package.. This has forced Dan, described by Collins as ambitious and lively, to likely live out the rest of his days in "God's waiting room."
+While Dan's injury was before his 65th birthday, the age which separates NDIS and aged care support, legislation says that he is not eligible to NDIS benefits since he was not receiving them prior to hitting that cutoff and therefore must settle for an inadequate aged care package. This has forced Dan, described by Collins as ambitious and lively, to likely live out the rest of his days in "God's waiting room."
 https://www.smh.com.au/national/i-m-a-95-year-old-carer-for-my-son-i-fear-i-ll-die-before-he-gets-help-20250219-p5ldf6.html
 https://hellocare.com.au/95-year-old-carer-slams-ndis-age-cut-off-rules-in-plea-for-her-disabled-son/
 
 
-Not even those with lifelong, or even degenerative conditions have been put under the iron recently.
+Even those with lifelong, or even degenerative conditions have been put under the iron recently.
 
-Under new reforms that came into effect in October last year many changes to the support-needs assessment tool, intended to determine the severity of disability and extent of care they required, have caused significant distress among disabled individuals and caregivers alike. 
+Under new reforms that came into effect in October last year many changes to the "support-needs assessment tool", intended to determine the severity of individuals disability and extent of care they required, have caused significant distress among disabled individuals and caregivers alike. 
 
-one woman received a request in the mail from the National Disability Insurance Scheme (NDIA) which asked her to prove that she was still eligible for support she was receiving for her chronic and lifelong illnesses within 28 days, or risk having her supposedly "lifelong" plan revoked.
+one woman received a request in the mail from the National Disability Insurance Scheme (NDIA) which asked her to prove that she was still eligible for support she was receiving for her chronic and permanent illnesses within 28 days, or risk having her supposedly "lifelong" plan revoked.
 
 Despite the urgency and pressure the NDIA was willing to put her under, they seemed much less willing to reveal exactly what information they required, saying "They would not give me a definite answer."
 
-The guardian details that one man was put under review, not because there was doubt regarding the degree of their disability, but simply because they did not have a digital copy of his ID. 
+The guardian details that one man was put under review, not because there was doubt regarding the degree of their disability, but simply because the NDIA did not have a digital copy of his ID. 
 https://www.theguardian.com/australia-news/2025/jan/27/comedy-of-errors-ndis-reform-leaves-disabled-australians-fearing-what-comes-next
 
-
+*what does this actually mean though*
 
 ### Despite this... (disability royal commission response)
 A major source of evidence and general information regarding the poor treatment of society's vulnerable is the Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. 
 
 A royal commission is an independent investigation into an issue relating to the Commonwealth's responsibilities. The investigating party is given sufficient power to scrutinise all facets of an issue and parties involved in order to determine  who is responsible, how and why they did it, and what can be done.
 
-The Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability received nearly 8000 submissions, and shed light on numerous despicable cases of - as the name suggests - Violence, Abuse, Neglect and Exploitation.
+The Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability received nearly 8000 submissions of evidence, and shed light on numerous despicable cases of - as the name suggests - Violence, Abuse, Neglect and Exploitation.
 
 an ABC news article on the report details, 
 
@@ -92,4 +95,12 @@ https://www.abc.net.au/news/2024-07-31/government-responds-to-disability-royal-c
 https://disability.royalcommission.gov.au/
 
 ### So what can we do? (Conclusion)
+It's downright absurd to assume that awareness alone, or a twitter hashtag, will instantly fix disability injustice. Fighting for equality in a distinctly unequal world is an uphill battle, however as a collective, its our responsibility to support and stand up for people with disabilities when appropriate. 
 
+The more let disability become taboo and avoid talking about how it affects us and the people around us, the less we can do about it. 
+
+If you or someone you know with a disability has been discriminated against, you can launch a complaint with "People with Disability Australia" at www.pwd.org.au
+
+
+
+https://www.acas.org.uk/disability-discrimination/preventing-disability-discrimination
