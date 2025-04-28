@@ -30,25 +30,42 @@ These conditions aren't caused, or related to specific disabilities at all, and 
 
 Don't just think of people in wheelchairs, with down syndrome, or with obesity; Think of people who are blind or deaf! Why are people with disabilities of all kinds dying earlier from conditions that we can mitigate. 
 
-The study points out three major issues that are contributing to these high numbers: accessibility issues, discrimination, and a general disregard for the health of disabled patents. One of the largest issues when it came to this neglect was poor communication between healthcare professionals signalling a lack of effort and a devaluation of lives.
+The study points out three major issues that are contributing to these high numbers: accessibility issues, discrimination, and poor communication between healthcare professionals. 
 
-Surely in the modern year there are systems in place to 
+
+
+
+
+![[Pasted image 20250422063627.png]]
+
+In 2022, 11% of people with disabilities found it difficult to access medical facilities.
+
+In addition to inaccessibility, it was found that in 14% of people with disabilities had actively avoided visiting a medical facility, such as a dentist, GP, or hospital at least once . 43% of those that avoided medical facilities did so because they had experienced discrimination within those facilities. 
+https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination#Health
+
+
+
+All three of these issues are, in my opinion, inexcusable. 
+While healthcare facilities are accessible by law, in terms of bring wheelchair and impairment friendly, many people with disabilities have trouble actually making it into these facilities. Many people with disabilities may not be financially or intellectually capable enough to simply take an uber or a taxi, and without carers or support networks around them, the only way they make it to the hospital, may be via an ambulance. 
+
+
+
+
+Surely in the modern year there are systems in place to allow healthcare professionals to share and properly communicate their patients condition. There exist patients with much more complex issues than what are affecting people with disabilities. This issue signals a lack of effort and a devaluation of lives on healthcare providers side. 
+
+
+A more distressing issue is that fact that many with intellectual disabilities, may not be able to understand that they are being discriminated against, or may assume that they are even when they are not. Issues like this are often complex, and there's no miracle cure for them. Recently recommendations were made to force the federal government to reform the reporting system. While they were "accepted in principle", which we will touch on later, they have essentially been put aside indefinitely. 
 
 https://theconversation.com/australians-with-disability-are-4-times-more-likely-to-die-early-often-not-due-to-their-disability-245262
 
 ### NDIS "Farming"
-However, healthcare isn't the only sector discriminating against people with disabilities. An article by The Saturday Paper titled "The view from inside the NDIS" details the experience of, among others, Luke Stickels. Stickels is now a registered NDIS support worker and coordinator, however much of the reason he is successful now, is because of the hardships he endured while supporting his late brother, Justin. 
+However, healthcare isn't the only sector discriminating against people with disabilities. An article by The Saturday Paper titled "The view from inside the NDIS" details the experience of, among others, Luke Stickels. 
 
-Stickels witnessed first hand the neglect and exploitation his brother was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One provider would call Justin occasionally, then bill the NDIS for a 3 hour visit.  
-
-I find it ironic that in the very system's established to help people with disabilities live "normal" lives ends up encouraging people to treat them more like paychecks than people.
-
-*I dont like this part, I don't think its the right point to make?*
-
+Stickels, who is now a registered NDIS support worker,  witnessed first hand the neglect and exploitation his late brother, Justin, was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One provider would call Justin occasionally, then bill the NDIS for a 3 hour visit.  
 
 https://www.thesaturdaypaper.com.au/news/education/2024/09/21/the-view-inside-the-ndis
 ### NDIS cutoff and stress
-However, what is arguably worse than receiving subpar care is being locked out of support entirely. 
+What is arguably worse than receiving subpar care is being locked out of support entirely. 
 
 Ros Collins, the 95 year old mother of her son, Dan, has found herself as his only lifeline after he was hospitalised just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
 
@@ -68,10 +85,9 @@ Despite the urgency and pressure the NDIA was willing to put her under, they see
 The guardian details that one man was put under review, not because there was doubt regarding the degree of their disability, but simply because the NDIA did not have a digital copy of his ID. 
 https://www.theguardian.com/australia-news/2025/jan/27/comedy-of-errors-ndis-reform-leaves-disabled-australians-fearing-what-comes-next
 
-*what does this actually mean though*
+Why should people with disabilities have to constantly worry that they're going to have the rug pulled out from under them? 
 
 ### Despite this... (disability royal commission response)
-A major source of evidence and general information regarding the poor treatment of society's vulnerable is the Royal Commission into Violence, Abuse, Neglect and Exploitation of People with Disability. 
 
 A royal commission is an independent investigation into an issue relating to the Commonwealth's responsibilities. The investigating party is given sufficient power to scrutinise all facets of an issue and parties involved in order to determine  who is responsible, how and why they did it, and what can be done.
 
@@ -85,8 +101,7 @@ To search your local tip for scraps to fix your wheelchair.
 
 To have your child removed from you right after birth.
 
-To be paid $2.50 an hour for manual labour, or to be denied a 
-job simply because you were disabled."
+To be paid $2.50 an hour for manual labour, or to be denied a job simply because you were disabled."
 
 What is just as disappointing is the governments response to the report. Out of the 172 recommendations made to the federal government, only 13 were accepted, or implemented in full. These changes were allegedly already in the pipeline and seem to have been accepted due to their convenience. 
 Although 117 were accepted in principle, which seems like a good thing, this wording is vague enough to sound supportive, without actually creating commitment or plans regarding implementation.
@@ -102,8 +117,9 @@ It's downright absurd to assume that awareness alone, or a twitter hashtag, will
 
 The more let disability become taboo and avoid talking about how it affects us and the people around us, the less we can do about it. 
 
-If you or someone you know with a disability has been discriminated against, you can launch a complaint with "People with Disability Australia" at www.pwd.org.au
+If you or someone you know with a disability has been discriminated against, you can launch a complaint with "People with Disability Australia" at www.pwd.org.au, who can assist with making a report to the Australian Human Rights Commission or other appropriate agency.
 
+If anything, we need to put pressure on the government to accept the framework and solutions that have already been presented to them, instead of allowing them to put it off indefinitely.
 
 
 https://www.acas.org.uk/disability-discrimination/preventing-disability-discrimination
