@@ -9,7 +9,8 @@ tags:
 - Maybe move around/link that hospital part
 - Cite all sources in text and make bibliography
 - Write call to action/conclusion.
-- Focus more on impact on issues and how they affect real people, rather than the exact stats of the issues themselves. Maybe focus more on a specific issue (or is my issue quality of life...?)
+- Focus more on impact on issues and how they affect real people, rather than the exact stats of the issues themselves. Maybe focus more on a specific issue (or is my issue quality of life
+- Logos, ethos, pathos
 - cut down words a bit/make it sound more like an actual piece of journalism
 #### Thesis
 People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in the current year, and some changes are even leaving some people without care. 
