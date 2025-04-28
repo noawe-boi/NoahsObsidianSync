@@ -32,6 +32,8 @@ Don't just think of people in wheelchairs, with down syndrome, or with obesity; 
 
 The study points out three major issues that are contributing to these high numbers: accessibility issues, discrimination, and a general disregard for the health of disabled patents. One of the largest issues when it came to this neglect was poor communication between healthcare professionals signalling a lack of effort and a devaluation of lives.
 
+Surely in the modern year there are systems in place to 
+
 https://theconversation.com/australians-with-disability-are-4-times-more-likely-to-die-early-often-not-due-to-their-disability-245262
 
 ### NDIS "Farming"
