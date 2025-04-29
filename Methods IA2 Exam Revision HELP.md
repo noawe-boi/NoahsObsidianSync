@@ -4,20 +4,10 @@ tags:
   - exam
 ---
 ## Weak Areas
-### Solving and simplifying trig functions
-![[Pasted image 20250427162808.png]]
+### graphing and finding translations of log and exponential functions. 
 
-![[Pasted image 20250427162820.png]]
-
-
+### Derivatives of logarithms 
 ## HELP
-
-
-
-### Sheet 2
-#### Question 1
-Bro when did we learn this???
-Is this gonna be on the exam 😭😭😭
 
 ### Sheet 1
 #### Question 13
