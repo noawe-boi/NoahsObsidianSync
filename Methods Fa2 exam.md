@@ -28,6 +28,6 @@ tags:
 - without the use of a calculator find the given A value of an integral (From where do I need to integrate to get this result) then check result using calculator. 
 
 ### complex familiar
-modelling something with trig (we are given the equation). then calculate when a certain criteria is met. 
+- modelling something with trig (we are given the equation). then calculate when a certain criteria is met. 
 
 
