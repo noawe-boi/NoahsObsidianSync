@@ -13,7 +13,7 @@ tags:
 - Logos, ethos, pathos
 - cut down words a bit/make it sound more like an actual piece of journalism
 #### Thesis
-People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in the current year, and some changes are even leaving some people without care. 
+People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in the current year, and many changes are causing more harm, than help.  
 ### Hospitals 
 
 While not always the case, many people with disabilities find themselves with a number of other underling conditions that impact their lives. 
@@ -48,13 +48,9 @@ https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/c
 All three of these issues are, in my opinion, inexcusable. 
 While healthcare facilities are accessible by law, in terms of bring wheelchair and impairment friendly, many people with disabilities have trouble actually making it into these facilities. Many people with disabilities may not be financially or intellectually capable enough to simply take an uber or a taxi, and without carers or support networks around them, the only way they make it to the hospital, may be via an ambulance. 
 
+Surely in the modern year there are systems in place to allow healthcare professionals to share and properly communicate their patients condition. There exist patients with much more complex issues than what are affecting people with disabilities. The abundance in poor communication signals a lack of effort and a devaluation of lives on healthcare providers side. 
 
-
-
-Surely in the modern year there are systems in place to allow healthcare professionals to share and properly communicate their patients condition. There exist patients with much more complex issues than what are affecting people with disabilities. This issue signals a lack of effort and a devaluation of lives on healthcare providers side. 
-
-
-A more distressing issue is that fact that many with intellectual disabilities, may not be able to understand that they are being discriminated against, or may assume that they are even when they are not. Issues like this are often complex, and there's no miracle cure for them. Recently recommendations were made to force the federal government to reform the reporting system. While they were "accepted in principle", which we will touch on later, they have essentially been put aside indefinitely. 
+A more distressing issue is that that many with intellectual disabilities, may not be able to understand that they are being discriminated against, or may assume that they are even when they are not. Issues like this are often complex, and there's no miracle cure for them. Recently recommendations were made to force the federal government to reform the reporting system. While they were "accepted in principle", which we will touch on later, they have essentially been put aside indefinitely. 
 
 https://theconversation.com/australians-with-disability-are-4-times-more-likely-to-die-early-often-not-due-to-their-disability-245262
 
