@@ -76,12 +76,12 @@ Under new reforms that came into effect in October last year many changes to the
 
 one woman received a request in the mail from the National Disability Insurance Scheme (NDIA) which asked her to prove that she was still eligible for support she was receiving for her chronic and permanent illnesses within 28 days, or risk having her supposedly "lifelong" plan revoked.
 
-Despite the urgency and pressure the NDIA was willing to put her under, they seemed much less willing to reveal exactly what information they required, saying "They would not give me a definite answer."
+Despite the urgency and pressure the NDIA was willing to put her under, they seemed much less willing to reveal exactly what information they required. She revealed in an interview, "They would not give me a definite answer"
 
 The guardian details that one man was put under review, not because there was doubt regarding the degree of their disability, but simply because the NDIA did not have a digital copy of his ID. 
 https://www.theguardian.com/australia-news/2025/jan/27/comedy-of-errors-ndis-reform-leaves-disabled-australians-fearing-what-comes-next
 
-Why should people with disabilities have to constantly worry that they're going to have the rug pulled out from under them? 
+Why should people with disabilities have to constantly worry that they're going to have the rug pulled out from under them? Surely 
 
 ### Despite this... (disability royal commission response)
 
