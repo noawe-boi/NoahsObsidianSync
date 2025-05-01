@@ -4,6 +4,7 @@ tags:
   - exam
 ---
 ## Weak Areas
+
 ### graphing and finding translations of log and exponential functions. 
 
 ### Derivatives of logarithms 
@@ -26,7 +27,8 @@ How many points do I actually need to plot when sketching??
 Literally just the y intersect, what the intersect would have been if it was not translated (so its a nice whole number), and 'one period' out, like when x=e
 
 ## ToDo
-
+- [ ]  *9F*
+- [ ] *10F*
 ### Sheet 3
 - [x] Q15
 - [ ] Q16 **DO THIS ONE AGAIN**
