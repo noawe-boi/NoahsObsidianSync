@@ -23,7 +23,7 @@ However, in the concetxt of a vector equation, $d$ is the direction of the line.
 	
 #### Perpandicular lines
 When lines $\mathbf{a}$ and $\mathbf{b}$ are perpandicular
-- $\mathbf{a} \times \mathbf{b} = 0
+- $\mathbf{a} \times \mathbf{b} = 0$
 
 ### Big ideas and concepts
 #### Vector equation of a lines
