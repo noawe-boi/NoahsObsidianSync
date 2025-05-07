@@ -25,7 +25,7 @@ $N\rightarrow$ Natural numbers - Positive whole integers ($Z^+$)
 
 #### Mathematical Induction
 1. Proposition, $P(n)$
-2. Prive $P(n)$ holds, $\forall n \exists N$ 
+2. Prove $P(n)$ holds, $\forall n \exists N$ 
 3. Prove 2 things
 	1. P$(1)$ holds
 	2. $P(k) \implies P(k+1)$ 

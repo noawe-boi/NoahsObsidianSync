@@ -44,7 +44,7 @@ $$\begin{bmatrix}
 \end{bmatrix}$$
 If
 - $c=d=0 \implies$ infinite solutions
-- $c\neq \implies$ unique solutions
+- $c\neq 0 \implies$ unique solutions
 - $c=0, d\neq 0 \implies$ no solutions
 #### For infinite solutions
 $$\begin{bmatrix}

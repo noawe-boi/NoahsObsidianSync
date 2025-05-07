@@ -35,7 +35,7 @@ When lines $\mathbf{a}$ and $\mathbf{b}$ are perpandicular
 For position vector 
 
 $\mathbf{a}=a_1 i + a_2 \mathbf{j} + a_3 \mathbf{k}$
-and vector parralel to the line:
+and vector parallel to the line:
 $\mathbf{d} = d_1 \mathbf{i} + d_2 \mathbf{j} + d_3 \mathbf{k}$ 
 #### Vector equation
 $\mathbf{r}(t)=\mathbf{a}+t\mathbf{d}, t \epsilon \mathbb{R}$
