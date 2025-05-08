@@ -6,27 +6,39 @@ tags:
 
 ###### ToDo
 - Fix thesis/introduction
-- Maybe move around/link that hospital part
+- CHOOSE AUDIENCE
 - Cite all sources in text and make bibliography
 - Write call to action/conclusion.
 - Focus more on impact on issues and how they affect real people, rather than the exact stats of the issues themselves. Maybe focus more on a specific issue (or is my issue quality of life
 - Logos, ethos, pathos
 - cut down words a bit/make it sound more like an actual piece of journalism
 #### Thesis
-People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in the current year, and many changes are causing more harm, than help.  
+People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in recent years, and many changes are causing more harm, than help.  
+
+*MAKE THIS MORE URGENT!!!*
 ### Hospitals 
 
-While not always the case, many people with disabilities find themselves with a number of other underling conditions that impact their lives. 
+While not always the case, many people with disabilities find themselves with a number of other underlying conditions that impact their lives. 
 
-An investigation by the University of Melbourne shockingly titled "Australians with disability are 4 times more likely to die early", reveals just that. While disappointing, the increase in early moralities falls in line with society's expectations. Clearly people with health issues relating to their disabilities will live shorter lives than otherwise healthy individuals. That would be the case if the reasons that disabled people were dying early were actually related to their pre-existing condition. 
+An investigation by the University of Melbourne shockingly titled "Australians with disability are 4 times more likely to die early", reveals just that. While disappointing, the increase in early mortalities falls in line with society's expectations. Clearly people with health issues relating to their disabilities will live shorter lives than otherwise healthy individuals. That would be the case if the reasons that disabled people were dying early were actually related to their pre-existing condition. 
 
 I omitted the last part of that title, " – often not due to their disability"
+*insert vsauce beat drop*
+*LEAD INTO THIS*
 
-"When Finlay Browne died at just 16 years old, 'Down syndrome' was listed on his death certificate as a cause of death. But Finlay did not die of Down syndrome" (Disney et al., 2024)
+"When Finlay Browne died [in hospital] at just 16 years old, 'Down syndrome' was listed on his death certificate as a cause of death. But Finlay did not die of Down syndrome" (Disney et al., 2024)
 
-The study found that "people with disability are dying of conditions such as cancer, heart disease, chronic lung conditions and diabetes at a much higher rate than the rest of the population." (Disney et al., 2024)
 
-These conditions aren't caused, or related to specific disabilities at all, and while not completely preventable, the data should show relatively equal moralities for both people with, and without disabilities.
+Browne initially collapsed at home. When he started vomiting, and blood was found in his feces, his parents took him to the emergency room. However rather care for him, the nurses placed him in a non emergency bed, where he waited "several hours" before a doctor even examined him.
+
+By time it was found that he had a significant bowel obstruction, it was already too late for him. After 12 surgeries, he passed away. 
+https://www.abc.net.au/news/2024-05-10/finlay-browne-inquest-findings/103822078
+
+*WHAT DID HE DIE OF?*
+
+ Thanks to this study, we now have quantifiable evidence that "people with disability are dying of conditions such as cancer, heart disease, chronic lung conditions and diabetes at a much higher rate than the rest of the population." (Disney et al., 2024)
+
+These conditions aren't caused, or related to specific disabilities at all, and while not completely preventable, the data should show relatively equal moralities for people with, and without disabilities.
 
 Don't just think of people in wheelchairs, with down syndrome, or with obesity; Think of people who are blind or deaf! Why are people with disabilities of all kinds dying earlier from conditions that we can mitigate. 
 
@@ -40,15 +52,15 @@ The study points out three major issues that are contributing to these high numb
 
 In 2022, 11% of people with disabilities found it difficult to access medical facilities.
 
-In addition to inaccessibility, it was found that in 14% of people with disabilities had actively avoided visiting a medical facility, such as a dentist, GP, or hospital at least once . 43% of those that avoided medical facilities did so because they had experienced discrimination within those facilities. 
+In addition to inaccessibility, it was found that 14% of people with disabilities had actively avoided visiting a medical facility, such as a dentist, GP, or hospital at least once . 43% of those that avoided medical facilities did so because they had experienced discrimination within those facilities. 
 https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination#Health
 
 
 
 All three of these issues are, in my opinion, inexcusable. 
-While healthcare facilities are accessible by law, in terms of bring wheelchair and impairment friendly, many people with disabilities have trouble actually making it into these facilities. Many people with disabilities may not be financially or intellectually capable enough to simply take an uber or a taxi, and without carers or support networks around them, the only way they make it to the hospital, may be via an ambulance. 
+While healthcare facilities are mandated to be accessible by law, in terms of being wheelchair and impairment friendly, many people with disabilities have trouble actually making it into these facilities. Many people with disabilities may not be financially or intellectually capable enough to simply take an uber or a taxi, and without carers or support networks around them, the only way they make it to the hospital, may be via an ambulance. 
 
-Surely in the modern year there are systems in place to allow healthcare professionals to share and properly communicate their patients condition. There exist patients with much more complex issues than what are affecting people with disabilities. The abundance in poor communication signals a lack of effort and a devaluation of lives on healthcare providers side. 
+Surely in our technologically advanced society, there are systems in place to allow healthcare professionals to share and properly communicate their patients condition. There exist patients with much more complex issues than what are affecting people with disabilities. The abundance in poor communication signals a lack of effort and a devaluation of lives on the healthcare providers side. 
 
 A more distressing issue is that that many with intellectual disabilities, may not be able to understand that they are being discriminated against, or may assume that they are even when they are not. Issues like this are often complex, and there's no miracle cure for them. Recently recommendations were made to force the federal government to reform the reporting system. While they were "accepted in principle", which we will touch on later, they have essentially been put aside indefinitely. 
 
@@ -58,6 +70,8 @@ https://theconversation.com/australians-with-disability-are-4-times-more-likely-
 However, healthcare isn't the only sector discriminating against people with disabilities. An article by The Saturday Paper titled "The view from inside the NDIS" details the experience of, among others, Luke Stickels. 
 
 Stickels, who is now a registered NDIS support worker,  witnessed first hand the neglect and exploitation his late brother, Justin, was subjected to on a daily basis. While some organisations put the effort in to "maximise [Justin's] independence and quality of life goals", there were just as many willing to blatantly exploit his intellectual disability for profit. One provider would call Justin occasionally, then bill the NDIS for a 3 hour visit.  
+
+*ELABORATE ON THIS*
 
 https://www.thesaturdaypaper.com.au/news/education/2024/09/21/the-view-inside-the-ndis
 ### NDIS cutoff and stress
@@ -74,9 +88,9 @@ Even those with lifelong, or even degenerative conditions have been put under th
 
 Under new reforms that came into effect in October last year many changes to the "support-needs assessment tool", intended to determine the severity of individuals disability and extent of care they required, have caused significant distress among disabled individuals and caregivers alike. 
 
-one woman received a request in the mail from the National Disability Insurance Scheme (NDIA) which asked her to prove that she was still eligible for support she was receiving for her chronic and permanent illnesses within 28 days, or risk having her supposedly "lifelong" plan revoked.
+one woman received a request in the mail from the NDIS which asked her to prove that she was still eligible for support she was receiving for her chronic and permanent illnesses within 28 days, or risk having her supposedly "lifelong" plan revoked.
 
-Despite the urgency and pressure the NDIA was willing to put her under, they seemed much less willing to reveal exactly what information they required. She revealed in an interview, "They would not give me a definite answer"
+Despite the urgency and pressure the NDIS was willing to put her under, they seemed much less willing to reveal exactly what information they required. She revealed in an interview, "They would not give me a definite answer"
 
 The guardian details that one man was put under review, not because there was doubt regarding the degree of their disability, but simply because the NDIA did not have a digital copy of his ID. 
 https://www.theguardian.com/australia-news/2025/jan/27/comedy-of-errors-ndis-reform-leaves-disabled-australians-fearing-what-comes-next
@@ -109,9 +123,9 @@ https://www.abc.net.au/news/2024-07-31/government-responds-to-disability-royal-c
 https://disability.royalcommission.gov.au/
 
 ### So what can we do? (Conclusion)
-It's downright absurd to assume that awareness alone, or a twitter hashtag, will instantly fix disability injustice. Fighting for equality in a distinctly unequal world is an uphill battle, however as a collective, its our responsibility to support and stand up for people with disabilities when appropriate. 
+It's downright absurd to assume that awareness alone, or a twitter hashtag, will instantly fix disability injustice. Fighting for equality in a distinctly inequitable world is an uphill battle, however as a collective, its our responsibility to support and stand up for people with disabilities when appropriate. 
 
-The more let disability become taboo and avoid talking about how it affects us and the people around us, the less we can do about it. 
+The more we let disability become taboo and avoid talking about how it affects us and the people around us, the less we can do about it. 
 
 If you or someone you know with a disability has been discriminated against, you can launch a complaint with "People with Disability Australia" at www.pwd.org.au, who can assist with making a report to the Australian Human Rights Commission or other appropriate agency.
 
