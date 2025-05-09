@@ -61,8 +61,12 @@ There exist patients with much more complex issues than what are affecting peopl
 
 https://theconversation.com/australians-with-disability-are-4-times-more-likely-to-die-early-often-not-due-to-their-disability-245262
 
+##### The Result?
+The result of all this? Your loved ones could be the next Finlay.
+
 ### NDIS cutoff and stress
-What is arguably worse than receiving subpar care is being locked out of support entirely. 
+
+Subpar care isn't the only issue affecting disabled people, as some are locked out of care entirely for arbitrary reasons.
 
 Ros Collins, the 95 year old mother of her son, Dan, found herself as his only lifeline after he suffered a debilitating meningitis infection just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
 
