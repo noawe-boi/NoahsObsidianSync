@@ -12,6 +12,10 @@ tags:
 - Focus more on impact on issues and how they affect real people, rather than the exact stats of the issues themselves. Maybe focus more on a specific issue (or is my issue quality of life
 - Logos, ethos, pathos
 - cut down words a bit/make it sound more like an actual piece of journalism
+### Audience and topic
+#### Audience 
+Carers/Family of people with disabilities/People who are curious about disability injustice.
+
 #### Thesis
 People assume that government organisations and the healthcare system do nothing but improve the lives of people with disabilities. However, despite billion dollar reforms and one of the largest investigations into misconduct in history, people with disabilities are seeing little increase in quality of life in recent years, and many changes are causing more harm, than help.  
 
@@ -28,15 +32,12 @@ I omitted the last part of that title, " – often not due to their disability"
 
 "When Finlay Browne died [in hospital] at just 16 years old, 'Down syndrome' was listed on his death certificate as a cause of death. But Finlay did not die of Down syndrome" (Disney et al., 2024)
 
-
 Browne initially collapsed at home. When he started vomiting, and blood was found in his feces, his parents took him to the emergency room. However rather care for him, the nurses placed him in a non emergency bed, where he waited "several hours" before a doctor even examined him.
 
-By time it was found that he had a significant bowel obstruction, it was already too late for him. After 12 surgeries, he passed away. 
+While his cause of death was officially a bowel obstruction, what his parents argue as his true cause of death, was neglect by hospital staff.
 https://www.abc.net.au/news/2024-05-10/finlay-browne-inquest-findings/103822078
 
-*WHAT DID HE DIE OF?*
-
- Thanks to this study, we now have quantifiable evidence that "people with disability are dying of conditions such as cancer, heart disease, chronic lung conditions and diabetes at a much higher rate than the rest of the population." (Disney et al., 2024)
+Thanks to the publicity of tragedies such as Browne's, and the death certificates of over 15 million Australians,  we now have quantifiable evidence that "people with disability are dying of conditions such as cancer, heart disease, chronic lung conditions and diabetes at a much higher rate than the rest of the population." (Disney et al., 2024)
 
 These conditions aren't caused, or related to specific disabilities at all, and while not completely preventable, the data should show relatively equal moralities for people with, and without disabilities.
 
@@ -77,7 +78,7 @@ https://www.thesaturdaypaper.com.au/news/education/2024/09/21/the-view-inside-th
 ### NDIS cutoff and stress
 What is arguably worse than receiving subpar care is being locked out of support entirely. 
 
-Ros Collins, the 95 year old mother of her son, Dan, has found herself as his only lifeline after he was hospitalised just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
+Ros Collins, the 95 year old mother of her son, Dan, found herself as his only lifeline after he was hospitalised just seven days before his birthday. Dan was left with significant brain injury, which reduced his short term memory capacity substantially. 
 
 While Dan's injury was before his 65th birthday, the age which separates NDIS and aged care support, legislation says that he is not eligible to NDIS benefits since he was not receiving them prior to hitting that cutoff and therefore must settle for an inadequate aged care package. This has forced Dan, described by Collins as ambitious and lively, to likely live out the rest of his days in "God's waiting room."
 https://www.smh.com.au/national/i-m-a-95-year-old-carer-for-my-son-i-fear-i-ll-die-before-he-gets-help-20250219-p5ldf6.html

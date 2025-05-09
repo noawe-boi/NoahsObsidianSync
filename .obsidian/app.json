@@ -29,5 +29,6 @@
   "vimMode": false,
   "promptDelete": false,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "tabSize": 4
 }
