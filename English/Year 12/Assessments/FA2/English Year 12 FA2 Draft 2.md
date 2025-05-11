@@ -7,11 +7,11 @@ tags:
 
 ### Introduction
 
-Good morning community members, caregivers, and friends. Some of you probably know better than anybody the hardships and discrimination that come with having a disability, however today I'm here to tell you that its not getting better. However, regardless of whether you are currently aware of the extent to which people with disabilities are disadvantaged in ways far greater than physical ailments, I hope to inform you today of where and when it is happening most, and what we can do about it as a community.
+Good morning community members, caregivers, and friends. Some of you probably know better than anybody the hardships and discrimination that come with having a disability, however today I'm here to tell you that its not getting better. Regardless of whether you are currently aware of the extent to which people with disabilities are disadvantaged in ways far greater than physical ailments, I hope to inform you today of where and when it is happening most, and what we can do about it as a community.
 
 ### Hospitals
 
-An investigation by the University of Melbourne shockingly titled "Australians with disability are 4 times more likely to die early", reveals just that. While disappointing, the increase in early mortalities falls in line with society's expectations. Clearly people with health issues relating to their disabilities will live shorter lives than otherwise healthy individuals. That would be the case if the reasons that disabled people were dying early were actually related to their pre-existing condition.
+An investigation by the University of Melbourne shockingly titled "Australians with disability are 4 times more likely to die early", reveals just that. While disappointing, the increase in early mortalities falls in line with society's expectations. Clearly people with health issues relating to their disabilities will live shorter lives than the typical person. That would be the case if the reasons that disabled people were dying early were actually related to their pre-existing condition.
 
 I omitted the last part of that title, " – often not due to their disability" (Disney et al., 2024).
 
@@ -19,7 +19,7 @@ I omitted the last part of that title, " – often not due to their disability" 
 
 Browne initially collapsed at home. When he started vomiting, and blood was found in his faeces, his parents took him to the emergency room. However rather than care for him, the nurses placed him in a non emergency bed, where he waited "several hours" before a doctor even examined him.
 
-Although his bowel obstruction was his official cause of death, his parents as well as advocacy groups argue that neglect was the true culprit (Campanella, Lloyd, & Branley, 2024).
+Although his bowel obstruction was his official cause of death, his parents as well as advocacy groups argue that neglect was the true culprit.
 
 Tragedies such as Browne's, and the death certificates of nearly 500,000 Australians, give quantifiable evidence that "people with disability are dying of conditions such as cancer, heart disease, chronic lung conditions and diabetes at a much higher rate than the rest of the population" (Disney et al., 2024).
 
@@ -31,7 +31,7 @@ Well, the study points out three major issues that are contributing to these hig
 
 ##### Accessibility issues
 
-The first, accessibility issues. According to the Australian Institute of Health and Welfare, in 2022, 11% of people with disabilities found it difficult to access medical facilities (AIHW, 2024). While these facilities are mandated to be architecturally accessible by law, not everyone is financially or intellectually capable enough to simply take an Uber or a taxi. Without carers or support networks around them, the only way some make it to the hospital is in an ambulance.
+The first, accessibility issues. According to the Australian Institute of Health and Welfare, in 2022, 11% of people with disabilities found it difficult to access medical facilities (AIHW, 2024). While these facilities are mandated to be architecturally accessible by law, not everyone is financially or intellectually capable enough to simply take an Uber or a taxi. Without carers or support networks around them, the only way some make it to the hospital is in an ambulance. 
 
 ##### Discrimination
 
