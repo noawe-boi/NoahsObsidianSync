@@ -51,3 +51,87 @@
 *   Present it like a **scientific report**. Use **appropriate genre conventions**.
 *   Use **scientific language**.
 *   Aim for about **1500-2000 words**.
+
+
+
+# Suggested improvements
+### **Title**
+
+**Shortcoming:** ❌ **Slightly wordy**; "Determining" is vague.  
+**Suggestion:** ✅ **"Measuring the Angle of a Frictionless Plane Using Equilibrium Masses: Accuracy and Uncertainty Analysis"**
+
+---
+
+### **Research Question**
+
+**Shortcoming:** ❌ **Ambiguous phrasing** ("altered", "adjusted") and **missing specificity** (how accuracy is compared).  
+**Suggestion:** ✅ **"How accurately can the angle (θ\thetaθ) of a frictionless plane be determined by adjusting equilibrium masses (HmH_mHm​ and CmC_mCm​) compared to direct measurement with an angle gun (±1°\pm1\degree±1°)?"**
+
+---
+
+### **Rationale**
+
+- ❌ **Missing explicit physics theory** (Newton’s laws → equilibrium equations).
+- ❌ **Unclear link** between uncertainty reduction and modifications.  
+    **Suggestion:** ✅ Add: **"Using Hm/Cm=sin⁡(θ)H_m/C_m = \sin(\theta)Hm​/Cm​=sin(θ), angle uncertainty depends on mass measurement errors (±0.01\pm0.01±0.01g) rather than the angle gun’s ±1°\pm1\degree±1°."**
+
+---
+
+### **Methodology**
+
+- ❌ **Justification for variable changes** is weak.  
+    **Suggestion:** ✅ **"Using HmH_mHm​ as the independent variable isolates trigonometric uncertainty to θ\thetaθ, improving precision."**
+- ❌ **Method lacks detail** (e.g., how equilibrium was confirmed).  
+    **Suggestion:** ✅ **"Equilibrium was confirmed when the carriage remained stationary for 5 seconds."**
+
+---
+
+### **Results**
+
+- ❌ **Figure 2 (graph) lacks error bars** and **axis labels**.  
+    **Suggestion:** ✅ **Add error bars for CmC_mCm​ and label axes as "HmH_mHm​ (g)" vs. "CmC_mCm​ (g)" with a trendline equation.**
+- ❌ **Raw data table** is an image; **hard to read**.  
+    **Suggestion:** ✅ **Embed a LaTeX table with values (see example below).**
+
+---
+
+### **Analysis of Evidence**
+
+- ❌ **No quantitative uncertainty analysis** (e.g., Δθ\Delta\thetaΔθ from ΔHm/Cm\Delta H_m/C_mΔHm​/Cm​).  
+    **Suggestion:** ✅ **"Using Δθ=11−(Hm/Cm)2⋅Δ(Hm/Cm)Cm\Delta\theta = \frac{1}{\sqrt{1 - (H_m/C_m)^2}} \cdot \frac{\Delta(H_m/C_m)}{C_m}Δθ=1−(Hm​/Cm​)2**
+
+- **​1​⋅Cm​Δ(Hm​/Cm​)​, maximum Δθ\Delta\thetaΔθ was 0.5°, outperforming the angle gun."**
+
+---
+
+### **Evaluation & Conclusion**
+
+- ❌ **Missing evaluation** of reliability/validity.  
+    **Suggestion:** ✅ **"Systematic errors (e.g., non-frictionless plane) reduced validity, but low random errors (consistent trials) ensured reliability."**
+- ❌ **No comparison to theory**.  
+    **Suggestion:** ✅ **"Results align with Hm=Cmsin⁡(θ)H_m = C_m\sin(\theta)Hm​=Cm​sin(θ) (R² = 0.99), confirming theoretical predictions."**
+
+---
+
+### **General Shortcomings**
+
+- ❌ **In-text citations are sparse** (only one reference).  
+    **Suggestion:** ✅ **Cite sources for Newton’s laws, uncertainty formulas, and frictionless plane assumptions.**
+- ❌ **Word count imbalance**: Results/Discussion are underdeveloped.  
+    **Suggestion:** ✅ **Expand Analysis/Evaluation to 400-500 words each.**
+
+---
+
+**Example Table for Raw Data (Replace Image):**
+
+```
+\begin{tabular}{|c|c|c|c|}
+\hline
+$H_m$ (g) & Trial 1 $C_m$ (g) & Trial 2 $C_m$ (g) & Trial 3 $C_m$ (g) \\  
+\hline  
+50.16 & 138.55 & 139.20 & 138.54 \\  
+\hline  
+\end{tabular}
+```
+
+Let me know if you need refinements to specific sections!
