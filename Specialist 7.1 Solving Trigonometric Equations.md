@@ -13,7 +13,7 @@ tags:
 
 #### $\sin$ 
 - $\sin(\theta)$ gives height around unit circle
-- $sin(\theta)=\frac{O}{H}$
+- $sin(\theta)=\frac{O}{H}$ 
 #### $\cos$
 - $\cos(\theta)$ gives width around unit circle
 - $cos(\theta)=\frac{A}{H}$
