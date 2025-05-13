@@ -30,5 +30,6 @@
   "promptDelete": false,
   "readableLineLength": true,
   "showLineNumber": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "defaultViewMode": "preview"
 }
