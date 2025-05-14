@@ -1,58 +1,58 @@
-This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Physics IA2 Student experiment.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apacite.bst
-Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=8) to 20 items from 10.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
-Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
-Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: ./Bibliography/Physics_IA2.bib
-Warning--I didn't find a database entry for "theeditorsofencyclopediabritannica_2023_newtons"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 6 entries,
+You've used 1 entry,
             6951 wiz_defined-function locations,
-            1298 strings with 11701 characters,
-and the built_in function-call counts, 7834 in all, are:
-= -- 1006
-> -- 30
-< -- 292
-+ -- 258
-- -- 8
-* -- 426
-:= -- 1299
-add.period$ -- 21
-call.type$ -- 6
-change.case$ -- 77
+            1274 strings with 10862 characters,
+and the built_in function-call counts, 1367 in all, are:
+= -- 164
+> -- 10
+< -- 48
++ -- 41
+- -- 2
+* -- 68
+:= -- 256
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 152
-empty$ -- 452
-format.name$ -- 42
-if$ -- 1665
+cite$ -- 2
+duplicate$ -- 31
+empty$ -- 71
+format.name$ -- 14
+if$ -- 275
 int.to.chr$ -- 0
-int.to.str$ -- 18
+int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 114
-num.names$ -- 24
-pop$ -- 393
+newline$ -- 25
+num.names$ -- 8
+pop$ -- 44
 preamble$ -- 1
-purify$ -- 23
+purify$ -- 6
 quote$ -- 0
-skip$ -- 438
+skip$ -- 95
 stack$ -- 0
-substring$ -- 278
-swap$ -- 77
-text.length$ -- 15
+substring$ -- 46
+swap$ -- 15
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 552
+type$ -- 80
 warning$ -- 0
-while$ -- 23
+while$ -- 7
 width$ -- 0
-write$ -- 131
-(There was 1 warning)
+write$ -- 26

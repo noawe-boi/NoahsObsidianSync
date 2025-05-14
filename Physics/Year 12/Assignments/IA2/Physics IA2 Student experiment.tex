@@ -44,12 +44,12 @@ When the mass of an  on a frictionless plane is altered, and the mass of a hangi
 
 \subsection{Rationale}
 
-The original experiment was conducted to confirm the relationship between the mass of a carriage ($C_m$) and a hanging mass($H_m$) when a frictionless plane was inclined at different angles. In theory $C_m$ should have been 
+The original experiment was conducted to determine the relationship between the mass of a carriage ($C_m$) and a hanging mass ($H_m$) when a frictionless plane was inclined at different angles. The results confirmed the theoretical relationship $H_m = C_m \sin(\theta)$.
 
-It was found during the experiment that the angle measurement device, an `angle gun', had a large uncertainty ($\pm1\deg$) compared to the scale used to measure masses ($\pm0.01$). Considering the established relationship between the masses, it was questioned whether the relationship between the masses in equilibrium could be used to determine the angle of the plane with improved accuracy and reduced uncertainty. 
+It was noticed during the experiment that the angle measurement device, an `angle gun', had a large uncertainty ($\pm0.5\deg$) compared to the scale used to measure masses ($\pm0.005$). It was questioned whether the relationship between the masses in equilibrium could be used to determine the angle of the plane with improved accuracy and reduced uncertainty. 
 \newline
 \newline
-Considering Newtons first law, under equilibrium the net force is 0 \cite{encyclopediabritannica_2023_newtons}. If we consider how the data will be plotted once recorded then we can find $\theta$ in terms of $H_m$, and $C_m$. 
+Considering Newtons first law, under equilibrium the net force is 0 \cite{encyclopediabritannica_2023_newtons}. If we consider the relationship between $H_m$ and $C_m$ as a linear, then we can find $\theta$ in terms of its gradient.
 \begin{center}
 	\begin{align*}
 	H_m= &C_m\cdot{\sin(\theta)} \\
@@ -61,7 +61,7 @@ Considering Newtons first law, under equilibrium the net force is 0 \cite{encycl
 
 
 Since we now have the angle in terms of the gradient, we can use it to find the uncertainty in the angle. 
-This implies the uncertainty in the gradient is equivalent to uncertainty in the angle. 
+This implies the uncertainty in the gradient, found using the maximum and minimum slope, is equivalent to uncertainty in the angle. 
 
 \includegraphics[width=0.8\paperwidth]{./Diagrams/set_upV2.png}
 
@@ -74,7 +74,7 @@ This implies the uncertainty in the gradient is equivalent to uncertainty in the
 The following modifications to the method were implemented
 \begin{itemize}
 	\item The plane was kept at a constant angle throughout the entire duration of the experiment. This was done to isolate it from the independent and dependent variables and ensure that the results of all trials would point to the same relationship between them and the angle.
-	\item The independent variable became the hanging mass ($H_m$) to reduce uncertainty in its force via removing factors such as unaccounted for friction and unnecessary trigonometric calculations. This places as much of the uncertainty as possible on the dependent variable, therefore allowing it to be measured more easily.
+	\item The independent variable became the hanging mass ($H_m$). This was done to reduce uncertainty in its force via removing factors such as unaccounted for friction and unnecessary trigonometric calculations. This places as much of the uncertainty as possible on the dependent variable, therefore allowing uncertainty to be quantified more accurately.
 	\item The dependent variable became the carriage mass ($C_m$) as the large area inside each carriage allowed for fine adjustment of its mass via the addition of brass weights. Multiple carriages could be connected to allow for a greater range of weight's to be added which enhanced this.
 \end{itemize}
 
@@ -118,7 +118,7 @@ Masses
 	\centering
 	\begin{figure}[h]
 		\centering
-		\includegraphics[width=0.83\paperwidth]{resultstable.png}
+		\includegraphics[width=0.84\paperwidth]{resultstable.png}
 		\caption{Raw results with additional calculations}
 	\end{figure}
 	
@@ -131,7 +131,7 @@ Masses
 \begin{align*}
 	\sigma(C_m)=&\pm\frac{\textrm{max}-\textrm{min}}{2}\\
 	=&\pm\frac{139.20-138.55}{2}
-	\\=&\pm0.33
+	\\=&\pm0.325
 \end{align*}
 \newline
 
@@ -148,7 +148,7 @@ Masses
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\paperwidth]{results.png}
+\includegraphics[width=0.8\paperwidth]{newresults.png}
 \caption{Average $H_m$ and $C_m$ values}
 \end{figure}
 
@@ -157,11 +157,26 @@ Masses
 
 \section{Discussion}
 \subsection{Analysis of evidence}
-Figure 2 shows a clear linear trend that continues throughout the entire plot with almost no deviance. For the average trendline, in the form of $y=mx+c$, $c=0$ indicates a 
+Figure 2 depicts a clear liner relationship formed by the data plotted. This supports the previously investigated relationship  $H_m=C_m\cdot{\sin(\theta)}$. However, clearly this graph represents the rearranged equation $C_m=H_m\cdot \frac{1}{{\sin(\theta)}}$.
+
+The presence of vertical shift implies there is some inaccuracy in the data. In theory the relationship should be directly proportional. Considering
+ $\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)=\theta$, clearly $\sin^{-1}\left(\frac{1}{2.8266}\right)=20.71881007^\circ$.
+ 
+
+Since the value of $H_m$ was deliberately set, any uncertainty was due to the error in the scale used to measure it. Therefore, its variance across trials is negligible. This is because its average value can be assumed to be error free as it negates the impact of random error.
+
+To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as the line of best fit.
+
+\begin{align*}
+	\centering
+	\sigma(\textrm{gradient})=&\pm\frac{\textrm{max}-\textrm{min}}{2}\\
+	\therefore\;\sigma(\textrm{gradient})=&\pm\frac{2.8643-2.7927}{2}\\
+	=&\pm\frac{0.0716}{2}\\
+	=&\pm0.0358
+\end{align*}
 
 
-Since the value of $H_m$ was deliberately set, any uncertainty was due to the inherent error in the scale used to measure it. Therefore, its variance across trials is negligible and its average value can be assumed to be error free as it negates the impact of random error.
-\subsection{Evaluation}
+\section{Evaluation}
 
 
 \section{Conclusion}
