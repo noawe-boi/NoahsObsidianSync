@@ -74,8 +74,8 @@ This implies the uncertainty in the gradient, found using the maximum and minimu
 The following modifications to the method were implemented
 \begin{itemize}
 	\item The plane was kept at a constant angle throughout the entire duration of the experiment. This was done to isolate it from the independent and dependent variables and ensure that the results of all trials would point to the same relationship between them and the angle.
-	\item The independent variable became the hanging mass ($H_m$). This was done to reduce uncertainty in its force via removing factors such as unaccounted for friction and unnecessary trigonometric calculations. This places as much of the uncertainty as possible on the dependent variable, therefore allowing uncertainty to be quantified more accurately.
-	\item The dependent variable became the carriage mass ($C_m$) as the large area inside each carriage allowed for fine adjustment of its mass via the addition of brass weights. Multiple carriages could be connected to allow for a greater range of weight's to be added which enhanced this.
+	\item The independent variable became the hanging mass ($H_m$). This was done to reduce uncertainty in its force via removing factors such as unaccounted for friction and unnecessary trigonometric calculations. This places as much of the uncertainty as possible on the dependent variable, therefore allowing uncertainty to be quantified.
+	\item The dependent variable became the carriage mass ($C_m$) as the large area inside each carriage allowed for fine adjustment of its mass via the addition of brass weights. 
 \end{itemize}
 
 \subsubsection{Materials}
@@ -92,7 +92,7 @@ The following modifications to the method were implemented
 \begin{enumerate}
 \item Set up slope at a constant angle. It will remain at this angle for the entire duration of the experiment. 
 \item Set the hanging mass ($H_m$) to its minimum value initially.
-\item Alter the mass of the carriage $(C_m)$ until equilibrium with the $H_m$ is achieved. i.e) The carriage remains stationary. 
+\item Alter the mass of the carriage $(C_m)$ until equilibrium with the $H_m$ is achieved, i.e. The carriage remains stationary. 
 \item Measure and record masses. 
 \item Repeat for 3 trials with current $H_m$ value.
 \item Increase $H_m$ by 50 grams. 
@@ -104,7 +104,7 @@ The following modifications to the method were implemented
 Frictionless plane
 \begin{itemize}
 	\item Mishandling of heavy masses on the frictionless plane could result in them sliding down the slope at high speed. This could damage equipment of cause injury. The slope will be turned off not required, and one person will always be supporting the carriage whenever possible to prevent this. 
-	\item Using too low fan speed on the frictionless plane may not create enough of an air pocket to support heavy weights. This could cause rubbing between the surfaces which could damage both the plane and carriage. The plane will be set to the highest possible speed throughout the experiment to negate the possibility of this occurring.
+	\item Using too low fan speed on the frictionless plane may not create enough of an air pocket to support heavy weights. This could create friction between the surfaces, which could damage equipment and introduce inaccuracies. The fan will be set to the highest possible speed throughout the experiment to negate the possibility of this occurring.
 \end{itemize}
 Masses
 \begin{itemize}
@@ -160,12 +160,13 @@ Masses
 Figure 2 depicts a clear liner relationship formed by the data plotted. This supports the previously investigated relationship  $H_m=C_m\cdot{\sin(\theta)}$. However, clearly this graph represents the rearranged equation $C_m=H_m\cdot \frac{1}{{\sin(\theta)}}$.
 
 The presence of vertical shift implies there is some inaccuracy in the data. In theory the relationship should be directly proportional. Considering
- $\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)=\theta$, clearly $\sin^{-1}\left(\frac{1}{2.8266}\right)=20.71881007^\circ$.
+ $\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)=\theta$, clearly $\theta = \sin^{-1}\left(\frac{1}{2.8266}\right)=20.71881007^\circ$.
  
 
 Since the value of $H_m$ was deliberately set, any uncertainty was due to the error in the scale used to measure it. Therefore, its variance across trials is negligible. This is because its average value can be assumed to be error free as it negates the impact of random error.
 
 To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as the line of best fit.
+
 
 \begin{align*}
 	\centering
@@ -175,6 +176,14 @@ To find the absolute uncertainty in the gradient, the maximum and minimum slopes
 	=&\pm0.0358
 \end{align*}
 
+This can be used to find the absolute uncertainty in the angle
+
+\begin{align*}
+	\centering
+	\sigma(\textrm{angle})=&\pm\frac{\textrm{max}-\textrm{min}}{2}\\
+	\sigma(\textrm{angle})=&\pm\frac{\sin^{-1}(\frac{1}{2.8643})-\sin^{-1}(\frac{1}{2.7927})}{2}\\
+20.71881007
+	\end{align*}
 
 \section{Evaluation}
 
