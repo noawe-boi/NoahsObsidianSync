@@ -4,7 +4,7 @@ tags:
   - notes
   - topic
 ---
-### Foundational Concepts
+o### Foundational Concepts
 #### Max/min
 ![[Methods 12C Absolute maximum and minimum values 2025-05-13 14.29.15.excalidraw]]
 
