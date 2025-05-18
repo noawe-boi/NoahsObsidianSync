@@ -17,9 +17,9 @@
 \MakeOuterQuote{"}
 \usepackage[T1]{fontenc}
 \svgpath{./Diagrams}
-
+\renewcommand{\baselinestretch}{1.2}
 \begin{document}
-
+\nocite{*}
 \begin{titlepage}
 
 
@@ -46,15 +46,18 @@ When the mass of an  on a frictionless plane is altered, and the mass of a hangi
 
 The original experiment was conducted to determine the relationship between the mass of a carriage ($C_m$) and a hanging mass ($H_m$) when a frictionless plane was inclined at different angles. The results confirmed the theoretical relationship $H_m = C_m \sin(\theta)$.
 
-It was noticed during the experiment that the angle measurement device, an `angle gun', had a large uncertainty ($\pm0.5\deg$) compared to the scale used to measure masses ($\pm0.005$). It was questioned whether the relationship between the masses in equilibrium could be used to determine the angle of the plane with improved accuracy and reduced uncertainty. 
+It was noticed during the experiment that the angle measurement device, an `angle gun', had a large uncertainty ($\pm0.5\deg$) compared to the scale used to measure masses ($\pm0.005$ grams). It was questioned whether the relationship between the masses in equilibrium could be used to determine the angle of the plane with improved precision and uncertainty. 
 \newline
 \newline
 Considering Newtons first law, under equilibrium the net force is 0 \cite{encyclopediabritannica_2023_newtons}. If we consider the previously established linear relationship between $H_m$ and $C_m$, then we can find $\theta$ in terms of its gradient.
 \begin{center}
 	\begin{align*}
 	H_m= &C_m\cdot{\sin(\theta)} \\
-	\frac{H_m}{C_m}=&\frac{1}{\mathrm{gradient}}=\sin(\theta)\\
-	\therefore \sin^{-1}\left(\frac{H_m}{{C_m}}\right)=&\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)=\theta
+	C_m= &H_m\cdot\frac{1}{{\sin(\theta)}}\;\;\;\; \;\;\;\;\;\because \textrm{Make dependent variable subject} \\
+	\frac{C_m}{H_m}=&\textrm{gradient}	\;\;\;\;\;\;\;\;\;\;\;\;\;\;\because \textrm{gradient}=\frac{\textrm{rise}}{\textrm{run}}\\
+\linebreak
+	\frac{H_m}{C_m}=&\frac{1}{\mathrm{gradient}}=\sin(\theta) \because \sin(\theta)=\frac{O}{H}\\
+	\therefore  \;\theta=&\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)
 	\end{align*}
 \end{center}
 
@@ -62,8 +65,12 @@ Considering Newtons first law, under equilibrium the net force is 0 \cite{encycl
 
 Since we now have the angle in terms of the gradient, we can use it to find the uncertainty in the angle. 
 This implies the uncertainty in the gradient, found using the maximum and minimum slope, is equivalent to uncertainty in the angle. 
+\begin{figure}[]
+	\centering
+	\includegraphics[width=0.5\paperwidth]{./Diagrams/set_upV2.png}
+	\caption{Diagram of experimental setup}
+\end{figure}
 
-\includegraphics[width=0.8\paperwidth]{./Diagrams/set_upV2.png}
 
 
 \subsection{Methodology}
@@ -93,6 +100,7 @@ The following modifications to the method were implemented
 \item Set up slope at a constant angle. It will remain at this angle for the entire duration of the experiment. 
 \item Set the hanging mass ($H_m$) to its minimum value initially.
 \item Alter the mass of the carriage $(C_m)$ until equilibrium with the $H_m$ is achieved, i.e. The carriage remains stationary. 
+\item If the carriage does not have sufficient space for more weight, replace with a larger carriage or link an additional carriage to the chain.  
 \item Measure and record masses. 
 \item Repeat for 3 trials with current $H_m$ value.
 \item Increase $H_m$ by 50 grams. 
@@ -135,14 +143,36 @@ Masses
 \end{align*}
 \newline
 
-
 \textbf{Average mass of $C_m$ when $H_m=50.16$}
 \begin{align*}
-		\bar{C_m}=&\frac{\Sigma^n_{i=1}C_m}{n}\\
-		=&\frac{138.55+139.20+138.54}{3}\\
-		=&137.76
-	\end{align*}
+	\bar{C_m}=&\frac{\Sigma^n_{i=1}C_m}{n}\\
+	=&\frac{138.55+139.20+138.54}{3}\\
+	=&137.76
+\end{align*}
 \end{center}
+
+
+\subsubsection{Prerequisite trigonometric measurements}
+
+\begin{figure}[H]
+	\centering
+
+	\begin{tabular}{|l|l|l|}
+		\hline
+		\textbf{Hypotenuse} & \textbf{Height} & \textbf{Length} \\ \hline
+		2.65       & 2.50   & 0.98   \\ \hline
+	\end{tabular}
+
+	\caption{Table showing the side lengths of triangle formed by incline plane}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.35\paperwidth]{./Diagrams/LengthDiagram.png}
+	\caption{Diagram showing the side lengths of triangle formed by incline plane}
+\end{figure}
+
 
 \subsubsection{Plotting}
 
@@ -157,13 +187,13 @@ Masses
 
 \section{Discussion}
 \subsection{Analysis of evidence}
-Figure 2 depicts a clear liner relationship formed by the data plotted. This supports the previously investigated relationship  $H_m=C_m\cdot{\sin(\theta)}$. However, clearly this graph represents the rearranged equation $C_m=H_m\cdot \frac{1}{{\sin(\theta)}}$.
+Figure 2 depicts a clear linear relationship formed by the data plotted. This supports the previously investigated relationship  $H_m=C_m\cdot{\sin(\theta)}$. However, clearly this graph represents the rearranged equation $C_m=H_m\cdot \frac{1}{{\sin(\theta)}}$.
 
 The presence of vertical shift implies there is some inaccuracy in the data. In theory the relationship should be directly proportional. Considering
  $\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)=\theta$, clearly $\theta = \sin^{-1}\left(\frac{1}{2.8266}\right)=20.71881007^\circ$.
  
 
-Since the value of $H_m$ was deliberately set, any uncertainty was due to the error in the scale used to measure it. Therefore, its variance across trials is negligible. This is because its average value can be assumed to be error free as it negates the impact of random error.
+Since the value of $H_m$ was deliberately set, any uncertainty was due to the inherent random error in the scale used to measure ($\pm0.005g$)it. By averaging $H_m$ across trials, a more reliable value can be found, however it should be noted that although this negates the effect of random error, the systematic uncertainty is not affected as it is determined by the scale's precision.
 
 To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as the line of best fit.
 
@@ -186,6 +216,26 @@ This can be used to find the absolute uncertainty in the angle
 	\end{align*}
 
 \section{Evaluation}
+
+\subsection{Reliability and validity}
+
+\subsection{Errors and limitations}
+\textbf{Angle consistency}\newline
+Since the experiment was conducted over multiple class periods, the experimental setup was dismantled and reassembled mid way through. Additionally the plane was bumped on multiple occasions, requiring it to be returned back to its original location and angle. Despite the angle of the plane measuring the same throughout the experiment, the uncertainty in the tool used to set the angle of the plane ($\pm0.5^\circ$) meant that the angle was likely inconsistent. This was not accounted for in any way.
+
+\textbf{Friction}\newline
+It was assumed that the frictionless plane was completely frictionless. This was not the case, and multiple factors likely altered the degree of friction across it throughout the experiment. 
+It was noticed that when masses were in equilibrium, pushing the cart would cause it to move for a while, then slow down and stop. If the plane was truly frictionless then the plane would not have slowed down, but continued until it reached the end stop. It was theorised that the surface area of the carriage on the plane determined how much of an air pocket could form underneath it. This was briefly investigated as the type of carriage used was recorded for each trial. Considering one big carriage having the approximate equivalent surface area of two small carriages, the average uncertainty for each carriage surface area was graphed. However, rather than a reduction in uncertainty as surface area increased, an increase was observed. 
+\begin{figure}
+\centering
+\includegraphics[width=0.3\paperwidth]{./images/ApproxCarriage.png}
+
+\end{figure}
+
+
+
+\subsection{Extension}
+
 
 
 \section{Conclusion}
