@@ -6,6 +6,7 @@
 \usepackage{apacite}
 \bibliographystyle{apacite}
 \usepackage{svg}
+\usepackage{multirow}
 \usepackage{amsmath}
 \setlength{\parindent}{0pt}
 \graphicspath{ {./images} }
@@ -126,20 +127,25 @@ The following modifications to the method were implemented
 \end{enumerate}
 
 
-\subsubsection{Risk Assessment}
-\textbf{Frictionless plane}
-\begin{itemize}
-	\item Mishandling of heavy masses on the frictionless plane could result in them sliding down the slope at high speed. This could damage equipment of cause injury. The blower fan will be turned off not required, and one person will always be supporting the carriage whenever possible to prevent this.
-	\item Using too low fan speed on the frictionless plane may not create enough of an air pocket to support heavy weights. This could create friction between the surfaces, which could damage equipment and introduce inaccuracies. The fan will be set to the highest possible speed throughout the experiment to negate the possibility of this occurring.
-\end{itemize}
-\textbf{Blower}
-\begin{itemize}
-	\item Leaving the blower fan on for extended periods may cause overheating, as clearly stated in its instructions. This further implies the need for the blower to be turned off when not required.
-\end{itemize}
-\textbf{Masses}
-\begin{itemize}
-	\item Heavy masses or items containing many brass weights may cause injury if dropped or mishandled. participants will wear enclosed footwear to negate injury if this occurs.  
-\end{itemize}
+\subsubsection{Risk 
+	Assessment}
+\begin{table}[h]
+	\centering
+	\scalebox{0.7}{
+		\centering
+\begin{tabular}{lllll}
+	\textbf{Object}    & \textbf{Risk}                         & \textbf{Effect}               & \textbf{Negation}                          &  \\
+	Frictionless plane & Mishandling can cause heavy masses to  & Injury, damage to equipment   & Only turn on blower when required          &  \\
+	& travel down the slope at high speeds  &                               &                                            &  \\
+	Frictionless plane & Low fan speed causes insufficient air & Friction, damage to equipment & Use maximum fan speed                      &  \\
+	& pocket under carriage(s)              &                               &                                            &  \\
+	Blower fan         & Overheating                           & Damage to equipment           & Only turn on blower when required          &  \\
+	Heavy masses       & Falling on personnel or equipment     & Injury, damage to equipment   & Carefully handle masses, minimise distance &  \\
+	&                                       &                               & between scale and experimental setup, wear &  \\
+	&                                       &                               & enclosed footwear                          & 
+	\end{tabular}
+}
+\end{table}
 \section{Results and Evaluation}
 \subsection{Results}
 
@@ -237,7 +243,7 @@ To find the angle, the gradient of the slope of average values for each trial ca
 {\large \textbf{Finding uncertainty}\newline}
 Since the value of $H_m$ was deliberately set, any uncertainty was due to the inherent random error in the scale used to measure it. By averaging $H_m$ across trials, a more reliable value can be found, however it should be noted that although this negates the effect of random error, the systematic uncertainty ($\pm0.005g$) is not affected as it is determined by the scale's precision.
 
-To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as a line of best fit using Excel.
+To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as a line of best fit using Excel. This was chosen as when using the 'end points' of the data, the maximum slope found was smaller than the average.
 \begin{center}
 	\textbf{Absolute uncertainty in the gradient}
 	\begin{align*}
