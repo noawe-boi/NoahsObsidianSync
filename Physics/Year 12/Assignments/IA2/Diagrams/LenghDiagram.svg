@@ -9,9 +9,9 @@
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="LenghDiagram.svg"
-   inkscape:export-filename="LenghDiagram.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-filename="LengthDiagram.png"
+   inkscape:export-xdpi="350"
+   inkscape:export-ydpi="350"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -141,20 +141,35 @@
     <path
        id="MJX-15-TEX-N-6D"
        d="M41 46H55Q94 46 102 60V68Q102 77 102 91T102 122T103 161T103 203Q103 234 103 269T102 328V351Q99 370 88 376T43 385H25V408Q25 431 27 431L37 432Q47 433 65 434T102 436Q119 437 138 438T167 441T178 442H181V402Q181 364 182 364T187 369T199 384T218 402T247 421T285 437Q305 442 336 442Q351 442 364 440T387 434T406 426T421 417T432 406T441 395T448 384T452 374T455 366L457 361L460 365Q463 369 466 373T475 384T488 397T503 410T523 422T546 432T572 439T603 442Q729 442 740 329Q741 322 741 190V104Q741 66 743 59T754 49Q775 46 803 46H819V0H811L788 1Q764 2 737 2T699 3Q596 3 587 0H579V46H595Q656 46 656 62Q657 64 657 200Q656 335 655 343Q649 371 635 385T611 402T585 404Q540 404 506 370Q479 343 472 315T464 232V168V108Q464 78 465 68T468 55T477 49Q498 46 526 46H542V0H534L510 1Q487 2 460 2T422 3Q319 3 310 0H302V46H318Q379 46 379 62Q380 64 380 200Q379 335 378 343Q372 371 358 385T334 402T308 404Q263 404 229 370Q202 343 195 315T187 232V168V108Q187 78 188 68T191 55T200 49Q221 46 249 46H265V0H257L234 1Q210 2 183 2T145 3Q42 3 33 0H25V46H41Z" />
+    <path
+       id="MJX-18-TEX-N-32"
+       d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z" />
+    <path
+       id="MJX-18-TEX-N-2E"
+       d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z" />
+    <path
+       id="MJX-18-TEX-N-36"
+       d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z" />
+    <path
+       id="MJX-18-TEX-N-34"
+       d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z" />
+    <path
+       id="MJX-18-TEX-N-6D"
+       d="M41 46H55Q94 46 102 60V68Q102 77 102 91T102 122T103 161T103 203Q103 234 103 269T102 328V351Q99 370 88 376T43 385H25V408Q25 431 27 431L37 432Q47 433 65 434T102 436Q119 437 138 438T167 441T178 442H181V402Q181 364 182 364T187 369T199 384T218 402T247 421T285 437Q305 442 336 442Q351 442 364 440T387 434T406 426T421 417T432 406T441 395T448 384T452 374T455 366L457 361L460 365Q463 369 466 373T475 384T488 397T503 410T523 422T546 432T572 439T603 442Q729 442 740 329Q741 322 741 190V104Q741 66 743 59T754 49Q775 46 803 46H819V0H811L788 1Q764 2 737 2T699 3Q596 3 587 0H579V46H595Q656 46 656 62Q657 64 657 200Q656 335 655 343Q649 371 635 385T611 402T585 404Q540 404 506 370Q479 343 472 315T464 232V168V108Q464 78 465 68T468 55T477 49Q498 46 526 46H542V0H534L510 1Q487 2 460 2T422 3Q319 3 310 0H302V46H318Q379 46 379 62Q380 64 380 200Q379 335 378 343Q372 371 358 385T334 402T308 404Q263 404 229 370Q202 343 195 315T187 232V168V108Q187 78 188 68T191 55T200 49Q221 46 249 46H265V0H257L234 1Q210 2 183 2T145 3Q42 3 33 0H25V46H41Z" />
   </defs>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.747783;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.723104;stroke-dasharray:none;stroke-opacity:1"
      id="rect3"
-     width="195.84642"
-     height="88.435249"
-     x="9.591567"
-     y="116.55265"
+     width="199.55058"
+     height="81.15921"
+     x="5.8874002"
+     y="123.82869"
      inkscape:label="bg" />
   <g
      stroke="#000000"
      fill="#000000"
      stroke-width="0"
-     transform="matrix(0.00626381,0,0,-0.00626381,11.957277,163.94274)"
+     transform="matrix(0.00926338,0,0,-0.00926338,6.945502,165.86113)"
      id="g7-8">
     <g
        data-mml-node="math"
@@ -197,7 +212,7 @@
      stroke="#000000"
      fill="#000000"
      stroke-width="0"
-     transform="matrix(0.00626381,0,0,-0.00626381,115.04083,200.35112)"
+     transform="matrix(0.00938022,0,0,-0.00938022,113.16522,202.39923)"
      id="g7-6">
     <g
        data-mml-node="math"
@@ -240,49 +255,6 @@
      stroke="#000000"
      fill="#000000"
      stroke-width="0"
-     transform="matrix(0.00626381,0,0,-0.00626381,78.867315,139.20067)"
-     id="g7-9">
-    <g
-       data-mml-node="math"
-       id="g6-1">
-      <g
-         data-mml-node="mn"
-         id="g4">
-        <use
-           data-c="32"
-           xlink:href="#MJX-11-TEX-N-32"
-           id="use1-2" />
-        <use
-           data-c="2E"
-           xlink:href="#MJX-11-TEX-N-2E"
-           transform="translate(500)"
-           id="use2-7" />
-        <use
-           data-c="36"
-           xlink:href="#MJX-11-TEX-N-36"
-           transform="translate(778)"
-           id="use3-0" />
-        <use
-           data-c="35"
-           xlink:href="#MJX-11-TEX-N-35"
-           transform="translate(1278)"
-           id="use4-9" />
-      </g>
-      <g
-         data-mml-node="mtext"
-         transform="translate(1778)"
-         id="g5-3">
-        <use
-           data-c="6D"
-           xlink:href="#MJX-11-TEX-N-6D"
-           id="use5-6" />
-      </g>
-    </g>
-  </g>
-  <g
-     stroke="#000000"
-     fill="#000000"
-     stroke-width="0"
      transform="matrix(0.00835359,0,0,-0.00835359,159.94315,187.5365)"
      id="g3">
     <g
@@ -318,6 +290,49 @@
          d="m 44.61194,134.05888 143.31585,56.32258 -143.31585,0.55765 z"
          sodipodi:nodetypes="cccc"
          inkscape:label="Triangle" />
+    </g>
+  </g>
+  <g
+     stroke="#000000"
+     fill="#000000"
+     stroke-width="0"
+     transform="matrix(0.00920926,0,0,-0.00920926,85.007895,138.03953)"
+     id="g7-67">
+    <g
+       data-mml-node="math"
+       id="g6-5">
+      <g
+         data-mml-node="mn"
+         id="g4-3">
+        <use
+           data-c="32"
+           xlink:href="#MJX-18-TEX-N-32"
+           id="use1-5" />
+        <use
+           data-c="2E"
+           xlink:href="#MJX-18-TEX-N-2E"
+           transform="translate(500)"
+           id="use2-6" />
+        <use
+           data-c="36"
+           xlink:href="#MJX-18-TEX-N-36"
+           transform="translate(778)"
+           id="use3-2" />
+        <use
+           data-c="34"
+           xlink:href="#MJX-18-TEX-N-34"
+           transform="translate(1278)"
+           id="use4-91" />
+      </g>
+      <g
+         data-mml-node="mtext"
+         transform="translate(1778)"
+         id="g5-2">
+        <use
+           data-c="6D"
+           xlink:href="#MJX-18-TEX-N-6D"
+           id="use5-7" />
+      </g>
     </g>
   </g>
 </svg>

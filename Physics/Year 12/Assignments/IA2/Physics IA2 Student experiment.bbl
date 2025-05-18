@@ -1,6 +1,24 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {5.2 Newton’s First Law | University Physics Volume 1}}{%
+\APACcitebtitle {5.2 Newton’s First Law | University Physics Volume 1}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+a52}
+\APACinsertmetastar {%
+a52}%
+\APACrefbtitle {5.2 Newton’s First Law | University Physics Volume 1.} {5.2
+  newton’s first law | university physics volume 1.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/5-2-newtons-first-law/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Britannica%
 }{%
 Britannica%
@@ -21,6 +39,89 @@ Britannica, E.%
 \newblock
 \begin{APACrefURL}
   \url{https://www.britannica.com/science/Newtons-laws-of-motion}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Byju's%
+}{%
+Byju's%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+byjus_2023_inclined}
+\APACinsertmetastar {%
+byjus_2023_inclined}%
+\begin{APACrefauthors}%
+Byju's.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Inclined Plane – Forces Acting on an Inclined Plane, Solved
+  Problems.} {Inclined plane – forces acting on an inclined plane, solved
+  problems.}
+\newblock
+\begin{APACrefURL} \url{https://byjus.com/physics/acceleration-inclined-plane/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Propagation of Error}}{%
+\APACcitebtitle {Propagation of Error}}{%
+{\protect \APACyear {2008}}%
+}]{%
+a2008_propagation}
+\APACinsertmetastar {%
+a2008_propagation}%
+\APACrefbtitle {Propagation of Error.} {Propagation of error.}
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://academics.hamilton.edu/physics/smajor/courses/195Guides/phys190_uncertainties_II.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Propagation of Uncertainties}}{%
+\APACcitebtitle {Propagation of Uncertainties}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+propagation}
+\APACinsertmetastar {%
+propagation}%
+\APACrefbtitle {Propagation of Uncertainties.} {Propagation of uncertainties.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.mso.anu.edu.au/pfrancis/labskills/uncertainties/Propagation_Equations.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Science%
+}{%
+Science%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+science_2022_ck12foundation}
+\APACinsertmetastar {%
+science_2022_ck12foundation}%
+\begin{APACrefauthors}%
+Science, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{08}{}.
+\newblock
+\APACrefbtitle {CK12-Foundation.} {Ck12-foundation.}
+\newblock
+\begin{APACrefURL}
+  \url{https://flexbooks.ck12.org/cbook/ck-12-physics-flexbook-2.0/section/4.1/primary/lesson/gravitational-force-and-inclined-plane-phys/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
