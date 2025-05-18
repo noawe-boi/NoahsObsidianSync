@@ -28,14 +28,14 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="4"
-     inkscape:cx="382.875"
-     inkscape:cy="464.625"
-     inkscape:window-width="3806"
+     inkscape:cx="317.875"
+     inkscape:cy="420.875"
+     inkscape:window-width="1893"
      inkscape:window-height="2102"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" /><defs
+     inkscape:current-layer="layer1" /><defs
      id="defs1"><marker
        style="overflow:visible"
        id="ArrowWideRounded"
@@ -384,7 +384,7 @@
        stroke="#000000"
        fill="#000000"
        stroke-width="0"
-       transform="matrix(0.00487479,0,0,-0.00487479,103.06383,134.38145)"
+       transform="matrix(0.0054334,0,0,-0.0054334,103.0359,134.77527)"
        id="g12-0"><g
          data-mml-node="math"
          id="g11"><g
@@ -451,7 +451,7 @@
        stroke="#000000"
        fill="#000000"
        stroke-width="0"
-       transform="matrix(0.00421267,0,0,-0.00421267,128.24437,103.48699)"
+       transform="matrix(0.00624859,0,0,-0.00624859,128.14257,102.76739)"
        id="g20-9"><g
          data-mml-node="math"
          id="g19-7"><g
@@ -556,7 +556,7 @@
      stroke="#000000"
      fill="#000000"
      stroke-width="0"
-     transform="matrix(0.0046941,0,0,-0.0046941,52.944608,119.03193)"
+     transform="matrix(0.00575526,0,0,-0.00575526,44.292592,118.20035)"
      id="g20"><g
        data-mml-node="math"
        id="g19"><g
@@ -664,7 +664,7 @@
      stroke="#000000"
      fill="#000000"
      stroke-width="0"
-     transform="matrix(0.00420946,0,0,-0.00420946,8.1835039,147.98265)"
+     transform="matrix(0.00574465,0,0,-0.00574465,8.3343504,152.14004)"
      id="g11-0"><g
        data-mml-node="math"
        id="g10-61"><g

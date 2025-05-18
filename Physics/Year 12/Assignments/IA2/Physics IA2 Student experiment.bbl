@@ -14,7 +14,7 @@ a52}%
 \APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \newblock
 \begin{APACrefURL}
-  \url{https://courses.lumenlearning.com/suny-osuniversityphysics/chapter/5-2-newtons-first-law/}
+  \url{https://courses.lumenlearning.com/suny-osuniversityphysics/\\chapter/5-2-newtons-first-law/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -80,7 +80,7 @@ a2008_propagation}%
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
 \begin{APACrefURL}
-  \url{https://academics.hamilton.edu/physics/smajor/courses/195Guides/phys190_uncertainties_II.pdf}
+  \url{https://academics.hamilton.edu/physics/\\smajor/courses/195Guides/phys190_uncertainties_II.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -97,7 +97,7 @@ propagation}%
 \APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \newblock
 \begin{APACrefURL}
-  \url{https://www.mso.anu.edu.au/pfrancis/labskills/uncertainties/Propagation_Equations.pdf}
+  \url{https://www.mso.anu.edu.au/pfrancis/\\labskills/uncertainties/Propagation_Equations.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -121,7 +121,7 @@ Science, C.%
 \APACrefbtitle {CK12-Foundation.} {Ck12-foundation.}
 \newblock
 \begin{APACrefURL}
-  \url{https://flexbooks.ck12.org/cbook/ck-12-physics-flexbook-2.0/section/4.1/primary/lesson/gravitational-force-and-inclined-plane-phys/}
+  \url{https://flexbooks.ck12.org/cbook/ck-12-physics-\\flexbook-2.0/section/4.1/primary/lesson/gravitational-force-and-inclined-plane-phys/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 

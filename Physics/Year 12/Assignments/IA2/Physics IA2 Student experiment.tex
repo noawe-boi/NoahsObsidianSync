@@ -16,10 +16,14 @@
 \usepackage{amssymb}
 \MakeOuterQuote{"}
 \usepackage[T1]{fontenc}
+\usepackage{enumitem}
 \svgpath{./Diagrams}
-\renewcommand{\baselinestretch}{1.2}
+\renewcommand{\baselinestretch}{1.1}
+\setlist[enumerate]{itemsep=0mm}
+\setlist[itemize]{itemsep=0mm}
 \begin{document}
 \nocite{*}
+
 \begin{titlepage}
 
 
@@ -90,7 +94,10 @@ The following modifications to the method were implemented
 \subsubsection{Materials}
 \begin{itemize}
 	\item Angle gun 
+	\item Measuring tape
 	\item Frictionless plane
+	\item Pulley
+	\item Blower fan
 	\item Brass weights
 	\item Blue tack 
 	\item Scale
@@ -100,9 +107,18 @@ The following modifications to the method were implemented
 \subsubsection{Method}
 \begin{enumerate}
 \item Set up slope at a constant angle as shown in Figure 1. It will remain at this angle for the entire duration of the experiment. 
+\item Perform and record the following measurements
+\begin{itemize}
+	\item Along the length of the plane from the ground, to very edge of where the string pivots downwards. Record as "Hypotenuse"
+	\item From the point on the ground used as the starting point for the first measurement to the point in which the tensioned string that $H_m$ is connected to touches the ground. Record as "Adjacent"
+	\item From the edge of the point where the string pivots downwards to the ground. Record as "Opposite"
+	
+\end{itemize}
 \item Set the hanging mass ($H_m$) to its minimum value initially.
+\item Turn on the blower fan
 \item Alter the mass of the carriage $(C_m)$ until equilibrium with the $H_m$ is achieved, i.e. The carriage remains stationary. 
 \item If the carriage does not have sufficient space for more weight, replace with a larger carriage or link an additional carriage to the chain.  
+\item Turn off blower fan
 \item Measure and record masses. 
 \item Repeat for 3 trials with current $H_m$ value.
 \item Increase $H_m$ by 50 grams. 
@@ -213,7 +229,7 @@ To find the angle, the gradient of the slope of average values for each trial ca
 \centering
 \;\theta=&\;\sin^{-1}\left(\frac{1}{\textrm{gradient}}\right)\\
  =& \;\sin^{-1}\left(\frac{1}{2.8266}\right)\\
-	=&\;20.71881007^\circ
+	=&\;20.7188^\circ
 \end{align*}
 
 \subsubsection{Uncertainty}
@@ -221,7 +237,7 @@ To find the angle, the gradient of the slope of average values for each trial ca
 {\large \textbf{Finding uncertainty}\newline}
 Since the value of $H_m$ was deliberately set, any uncertainty was due to the inherent random error in the scale used to measure it. By averaging $H_m$ across trials, a more reliable value can be found, however it should be noted that although this negates the effect of random error, the systematic uncertainty ($\pm0.005g$) is not affected as it is determined by the scale's precision.
 
-To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as the line of best fit.
+To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as a line of best fit using Excel.
 \begin{center}
 	\textbf{Absolute uncertainty in the gradient}
 	\begin{align*}
@@ -249,11 +265,12 @@ To find the absolute uncertainty in the gradient, the maximum and minimum slopes
 
 
 \textbf{Angle consistency}\newline
-Since the experiment was conducted over multiple class periods, the experimental setup was dismantled and reassembled mid way through. Additionally the plane was bumped on multiple occasions, requiring it to be returned back to its original location and angle. Despite the angle of the plane measuring the same throughout the experiment, the uncertainty in the tool used to set the angle of the plane ($\pm0.5^\circ$) meant that the angle was likely inconsistent. This was not accounted for in any way.
+Since the experiment was conducted over multiple class periods, the experimental setup was dismantled and reassembled part way through. Additionally the plane was bumped on multiple occasions, requiring it to be returned back to its original location and angle. Despite the angle of the plane measuring the same throughout the experiment, the uncertainty in the tool used to set the angle of the plane ($\pm0.5^\circ$) meant that the angle was likely inconsistent. This was not accounted for in any way.
 
 \textbf{Friction}\newline
-It was assumed that the frictionless plane was completely frictionless. This was not the case, and multiple factors likely altered the degree of friction across it throughout the experiment. 
+It was assumed that the frictionless plane was completely frictionless. This was not the case, and multiple factors likely altered the degree of friction across it throughout the experiment.
 It was noticed that when masses were in equilibrium, pushing the cart would cause it to move for a while, then slow down and stop. If the plane was truly frictionless then the plane would not have slowed down, but continued until it reached the end stop. It was theorised that the surface area of the carriage on the plane determined how much of an air pocket could form underneath it. This was briefly investigated as the type of carriage used was recorded for each trial. Considering one big carriage having the approximate equivalent surface area of two small carriages, the average uncertainty for each carriage surface area was graphed. However, rather than a reduction in uncertainty as surface area increased, an increase was observed. 
+Another source of friction is the pulley and string system that connects the masses. Although the pulley moves freely, there is likely play or static fiction in the system, as well as elasticity in the string.
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\paperwidth]{./images/ApproxCarriage.png}
@@ -265,9 +282,9 @@ It was noticed that when masses were in equilibrium, pushing the cart would caus
 
 \subsection{Reliability and validity}
 
-As previously mentioned, the line of best fit constructed by the data did not cross through the origin, which implies error in the experimental process.
 
-Talk about how calculating max and min normally resulted in max that was smaller than average...?
+{	\large
+	\textbf{Comparison to trigonometric calculations}}
 
 Using the lengths of each side of the right angle triangle formed by the incline plane and the ground, the angle between then can be found. It was found that the angle differed based on which trigonometric function was used. 
  
@@ -295,16 +312,65 @@ Using the lengths of each side of the right angle triangle formed by the incline
 
  
  
- Therefore the angle of the slope as determined via trigonometry was $\sin\left({\frac{0.98}{2.64}}\right)=\;21.79^\circ \pm0.08$
+ 
+ Therefore the angle of the slope as determined via trigonometry was $\sin\left({\frac{0.98}{2.64}}\right)=\;21.79^\circ \pm0.08$.
+ 
+
+
+While the uncertainty is very low, the error when compared to the measured angle of $20^\circ$ is $$\frac{21.79-20}{20}=8.95\%$$
+This is a very large error in the context of using this value as a reference for comparison and therefore this measurement was deemed unusable.
+
+
+The possibility was considered that during the measurement process, the hypotenuse was measured as the length of the plane, rather than where the plane would intersect with the ground, to the point in which the string begins travelling downwards. Assuming $7$cm of unaccounted for length on either side of the slope, the total length of the hypotenuse would be $2.78$m. Assuming $10$cm of unaccounted for horizontal length due to poor procedure, the total length of the "Adjacent" would be $2.60$m. These changes would result in an average angle across sine, cosine, and tangent calculations of $20.68^\circ \pm0.045$, which falls in line with the expected results.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\paperwidth]{./Diagrams/LengthDiagramRevised.png}
+	\caption{Recorded measurements (black) and theorised measurements (red)}
+\end{figure}
+However since these measurements are purely theoretical, they cannot be used to quantify error or any other results.
 
 
 
 
-\subsection{Extension}
+	{\large
+	\textbf{Comparison to angle gun}}
+As previously mentioned, the line of best fit constructed by the data did not cross through the origin, which implies error in the experimental process. This was likely due to the variables previously discussed, such as friction and procedural error. 
+Considering the unreliability of data derived from length measurementation, a final error analysis was unable to be conducted. The only option available is a direct comparison in terms of uncertainty and prevision in comparison to the angle gun. 
+\begin{center}
+	\textbf{Uncertainty comparison}
+\end{center}
 
+$$\sigma(\textrm{Angle gun})=\pm0.5^\circ>\sigma(\textrm{Mass method})=\pm{0.27^\circ}$$
+Clearly the uncertainty of the angle found using masses in equilibrium is smaller than the uncertainty of the angle gun by nearly a factor of half.
 
+\subsection{Improvements and Extensions}
+
+	{\large
+	\textbf{Improvements}\\}
+
+	The experimental process could be improved through the implementation of the following:
+\begin{itemize}
+	\item Conducting measurements using a rigid "square" (tool, not shape) to ensure that measurements are taken from the correct position and at angles parallel to the ground or other features. 
+	\item A stronger blower fan could reduce friction, therefore improving accuracy. 
+	\item More rigid string, or steel wire, could be utilised to remove the elastic component from the linkage between masses.
+	\item A digital angle meter could be used to find the expected angle with more precision so that a reliable error analysis could be conducted.
+\end{itemize}
+
+	{\large
+	\textbf{Extensions}}\\
+The following extensions could extend data on a specific aspect of the experiment or pivot to investigation to a tangentially related topic.
+\begin{itemize}
+	\item A pivot to the investigation could investigate masses not in equilibrium and how their masses affect their acceleration. 
+	\item Investigation into deceleration of masses when force is applied to quantify the friction of the supposedly "frictionless" plane.
+	
+\end{itemize}
 
 \section{Conclusion}
+This experiment quantified the angle of a frictionless plane using the relationship between a mass on the plane, and a hanging mass linked to it. Despite systematic and procedural errors such as friction, unintentional equipment reconfiguration, and incorrect measurementation, the angle was found with increased prevision and reduced uncertainty ($20.72^\circ \pm 0.27^\circ$) in comparison to conventional equipment such as an angle gun ($20^\circ \pm 0.5^\circ$). It is evident that this is a viable method for determining angle when performed correctly, however, further investigation is required to determine the exact error of this method.
+
+
+
 \newpage
 
 \bibliography{./Bibliography/Physics_IA2.bib}
