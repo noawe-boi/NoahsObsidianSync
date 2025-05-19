@@ -45,7 +45,7 @@
 \section{Introduction}
 
 \subsection{Research Question}
-When the mass of an on a frictionless plane is altered, and the mass of a hanging object adjusted so equilibrium is achieved, what is the precision and uncertainty of this method in comparison to conventional measuring techniques? 
+When the mass of an object on a frictionless plane is altered, and the mass of a hanging object adjusted so equilibrium is achieved, what is the precision and uncertainty of this method in comparison to conventional measuring techniques? 
 
 \subsection{Rationale}
 
@@ -61,7 +61,7 @@ It was noticed during the experiment that the angle measurement device, an `angl
 \newline
 Considering Newtons first law, under equilibrium the net force is 0 \cite{encyclopediabritannica_2023_newtons}. This implies that under equilibrium,  $C_{f\parallel}=H_f$.
 
-By plotting the experimental results of the experiment in Excel, a line of best fit can be determined. Since the relationship between the masses is established to be linear, we can use the gradient as a parameter to calculate the angle. 
+By plotting the experimental results in Excel, a line of best fit can be determined. Since the relationship between the masses is established to be linear, we can use the gradient as a parameter to calculate the angle. 
 
 \begin{center}
 	\begin{align*}
@@ -88,7 +88,7 @@ Since the angle is now expressed in terms of the gradient, the maximum and minim
 The following modifications to the method were implemented
 \begin{itemize}
 	\item The plane was kept at a constant angle throughout the entire duration of the experiment. This was done to isolate it from the independent and dependent variables and ensure that the results of all trials would point to the same relationship between them and the angle.
-	\item The independent variable became the hanging mass ($H_m$). Since this mass could be directly measured and processed without the use of trigonometric functions, the only uncertainty in it's value should be random error from the scale. By conducting multiple trials with the same parameters, random error can be negated significantly. 
+	\item The independent variable became the hanging mass ($H_m$). Since this mass could be directly measured and processed without the use of trigonometric functions, the only uncertainty in it's value should be random error from the scale. By conducting multiple trials with the same parameters, random error can be negated. 
 	\item The dependent variable became the carriage mass ($C_m$) as the large area inside each carriage allowed for fine adjustment of its mass via the addition of brass weights. 
 \end{itemize}
 
@@ -127,8 +127,7 @@ The following modifications to the method were implemented
 \end{enumerate}
 
 
-\subsubsection{Risk 
-	Assessment}
+\subsubsection{Risk Assessment}
 \begin{table}[h]
 	\centering
 	\scalebox{0.7}{
@@ -224,7 +223,7 @@ This can be confirmed by determining the ratio between each of its points:
 
 As $H_m$ doubles from $50.14$ to $100.06$, $C_m$ increases by a factor of $\frac{278.05}{138.76}=2.0038\approx2.00$
 
-As $H_m$ doubles from $50.14$ to $100.06$, $C_m$ increases by a factor of $\frac{555.07}{278.05}=1.9963\approx2.00$
+As $H_m$ doubles from $278.05$ to $555.07$, $C_m$ increases by a factor of $\frac{555.07}{278.05}=1.9963\approx2.00$
 
 \hfill
 
@@ -241,9 +240,9 @@ To find the angle, the gradient of the slope of average values for each trial ca
 \subsubsection{Uncertainty}
 
 {\large \textbf{Finding uncertainty}\newline}
-Since the value of $H_m$ was deliberately set, any uncertainty was due to the inherent random error in the scale used to measure it. By averaging $H_m$ across trials, a more reliable value can be found, however it should be noted that although this negates the effect of random error, the systematic uncertainty ($\pm0.005g$) is not affected as it is determined by the scale's precision.
+Since the value of $H_m$ was deliberately set, any uncertainty was due to the inherent random error in the scale used to measure it. By averaging $H_m$ across trials, a more reliable value can be found, however it should be noted that although this negates the effect of random error, the systematic uncertainty ($\pm0.005g$) is not affected as it is determined by the scale's precision. Therefore $H_m$ was assumed to be error free.
 
-To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as a line of best fit using Excel. This was chosen as when using the 'end points' of the data, the maximum slope found was smaller than the average.
+To find the absolute uncertainty in the gradient, the maximum and minimum slopes were required. By considering the two average carriage masses with the largest uncertainties, say $m_1, m_2$, then plotting the line between $m_1+\sigma_1$ and $m_2-\sigma_2$, then  $m_1-\sigma_1$ and $m_2+\sigma_2$, the equations of the maximum and minimum slopes could be solved as a line of best fit using Excel. This approach was chosen as when using the 'end points' of the data, the maximum slope found was smaller than the average.
 \begin{center}
 	\textbf{Absolute uncertainty in the gradient}
 	\begin{align*}
@@ -275,7 +274,7 @@ Since the experiment was conducted over multiple class periods, the experimental
 
 \textbf{Friction}\newline
 It was assumed that the frictionless plane was completely frictionless. This was not the case, and multiple factors likely altered the degree of friction across it throughout the experiment.
-It was noticed that when masses were in equilibrium, pushing the cart would cause it to move for a while, then slow down and stop. If the plane was truly frictionless then the plane would not have slowed down, but continued until it reached the end stop. It was theorised that the surface area of the carriage on the plane determined how much of an air pocket could form underneath it. This was briefly investigated as the type of carriage used was recorded for each trial. Considering one big carriage having the approximate equivalent surface area of two small carriages, the average uncertainty for each carriage surface area was graphed. However, rather than a reduction in uncertainty as surface area increased, an increase was observed. 
+It was noticed that when masses were in equilibrium, pushing the cart would cause it to move for a while, then slow down and stop. If the plane was truly frictionless then the plane would not have slowed down, but continued until it reached the end stop. It was theorised that the surface area of the carriage on the plane determined how much of an air pocket could form underneath it. This was briefly investigated as the type of carriage used was recorded for each trial. Considering one big carriage having the approximate equivalent surface area of two small carriages, the average uncertainty for each set of trials was plotted against the approximate carriage surface area. However, rather than a reduction in uncertainty as surface area increased, an increase was observed. 
 Another source of friction is the pulley and string system that connects the masses. Although the pulley moves freely, there is likely play or static fiction in the system, as well as elasticity in the string.
 \begin{figure}[h]
 	\centering
@@ -292,7 +291,7 @@ Another source of friction is the pulley and string system that connects the mas
 {	\large
 	\textbf{Comparison to trigonometric calculations}}
 
-Using the lengths of each side of the right angle triangle formed by the incline plane and the ground, the angle between then can be found. It was found that the angle differed based on which trigonometric function was used. 
+Using the lengths of each side of the right angle triangle formed by the incline plane and the ground, the angle between them can be found. It was found that the angle differed based on which trigonometric function was used. 
  
  \begin{align*}
  	\sin^{-1}\left({\frac{0.98}{2.64}}\right)=&\;21.79^\circ\\
@@ -323,11 +322,27 @@ Using the lengths of each side of the right angle triangle formed by the incline
  
 
 
-While the uncertainty is very low, the error when compared to the measured angle of $20^\circ$ is $$\frac{21.79-20}{20}=8.95\%$$
-This is a very large error in the context of using this value as a reference for comparison and therefore this measurement was deemed unusable.
+While the uncertainty is very low, this value is dissimilar to the angle obtained using the angle. If we consider $20^\circ$ or $21.79^\circ$ as the actual angle, we can find an approximate error of the angle found using masses.
+\begin{center}
+	\begin{large}
+		
+		\textbf{Assuming $\theta=21.79^\circ$}
+	\end{large}
+\end{center}
 
+$$|\frac{20.72-21.79}{21.79}|=4.91\%$$
+\begin{center}
+	\begin{large}
+		
+		\textbf{Assuming $\theta=20.00^\circ$}
+	\end{large}
+\end{center}
 
-The possibility was considered that during the measurement process, the hypotenuse was measured as the length of the plane, rather than where the plane would intersect with the ground, to the point in which the string begins travelling downwards. Assuming $7$cm of unaccounted for length on either side of the slope, the total length of the hypotenuse would be $2.78$m. Assuming $10$cm of unaccounted for horizontal length due to poor procedure, the total length of the "Adjacent" would be $2.60$m. These changes would result in an average angle across sine, cosine, and tangent calculations of $20.68^\circ \pm0.045$, which falls in line with the expected results.
+$$|\frac{20.72-20}{20}|=3.60\%$$
+
+These error values are generally considered low ($\geq5\%$), however it is unlikely that these values are reliable, due to poor procedure.
+
+The possibility was considered that during the measurement process, the hypotenuse was measured as the length of the plane, rather than where the plane would intersect with the ground, to the point in which the string begins travelling downwards. Assuming $7$cm of unaccounted for length on either side of the plane, the total length of the hypotenuse would be $2.78$m. Assuming $10$cm of unaccounted for horizontal length due to poor procedure, the total length of the "Adjacent" side would be $2.60$m. These changes would result in an average angle across sine, cosine, and tangent calculations of $20.68^\circ \pm0.045^\circ$, which falls in line with the expected results.
 
 \begin{figure}[H]
 	\centering
@@ -340,15 +355,15 @@ However since these measurements are purely theoretical, they cannot be used to 
 
 
 	{\large
-	\textbf{Comparison to angle gun}}
+	\textbf{Comparison to angle gun}}\\
 As previously mentioned, the line of best fit constructed by the data did not cross through the origin, which implies error in the experimental process. This was likely due to the variables previously discussed, such as friction and procedural error. 
-Considering the unreliability of data derived from length measurementation, a final error analysis was unable to be conducted. The only option available is a direct comparison in terms of uncertainty and prevision in comparison to the angle gun. 
+Considering the errors in the data derived from trigonometry, a reliable error analysis was unable to be conducted. The only option available is a direct comparison in terms of uncertainty and precision in comparison to the angle gun.
 \begin{center}
 	\textbf{Uncertainty comparison}
 \end{center}
 
 $$\sigma(\textrm{Angle gun})=\pm0.5^\circ>\sigma(\textrm{Mass method})=\pm{0.27^\circ}$$
-Clearly the uncertainty of the angle found using masses in equilibrium is smaller than the uncertainty of the angle gun by nearly a factor of half.
+Clearly the uncertainty of the angle found using masses in equilibrium is smaller than the uncertainty of the angle gun by nearly a factor of half. Additionally, the angle value obtained using masses has a greater precision of 2 decimal places, as opposed to none.
 
 \subsection{Improvements and Extensions}
 
