@@ -5,7 +5,6 @@ tags:
 ---
 ### What is nuclear decay
 When unstable nuclei decay, they shoot off particles
-
 #### Transmutation ![[Transmutation]]
 
 
