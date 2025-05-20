@@ -19,7 +19,7 @@ When unstable nuclei decay, they shoot off particles
 
 
 ### Decay Examples
-![[Physics 3.3 Nuclear Decay 2025-05-20 13.45.02.excalidraw]]
+![[Physics 3.3 Nuclear Decay Examples.excalidraw]]
 
 
 ### Ionising radiation

@@ -11,8 +11,10 @@ When the particle has-
 An [[Alpha Particle]]
 ![[Alpha Particle]]
 ### Danger level
+Low (unless you're really close)
 #### Why?
-Can steal electrons
+- Can steal electrons - [[Ionising Radiation]]
+- Can't actually go very far
 #### Penetrating potential
 Very low
 ### Effect of this 
