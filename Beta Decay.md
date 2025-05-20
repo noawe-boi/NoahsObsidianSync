@@ -4,7 +4,7 @@ tags:
   - subtopic
 ---
 ### When does this occur
-
+ when there is unfavorable proton-to-neutron ratio
 
 
 ### What is ejected

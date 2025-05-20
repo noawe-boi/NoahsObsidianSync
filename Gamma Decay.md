@@ -4,7 +4,7 @@ tags:
   - subtopic
 ---
 ### When does this occur
-
+When the nucleus has too much energy to reach a stable configuration. 
 
 
 ### What is ejected
