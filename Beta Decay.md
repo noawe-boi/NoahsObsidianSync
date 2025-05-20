@@ -8,8 +8,8 @@ tags:
 
 
 ### What is ejected
-A [[Beta (noah) Particle]]
-![[Beta (noah) Particle]]
+A [[Beta Particle]]
+![[Beta Particle]]
 ### Effect of this
 - Parent loses
 	- One electron

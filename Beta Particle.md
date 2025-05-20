@@ -23,6 +23,5 @@ One electron - obviously
 ##### Notation
 $^0_1\beta$
 $^0_1\beta$
-
 ### Ionisation ability
 Medium
