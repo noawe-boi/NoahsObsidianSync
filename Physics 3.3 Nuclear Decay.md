@@ -25,3 +25,12 @@ When unstable nuclei decay, they shoot off particles
 ![[Ionising Radiation]]
 
 
+### Examples
+![[Physics 3.3 Nuclear Decay 2025-05-21 10.00.24.excalidraw]]
+
+### Decay Equations
+![[Decay Equations]]
+
+
+
+
