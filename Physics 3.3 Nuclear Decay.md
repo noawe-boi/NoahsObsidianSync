@@ -32,5 +32,5 @@ When unstable nuclei decay, they shoot off particles
 ![[Decay Equations]]
 
 
-
-
+### Decay series
+![[Decay Series]]
