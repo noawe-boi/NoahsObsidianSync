@@ -40,6 +40,6 @@ Where:
 - $n$ is the number of half life's elapsed
 
 ### Examples
-![[Physics Half Life 2025-05-22 11.47.38.excalidraw]]
+![[Using the half life equation 3.4.2]]
 
 
