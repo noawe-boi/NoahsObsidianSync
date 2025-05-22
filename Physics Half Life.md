@@ -14,3 +14,6 @@ Where
 - $N$ is the mass
 #### When is there none left?
 There is usually not a detectable amount after 6 half life's
+
+### Half life graphs
+![[Half life graphs]]

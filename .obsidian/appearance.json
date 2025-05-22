@@ -1,10 +1,10 @@
 {
   "theme": "obsidian",
   "cssTheme": "Retro Windows",
-  "textFontFamily": "Hack Nerd Font",
+  "textFontFamily": "W95FA,CMU Concrete,Hack Nerd Font",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
-  "baseFontSize": 21,
+  "baseFontSize": 25,
   "accentColor": "#006eb3",
   "enabledCssSnippets": []
 }
