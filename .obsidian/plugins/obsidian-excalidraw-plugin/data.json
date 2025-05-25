@@ -387,18 +387,16 @@
     {
       "type": "default",
       "freedrawOnly": false,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
       "fillStyle": "hachure",
       "strokeWidth": 1,
-      "roughness": 2,
+      "roughness": 0,
       "penOptions": {
         "highlighter": false,
         "constantPressure": false,
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
-          "thinning": 0.4,
+          "thinning": 0.6,
           "smoothing": 0.5,
           "streamline": 0.5,
           "easing": "easeOutSine",
@@ -411,10 +409,11 @@
             "cap": true,
             "taper": 0,
             "easing": "linear"
-          },
-          "simulatePressure": false
+          }
         }
-      }
+      },
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent"
     },
     {
       "type": "highlighter",
