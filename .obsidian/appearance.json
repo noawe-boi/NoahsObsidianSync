@@ -4,7 +4,7 @@
   "textFontFamily": "W95FA,CMU Concrete,Hack Nerd Font",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
-  "baseFontSize": 25,
+  "baseFontSize": 30,
   "accentColor": "#006eb3",
   "enabledCssSnippets": []
 }
