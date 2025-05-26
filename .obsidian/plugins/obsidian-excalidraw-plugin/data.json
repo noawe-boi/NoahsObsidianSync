@@ -385,7 +385,7 @@
   "pinnedScripts": [],
   "customPens": [
     {
-      "type": "default",
+      "type": "finetip",
       "freedrawOnly": false,
       "fillStyle": "hachure",
       "strokeWidth": 1,
@@ -396,7 +396,7 @@
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
-          "thinning": 0.6,
+          "thinning": 0.3,
           "smoothing": 0.5,
           "streamline": 0.5,
           "easing": "easeOutSine",

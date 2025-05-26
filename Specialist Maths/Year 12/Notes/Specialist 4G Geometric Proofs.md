@@ -41,3 +41,4 @@ tags:
 4. Repeat
 ### Examples
 ![[Specialist 4G Geometric Proofs 2025-05-09 09.19.35.excalidraw]]
+

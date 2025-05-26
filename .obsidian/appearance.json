@@ -1,10 +1,10 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "RetroOS 98",
   "textFontFamily": "CMU Concrete,Hack Nerd Font",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 30,
-  "accentColor": "#808eff",
+  "accentColor": "",
   "enabledCssSnippets": []
 }

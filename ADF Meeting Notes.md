@@ -1,3 +1,8 @@
+### Preamble
+Sorry about last time. my chemistry teacher is a bit of a yarner and I completley forgot. I guess you heard my voicemail too.
+
+
+
 ### Why ADF?
 #### Interest in mechanics/electronics
 - Been taking things apart since I was little
