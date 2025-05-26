@@ -1,10 +1,10 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Retro Windows",
-  "textFontFamily": "W95FA,CMU Concrete,Hack Nerd Font",
+  "cssTheme": "RetroOS 98",
+  "textFontFamily": "CMU Concrete,Hack Nerd Font",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 30,
-  "accentColor": "#6694ff",
+  "accentColor": "#808eff",
   "enabledCssSnippets": []
 }

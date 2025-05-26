@@ -32,5 +32,7 @@ $\therefore 1+\cot^2(x)=\csc^2(x)$
 - Write what you know
 - Take one step to simplify
 - Repeat
-### Example
-![[Specialist 7.4 The pythagorean trigonometrtic identities 2025-05-24 20.08.22.excalidraw]]
+### Example ![[Specialist 7.4 The pythagorean trigonometrtic identities 2025-05-24 20.08.22.excalidraw|800]]
+
+
+
