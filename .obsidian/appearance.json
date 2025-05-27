@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
   "cssTheme": "RetroOS 98",
-  "textFontFamily": "CMU Concrete,Hack Nerd Font",
+  "textFontFamily": "CMU Concrete,Consolas",
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 30,
