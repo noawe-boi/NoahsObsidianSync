@@ -31,5 +31,6 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "tabSize": 4,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "rightToLeft": false
 }
