@@ -17,7 +17,7 @@ Theoretically there will never be none left due to asymptote at $y=0$
 ### Half life graphs
 ![[Half life graphs]]
 ### Solving for half life
-#### Sovling for mass
+#### Solving for mass
 $$N(t) = N_0 \left( \frac{1}{2} \right)^{\frac{t}{t_{\frac{1}{2}}}}$$
 Where
 - $t$ is time
@@ -43,3 +43,4 @@ Where:
 ![[Using the half life equation 3.4.2]]
 
 
+![[Physics Half Life 2025-05-27 13.37.18.excalidraw]]

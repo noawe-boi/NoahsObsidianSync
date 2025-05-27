@@ -12,3 +12,6 @@ This is the process in which [[Physics 3.3 Nuclear Decay]] occurs.
 
 ![[Parent Nucleus]]
 ![[Daughter Nuceus]]
+
+### ![[Artificial Transmutation]]
+
