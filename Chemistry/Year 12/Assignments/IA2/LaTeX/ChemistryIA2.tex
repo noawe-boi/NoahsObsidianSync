@@ -2,7 +2,6 @@
 \usepackage[a4paper,margin=2cm]{geometry}
 \usepackage[]{graphicx}
 \usepackage{bm}
-\usepackage[strings]{underscore}
 \usepackage{apacite}
 \bibliographystyle{apacite}
 \usepackage{svg}
@@ -127,21 +126,23 @@ Insert risk assessment
 
 \subsection{Results}
 
+
+
 \begin{tikzpicture}
-	\begin{axis}
-	\addplot[scatter, only marks ,scatter src=explicit symbolic]
-	coordinates {
-		(0.1,0.15) [a]
-		(0.45,0.27) [c]
-		(0.02,0.17) [a]
-		(0. 06,O.1) [a]
-		(0.9,0.5) [b]
-		(0.5,0.3) [c]
-		(0.85,0.52) [b]
-		(0.12,0.05) [a]
-		(0.73,o.45) [b]
-	}
-\end{axis}
+	\begin{axis}[xmin=0, xmax=1.1, ymin=0.322, ymax=0.78, axis lines=left, scale mode=stretch to fill, width=0.8\paperwidth, height=6cm, xtick distance=0.1, ytick distance=0.2]
+		\addplot[only marks, mark=*, color=black]
+		coordinates {
+			(1, 0.680666666666667)
+			(0.85, 0.591666666666667)
+			(0.55, 0.430666666666667)
+			(0.4, 0.422)
+			(0.3, 0.481333333333333)
+			(0.2, 0.448)
+			(0.1, 0.441333333333333)
+		};
+		\addplot[no markers, blue, domain=0:1.1, samples=2, xlabel=] {(0.236792*x) + 0.37479};
+	\node [anchor=south west,inner ysep=2.5cm, inner xsep=6cm, color=blue] {$y=0.236792x+0.37479$};
+	\end{axis}
 \end{tikzpicture}
 
 
