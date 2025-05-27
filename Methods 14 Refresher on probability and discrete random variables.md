@@ -15,3 +15,5 @@ Sometimes the probability of an event is unaffected by the of the other events t
 #### Multiplication Rule of Probability
 ![[Multiplication Rule of Probability]]
 
+Multiplication Rule of Probability
+
