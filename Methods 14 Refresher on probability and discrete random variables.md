@@ -4,9 +4,7 @@ tags:
   - notes
   - topic
 ---
-## 14B
-### Conditional probability
-#### Big ideas and concepts
+## 14B Conditional probability
 ##### Conditional Probability
 ![[Conditional Probability]]
 ##### Unconditional probability
@@ -14,6 +12,11 @@ Sometimes the probability of an event is unaffected by the of the other events t
 ![[Pasted image 20250527144401.png]]
 #### Multiplication Rule of Probability
 ![[Multiplication Rule of Probability]]
+## 14C Variables
+#### Discrete Random Variables
+![[Discrete Variables]]
 
-Multiplication Rule of Probability
+#### Continuous Random Variables
+![[Continuous Variables]]
+
 
