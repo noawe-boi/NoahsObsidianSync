@@ -19,4 +19,3 @@ Sometimes the probability of an event is unaffected by the of the other events t
 #### Continuous Random Variables
 ![[Continuous Variables]]
 
-
