@@ -5,6 +5,7 @@
   "interfaceFontFamily": "Consolas",
   "baseFontSizeAction": true,
   "baseFontSize": 30,
-  "accentColor": "#2d406c",
-  "enabledCssSnippets": []
+  "accentColor": "",
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "Andale Mono"
 }

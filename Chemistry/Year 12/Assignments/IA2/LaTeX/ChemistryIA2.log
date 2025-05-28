@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.27)  27 MAY 2025 17:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.28)  28 MAY 2025 03:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,7 +786,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  27560 strings out of 475171
  679071 string characters out of 5767095
- 1195809 words of memory out of 5000000
+ 1195802 words of memory out of 5000000
  50084 multiletter control sequences out of 15000+600000
  575994 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -800,7 +800,7 @@ are/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/pub
 lic/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
 rm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on ChemistryIA2.pdf (4 pages, 172562 bytes).
+Output written on ChemistryIA2.pdf (4 pages, 173129 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
