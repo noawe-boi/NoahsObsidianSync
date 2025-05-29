@@ -32,5 +32,6 @@ $^x_yEl^*\rightarrow^x_yEl+^0_0\gamma$
 #### Gamma particle
 - $^0_0 \gamma$
 
-### Examples
-![[Gamma Decay 2025-05-21 10.07.59.excalidraw]]
+### Energy Released
+$$
+
