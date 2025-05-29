@@ -127,9 +127,10 @@ Insert risk assessment
 \section{Results}
 
 
-
+\begin{figure}[h]
+	\centering
 \begin{tikzpicture}
-	\begin{axis}[xmin=0, xmax=1.1, ymin=0.322, ymax=0.78, axis lines=left, scale mode=stretch to fill, width=0.8\paperwidth, height=6cm, xtick distance=0.1, ytick distance=0.2]
+	\begin{axis}[xmin=0, xmax=1.1, ymin=0.322, ymax=0.78, axis lines=left, scale mode=stretch to fill, width=0.8\paperwidth, height=6cm, xtick distance=0.1, ytick distance=0.2, legend pos=north west]
 		\addplot[only marks, mark=*, color=black]
 		coordinates {
 			(1, 0.680666666666667)
@@ -142,8 +143,62 @@ Insert risk assessment
 		};
 		\addplot[no markers, blue, domain=0:1.1, samples=2, xlabel=] {(0.236792*x) + 0.37479};
 	\node [anchor=south west,inner ysep=2.5cm, inner xsep=6cm, color=blue] {$y=0.236792x+0.37479$};
+	\legend{Raw data (outliers removed), Line of Best Fit}
 	\end{axis}
 \end{tikzpicture}
+\caption{Raw results with outliers removed with line of best fit.}
+\end{figure}
 
+\begin{figure}[h]
+	\centering
+\begin{tikzpicture}
+	\centering
+	\begin{axis}[xmax=3.1, xmin=0.9, ymax=0.8, ymin=0.3, width=0.82\paperwidth, scale mode=stretch to fill, height=6cm, axis lines=box, clip=false, legend style={font=\small}, legend style={at={(0.3, 0.94)}},  xtick distance=1, xlabel={Trial Number}]
+		\addplot [only marks, color=lightgray]
+		coordinates{
+		(1, 0.703)
+		(1, 0.664)
+		(1, 0.557)
+		(1, 0.457)
+		(1, 0.438)
+		(1, 0.498)
+		(1, 0.458)
+		(1, 0.405)
+	};
+
+		\addplot [only marks, color=black]
+		coordinates{
+		(2, 0.678)
+		(2, 0.623)
+		(2, 0.455)
+		(2, 0.422)
+		(2, 0.412)
+		(2, 0.47)
+		(2, 0.487)
+		(2, 0.456)
+	};
+
+		\addplot [only marks, color=blue]
+		coordinates{
+		(3, 0.661)
+		(3, 0.488)
+		(3, 0.472)
+		(3, 0.413)
+		(3, 0.416)
+		(3, 0.476)
+		(3, 0.463)		
+		};
+
+		\addplot [no markers, domain=0.9:3.1]{
+		-0.0192471*x+0.540788
+		};
+
+		\node[anchor=south west, inner ysep=2cm, inner xsep=8.7cm]{$y=-0.0192471*x+0.540788$};
+		
+			\legend{Trial 1 Results, Trial 2 Results, Trial 3 Results, Line of Best Fit};
+	\end{axis}
+\end{tikzpicture}
+\caption{Line of best fit for voltage over sequential trials}
+\end{figure}
 
 \end{document}
