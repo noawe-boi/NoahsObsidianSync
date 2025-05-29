@@ -3,6 +3,9 @@ Using only trial 1 values somewhat improves
 
 
 ### ToDo
+
+### Rationale
+Justify modifications and talk about them... I completely forgot to do this. 
 #### Results
 #### Outliers
 - [ ] Set up actual final results in excel

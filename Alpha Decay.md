@@ -22,6 +22,7 @@ Very low
 	- Two neutrons
 ### Energy Released
 Mass difference in alpha decay
-=mass of parent nucleus – mass of daughter nucleus – mass of $^4_2He$
+= mass of parent nucleus – mass of daughter nucleus – mass of $^4_2He$
 
 $\textrm{Energy}=m_{\textrm{parent isotope}} - m_{\textrm{daughter isotope}} - 4.002604)\cdot 931.6. \textrm{MeV}$ 
+
