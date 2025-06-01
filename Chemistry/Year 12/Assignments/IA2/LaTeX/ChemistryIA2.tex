@@ -22,7 +22,7 @@
 
 \renewcommand{\baselinestretch}{1.1}
 \setlist[enumerate]{itemsep=0mm}
-\setlist[itemize]{itemsep=0mm}
+\setlist[itemize]{itemsep=-0.7mm}
 \begin{document}
 	\nocite{*}
 	
@@ -69,25 +69,53 @@
 	$$
 	E^0_{\textrm{ Cell}}=E^0_{\textrm{ Cathode}}-E^0_{\textrm{ Anode}}
 	$$
+	
+	
+	
+	\textbf{todo}\newline
 	What is the result of this?
 	
 	Why does this happen
 
 
+	\textbf{The Nernst Equation}\newline
+	The Nernst equation is a mathematical equation that allows the theoretical voltage potential of a cell under varying temperatures and concentrations to be quantified.
+	
+	$$
+	E=E^0 - \frac{RT}{nF}\cdot \ln(Q)
+	$$
+	Where:
+	\begin{itemize}
+		\item $E$ = Theoretical electrode potential (voltage)of the cell
+		\item $E^0$ = Standard electrode potential of the cell
+		\item $T$ = Temperature in kelvin 
+		\item $R$ = Universal gas constant
+		\item $F$= Faraday constant
+		\item $z$ = Number of moles of electrons transferred
+		\item $Q$ = Reaction Quotient
+		
+	\end{itemize}
 \section{Methodology}
 \subsection{Modifications}
-\textbf{Half Cell Compositions}\newline
-The results of original experiment indicated that copper and aluminum prodiced the largest voltage. It was theorized that after multiple trials, the aluminum would oxidise, skewing results.
 
-It was decided that copper and zinc would be more suitable as alhough they produced a smaller voltage, zinc would take longer to oxidise and therefore produide more consistient results.
+The following modifications were made to the original experiment. The original method can be found in the appendix section.\newline
+\textbf{Half Cell Compositions}\newline
+The results of original experiment indicated that copper and aluminium produced the largest voltage. It was theorised that after multiple trials, the aluminium would oxidise, skewing results.
+
+It was decided that copper and zinc would be more suitable as although they produced a smaller voltage, zinc would take longer to oxidise and therefore producer more consistent results.
 
 \textbf{Electrodes}\newline
-Rather than thin strips, larger plates were bent into a "C" shape, slightly smaller than the diameter of the beaker they would be placed in. This maximised the sufrace area in contact with the electrolyte solution. Furthermore by resung the same electrodes, this sufrace area was constant for all trials.
+Rather than thin strips, larger plates were bent into a "C" shape, slightly smaller than the diameter of the beaker they would be placed in. This maximised the surface area in contact with the electrolyte solution. Furthermore by reusing the same electrodes, this surface area was constant for all trials.
 
 \textbf{Measurement devices}\newline
-A digiral multimeter was utlized to improve accuracy and extend the life of cells. This 
+A digital multimeter was substituted in place of the conventional analog volt meter. Since the digital multimeter uses digital logic to measure voltage, rather than a magnetic field induced by the flow of current, the digital multimeter should reduce the ions 'used up' during each measurement. Furthermore the digital output measures volts to 3 decimal places, leading to reduced uncertainty and increased precision. 
 
-The original method is attached as an appendix
+\textbf{Salt Bridge}\newline
+The salt bridge was unaltered, and still made from filter paper, however, care was taken to ensure consistency in their size.
+
+\textbf{Procedure}\newline
+The electrolyte solutions were pre-mixed, labelled, and stored in sealed containers prior to the start of the experiment. This reduced the potential for errors in procedure, as well as the time it took to conduct the experiment, which reduced the influence of environmental factors, such as changes in temperature, on results.
+
 \subsection{Method}
 \textbf{Materials}
 \begin{itemize}
@@ -96,8 +124,8 @@ The original method is attached as an appendix
 	\item 20ml $KNO_3$
 	\item Petri dish
 	\item $50\textrm{ml}$ Beaker - x$2$
-	\item zinc sheet $\approx4\textrm{cm}\times6\textrm{cm}$ 
-	\item copper sheet $\approx4\textrm{cm}\times6\textrm{cm}$ 
+	\item Zinc sheet $\approx4\textrm{cm}\times6\textrm{cm}$ 
+	\item Copper sheet $\approx4\textrm{cm}\times6\textrm{cm}$ 
 	\item Emery paper
 	\item Filter paper strips $\approx 2\textrm{cm}\times10\textrm{cm}$
 	\item Digital Multimeter
@@ -107,15 +135,15 @@ The original method is attached as an appendix
 	\item 1L Distilled water
 	\item Emery paper
 \end{itemize}
-
+\newpage
 \textbf{Procedure}
+\small
 \begin{enumerate}
 	\item Pour varying amounts of $CUSO_4$ into 150ml plastic bottles and dilute with distilled water to form solutions with concentrations $1.00\textrm{M}, 0.85\textrm{M}, 0.70\textrm{M}, 0.55\textrm{M}, 0.40\textrm{M}, 0.30\textrm{M}, 0.20\textrm{M and } 0.10\textrm{M}$.
 	
 	\item Fill 8 of the 150ml plastic bottles with 30ml of 1M $ZnSO_4$ and set aside with copper solutions. 
-
 	
-	\item Polish electrodes with emery paper until they are shiny on all surfaces and then connect to alligator clips.
+	\item Polish electrodes with emery paper until they their entire surface is free of visible oxidation then connect to alligator clips.
 	
 	\item Connect alligator clips to multimeter and set to DC voltage mode.
 	
@@ -125,7 +153,7 @@ The original method is attached as an appendix
 	
 	\item Add the electrodes to the solution and record result as soon as value settles.
 	
-	\item Remove electrodes immediately and wash with distilled water. Stir electrolyte solutions with a glass stir rod. Remove salt bridge and dispose.
+	\item Remove electrodes immediately and wash with distilled water. Stir electrolyte solutions with a glass stir rod. Remove salt bridge and dispose of.
 	
 	\item Reconstruct cell with a new salt bridge, add electrodes back, and repeat measurementation so that there are three trials in total for any given concentration.
 	
@@ -133,11 +161,82 @@ The original method is attached as an appendix
 \end{enumerate}
 
 \subsection{Risk assessment}
-Insert risk assessment
+\tiny
+\begin{tabular}{|p{3cm}|p{4cm}|p{4.5cm}|p{4cm}|}
+
+	\hline
+	\textbf{Item/Substance} & \textbf{Potential Hazards} & \textbf{Standard Handling Procedures} & \textbf{Disposal} \\
+	\hline
+	Alligator clip with lead & Clip may cause pain and injury if applied to skin. & & \\
+	\hline
+	Glass beaker & Breakage of beaker. Cuts from chipped rims. & Inspect and discard any chipped or cracked beakers. Sweep up broken glass with brush and dustpan; do not use fingers. & \\
+	\hline
+	Metal tweezers & Can be used as a weapon if long and sharply pointed. & & \\
+	\hline
+	Disposable plastic gloves & May easily be punctured, allowing entry of liquid. Latex gloves may cause an allergic reaction to some people& Take care not to puncture. Check for punctures before use. Use a type of glove that is suitable for the chemicals to be used. & \\
+	\hline
+	Lab coat & \textbf{Flammable}. Sleeves may catch on objects and knock them over. & & \\
+	\hline
+	Safety glasses & Scratched or dirty glasses may hinder vision, causing headaches during prolonged use. & \textbf{Each person should preferably have own safety glasses}. Check and, if necessary, clean glasses before each use.. & \\
+	\hline
+	Filter paper & \textbf{Flammable}. \textbf{Used filter paper may contain harmful residues}. & After use, dispose of residue and filter paper appropriately. & Dispose of residue and filter paper appropriately. \\
+	\hline
+	Aluminum (pieces) & Not toxic. \textbf{Sharp points and edges may cause injury to skin and eyes}. & & \textbf{May be placed in the garbage}. \\
+	\hline
+	Copper (sheet) & Not toxic. & & $<$1 kg/day may be placed in the garbage. Larger quantities should be retained for collection by a waste service or metal recycler. \\
+	\hline
+	Copper(II) sulfate ($>$0.94 M) & \textbf{Toxic}. \textbf{Irritates skin and eyes}. & $<$5 mL/day may be poured down the drain. Larger quantities should be placed in a Copper waste container. &\\
+	\hline
+	Iron (nails) & Not toxic. Usually mild steel. Sharp edges and points may cause injury. & Store in a dry location to prevent rusting of iron surfaces. & \textbf{May be placed in the garbage}. \\
+	\hline
+
+
+	Iron(III) chloride ($>$0.93 M) (ferric chloride) & \textbf{CORROSIVE TO SKIN, EYES AND LUNGS}. May be corrosive to metals. \textbf{Harmful if swallowed}. Causes skin irritation. \textbf{Causes serious eye damage}. & Solubility $\sim$550 g/L at 20$^\circ$C. Undergoes hydrolysis at low concentrations with precipitation of iron(III) hydroxide. & $<$200 mL/day may be poured into 10 times the volume of water and poured down the drain in a stream of water. \\
+	\hline
+		Zinc (pieces) & Not toxic to humans. & & \textbf{May be placed in the garbage}. \\
+	\hline
+	Zinc nitrate (0.79-1 M) & \textbf{Toxic}. \textbf{Irritates skin, eyes and lungs}. \textbf{Harmful if swallowed}. Causes skin irritation. \textbf{Causes serious eye irritation}. \textbf{Very toxic to aquatic life with long lasting effects}. & & $<$5 mL/day may be diluted with 10 times the volume of water and poured down the drain. Larger quantities should be placed in a Zinc waste container. \\
+	\hline
+	Potassium nitrate (0.1-1 M) & \textbf{May irritate eyes and skin}. GHS data: Not classified as a hazardous chemical. & & $<$1 L/day may be poured down the drain in a stream of water. \\
+	\hline
+	Aluminum nitrate ($>$0.5 M) & \textbf{Irritates skin and eyes, due to acidity} as a result of reaction with water. \textbf{Causes mild skin irritation}. & & $<$100 mL/day may be added slowly with stirring to 20 times the mass of water, then poured down the drain in a stream of water. \\
+	\hline
+	Spatula & Properties depend on spatula material. A nickel spatula may cause an allergic skin reaction, especially if used repeatedly. & People with nickel allergy should wear gloves if using a nickel spatula. & \\
+	\hline
+	Wash bottle & May be used to spray others. & Preferably use distilled water. Change water regularly to avoid microbial growth. & \\
+	\hline
+\end{tabular}
+\newpage
+\normalsize
 
 \section{Results}
-
-
+\begin{figure}[h]
+	\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+	\hline
+	[$CuSO_4$] & \multicolumn{3}{|c|}{Voltage}   & Mean & sigma \\
+	\hline
+	& Trial 1 & Trial 2 & Trial 3 &  &  \\
+	\hline
+	1 & 0.703 & 0.678 & 0.661 & 0.681 & 0.021 \\
+	\hline
+	0.85 & 0.664 & 0.623 & 0.488 & 0.592 & 0.088 \\
+	\hline
+	0.7 & 0.557 & 0.455 & 0.472 & 0.495 & 0.051 \\
+	\hline
+	0.55 & 0.457 & 0.422 & 0.413 & 0.431 & 0.022 \\
+	\hline
+	0.4 & 0.438 & 0.412 & 0.416 & 0.422 & 0.013 \\
+	\hline
+	0.3 & 0.498 & 0.47 & 0.476 & 0.481 & 0.014 \\
+	\hline
+	0.2 & 0.458 & 0.487 &  {\color{red}0.399} & 0.4725 & 0.0145 \\
+	\hline
+	0.1 & 0.405 & 0.456 & 0.463 & 0.441 & 0.029 \\
+	\hline
+\end{tabular}
+\caption{Raw data with calculations. Outliers (highlighted in {\color{red} red}) \textbf{not} included in calculations}
+\end{figure}
 \begin{figure}[h]
 	\centering
 \begin{tikzpicture}
@@ -157,8 +256,61 @@ Insert risk assessment
 	\legend{Raw data (outliers removed), Line of Best Fit}
 	\end{axis}
 \end{tikzpicture}
-\caption{Raw results with outliers removed with line of best fit.}
+\caption{Raw results (outliers removed) with linear line of best fit.}
 \end{figure}
+
+\begin{figure}[h]
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[xmin=0, xmax=1.1, ymin=0.322, ymax=0.78, axis lines=left, scale mode=stretch to fill, width=0.8\paperwidth, height=6cm, xtick distance=0.1, ytick distance=0.2, legend pos=north west]
+			\addplot[only marks, mark=*, color=black]
+			coordinates {
+				(1, 0.680666666666667)
+				(0.85, 0.591666666666667)
+				(0.55, 0.430666666666667)
+				(0.4, 0.422)
+				(0.3, 0.481333333333333)
+				(0.2, 0.448)
+				(0.1, 0.441333333333333)
+			};
+			\addplot[no markers, blue, domain=0:1.1, samples=100, xlabel=] {0.567271+0.0732001*ln(x)};
+			\node [anchor=south west,inner ysep=3cm, inner xsep=1.5cm, color=blue] {$y=0.567271+0.0732001\cdot\ln\left(x\right)$};
+			\legend{Raw data (outliers removed), Line of Best Fit}
+		\end{axis}
+	\end{tikzpicture}
+	\caption{Raw results (outliers removed) with logarithmic line of best fit.}
+\end{figure}
+
+
+\subsection{Analysis of Evidence}
+The scatter plot produced using experimental data suggests a linear relationship. Using desmos, a linear regression can be utilised to find the line of best fit. 
+
+
+
+
+
+Theory would suggest it should be logarithmic 
+
+if we substitute the parameters of the nirnst equation (this part needs more working)
+
+consider half equation $Cu^{2+}+Zn \rightarrow Zn^{2+} + Cu$ \textbf{(possibly show how half equation is derived)}
+
+finding Q: Since Cu2+ and Zn2+ are the only aqueous parts of each side of the half equation, they're the only ones counted
+there's a linear relationship
+
+\begin{align*}
+	(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{[Zn^{2+}]}{[Cu^{2+}]}\\
+	=(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{1}{1}
+	&=0.907960129242\textrm{V}
+\end{align*}
+
+
+GRAPH COMPARING THEM
+
+another trend observed was lowering voltage over trials 
+
+
+
 
 \begin{figure}[h]
 	\centering
@@ -203,14 +355,22 @@ Insert risk assessment
 		-0.0192471*x+0.540788
 		};
 
-		\node[anchor=south west, inner ysep=2cm, inner xsep=8.7cm]{$y=-0.0192471*x+0.540788$};
+		\node[anchor=south west, inner ysep=2cm, inner xsep=8.7cm]{$y=-0.0192471x+0.540788$};
 		
 			\legend{Trial 1 Results, Trial 2 Results, Trial 3 Results, Line of Best Fit};
 	\end{axis}
 \end{tikzpicture}
-\caption{Line of best fit for voltage over sequential trials}
+\caption{Line of best fit for voltage over sequential trials (outliers removed)}
 \end{figure}
+\section{Discussion}
 
+\subsection{Improvements}
+Sources of error/improvements
 
-
+\begin{itemize}
+	\item Aligator clips in solution (floating voltage)
+	\item Inconsistient measurement time. (outlier is main case of this)
+	\item aligator clips sitting in puddle of electrolyte
+	\item 
+\end{itemize}
 \end{document}
