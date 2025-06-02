@@ -29,7 +29,7 @@
 	\begin{titlepage}
 		
 		
-		\title{Determining the effect of electrolyte concentration of the voltage produced by galvanic cells}
+		\title{test Determining the effect of electrolyte concentration of the voltage produced by galvanic cells}
 		
 		\author{Noah Alexiou}
 		
@@ -58,9 +58,7 @@
 
 	\textbf{Half Cells}
 	
-	Half cells consists of an electrolyte solution and electrode. When two are connected through a load and a salt  bridge, one of these half cells will become the anode, where oxidation occurs, and the other will become the cathode, where reduction occurs.
-	
-	The oxidised cell will transfer its electrons across a wire, where they will then reach and be accepted by the reduced cell.
+	Half cells consists of an electrolyte solution and electrode. When two are connected through a load and a salt  bridge, one of these half cells will become the anode, where oxidation occurs, and the other will become the cathode, where reduction occurs. The oxidised cell will transfer its electrons across a wire, where they will then reach and be accepted by the reduced cell.
 	
 	Each cell has its own standard electrode potential ($E^0$) which dictates the magnitude of electron emission, or attraction it has under standard lab conditions. 
 	
@@ -70,17 +68,11 @@
 	E^0_{\textrm{ Cell}}=E^0_{\textrm{ Cathode}}-E^0_{\textrm{ Anode}}
 	$$
 	
-	
-	
-	\textbf{todo}\newline
-	What is the result of this?
-	
-	Why does this happen
-
+	For this experiment, the half cells will be made up of zinc and copper, which have $E^0$ values of $-0.7618$V, and $+0.3419$V respectivley. This will give a theoretical voltage, under standard conditions, of: $$(0.3419-(-0.7618))=1.1037\textrm{V}$$
 
 	\textbf{The Nernst Equation}\newline
-	The Nernst equation is a mathematical equation that allows the theoretical voltage potential of a cell under varying temperatures and concentrations to be quantified.
-	
+	The Nernst equation is a mathematical equation that allows the theoretical voltage potential of a cell to be quantified under non-standard conditions. While factors such as temperature and pressure throughout the experiment were not modified, the reaction quotent $(Q)$ was indirectly alterred by the change in $[CuSO_4]$. 
+\newline The Nernst equation can be defined as:
 	$$
 	E=E^0 - \frac{RT}{nF}\cdot \ln(Q)
 	$$
@@ -94,7 +86,13 @@
 		\item $z$ = Number of moles of electrons transferred
 		\item $Q$ = Reaction Quotient
 		
+
 	\end{itemize}
+Substituting 
+\begin{align*}
+E=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\cdot\ln\frac{[Zn^{2+}]}{[Cu^{2+}]}\\
+E=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\cdot\ln\frac{1}{[Cu^{2+}]} \because [Zn^{2+}]\textrm{ remains constant}
+\end{align*}
 \section{Methodology}
 \subsection{Modifications}
 
@@ -300,7 +298,7 @@ there's a linear relationship
 
 \begin{align*}
 	(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{[Zn^{2+}]}{[Cu^{2+}]}\\
-	=(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{1}{1}
+	=(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{1}{1}\\
 	&=0.907960129242\textrm{V}
 \end{align*}
 
