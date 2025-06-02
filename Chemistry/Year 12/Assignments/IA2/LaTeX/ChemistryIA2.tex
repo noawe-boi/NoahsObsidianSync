@@ -29,7 +29,7 @@
 	\begin{titlepage}
 		
 		
-		\title{test Determining the effect of electrolyte concentration of the voltage produced by galvanic cells}
+		\title{Determining the effect of electrolyte concentration of the voltage produced by galvanic cells}
 		
 		\author{Noah Alexiou}
 		
@@ -68,13 +68,15 @@
 	E^0_{\textrm{ Cell}}=E^0_{\textrm{ Cathode}}-E^0_{\textrm{ Anode}}
 	$$
 	
-	For this experiment, the half cells will be made up of zinc and copper, which have $E^0$ values of $-0.7618$V, and $+0.3419$V respectivley. This will give a theoretical voltage, under standard conditions, of: $$(0.3419-(-0.7618))=1.1037\textrm{V}$$
+	For this experiment, the half cells will be made up of zinc and copper, which have $E^0$ values of $-0.7618$V, and $+0.3419$V respectively. Cell's with this composition are also known as "Daniel Cell's", and will have a theoretical voltage, under standard conditions, of: $$(0.3419-(-0.7618))=1.1037\textrm{V}$$
+	
+	
 
 	\textbf{The Nernst Equation}\newline
-	The Nernst equation is a mathematical equation that allows the theoretical voltage potential of a cell to be quantified under non-standard conditions. While factors such as temperature and pressure throughout the experiment were not modified, the reaction quotent $(Q)$ was indirectly alterred by the change in $[CuSO_4]$. 
+	The Nernst equation is a mathematical equation that allows the theoretical voltage potential of a cell to be quantified under non-standard conditions. While factors such as temperature and pressure throughout the experiment were not modified, the reaction quotient $(Q)$ was indirectly altered by the change in $[CuSO_4]$. 
 \newline The Nernst equation can be defined as:
 	$$
-	E=E^0 - \frac{RT}{nF}\cdot \ln(Q)
+	E_{\textrm{cell}}=E^0 - \frac{RT}{nF}\cdot \ln(Q)
 	$$
 	Where:
 	\begin{itemize}
@@ -90,9 +92,38 @@
 	\end{itemize}
 Substituting 
 \begin{align*}
-E=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\cdot\ln\frac{[Zn^{2+}]}{[Cu^{2+}]}\\
-E=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\cdot\ln\frac{1}{[Cu^{2+}]} \because [Zn^{2+}]\textrm{ remains constant}
+E_{\textrm{cell}}=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\cdot\ln\frac{[Zn^{2+}]}{[Cu^{2+}]}\\
+E_{\textrm{cell}}=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\cdot\ln\frac{1}{[Cu^{2+}]} \because [Zn^{2+}]\textrm{ remains constant}
 \end{align*}
+
+\begin{figure}
+
+	\centering
+
+	\begin{tikzpicture}
+		\begin{axis}[xmin=0, xmax=2, ymin=1.03, xlabel=${ \left[Cu^{2+}\right] }$, ylabel=$E_{\textrm{cell}}$, width=0.8\paperwidth, height=6cm]
+			\addplot
+		[
+		samples=2000, smooth
+		]
+		{
+				(0.3419+0.7618)-((8.31446261815324*298)/(2*96485))*ln(x^(-1))
+		};
+		\end{axis}
+		
+	\end{tikzpicture}
+ 
+		\caption{The theoretical relationship between $E_{\textrm{cell}}$ and $[Cu^{2+}]$}
+		\label{ogLog}
+\end{figure}
+\newpage
+Considering figure \ref{ogLog}, the theoretical change in $E_\textrm{cell}$ is minuscule in comparison to the change in $[Cu^{2+}]$. The when the $x$-axis increases from 0.5 to 1, a change of only $0.009$V is observed. If the relationship is further considered, with domain [0.5, 2], increasing concentration by a factor of 4 only results in an an additional $0.018$V. It was questioned whether this relationship held true, especially as $\lim\limits_{x\to 0}$.
+
+Investigation of $[Cu^{2+}]=[0, 1]$ would theoretically be the most distinguishable from a logarithmic relationship if it differs due to the distinct curve observed in the area. 
+
+Clearly $[Zn^{2+}]=[Cu^{2+}]\neq 0$, as this would either result in a division by 0, or $\ln(0)$, which are both undefined. 
+\subsection{Research Question}
+How does altering $[CuSO_4]$ at low concentrations (0-1 mol) affect its voltage output, and does the observed relationship follow the theoretical relationship when applying the Nernst equation.
 \section{Methodology}
 \subsection{Modifications}
 
