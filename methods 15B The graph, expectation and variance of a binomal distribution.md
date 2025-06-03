@@ -4,11 +4,14 @@ tags:
   - topic
   - notes
 ---
+
+
+
 ### Foundational Concepts
 #### Expected values
 For a given trial for a variable, we have 
 $$E(x)=P$$
-$$Var(x)=1-p$$
+$$\Var(x)=1-p$$
 
 ### Big ideas and concepts
 #### Number of successes

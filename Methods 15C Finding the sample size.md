@@ -7,7 +7,6 @@ tags:
 ### Foundational Concepts
 $E(x)=np$
 Var$(x)=np(p-1)$
-
 ### Big ideas and concepts
 #### Finding trials 
 Determining how many trials are required to reach a given level of probability entrails solving an equation with known indices. 
