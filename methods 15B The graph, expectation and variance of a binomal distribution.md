@@ -4,9 +4,6 @@ tags:
   - topic
   - notes
 ---
-
-
-
 ### Foundational Concepts
 #### Expected values
 For a given trial for a variable, we have 
