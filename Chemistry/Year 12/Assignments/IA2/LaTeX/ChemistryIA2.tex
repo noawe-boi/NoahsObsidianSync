@@ -68,7 +68,7 @@
 	E^0_{\textrm{ Cell}}=E^0_{\textrm{ Cathode}}-E^0_{\textrm{ Anode}}
 	$$
 	
-	For this experiment, the half cells will be made up of zinc and copper, which have $E^0$ values of $-0.7618$V, and $+0.3419$V respectively. Cell's with this composition are also known as "Daniel Cells", and will have a theoretical voltage, under standard conditions, of: $$(0.3419-(-0.7618))=1.1037\textrm{V}$$
+	For this experiment, the half cells will be made up of zinc and copper, which have $E^0$ values of $-0.7618$V, and $+0.3419$V respectively. Cell's with this composition are also known as "Daniell Cells", and will have a theoretical voltage, under standard conditions, of: $$(0.3419-(-0.7618))=1.1037\textrm{V}$$
 	
 	
 
@@ -119,9 +119,14 @@ E_{\textrm{cell}}=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}&\
 \newpage
 Considering Figure \ref{ogLog}, the theoretical change in $E_\textrm{cell}$ is minuscule in comparison to the change in $[Cu^{2+}]$. When the $x$-axis increases from 0.5 to 1, a change of only $0.009$V is observed. If the relationship is further considered, with domain [0.5, 2], increasing concentration by a factor of 4 only results in an an additional $0.018$V. It was questioned whether this relationship held true, especially as $\lim\limits_{x\to 0}$.
 
-Investigation of $[Cu^{2+}]=(0, 1]$ would theoretically be the most distinguishable from a logarithmic relationship if the observed relationship diverges due to the distinct curve observed in the area. 
+As $Cu^{2+}$ increases from 0 to 1, it is theorised that rather than an initial climb may appear more linear. If collision theory is considered, an increase in concentration is usually linearly proportional to the rate of reaction. When the concentration of ions is increased, more reactions should be able to take place per second, therefore increasing the output of the cell. The Nernst equation suggests that increasing concentration past $\approx 1$ mol produced diminishing returns, the initial rise in voltage does not align with what you would expect considering collision theory. It is expected that doubling the concentration from 0.1 mol to 0.2 mol will result in a doubling in voltage due to 
+
+Investigation of $[Cu^{2+}]=(0, 1]$ would theoretically be the most distinguishable from a logarithmic relationship if the observed relationship diverges due to the distinct curve observed in the area.
+
+
 
 Clearly $[Zn^{2+}]=[Cu^{2+}]\neq 0$, as this would either result in a division by 0, or $\ln(0)$, which are both undefined. 
+
 \subsection{Research Question}
 How does altering $[CuSO_4]$ at low concentrations (0-1 mol) affect its voltage output, and does the observed relationship follow the theoretical relationship when applying the Nernst equation.
 \section{Methodology}
@@ -273,7 +278,19 @@ While the electrolytes utilised in this experiment are considered to be harmful 
 
 
 \subsection{Analysis of Evidence}
-The scatter plot produced using experimental data suggests a linear relationship. Using desmos, linear and logarithmic and linear lines of best fit were found.
+\textbf{Identification of relationships and trends.}\newline
+Across all trials, the voltage produced by the cell was lower than what the Nernst equation predicted. As $[CuSO_4]$ doubles from 0.1 to 0.2, $E_{cell}$ is scaled by a factor of 1.07. As it doubles again from 0.2 to 0.4,  it is observed that $E_{cell}$ scales by a factor of $0.89$, which is smaller than the initial value. Clearly further investigation is required.
+
+
+The scatter plot produced using experimental data suggests a linear relationship. Using desmos, linear and logarithmic and linear lines of best fit were found. The linear regression showed a greater correlation than the logarithmic trendline, as $R^2_\textrm{Lin}=0.6426>R^2_\textrm{Log}=0.4082$.
+
+
+Considering the components of the Nernst equation, it was considered that 
+ $$E_{\textrm{cell}}=(0.3419+0.7618)-\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{1}{[Cu^{2+}]}$$
+
+
+
+While the trend observed resembles a linear relationship, divergence from the Nernst equation is what this experiment sought out to investigate, and therefore this result is perfectly valid. It should be noted however that the data is very noisy and does not entirely point to this relationship, as $R^2_\textrm{Lin}=0.6426<1$.
 
 
 
@@ -284,6 +301,31 @@ Theory would suggest it should be logarithmic
 
 
 Compare the nerenst equation 
+
+\begin{figure}
+	
+	\centering
+	
+	\begin{tikzpicture}
+		\begin{axis}[xlabel=${ \left[Cu^{2+}\right] }$, ylabel=$E_{\textrm{cell}}$, width=0.8\paperwidth, height=6cm, xmin=0, ymin=0, xmax=1.1]
+			\addplot
+			[
+			samples=2000, smooth
+			]
+			{
+				(0.3419+0.7618)-((8.31446261815324*298)/(2*96485))*ln(x^(-1))
+			};
+			
+			
+		\addplot[no markers, blue, samples=2] {(0.236792*x) + 0.37479};
+		\end{axis}
+		
+	\end{tikzpicture}
+	
+	\caption{The theoretical relationship between $E_{\textrm{cell}}$ and $[Cu^{2+}]$}
+	\label{ogLog}
+\end{figure}
+
 
 
 \begin{figure}[h]
