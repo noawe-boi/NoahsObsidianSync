@@ -1,7 +1,7 @@
 {
   "calculationTriggerString": "=",
   "approxCalculationTriggerString": "\\approx",
-  "approxDecimalPrecision": 3,
+  "approxDecimalPrecision": 8,
   "completionTriggerKey": "Tab",
   "multiplicationSymbol": "*",
   "groupSeparator": "",
