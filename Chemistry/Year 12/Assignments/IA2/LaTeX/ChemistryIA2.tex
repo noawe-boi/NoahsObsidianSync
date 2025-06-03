@@ -329,8 +329,9 @@ there's a linear relationship
 
 \begin{align*}
 	(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{[Zn^{2+}]}{[Cu^{2+}]}\\
-	=(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{1}{1}\\
-	&=0.907960129242\textrm{V}
+	\\
+	(0.3419+0.7618)-&\frac{8.31446261815324\cdot298}{2\cdot96485}\cdot\ln\frac{1}{1}\\
+	&=1.1037\textrm{V}
 \end{align*}
 
 
@@ -342,11 +343,13 @@ another trend observed was lowering voltage over trials
 
 
 \begin{figure}[h]
+
 	\centering
 \begin{tikzpicture}
 	\centering
-	\begin{axis}[xmax=3.1, xmin=0.9, ymax=0.8, ymin=0.3, width=0.82\paperwidth, scale mode=stretch to fill, height=6cm, axis lines=box, clip=false, legend style={font=\small}, legend style={at={(0.3, 0.94)}},  xtick distance=1, xlabel={Trial Number}]
-		\addplot [only marks, color=lightgray]
+	\begin{axis}[xmax=3.1, xmin=0.9, ymax=0.8, ymin=0.3, width=0.82\paperwidth, scale mode=stretch to fill, height=8cm, axis lines=box, clip=false, legend style={font=\small}, legend style={at={(0.3, 0.94)}},  xtick distance=1, xlabel={Trial Number}]
+		
+		\addplot [only marks, color=cyan,mark options={opacity=0.3}]
 		coordinates{
 		(1, 0.703)
 		(1, 0.664)
@@ -358,7 +361,7 @@ another trend observed was lowering voltage over trials
 		(1, 0.405)
 	};
 
-		\addplot [only marks, color=black]
+		\addplot [only marks, color=black, mark options={opacity=0.3}]
 		coordinates{
 		(2, 0.678)
 		(2, 0.623)
@@ -370,7 +373,7 @@ another trend observed was lowering voltage over trials
 		(2, 0.456)
 	};
 
-		\addplot [only marks, color=blue]
+		\addplot [only marks, color=blue, mark options={opacity=0.3}]
 		coordinates{
 		(3, 0.661)
 		(3, 0.488)
@@ -380,26 +383,52 @@ another trend observed was lowering voltage over trials
 		(3, 0.476)
 		(3, 0.463)		
 		};
-		\addplot [no markers, domain=0.9:3.1]{
-		-0.0192471*x+0.540788
-		};
-
-		\node[anchor=south west, inner ysep=2cm, inner xsep=8.7cm]{$y=-0.0192471x+0.540788$};
 		
-			\legend{Trial 1 Results, Trial 2 Results, Trial 3 Results, Line of Best Fit};
+		
+		 \addplot [,
+		only marks, color=red
+		] 
+		coordinates {
+		(1, 0.5225)
+		(2, 0.500375)
+		(3, 0.484142857)		
+};
+
+	    \addplot [
+		error bars,
+		y dir=both,y explicit
+		] coordinates {
+		(1, 0.5225) +- (0.149, 0.149)
+		(2, 0.500375) +- (0.133, 0.133)
+		(3, 0.484142857) +- (0.124, 0.124)		};
+
+
+
+		\node[anchor=south west, inner ysep=4cm, inner xsep=8.7cm]{$y=-0.0192471x+0.540788$};
+		\node[anchor=south west, inner ysep=3.5cm, inner 	xsep=8.7cm]{$R^2=0.9922$};
+			
+	
+		
+
+		
+		\legend{Trial 1 Results, Trial 2 Results, Trial 3 Results, Average,LR of Average};
 	\end{axis}
 \end{tikzpicture}
-\caption{Line of best fit for voltage over sequential trials (outliers removed)}
+\caption{Line of best fit for average voltage over sequential trials (outliers removed)}
+\label{lowingVoltage}
 \end{figure}
+
+Figure \ref{lowingVoltage} depicts a trend observed where as trials continued, the voltage of each subsequent trial decreased slightly. Procedure was considered and it was theorized that this was due to reuse of the same electrolyte solution over multiple trials. The number of ions left on solution likely decreased as measurements were taken and depending on the duration of each trial and measurement phase, which is theorized to have resulted in lower voltage. While the change in voltage is only on average $-0.02$V per trial, considering $R^2=0.9922$, the linear regression has a very high correlation with the average.
+
 \section{Discussion}
 
 \subsection{Improvements}
 Sources of error/improvements
 
 \begin{itemize}
-	\item Aligator clips in solution (floating voltage)
-	\item Inconsistient measurement time. (outlier is main case of this)
-	\item aligator clips sitting in puddle of electrolyte
-	\item 
+	\item Alligator clips in solution (floating voltage)
+	\item Inconsistent measurement time. (outlier is main case of this).
+	\item Alligator clips sitting in electrolyte during experiment.
+	\item Temperature and pressure unknown on day of experimentation. This means that the nerenst equation cannot account for them. Therefore difference in between nernst equation and actual results n
 \end{itemize}
 \end{document}
