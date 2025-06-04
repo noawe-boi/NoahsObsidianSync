@@ -195,7 +195,7 @@ The electrolyte solutions were pre-mixed, labelled, and stored in sealed contain
 \end{enumerate}
 
 \subsection{Risk assessment}
-While the electrolytes utilised in this experiment are considered to be harmful if ingested or applied to a persons eyes, there is no risk of injury via inhalation or accidental skin contact as long as appropriate action is taken (ventilation, washing affected area). PPE was worn by all participants to protect their eyes (Lab goggles), body (lab coat) and hands (nitrite gloves). The electrolyte materials are also considered environmental hazards ($CuSO_4, ZnSO_4$), however since the quantities used were so low, they could safely be disposed of in the sink with after dilution.
+While the electrolytes utilised in this experiment are considered to be harmful if ingested or exposed to a persons eyes, there is no risk of injury via inhalation or accidental skin contact as long as appropriate action is taken (ventilation, washing affected area). PPE was worn by all participants to protect their eyes (Lab goggles), body (lab coat) and hands (nitrite gloves). The electrolyte materials are also considered environmental hazards ($CuSO_4, ZnSO_4$), however since the quantities used were so low, they could safely be disposed of in the sink with after dilution.
 \textit{For other risks or more details, see risk assessment table attached as an appendix.}
 
 \section{Results}
@@ -253,7 +253,7 @@ While the electrolytes utilised in this experiment are considered to be harmful 
 \begin{figure}[h]
 	\centering
 	\begin{tikzpicture}
-		\begin{axis}[xmin=0, xmax=1.1, ymin=0.322, ymax=0.78, axis lines=left, scale mode=stretch to fill, width=0.8\paperwidth, height=6cm, xtick distance=0.1, ytick distance=0.2, legend pos=north west]
+		\begin{axis}[xmin=0, xmax=1.1, ymin=0.322, ymax=0.78, axis lines=left, scale mode=stretch to fill, width=0.8\paperwidth, height=6cm, xtick distance=0.1, ytick distance=0.2, legend pos=north west, ylabel=$E_\textrm{cell}$]
 			\addplot[only marks, mark=*, color=black]
 			coordinates {
 				(1, 0.680666666666667)
@@ -282,7 +282,7 @@ While the electrolytes utilised in this experiment are considered to be harmful 
 Across all trials, the voltage produced by the cell was lower than what the Nernst equation predicted. As $[CuSO_4]$ doubles from 0.1 to 0.2, $E_{cell}$ is scaled by a factor of 1.07. As it doubles again from 0.2 to 0.4,  it is observed that $E_{cell}$ scales by a factor of $0.89$, which is smaller than the initial value. Clearly further investigation is required.
 
 
-The scatter plot produced using experimental data suggests a linear relationship. Using desmos, linear and logarithmic and linear lines of best fit were found. The linear regression showed a greater correlation than the logarithmic trendline, as $R^2_\textrm{Lin}=0.6426>R^2_\textrm{Log}=0.4082$.
+The scatter plot produced using experimental data suggests a linear relationship. Using desmos, linear and logarithmic lines of best fit were found. The linear regression showed a greater correlation than the logarithmic, as $R^2_\textrm{Lin}=0.6426>R^2_\textrm{Log}=0.4082$.
 
 
 Considering the components of the Nernst equation, it was considered that 
@@ -290,17 +290,9 @@ Considering the components of the Nernst equation, it was considered that
 
 
 
-While the trend observed resembles a linear relationship, divergence from the Nernst equation is what this experiment sought out to investigate, and therefore this result is perfectly valid. It should be noted however that the data is very noisy and does not entirely point to this relationship, as $R^2_\textrm{Lin}=0.6426<1$.
+While the trend observed resembles a linear relationship, divergence from the Nernst equation is what this experiment sought out to investigate. Therefore this result is perfectly valid. It should be noted however that the data is limited, and does not perfectly match the linear model as the $R^2$ value is poor.
+$$R^2_\textrm{Lin}=0.6426<1$$
 
-
-
-
-
-Theory would suggest it should be logarithmic 
-
-
-
-Compare the nerenst equation 
 
 \begin{figure}
 	
@@ -318,6 +310,7 @@ Compare the nerenst equation
 			
 			
 		\addplot[no markers, blue, samples=2] {(0.236792*x) + 0.37479};
+		\legend{Nerenst Equation, Experimental LR}
 		\end{axis}
 		
 	\end{tikzpicture}
