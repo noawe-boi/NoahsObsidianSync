@@ -1,8 +1,8 @@
 \contentsline {section}{\numberline {1}Rationale}{2}{}%
 \contentsline {subsection}{\numberline {1.1}Background}{2}{}%
 \contentsline {subsection}{\numberline {1.2}Research Question}{3}{}%
-\contentsline {section}{\numberline {2}Methodology}{3}{}%
-\contentsline {subsection}{\numberline {2.1}Modifications}{3}{}%
+\contentsline {section}{\numberline {2}Methodology}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Modifications}{4}{}%
 \contentsline {subsection}{\numberline {2.2}Method}{4}{}%
 \contentsline {subsection}{\numberline {2.3}Risk assessment}{5}{}%
 \contentsline {section}{\numberline {3}Results}{5}{}%
