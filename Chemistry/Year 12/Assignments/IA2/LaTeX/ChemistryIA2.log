@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.4)  4 JUN 2025 13:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.4)  5 JUN 2025 09:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4826,36 +4826,45 @@ Overfull \hbox (191.7728pt too wide) in paragraph at lines 411--412
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 428.
+
+
+Overfull \hbox (1738.90932pt too wide) in paragraph at lines 429--435
+[][] 
+ []
+
+
 
 [6]
 
 [7]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 442.
+               Default added (so using `tbp') on input line 455.
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 452--452
+Underfull \hbox (badness 1577) in paragraph at lines 465--465
 []\T1/cmr/m/n/6 Inspect and dis-card any chipped or
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 466--466
+Underfull \hbox (badness 1546) in paragraph at lines 479--479
 \T1/cmr/m/n/6 drain. Larger quan-ti-ties should be
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 472--472
+Underfull \hbox (badness 2856) in paragraph at lines 485--485
 []\T1/cmr/m/n/6 Potassium ni-trate (0.1-1
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 474--474
+Underfull \hbox (badness 6094) in paragraph at lines 487--487
 \T1/cmr/m/n/6 wa-ter reg-u-larly to avoid mi-cro-bial
  []
 
 
-Overfull \hbox (5.32083pt too wide) in paragraph at lines 445--477
+Overfull \hbox (5.32083pt too wide) in paragraph at lines 458--490
 [][] 
  []
 
@@ -4872,10 +4881,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27796 strings out of 469923
- 685763 string characters out of 5479229
- 1718552 words of memory out of 5000000
- 54135 multiletter control sequences out of 15000+600000
+ 27798 strings out of 469923
+ 685817 string characters out of 5479229
+ 1719568 words of memory out of 5000000
+ 54137 multiletter control sequences out of 15000+600000
  653313 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,19n,93p,1053b,2453s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4906,7 +4915,7 @@ ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb
 >
-Output written on ChemistryIA2.pdf (9 pages, 334851 bytes).
+Output written on ChemistryIA2.pdf (9 pages, 335627 bytes).
 PDF statistics:
  575 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
