@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.4)  5 JUN 2025 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.4)  5 JUN 2025 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4827,10 +4827,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 428.
+               Default added (so using `tbp') on input line 429.
 
 
-Overfull \hbox (1738.90932pt too wide) in paragraph at lines 429--435
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.429 \begin{table}[]
+                     
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (156.5955pt too wide) in paragraph at lines 432--440
 [][] 
  []
 
@@ -4841,30 +4853,30 @@ Overfull \hbox (1738.90932pt too wide) in paragraph at lines 429--435
 [7]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 455.
+               Default added (so using `tbp') on input line 460.
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 465--465
+Underfull \hbox (badness 1577) in paragraph at lines 470--470
 []\T1/cmr/m/n/6 Inspect and dis-card any chipped or
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 479--479
+Underfull \hbox (badness 1546) in paragraph at lines 484--484
 \T1/cmr/m/n/6 drain. Larger quan-ti-ties should be
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 485--485
+Underfull \hbox (badness 2856) in paragraph at lines 490--490
 []\T1/cmr/m/n/6 Potassium ni-trate (0.1-1
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 487--487
+Underfull \hbox (badness 6094) in paragraph at lines 492--492
 \T1/cmr/m/n/6 wa-ter reg-u-larly to avoid mi-cro-bial
  []
 
 
-Overfull \hbox (5.32083pt too wide) in paragraph at lines 458--490
+Overfull \hbox (5.32083pt too wide) in paragraph at lines 463--495
 [][] 
  []
 
@@ -4881,11 +4893,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27798 strings out of 469923
- 685817 string characters out of 5479229
- 1719568 words of memory out of 5000000
- 54137 multiletter control sequences out of 15000+600000
- 653313 words of font info for 110 fonts, out of 8000000 for 9000
+ 27818 strings out of 469923
+ 686013 string characters out of 5479229
+ 1718568 words of memory out of 5000000
+ 54148 multiletter control sequences out of 15000+600000
+ 657320 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,19n,93p,1053b,2453s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\gc021263\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
@@ -4915,7 +4927,7 @@ ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb
 >
-Output written on ChemistryIA2.pdf (9 pages, 335627 bytes).
+Output written on ChemistryIA2.pdf (9 pages, 334855 bytes).
 PDF statistics:
  575 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
