@@ -418,8 +418,8 @@
     {
       "type": "highlighter",
       "freedrawOnly": true,
-      "strokeColor": "#FFC47C",
-      "backgroundColor": "#FFC47C",
+      "strokeColor": "#7aff7d",
+      "backgroundColor": "#73f176",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "roughness": null,
