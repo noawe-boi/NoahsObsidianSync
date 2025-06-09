@@ -23,7 +23,8 @@ Carbon-Carbon double bond
 Propene - $C_3H_6$
 or
 $CH_2CHCH_3$
-Since one hydrogen in the middle is used up, and one on the left is used up, clearly the double bond is between the two $CH$ molecules with discrepancies
+Since one hydrogen in the middle is used up, and one on the left is used up, clearly the double bond is between the two $CH$ molecules with discrepancies. 
+==Remember that carbon only has 4 bonding electrons==
 ![[Pasted image 20250609095030.png]]
 
 ### Common Alkenes (and their double bonds)
@@ -33,3 +34,4 @@ Propene - $C_3H_6$
 
 Butene - $C_4H_8$
 Pentene - $C_5H_{10}$
+
