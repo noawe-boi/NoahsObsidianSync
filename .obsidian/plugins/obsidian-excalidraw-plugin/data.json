@@ -388,7 +388,7 @@
       "type": "finetip",
       "freedrawOnly": false,
       "fillStyle": "hachure",
-      "strokeWidth": 1,
+      "strokeWidth": 0.5,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,

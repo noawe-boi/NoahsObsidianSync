@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
   "cssTheme": "RetroOS 98",
-  "textFontFamily": "w95a,CMU Concrete",
-  "interfaceFontFamily": "w95fa",
+  "textFontFamily": "CMU Concrete,W95FA",
+  "interfaceFontFamily": "W95FA",
   "baseFontSizeAction": true,
   "baseFontSize": 22,
   "accentColor": "#132e72",
