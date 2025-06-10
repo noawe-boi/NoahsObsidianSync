@@ -1,11 +1,11 @@
 {
   "theme": "moonstone",
   "cssTheme": "RetroOS 98",
-  "textFontFamily": "CMU Concrete",
-  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "w95a,CMU Concrete",
+  "interfaceFontFamily": "w95fa",
   "baseFontSizeAction": true,
   "baseFontSize": 22,
-  "accentColor": "",
+  "accentColor": "#132e72",
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Andale Mono"
 }
