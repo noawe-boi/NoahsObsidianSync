@@ -10,5 +10,42 @@
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": "Chemistry"
+    },
+    {
+      "folder": "Personal Notes"
+    },
+    {
+      "folder": "Maths Methods"
+    },
+    {
+      "folder": "Maths Concepts"
+    },
+    {
+      "folder": "Images"
+    },
+    {
+      "folder": "Excalidraw"
+    },
+    {
+      "folder": "English"
+    },
+    {
+      "folder": "Daily Notes"
+    },
+    {
+      "folder": "Physics"
+    },
+    {
+      "folder": "Templates"
+    },
+    {
+      "folder": "Specialist Maths"
+    },
+    {
+      "folder": "Templates"
+    }
+  ]
 }
