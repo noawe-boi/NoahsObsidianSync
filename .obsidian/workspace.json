@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fd05c2f1a8bacdae",
+        "id": "152da000a30ee685",
         "type": "tabs",
         "children": [
           {
-            "id": "25013df8b7d53802",
+            "id": "5ba6b39a822388da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
+                "file": "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11B Derivatives of inverse trigonometric functions"
+              "title": "Methods 16A Indroduction to continuous random variables"
+            }
+          },
+          {
+            "id": "899cb535859bab27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Concepts/Probability Density Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability Density Function"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +214,14 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "25013df8b7d53802",
+  "active": "899cb535859bab27",
   "lastOpenFiles": [
+    "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
+    "Maths Concepts/Probability Density Function.md",
+    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
+    "Daily Notes/09-06-2025.md",
+    "Daily Notes/10-06-2025.md",
+    "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
     "Excalidraw/11B Derivatives of inverse trigonometric functions 2025-06-10 09.58.25.excalidraw.md",
     "Maths Concepts/Derivatives of inverse trig functions.md",
     "Maths Concepts/The cosine rule.md",
@@ -217,17 +238,11 @@
     "Maths Concepts/Substituents.md",
     "11B Derivatives of inverse trigonometric functions.md",
     "Recording 20250603134811.m4a",
-    "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
     "Chemistry/Year 12/Notes/Acid - Base pH Indicators.md",
     "Unfiltered/ADF Meeting Notes.md",
     "Unfiltered/ADF Requirements.md",
     "Chemistry/Year 12/Notes/Alkene.md",
     "Physics/Year 12/Notes/Alpha Decay.md",
-    "Physics/Year 12/Notes/Alpha Particle.md",
-    "Specialist Maths/Year 12/Notes/Area of a parralellogram.md",
-    "Unfiltered/Arthur Trip July.md",
-    "Chemistry/Year 12/Notes/Carbon.md",
-    "Chemistry/Year 12/Notes/Carbon Hydrogen Bond Simplification.md",
     "Unfiltered/gitkey.pub",
     "Unfiltered/Recording 20250603134811.m4a",
     "Unfiltered/Recording 20250604093637.m4a",
