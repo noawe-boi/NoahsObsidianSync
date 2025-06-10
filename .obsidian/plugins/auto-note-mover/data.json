@@ -7,6 +7,31 @@
       "folder": "Maths Concepts",
       "tag": "#maths",
       "pattern": ""
+    },
+    {
+      "folder": "Specialist Maths/Year 12/Notes",
+      "tag": "#Specialist",
+      "pattern": ""
+    },
+    {
+      "folder": "Chemistry/Year 12/Notes",
+      "tag": "#chem",
+      "pattern": ""
+    },
+    {
+      "folder": "Maths Methods/Year 12/Notes",
+      "tag": "#methods",
+      "pattern": ""
+    },
+    {
+      "folder": "English/Year 12/ExcerCises",
+      "tag": "#english",
+      "pattern": ""
+    },
+    {
+      "folder": "Physics/Year 12/Notes",
+      "tag": "#physics",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

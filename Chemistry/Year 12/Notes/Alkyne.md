@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### What are Alkynes
 [[Hydrocarbon]]s that contain triple bonds
 ### General Formula

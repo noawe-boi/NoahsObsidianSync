@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### ![[Substituents]]
 
 
