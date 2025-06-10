@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 #### What are hydrocarbons?
 As the same suggests:
 **Hydrocarbons** are made up of *hydrogen* and *carbon* atoms. 

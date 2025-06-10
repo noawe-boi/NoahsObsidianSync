@@ -7,7 +7,7 @@ tags:
 ### What are Alkanes?
 ![[Pasted image 20250609092115.png|200]]![[Pasted image 20250424122823.png]]
 
-Alkanes are [[hydrocarbon]]s in which all the bonds are single bonds
+Alkanes are [[Hydrocarbon]]s in which all the bonds are single bonds
 
 
 #### Formula

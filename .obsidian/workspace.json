@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "add52bbe37970694",
+    "type": "split",
+    "children": [
+      {
+        "id": "152da000a30ee685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba6b39a822388da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Methods 16A Indroduction to continuous random variables"
+            }
+          },
+          {
+            "id": "fe4b15776391606c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unfiltered/Senior Assassin Video.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Senior Assassin Video"
+            }
+          },
+          {
+            "id": "899cb535859bab27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Concepts/Probability Density Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability Density Function"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "947445a76e56b523",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d990d7a11d6792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aecfddddd081bce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9fd939c2330e9f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfc720cc9b7e781b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e57394f63ae8436a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be33416ae6a22d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc6d8aa8a139d7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pgfplot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pgfplot"
+            }
+          },
+          {
+            "id": "22f7cbca90f425ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pgfplot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from pgfplot"
+            }
+          },
+          {
+            "id": "553b08042e40f443",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3548772d3a5c8ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "843642270218aad0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pgfplot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pgfplot"
+            }
+          },
+          {
+            "id": "642620b8a7d6e9fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "janitor:Janitor: scan vault": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "fe4b15776391606c",
+  "lastOpenFiles": [
+    "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
+    "Unfiltered/Senior Assassin Video.md",
+    "Maths Concepts/Probability Density Function.md",
+    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
+    "Daily Notes/09-06-2025.md",
+    "Daily Notes/10-06-2025.md",
+    "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
+    "Excalidraw/11B Derivatives of inverse trigonometric functions 2025-06-10 09.58.25.excalidraw.md",
+    "Maths Concepts/Derivatives of inverse trig functions.md",
+    "Maths Concepts/The cosine rule.md",
+    "Maths Concepts/The Unit Circle.md",
+    "Chemistry/Year 12/Notes/Hydrocarbon Locants and Substituents.md",
+    "Chemistry/Year 12/Notes/Alkyne.md",
+    "Chemistry/Year 12/Notes/Isomers of Alkynes.md",
+    "Chemistry/Year 12/Notes/Isomer.md",
+    "Unfiltered/electron volt .md",
+    "Chemistry/Year 12/Notes/Isomers of Alkanes.md",
+    "Maths Concepts/Multiplication Rule of Probability.md",
+    "English/Year 12/ExcerCises/English IA3 2025 - The Drovers Wife.md",
+    "Chemistry/Year 12/Notes/Hydrocarbon.md",
+    "Maths Concepts/Substituents.md",
+    "11B Derivatives of inverse trigonometric functions.md",
+    "Recording 20250603134811.m4a",
+    "Chemistry/Year 12/Notes/Acid - Base pH Indicators.md",
+    "Unfiltered/ADF Meeting Notes.md",
+    "Unfiltered/ADF Requirements.md",
+    "Chemistry/Year 12/Notes/Alkene.md",
+    "Unfiltered/gitkey.pub",
+    "Unfiltered/Recording 20250603134811.m4a",
+    "Unfiltered/Recording 20250604093637.m4a",
+    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
+    "Physics/Year 12/Notes",
+    "Unfiltered",
+    "{DC78A1CC-5A7A-4434-A38A-E434050292BE}.png",
+    "{CA33C371-501E-4DD7-BBE1-8A96CFB52F2A}.png",
+    "{BAF88F00-9578-407B-9594-BF35445CDFE5}.png",
+    "{AB2CD9F2-5763-4F10-9EB3-B24503E1975E}.png",
+    "{93FFA240-4D5F-49D5-827B-B887468C18A1}.png",
+    "{8A1F02C7-3A16-4488-B4F5-7E6A02312898}.png",
+    "{871C2145-AC9F-46C8-BDBD-9D9CEDC2A648}.png",
+    "{61A80927-7527-4B8C-B03D-2AC35088E592}.png",
+    "{52037130-1198-4678-A311-730570BE73B6}.png",
+    "{32F55004-F278-456C-8353-4F136DE98F1C}.png",
+    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)",
+    "Chemistry/Year 12/Assignments/IA2/Results/lu54818evi3k.tmp",
+    "Chemistry/Year 12/Assignments/IA2/LaTeX/refrences.bib~",
+    "Chemistry/Year 12/Assignments/IA2/LaTeX/refrences.bib"
+  ]
+}

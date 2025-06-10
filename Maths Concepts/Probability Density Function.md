@@ -15,7 +15,7 @@ The probability of a set of values occurring is the area underneath the curve be
 $$
 \begin{align}
 \textrm{if X is a continiously random}&\textrm{ variable, with density function }f\\
-Pr(Aa<X<b)=&\int^b_af(x) dx
+Pr(a<X<b)=&\int^b_af(x) dx
 
 \end{align}
 $$

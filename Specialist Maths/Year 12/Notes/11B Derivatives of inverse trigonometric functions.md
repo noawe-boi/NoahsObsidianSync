@@ -1,3 +1,7 @@
+---
+tags:
+  - Specialist
+---
 ### Foundational Concepts
 #### Remember:
 $\sin^{-1}(x), \cos^{-1}(x), \tan^{-1}(x)$ are the angles that give the ratios.
