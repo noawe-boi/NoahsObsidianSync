@@ -247,29 +247,28 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "janitor:Janitor: scan vault": false,
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "3b57a80abc4f3883",
+  "active": "4c8d573686d106d1",
   "lastOpenFiles": [
+    "Excalidraw/Chemistry Check Your Learning 9.1.md",
+    "Images/IUPAC Naming 2025-06-11 13.41.44.excalidraw.md",
+    "Chemistry/Year 12/Notes/IUPAC Naming.md",
+    "Chemistry/Year 12/Notes/Tips for Hydrocarbon Locants and Substituents.md",
+    "Daily Notes/11-06-2025.md",
     "Images/{8ADF0DAB-6249-4C64-B3E4-531163C5F410}.png",
     "Images/{57CBAC60-FB36-4659-A1D4-14F7F6B3B4D2}.png",
     "Chemistry/Year 12/Notes/Alkyne.md",
-    "Excalidraw/Chemistry Check Your Learning 9.1.md",
     "Chemistry/Year 12/Notes/Alkene.md",
     "Images/{264A1A0E-FB06-4DD6-B256-30E3B28D6269}.png",
     "Images/{65AA3322-18CB-4E34-A7AD-8D574275836E}.png",
     "Images/{8EDCB95D-DCB1-4352-9F49-2F9AC5316DD5}.png",
-    "Images/IUPAC Naming 2025-06-11 13.41.44.excalidraw.md",
-    "Chemistry/Year 12/Notes/IUPAC Naming.md",
-    "Chemistry/Year 12/Notes/Tips for Hydrocarbon Locants and Substituents.md",
     "Chemistry/Year 12/Notes/Hydrocarbon Locants and Substituents.md",
     "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Daily Notes/11-06-2025.md",
     "English/Year 12/ExcerCises/English IA3 2025 - The Drovers Wife.md",
     "Unfiltered/Antimatter.md",
     "Unfiltered/Physics IA3 2025.md",
@@ -303,7 +302,6 @@
     "Images/{E8B99D1F-51B2-48ED-B50D-FF0FE410E2F5}.png",
     "Images/{E553DB22-8A1E-47BB-AED5-E8276FD4C5AD}.png",
     "Images/{E4FCA64A-8E8A-473D-BB3B-CDFFDA1FA661}.png",
-    "Images/{E18727E3-9824-47E8-B22A-44456FEB21AE}.png",
     "English Year 12 FA2 Canvas.canvas"
   ]
 }
