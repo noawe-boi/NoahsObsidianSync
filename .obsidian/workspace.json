@@ -1,70 +1,94 @@
 {
   "main": {
-    "id": "add52bbe37970694",
+    "id": "69f360e7e4bc0751",
     "type": "split",
     "children": [
       {
-        "id": "152da000a30ee685",
+        "id": "a325c1d3f6899e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba6b39a822388da",
+            "id": "9a016db2d33bdacc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
+                "file": "Daily Notes/11-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 16A Indroduction to continuous random variables"
+              "title": "11-06-2025"
             }
           },
           {
-            "id": "fe4b15776391606c",
+            "id": "820a3af62cd11aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unfiltered/Senior Assassin Video.md",
+                "file": "Chemistry/Year 12/Notes/Tips for Hydrocarbon Locants and Substituents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Senior Assassin Video"
+              "title": "Tips for Hydrocarbon Locants and Substituents"
             }
           },
           {
-            "id": "899cb535859bab27",
+            "id": "e24419e30d09fa3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Concepts/Probability Density Function.md",
+                "file": "Chemistry/Year 12/Notes/IUPAC Naming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability Density Function"
+              "title": "IUPAC Naming"
+            }
+          },
+          {
+            "id": "c8017199d6a2c288",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/IUPAC Naming 2025-06-11 13.41.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "IUPAC Naming 2025-06-11 13.41.44.excalidraw"
+            }
+          },
+          {
+            "id": "3b57a80abc4f3883",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Chemistry Check Your Learning 9.1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chemistry Check Your Learning 9.1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "947445a76e56b523",
+    "id": "fea7e0b1283446bd",
     "type": "split",
     "children": [
       {
-        "id": "66d990d7a11d6792",
+        "id": "2c97a90a51de90cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9aecfddddd081bce",
+            "id": "0f2563546948421d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,24 +101,24 @@
             }
           },
           {
-            "id": "a9fd939c2330e9f4",
+            "id": "c738260447fb4d9f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "bfc720cc9b7e781b",
+            "id": "54d38bfee573fc7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,7 +127,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,20 +136,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "e57394f63ae8436a",
+    "id": "55d782f68d4e0dd2",
     "type": "split",
     "children": [
       {
-        "id": "1be33416ae6a22d2",
+        "id": "4add3381dfd4e5df",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc6d8aa8a139d7d",
+            "id": "4caffd3a421e40ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +159,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pgfplot"
+              "title": "Backlinks for Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "22f7cbca90f425ef",
+            "id": "77afacabc248446e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pgfplot"
+              "title": "Outgoing links from Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "553b08042e40f443",
+            "id": "11c049500df98f03",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +192,7 @@
             }
           },
           {
-            "id": "c3548772d3a5c8ae",
+            "id": "728ffc1fea5683fe",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,22 +206,22 @@
             }
           },
           {
-            "id": "843642270218aad0",
+            "id": "9fae3b0c1d23e538",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pgfplot"
+              "title": "Outline of Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "642620b8a7d6e9fd",
+            "id": "9e6fc8da88fdd9c4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -229,55 +254,56 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "fe4b15776391606c",
+  "active": "3b57a80abc4f3883",
   "lastOpenFiles": [
-    "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
-    "Unfiltered/Senior Assassin Video.md",
-    "Maths Concepts/Probability Density Function.md",
-    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Daily Notes/09-06-2025.md",
-    "Daily Notes/10-06-2025.md",
-    "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
-    "Excalidraw/11B Derivatives of inverse trigonometric functions 2025-06-10 09.58.25.excalidraw.md",
-    "Maths Concepts/Derivatives of inverse trig functions.md",
-    "Maths Concepts/The cosine rule.md",
-    "Maths Concepts/The Unit Circle.md",
-    "Chemistry/Year 12/Notes/Hydrocarbon Locants and Substituents.md",
+    "Images/{8ADF0DAB-6249-4C64-B3E4-531163C5F410}.png",
+    "Images/{57CBAC60-FB36-4659-A1D4-14F7F6B3B4D2}.png",
     "Chemistry/Year 12/Notes/Alkyne.md",
-    "Chemistry/Year 12/Notes/Isomers of Alkynes.md",
-    "Chemistry/Year 12/Notes/Isomer.md",
-    "Unfiltered/electron volt .md",
-    "Chemistry/Year 12/Notes/Isomers of Alkanes.md",
-    "Maths Concepts/Multiplication Rule of Probability.md",
-    "English/Year 12/ExcerCises/English IA3 2025 - The Drovers Wife.md",
-    "Chemistry/Year 12/Notes/Hydrocarbon.md",
-    "Maths Concepts/Substituents.md",
-    "11B Derivatives of inverse trigonometric functions.md",
-    "Recording 20250603134811.m4a",
-    "Chemistry/Year 12/Notes/Acid - Base pH Indicators.md",
-    "Unfiltered/ADF Meeting Notes.md",
-    "Unfiltered/ADF Requirements.md",
+    "Excalidraw/Chemistry Check Your Learning 9.1.md",
     "Chemistry/Year 12/Notes/Alkene.md",
-    "Unfiltered/gitkey.pub",
-    "Unfiltered/Recording 20250603134811.m4a",
+    "Images/{264A1A0E-FB06-4DD6-B256-30E3B28D6269}.png",
+    "Images/{65AA3322-18CB-4E34-A7AD-8D574275836E}.png",
+    "Images/{8EDCB95D-DCB1-4352-9F49-2F9AC5316DD5}.png",
+    "Images/IUPAC Naming 2025-06-11 13.41.44.excalidraw.md",
+    "Chemistry/Year 12/Notes/IUPAC Naming.md",
+    "Chemistry/Year 12/Notes/Tips for Hydrocarbon Locants and Substituents.md",
+    "Chemistry/Year 12/Notes/Hydrocarbon Locants and Substituents.md",
+    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
+    "Daily Notes/11-06-2025.md",
+    "English/Year 12/ExcerCises/English IA3 2025 - The Drovers Wife.md",
+    "Unfiltered/Antimatter.md",
+    "Unfiltered/Physics IA3 2025.md",
+    "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn",
+    "Physics/Year 12/Assignments/IA3/Sources/New folder",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Cost.url",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/New shortcut.lnk",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost",
+    "Physics/Year 12/Notes/Quark.md",
+    "Unfiltered/Elementary particles.md",
+    "Physics/Year 12/Notes/Meson.md",
+    "Physics/Year 12/Notes/Flavors of quarks.md",
+    "Physics/Year 12/Notes/Strange Quark.md",
+    "Physics/Year 12/Notes/Bottom Quark.md",
+    "Physics/Year 12/Notes/The Standard model.md",
+    "Physics/Year 12/Notes/Baryon.md",
+    "Physics/Year 12/Notes/Hadron.md",
+    "Physics/Year 12/Notes/Top Quark.md",
+    "Physics/Year 12/Notes/Charm Quark.md",
+    "Physics/Year 12/Notes/Up Quark.md",
+    "Images/Pasted image 20250611091429.png",
     "Unfiltered/Recording 20250604093637.m4a",
-    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "Unfiltered/Recording 20250603134811.m4a",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
-    "Physics/Year 12/Notes",
-    "Unfiltered",
-    "{DC78A1CC-5A7A-4434-A38A-E434050292BE}.png",
-    "{CA33C371-501E-4DD7-BBE1-8A96CFB52F2A}.png",
-    "{BAF88F00-9578-407B-9594-BF35445CDFE5}.png",
-    "{AB2CD9F2-5763-4F10-9EB3-B24503E1975E}.png",
-    "{93FFA240-4D5F-49D5-827B-B887468C18A1}.png",
-    "{8A1F02C7-3A16-4488-B4F5-7E6A02312898}.png",
-    "{871C2145-AC9F-46C8-BDBD-9D9CEDC2A648}.png",
-    "{61A80927-7527-4B8C-B03D-2AC35088E592}.png",
-    "{52037130-1198-4678-A311-730570BE73B6}.png",
-    "{32F55004-F278-456C-8353-4F136DE98F1C}.png",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)",
-    "Chemistry/Year 12/Assignments/IA2/Results/lu54818evi3k.tmp",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/refrences.bib~",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/refrences.bib"
+    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "Images/{EB639DBC-E7D1-4277-9B0C-7B7FFF0E7752}.png",
+    "Images/{E8B99D1F-51B2-48ED-B50D-FF0FE410E2F5}.png",
+    "Images/{E553DB22-8A1E-47BB-AED5-E8276FD4C5AD}.png",
+    "Images/{E4FCA64A-8E8A-473D-BB3B-CDFFDA1FA661}.png",
+    "Images/{E18727E3-9824-47E8-B22A-44456FEB21AE}.png",
+    "English Year 12 FA2 Canvas.canvas"
   ]
 }
