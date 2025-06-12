@@ -4,8 +4,9 @@ tags:
 ---
 ### What are [[Carboxylic Acids]]
 Organic compound that have a carboxyl functional group.
+===It should be emphasised that this is an ACID!===
 #### The main chain
-The chain containing the $COOH$ group becomes the main chain the the [[Carboxyl]] carbon is carbon 1
+The chain containing the $COOH$ group becomes the main chain the the [[Carboxyl]] carbon is carbon 1.
 #### Formula
 $RCOOH$
 ### Naming carboxylic acids

@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Carboxylic Acids.md",
+                "file": "Daily Notes/12-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carboxylic Acids"
+              "title": "12-06-2025"
+            }
+          },
+          {
+            "id": "7378980722492562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Esters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esters"
+            }
+          },
+          {
+            "id": "56bde3d8a94aa83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Alcohol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alcohol"
             }
           },
           {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,26 +257,29 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "6751b0fcd237529b",
+  "active": "7378980722492562",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Notes/Aldehydes.md",
+    "Chemistry/Year 12/Notes/Alcohol.md",
+    "Chemistry/Year 12/Notes/Esters.md",
+    "Daily Notes/12-06-2025.md",
     "Chemistry/Year 12/Notes/Carboxylic Acids.md",
-    "Chemistry/Year 12/Notes/Keytones.md",
-    "Chemistry/Year 12/Notes/Alcohols.md",
     "Chemistry/Year 12/Notes/Types of alcohols.md",
     "Chemistry/Year 12/Notes/Primary alcohols.md",
+    "Unfiltered/Hydroxyl.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
+    "Unfiltered/Carboxyl.md",
+    "Chemistry/Year 12/Notes/Aldehydes.md",
+    "Chemistry/Year 12/Notes/Keytones.md",
     "Chemistry/Year 12/Notes/Secondary Alcohols.md",
     "Chemistry/Year 12/Notes/Tertiary Alcohols.md",
     "Unfiltered/Untitled 3.md",
     "Unfiltered/Untitled 2.md",
     "Unfiltered/Untitled 1.md",
     "Unfiltered/Untitled.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Chemistry/Year 12/Notes/Functional Groups.md",
     "Chemistry/Year 12/Notes/Alkene.md",
     "Chemistry/Year 12/Notes/Isomers of Alkynes.md",
     "Chemistry/Year 12/Notes/Alkyne.md",
-    "Daily Notes/12-06-2025.md",
     "Daily Notes/11-06-2025.md",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
@@ -256,9 +287,6 @@
     "Unfiltered/Physics IA3 2025.md",
     "Chemistry/Year 12/Notes/Tips for Hydrocarbon Locants and Substituents.md",
     "Chemistry/Year 12/Notes/IUPAC Naming.md",
-    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Chemistry/Year 12/Notes/Hydrocarbon.md",
-    "Physics/Year 12/Notes/Quark.md",
     "Images/{8ADF0DAB-6249-4C64-B3E4-531163C5F410}.png",
     "Images/{57CBAC60-FB36-4659-A1D4-14F7F6B3B4D2}.png",
     "Images/{264A1A0E-FB06-4DD6-B256-30E3B28D6269}.png",
