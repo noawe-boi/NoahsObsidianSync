@@ -17,8 +17,8 @@ Renae:
 
 ### Escalation of events
 #### Exposition
-- Renae 
-
+- Someone is knocking on Renae's door and yelling her name. Renae puts her baby in their cot and her older child in the same room then closes the door gently. She peeks through the gap under the door and sees two sets of feet. She opens the door but has one of those chain things that dont let it open all the way. 
+- They talk to her and ask her where her husband is, as he owes them money. She 
 #### Escalation
 
 
