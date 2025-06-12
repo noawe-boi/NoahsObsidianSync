@@ -4,81 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "dd41ab1ecae4b837",
+        "id": "f31ad78593d1ba3e",
         "type": "tabs",
         "children": [
           {
-            "id": "523f16a649e7ccbb",
+            "id": "bd007359b9efc38f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Aldehydes.md",
+                "file": "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aldehydes"
+              "title": "Specialist 11C Anti Derivatives involving inverse trigonometric functions"
             }
           },
           {
-            "id": "6751b0fcd237529b",
+            "id": "be225c9f8afb13b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily Notes/12-06-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "12-06-2025"
+              "icon": "excalidraw-icon",
+              "title": "Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw"
             }
           },
           {
-            "id": "7378980722492562",
+            "id": "bc66189c5ab90292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Esters.md",
+                "file": "Maths Concepts/Derivatives of inverse trig functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esters"
+              "title": "Derivatives of inverse trig functions"
             }
           },
           {
-            "id": "56bde3d8a94aa83f",
+            "id": "bfe27476c70db39c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Alcohol.md",
+                "file": "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alcohol"
-            }
-          },
-          {
-            "id": "07266cee50e2ac1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Keytones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keytones"
+              "title": "Integrals of inverse trig"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,18 +241,32 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "7378980722492562",
+  "active": "be225c9f8afb13b8",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Notes/Alcohol.md",
-    "Chemistry/Year 12/Notes/Esters.md",
+    "Images/{964A2C81-BF07-4339-982B-89AEC231CB41}.png",
+    "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
+    "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
+    "Images/{5A38C476-E292-497C-B0E4-CF616F9E0BDC}.png",
+    "Maths Concepts/Derivatives of inverse trig functions.md",
+    "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
+    "Images/{EAD4591F-31C0-4EFC-A6E7-C053261D0D09}.png",
+    "Images/{CA02DAAB-A3CF-41AF-A1C7-322E97F3F226}.png",
+    "Images/{3FA7362A-A5B7-44B8-A212-2BB7B3AE2B78}.png",
+    "Images/{724D6603-D59E-416A-BBD0-A712F5EDC3E6}.png",
+    "Images/{D3202D9A-5130-46F9-820E-32FBAA53BF46}.png",
+    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}_0.png",
+    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}.png",
     "Daily Notes/12-06-2025.md",
+    "Chemistry/Year 12/Notes/Aldehydes.md",
+    "Chemistry/Year 12/Notes/Esters.md",
+    "Chemistry/Year 12/Notes/Alcohol.md",
     "Chemistry/Year 12/Notes/Carboxylic Acids.md",
     "Chemistry/Year 12/Notes/Types of alcohols.md",
     "Chemistry/Year 12/Notes/Primary alcohols.md",
     "Unfiltered/Hydroxyl.md",
     "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Unfiltered/Carboxyl.md",
-    "Chemistry/Year 12/Notes/Aldehydes.md",
     "Chemistry/Year 12/Notes/Keytones.md",
     "Chemistry/Year 12/Notes/Secondary Alcohols.md",
     "Chemistry/Year 12/Notes/Tertiary Alcohols.md",
@@ -279,19 +277,10 @@
     "Chemistry/Year 12/Notes/Functional Groups.md",
     "Chemistry/Year 12/Notes/Alkene.md",
     "Chemistry/Year 12/Notes/Isomers of Alkynes.md",
-    "Chemistry/Year 12/Notes/Alkyne.md",
-    "Daily Notes/11-06-2025.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
-    "Unfiltered/Physics IA3 2025.md",
-    "Chemistry/Year 12/Notes/Tips for Hydrocarbon Locants and Substituents.md",
-    "Chemistry/Year 12/Notes/IUPAC Naming.md",
     "Images/{8ADF0DAB-6249-4C64-B3E4-531163C5F410}.png",
     "Images/{57CBAC60-FB36-4659-A1D4-14F7F6B3B4D2}.png",
-    "Images/{264A1A0E-FB06-4DD6-B256-30E3B28D6269}.png",
-    "Images/{65AA3322-18CB-4E34-A7AD-8D574275836E}.png",
-    "Images/{8EDCB95D-DCB1-4352-9F49-2F9AC5316DD5}.png",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
@@ -300,13 +289,8 @@
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Cost.url",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/New shortcut.lnk",
     "Physics/Year 12/Assignments/IA3/Sources/Cost",
-    "Images/Pasted image 20250611091429.png",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
-    "Images/{EB639DBC-E7D1-4277-9B0C-7B7FFF0E7752}.png",
-    "Images/{E8B99D1F-51B2-48ED-B50D-FF0FE410E2F5}.png",
-    "Images/{E553DB22-8A1E-47BB-AED5-E8276FD4C5AD}.png",
-    "Images/{E4FCA64A-8E8A-473D-BB3B-CDFFDA1FA661}.png",
     "English Year 12 FA2 Canvas.canvas"
   ]
 }
