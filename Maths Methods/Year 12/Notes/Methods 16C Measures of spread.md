@@ -3,6 +3,8 @@ tags:
   - methods
 ---
 ### Foundational Concepts
+![[Mean or expected value]]
+
 ![[Variance]]
 ![[Standard Deviation]]
 ![[Interquartile range]]

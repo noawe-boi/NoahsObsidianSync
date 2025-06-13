@@ -35,5 +35,9 @@
   "rightToLeft": false,
   "attachmentFolderPath": "Images",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Unfiltered"
+  "newFileFolderPath": "Unfiltered",
+  "userIgnoreFilters": [
+    "Excalidraw/",
+    ".excalidraw"
+  ]
 }
