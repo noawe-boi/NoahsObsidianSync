@@ -1,7 +1,6 @@
 [
   "calendar",
   "obsidian-git",
-  "obsidian-markdown-formatting-assistant-plugin",
   "markdown-table-editor",
   "obsidian-excalidraw-plugin",
   "obsidian-discordrpc",
@@ -14,5 +13,7 @@
   "editor-width-slider",
   "obsidian-tikzjax",
   "calctex",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "note-refactor-obsidian",
+  "settings-search"
 ]

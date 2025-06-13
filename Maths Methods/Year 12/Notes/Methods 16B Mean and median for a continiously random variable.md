@@ -9,8 +9,7 @@ tags:
 #### Measures of center
 ![[Measures of center]]
 ### Vocab and definitions
-#### Mean or expected value
-$E(x)=\mu=\int^\infty_{-\infty} x \cdot f(x) dx$
+[[Mean or expected value]]
 #### Median
 We require, $m$, s.t. 
 $\int^m_{-\infty}f(x)dx=0.5$

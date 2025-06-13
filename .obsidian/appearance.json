@@ -4,8 +4,13 @@
   "textFontFamily": "CMU Concrete,W95FA",
   "interfaceFontFamily": "W95FA",
   "baseFontSizeAction": true,
+<<<<<<< HEAD
   "baseFontSize": 22,
   "accentColor": "",
+=======
+  "baseFontSize": 24,
+  "accentColor": "#132e72",
+>>>>>>> origin/main
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Andale Mono"
 }

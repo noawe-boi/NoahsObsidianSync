@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "aff5b7e59b43bfad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "fe4b15776391606c",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "Probability Density Function"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,35 +243,47 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "5ba6b39a822388da",
+  "active": "fe4b15776391606c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Unfiltered/Senior Assassin Video.md",
     "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
     "Maths Concepts/Probability Density Function.md",
-    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Daily Notes/09-06-2025.md",
-    "Daily Notes/10-06-2025.md",
-    "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
-    "Excalidraw/11B Derivatives of inverse trigonometric functions 2025-06-10 09.58.25.excalidraw.md",
-    "Maths Concepts/Derivatives of inverse trig functions.md",
-    "Maths Concepts/The cosine rule.md",
-    "Maths Concepts/The Unit Circle.md",
-    "Chemistry/Year 12/Notes/Hydrocarbon Locants and Substituents.md",
-    "Chemistry/Year 12/Notes/Alkyne.md",
-    "Chemistry/Year 12/Notes/Isomers of Alkynes.md",
-    "Chemistry/Year 12/Notes/Isomer.md",
-    "Unfiltered/electron volt .md",
-    "Chemistry/Year 12/Notes/Isomers of Alkanes.md",
-    "Maths Concepts/Multiplication Rule of Probability.md",
-    "English/Year 12/ExcerCises/English IA3 2025 - The Drovers Wife.md",
-    "Chemistry/Year 12/Notes/Hydrocarbon.md",
-    "Maths Concepts/Substituents.md",
-    "11B Derivatives of inverse trigonometric functions.md",
+    "Unfiltered/Untitled.md",
+    "Unfiltered/Untitled 3.md",
+    "Unfiltered/Untitled 2.md",
+    "Unfiltered/Untitled 1.md",
+    "Unfiltered/Physics IA3 2025.md",
+    "Unfiltered/Hydroxyl.md",
+    "Unfiltered/Elementary particles.md",
+    "Unfiltered/Carboxyl.md",
+    "Unfiltered/Antimatter.md",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
+    "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
+    "Physics/Year 12/Notes/Up Quark.md",
+    "Physics/Year 12/Notes/Top Quark.md",
+    "Physics/Year 12/Notes/Strange Quark.md",
+    "Physics/Year 12/Notes/Quark.md",
+    "Physics/Year 12/Notes/Meson.md",
+    "Physics/Year 12/Notes/Hadron.md",
+    "Physics/Year 12/Notes/Flavors of quarks.md",
+    "Physics/Year 12/Notes/Down Quark.md",
+    "Physics/Year 12/Notes/Charm Quark.md",
+    "Physics/Year 12/Notes/Bottom Quark.md",
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
+    "Images/{EAD4591F-31C0-4EFC-A6E7-C053261D0D09}.png",
+    "Images/{E2927AF5-0189-410F-86B4-FB82A7FF988A}.png",
+    "Images/{D3202D9A-5130-46F9-820E-32FBAA53BF46}.png",
+    "Images/{CA02DAAB-A3CF-41AF-A1C7-322E97F3F226}.png",
+    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}_0.png",
+    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}.png",
+    "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
+    "Images/{B8B7E2F7-23F6-45DE-A07E-790E31DC53A2}.png",
+    "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
     "Recording 20250603134811.m4a",
-    "Chemistry/Year 12/Notes/Acid - Base pH Indicators.md",
-    "Unfiltered/ADF Meeting Notes.md",
-    "Unfiltered/ADF Requirements.md",
-    "Chemistry/Year 12/Notes/Alkene.md",
     "Unfiltered/gitkey.pub",
     "Unfiltered/Recording 20250603134811.m4a",
     "Unfiltered/Recording 20250604093637.m4a",
@@ -264,19 +291,7 @@
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
     "Physics/Year 12/Notes",
     "Unfiltered",
-    "{DC78A1CC-5A7A-4434-A38A-E434050292BE}.png",
-    "{CA33C371-501E-4DD7-BBE1-8A96CFB52F2A}.png",
-    "{BAF88F00-9578-407B-9594-BF35445CDFE5}.png",
-    "{AB2CD9F2-5763-4F10-9EB3-B24503E1975E}.png",
-    "{93FFA240-4D5F-49D5-827B-B887468C18A1}.png",
-    "{8A1F02C7-3A16-4488-B4F5-7E6A02312898}.png",
-    "{871C2145-AC9F-46C8-BDBD-9D9CEDC2A648}.png",
-    "{61A80927-7527-4B8C-B03D-2AC35088E592}.png",
-    "{52037130-1198-4678-A311-730570BE73B6}.png",
-    "{32F55004-F278-456C-8353-4F136DE98F1C}.png",
     "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)",
-    "Chemistry/Year 12/Assignments/IA2/Results/lu54818evi3k.tmp",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/refrences.bib~",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/refrences.bib"
+    "Chemistry/Year 12/Assignments/IA2/Results/lu54818evi3k.tmp"
   ]
 }

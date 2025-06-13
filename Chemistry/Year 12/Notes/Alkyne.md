@@ -14,3 +14,5 @@ Structure: $C-C\equiv C-H$
 ===There is a triple bond between the two carbon atoms in the middle===
 
 ![[Isomers of Alkynes]]
+#### Functional Group
+Located at the **triple bond**
