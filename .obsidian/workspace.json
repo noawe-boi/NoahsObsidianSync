@@ -8,99 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab280ce151e9e914",
+            "id": "951890e45797a486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/13-06-2025.md",
+                "file": "Maths Methods/Year 12/Notes/16E Cumulative distribution functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13-06-2025"
+              "title": "16E Cumulative distribution functions"
             }
           },
           {
-            "id": "a0a92bd0a382647a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16D Properties od mean dna variance"
-            }
-          },
-          {
-            "id": "2e529194df960783",
+            "id": "0e875b21558c7569",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md"
+                "file": "Images/16E Cumulative distribution functions 2025-06-13 12.18.44.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw"
+              "title": "16E Cumulative distribution functions 2025-06-13 12.18.44.excalidraw"
             }
           },
           {
-            "id": "7a5aace206200357",
+            "id": "60a84168918a19cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Daily Notes/13-06-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths Methods/Year 12/Notes/MethodsUnit4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "13-06-2025"
-            }
-          },
-          {
-            "id": "d6b207fb4a15c4ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Concepts/Measure of spread formula.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Measure of spread formula"
-            }
-          },
-          {
-            "id": "f43405b0f0b00387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Concepts/Interquartile range.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interquartile range"
-            }
-          },
-          {
-            "id": "a89629f985664ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Concepts/Standard Deviation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Standard Deviation"
+              "icon": "lucide-file-text",
+              "title": "MethodsUnit4"
             }
           }
         ],
@@ -283,9 +225,19 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "a0a92bd0a382647a",
+  "active": "0e875b21558c7569",
   "lastOpenFiles": [
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Images/16E Cumulative distribution functions 2025-06-13 12.18.44.excalidraw.md",
+    "Maths Methods/Year 12/Notes/16E Cumulative distribution functions.md",
+    "Chemistry/Year 12/Notes/IUPAC Naming.md",
     "Daily Notes/13-06-2025.md",
+    "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
+    "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
+    "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
+    "Images/16E Cumulative distribution functions 2025-06-13 12.13.57.excalidraw.md",
+    "Images/16E Cumulative distribution functions 2025-06-13 12.12.43.excalidraw.md",
+    "Maths Concepts/Percentiles.md",
     "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
     "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
     "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md",
@@ -305,8 +257,6 @@
     "Images/{793C044B-2DA6-461C-8693-0E323065B8B1}.png",
     "Images/{8CC63B61-DC27-4EF7-8AFA-3EEB81D19842}.png",
     "Images/{089FAFE5-37EF-4524-82CD-F808072B8DF3}.png",
-    "Images/{1C4A746E-7D4F-42C3-A79A-F75BB332E4E9}.png",
-    "Images/{2C8F08D9-3A14-4D32-89CD-630DC339586A}.png",
     "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
     "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
     "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
@@ -317,20 +267,11 @@
     "Daily Notes/12-06-2025.md",
     "Chemistry/Year 12/Notes/Aldehydes.md",
     "Chemistry/Year 12/Notes/Esters.md",
-    "Chemistry/Year 12/Notes/Alcohol.md",
-    "Chemistry/Year 12/Notes/Carboxylic Acids.md",
-    "Chemistry/Year 12/Notes/Types of alcohols.md",
-    "Chemistry/Year 12/Notes/Primary alcohols.md",
-    "Unfiltered/Hydroxyl.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
-    "Unfiltered/Carboxyl.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn",
-    "Physics/Year 12/Assignments/IA3/Sources/New folder",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "English Year 12 FA2 Canvas.canvas"
