@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
+                "file": "Daily Notes/13-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 16C Measures of spread"
+              "title": "13-06-2025"
+            }
+          },
+          {
+            "id": "a0a92bd0a382647a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16D Properties od mean dna variance"
             }
           },
           {
@@ -269,18 +283,19 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "2e529194df960783",
+  "active": "a0a92bd0a382647a",
   "lastOpenFiles": [
-    "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
+    "Daily Notes/13-06-2025.md",
+    "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
     "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
     "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md",
-    "Daily Notes/13-06-2025.md",
+    "Maths Concepts/Measure of spread formula.md",
+    "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
     "Images/{07A516F7-C080-4F28-8BF5-85B9E7AE8C95}.png",
     "Images/{9B68EB6B-369C-431E-BBDB-7C66AA977D67}.png",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
-    "Maths Concepts/Measure of spread formula.md",
     "Maths Concepts/Interquartile range.md",
     "Maths Concepts/Standard Deviation.md",
     "Maths Concepts/Variance.md",
@@ -293,7 +308,6 @@
     "Images/{1C4A746E-7D4F-42C3-A79A-F75BB332E4E9}.png",
     "Images/{2C8F08D9-3A14-4D32-89CD-630DC339586A}.png",
     "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
-    "Images/{E2927AF5-0189-410F-86B4-FB82A7FF988A}.png",
     "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
     "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
     "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
