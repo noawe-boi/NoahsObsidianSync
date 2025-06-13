@@ -8,57 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd007359b9efc38f",
+            "id": "ab7188563d5af80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
+                "file": "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specialist 11C Anti Derivatives involving inverse trigonometric functions"
+              "title": "Specialist 11D Integration by Substitution"
             }
           },
           {
-            "id": "be225c9f8afb13b8",
+            "id": "03e3911272588b5e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md"
+                "file": "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw"
-            }
-          },
-          {
-            "id": "bc66189c5ab90292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Concepts/Derivatives of inverse trig functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivatives of inverse trig functions"
-            }
-          },
-          {
-            "id": "bfe27476c70db39c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integrals of inverse trig"
+              "title": "Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw"
             }
           }
         ],
@@ -241,11 +213,20 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "be225c9f8afb13b8",
+  "active": "03e3911272588b5e",
   "lastOpenFiles": [
-    "Images/{964A2C81-BF07-4339-982B-89AEC231CB41}.png",
+    "Images/{8CC63B61-DC27-4EF7-8AFA-3EEB81D19842}.png",
+    "Images/{089FAFE5-37EF-4524-82CD-F808072B8DF3}.png",
+    "Images/{1C4A746E-7D4F-42C3-A79A-F75BB332E4E9}.png",
+    "Images/{2C8F08D9-3A14-4D32-89CD-630DC339586A}.png",
+    "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
+    "Images/{E2927AF5-0189-410F-86B4-FB82A7FF988A}.png",
+    "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md",
+    "Images/{B8B7E2F7-23F6-45DE-A07E-790E31DC53A2}.png",
+    "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
     "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
     "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
+    "Images/{964A2C81-BF07-4339-982B-89AEC231CB41}.png",
     "Images/{5A38C476-E292-497C-B0E4-CF616F9E0BDC}.png",
     "Maths Concepts/Derivatives of inverse trig functions.md",
     "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
@@ -253,10 +234,6 @@
     "Images/{EAD4591F-31C0-4EFC-A6E7-C053261D0D09}.png",
     "Images/{CA02DAAB-A3CF-41AF-A1C7-322E97F3F226}.png",
     "Images/{3FA7362A-A5B7-44B8-A212-2BB7B3AE2B78}.png",
-    "Images/{724D6603-D59E-416A-BBD0-A712F5EDC3E6}.png",
-    "Images/{D3202D9A-5130-46F9-820E-32FBAA53BF46}.png",
-    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}_0.png",
-    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}.png",
     "Daily Notes/12-06-2025.md",
     "Chemistry/Year 12/Notes/Aldehydes.md",
     "Chemistry/Year 12/Notes/Esters.md",
@@ -274,13 +251,8 @@
     "Unfiltered/Untitled 2.md",
     "Unfiltered/Untitled 1.md",
     "Unfiltered/Untitled.md",
-    "Chemistry/Year 12/Notes/Functional Groups.md",
-    "Chemistry/Year 12/Notes/Alkene.md",
-    "Chemistry/Year 12/Notes/Isomers of Alkynes.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
-    "Images/{8ADF0DAB-6249-4C64-B3E4-531163C5F410}.png",
-    "Images/{57CBAC60-FB36-4659-A1D4-14F7F6B3B4D2}.png",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
