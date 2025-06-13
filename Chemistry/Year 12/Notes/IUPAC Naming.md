@@ -16,7 +16,7 @@ tags:
 8. Separate multiple numbers with a comma 
 
 ### Examples
-![[IUPAC Naming 2025-06-11 13.41.44.excalidraw|8000]]
+![[
 
 ## Cyclic
 - Add **cyclo** as prefix
