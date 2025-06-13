@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,12 +241,13 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "e6ae6bedc92fe998",
+  "active": "05bb3011a9352fdb",
   "lastOpenFiles": [
-    "Maths Concepts/Measure of spread formula.md",
     "Maths Concepts/Variance.md",
-    "Excalidraw/Methods 16C.md",
+    "Maths Concepts/Measure of spread formula.md",
     "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
+    "Excalidraw/Methods 16C.md",
+    "Images/{88CC4FFD-CB5E-4C85-AF07-C5CAF7688B0E}.png",
     "Maths Concepts/Mean or expected value.md",
     "Maths Methods/Year 12/Notes/Methods 16B Mean and median for a continiously random variable.md",
     "Maths Methods/Year 12/Notes/methods 15B The graph, expectation and variance of a binomal distribution.md",
@@ -276,14 +277,12 @@
     "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
     "Images/{23B3A26C-D7A1-45DF-A224-FB04A11143F3}.png",
     "Images/{793C044B-2DA6-461C-8693-0E323065B8B1}.png",
-    "Images/{8CC63B61-DC27-4EF7-8AFA-3EEB81D19842}.png",
     "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
     "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
     "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
     "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
     "Maths Concepts/Derivatives of inverse trig functions.md",
     "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
