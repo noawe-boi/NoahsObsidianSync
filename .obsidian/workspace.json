@@ -8,29 +8,85 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab7188563d5af80b",
+            "id": "ab280ce151e9e914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
+                "file": "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specialist 11D Integration by Substitution"
+              "title": "Methods 16C Measures of spread"
             }
           },
           {
-            "id": "03e3911272588b5e",
+            "id": "2e529194df960783",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md"
+                "file": "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw"
+              "title": "Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw"
+            }
+          },
+          {
+            "id": "7a5aace206200357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/13-06-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13-06-2025"
+            }
+          },
+          {
+            "id": "d6b207fb4a15c4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Concepts/Measure of spread formula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Measure of spread formula"
+            }
+          },
+          {
+            "id": "f43405b0f0b00387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Concepts/Interquartile range.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interquartile range"
+            }
+          },
+          {
+            "id": "a89629f985664ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths Concepts/Standard Deviation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Standard Deviation"
             }
           }
         ],
@@ -213,8 +269,22 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "03e3911272588b5e",
+  "active": "2e529194df960783",
   "lastOpenFiles": [
+    "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
+    "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
+    "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md",
+    "Daily Notes/13-06-2025.md",
+    "Images/{07A516F7-C080-4F28-8BF5-85B9E7AE8C95}.png",
+    "Images/{9B68EB6B-369C-431E-BBDB-7C66AA977D67}.png",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
+    "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
+    "Maths Concepts/Measure of spread formula.md",
+    "Maths Concepts/Interquartile range.md",
+    "Maths Concepts/Standard Deviation.md",
+    "Maths Concepts/Variance.md",
+    "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md",
     "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
     "Images/{23B3A26C-D7A1-45DF-A224-FB04A11143F3}.png",
     "Images/{793C044B-2DA6-461C-8693-0E323065B8B1}.png",
@@ -224,13 +294,9 @@
     "Images/{2C8F08D9-3A14-4D32-89CD-630DC339586A}.png",
     "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
     "Images/{E2927AF5-0189-410F-86B4-FB82A7FF988A}.png",
-    "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md",
-    "Images/{B8B7E2F7-23F6-45DE-A07E-790E31DC53A2}.png",
     "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
     "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
     "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
-    "Images/{964A2C81-BF07-4339-982B-89AEC231CB41}.png",
-    "Images/{5A38C476-E292-497C-B0E4-CF616F9E0BDC}.png",
     "Maths Concepts/Derivatives of inverse trig functions.md",
     "Specialist Maths/Year 12/Notes/11B Derivatives of inverse trigonometric functions.md",
     "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
@@ -244,13 +310,6 @@
     "Unfiltered/Hydroxyl.md",
     "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Unfiltered/Carboxyl.md",
-    "Chemistry/Year 12/Notes/Keytones.md",
-    "Chemistry/Year 12/Notes/Secondary Alcohols.md",
-    "Chemistry/Year 12/Notes/Tertiary Alcohols.md",
-    "Unfiltered/Untitled 3.md",
-    "Unfiltered/Untitled 2.md",
-    "Unfiltered/Untitled 1.md",
-    "Unfiltered/Untitled.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
@@ -258,9 +317,6 @@
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn",
     "Physics/Year 12/Assignments/IA3/Sources/New folder",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/Cost.url",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/New shortcut.lnk",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "English Year 12 FA2 Canvas.canvas"
