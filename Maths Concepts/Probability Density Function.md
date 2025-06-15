@@ -2,7 +2,7 @@
 tags:
   - maths
 ---
-### Background
+c### Background
 #### For a continuously random variable
 - $f(x)\geq 0, \forall x$ 
 	$f(x)$ is greater or equal to 0 for all $x$ values
