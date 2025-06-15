@@ -1,84 +1,41 @@
 {
   "main": {
-    "id": "add52bbe37970694",
+    "id": "69f360e7e4bc0751",
     "type": "split",
     "children": [
       {
-        "id": "152da000a30ee685",
+        "id": "d8e9342435467537",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba6b39a822388da",
+            "id": "ad0563586bc4ee4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
+                "file": "Chemistry/Year 12/Notes/Types of alcohols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 16A Indroduction to continuous random variables"
-            }
-          },
-          {
-            "id": "fe4b15776391606c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unfiltered/Senior Assassin Video.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Senior Assassin Video"
-            }
-          },
-          {
-            "id": "938c250ff05c1cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/IUPAC Naming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IUPAC Naming"
-            }
-          },
-          {
-            "id": "899cb535859bab27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Concepts/Probability Density Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability Density Function"
+              "title": "Types of alcohols"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "947445a76e56b523",
+    "id": "fea7e0b1283446bd",
     "type": "split",
     "children": [
       {
-        "id": "66d990d7a11d6792",
+        "id": "2c97a90a51de90cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9aecfddddd081bce",
+            "id": "0f2563546948421d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,24 +48,24 @@
             }
           },
           {
-            "id": "a9fd939c2330e9f4",
+            "id": "c738260447fb4d9f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"E(X)=\" -tag:#Excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "bfc720cc9b7e781b",
+            "id": "54d38bfee573fc7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,20 +83,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "e57394f63ae8436a",
+    "id": "55d782f68d4e0dd2",
     "type": "split",
     "children": [
       {
-        "id": "1be33416ae6a22d2",
+        "id": "4add3381dfd4e5df",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc6d8aa8a139d7d",
+            "id": "4caffd3a421e40ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,25 +106,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pgfplot"
+              "title": "Backlinks for Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "22f7cbca90f425ef",
+            "id": "77afacabc248446e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pgfplot"
+              "title": "Outgoing links from Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "553b08042e40f443",
+            "id": "11c049500df98f03",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,7 +139,7 @@
             }
           },
           {
-            "id": "c3548772d3a5c8ae",
+            "id": "728ffc1fea5683fe",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -195,22 +153,22 @@
             }
           },
           {
-            "id": "843642270218aad0",
+            "id": "9fae3b0c1d23e538",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pgfplot"
+              "title": "Outline of Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "642620b8a7d6e9fd",
+            "id": "9e6fc8da88fdd9c4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -242,55 +200,56 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "899cb535859bab27",
+  "active": "ad0563586bc4ee4a",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Notes/IUPAC Naming.md",
-    "Unfiltered/Senior Assassin Video.md",
-    "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
-    "conflict-files-obsidian-git.md",
+    "Chemistry/Year 12/Notes/Tertiary Alcohols.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Maths Concepts/Probability Density Function.md",
-    "Unfiltered/Untitled.md",
-    "Unfiltered/Untitled 3.md",
-    "Unfiltered/Untitled 2.md",
-    "Unfiltered/Untitled 1.md",
-    "Unfiltered/Physics IA3 2025.md",
-    "Unfiltered/Hydroxyl.md",
-    "Unfiltered/Elementary particles.md",
-    "Unfiltered/Carboxyl.md",
-    "Unfiltered/Antimatter.md",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
-    "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
-    "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
-    "Physics/Year 12/Notes/Up Quark.md",
-    "Physics/Year 12/Notes/Top Quark.md",
-    "Physics/Year 12/Notes/Strange Quark.md",
-    "Physics/Year 12/Notes/Quark.md",
-    "Physics/Year 12/Notes/Meson.md",
-    "Physics/Year 12/Notes/Hadron.md",
-    "Physics/Year 12/Notes/Flavors of quarks.md",
-    "Physics/Year 12/Notes/Down Quark.md",
+    "Excalidraw/Methods 16C.md",
+    "Maths Concepts/Variance.md",
+    "Maths Concepts/Measure of spread formula.md",
+    "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
+    "Images/{88CC4FFD-CB5E-4C85-AF07-C5CAF7688B0E}.png",
+    "Maths Concepts/Mean or expected value.md",
+    "Maths Methods/Year 12/Notes/Methods 16B Mean and median for a continiously random variable.md",
+    "Maths Methods/Year 12/Notes/methods 15B The graph, expectation and variance of a binomal distribution.md",
+    "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
+    "Images/16E Cumulative distribution functions 2025-06-13 12.18.44.excalidraw.md",
+    "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Daily Notes/13-06-2025.md",
+    "Maths Methods/Year 12/Notes/16E Cumulative distribution functions.md",
+    "Images/{58617347-53DD-4D2C-8997-FAE6CA096165}.png",
+    "Chemistry/Year 12/Notes/IUPAC Naming.md",
     "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
-    "Images/{EAD4591F-31C0-4EFC-A6E7-C053261D0D09}.png",
-    "Images/{E2927AF5-0189-410F-86B4-FB82A7FF988A}.png",
-    "Images/{D3202D9A-5130-46F9-820E-32FBAA53BF46}.png",
-    "Images/{CA02DAAB-A3CF-41AF-A1C7-322E97F3F226}.png",
-    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}_0.png",
-    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}.png",
     "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
-    "Images/{B8B7E2F7-23F6-45DE-A07E-790E31DC53A2}.png",
+    "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
+    "Images/16E Cumulative distribution functions 2025-06-13 12.13.57.excalidraw.md",
+    "Images/16E Cumulative distribution functions 2025-06-13 12.12.43.excalidraw.md",
+    "Maths Concepts/Percentiles.md",
+    "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
+    "Images/{07A516F7-C080-4F28-8BF5-85B9E7AE8C95}.png",
+    "Images/{9B68EB6B-369C-431E-BBDB-7C66AA977D67}.png",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
+    "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
+    "Maths Concepts/Interquartile range.md",
+    "Maths Concepts/Standard Deviation.md",
+    "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md",
     "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
-    "Recording 20250603134811.m4a",
-    "Unfiltered/gitkey.pub",
-    "Unfiltered/Recording 20250603134811.m4a",
-    "Unfiltered/Recording 20250604093637.m4a",
-    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "Images/{23B3A26C-D7A1-45DF-A224-FB04A11143F3}.png",
+    "Images/{793C044B-2DA6-461C-8693-0E323065B8B1}.png",
+    "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
+    "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
+    "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
+    "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
+    "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
-    "Physics/Year 12/Notes",
-    "Unfiltered",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)",
-    "Chemistry/Year 12/Assignments/IA2/Results/lu54818evi3k.tmp"
+    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "English Year 12 FA2 Canvas.canvas"
   ]
 }
