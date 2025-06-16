@@ -11,29 +11,42 @@
             "id": "a042ca027febe345",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SpecialistUnit2"
+            }
+          },
+          {
+            "id": "dc6a08b3c11841b6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
+                "file": "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 17A The Normal Distribution"
+              "title": "Specialist 11E Definite integrals by substitution"
             }
           },
           {
-            "id": "49e6972e2957f33d",
+            "id": "fa8f3cf60b2391fe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/MethodsUnit4.pdf"
+                "file": "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "MethodsUnit4"
+              "icon": "excalidraw-icon",
+              "title": "Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,13 +225,19 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "a042ca027febe345",
+  "active": "fa8f3cf60b2391fe",
   "lastOpenFiles": [
+    "Images/{148C9E0C-4274-461A-B74D-6E55AB78463E}.png",
+    "Images/{FA4E221D-340B-47D2-960C-2F37A2C2C716}.png",
+    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
+    "Images/{6DF5E7D4-406A-4A92-A8B2-787A8A227F9C}.png",
+    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
     "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587} 1.png",
     "Maths Concepts/Equation for normal distribution Probability Density Function.md",
     "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587}.png",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
-    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
     "Chemistry/Year 12/Notes/Nitrile.md",
     "Images/Pasted image 20250616133806.png",
     "Maths Concepts/Probability Density Function.md",
@@ -242,19 +261,13 @@
     "Maths Concepts/Mean or expected value.md",
     "Maths Methods/Year 12/Notes/Methods 16B Mean and median for a continiously random variable.md",
     "Maths Methods/Year 12/Notes/methods 15B The graph, expectation and variance of a binomal distribution.md",
-    "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
-    "Images/16E Cumulative distribution functions 2025-06-13 12.18.44.excalidraw.md",
     "Images/{58617347-53DD-4D2C-8997-FAE6CA096165}.png",
     "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
     "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
     "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
     "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
-    "Images/{07A516F7-C080-4F28-8BF5-85B9E7AE8C95}.png",
-    "Images/{9B68EB6B-369C-431E-BBDB-7C66AA977D67}.png",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
-    "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
