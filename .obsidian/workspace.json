@@ -8,91 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad0563586bc4ee4a",
+            "id": "a042ca027febe345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Esters.md",
+                "file": "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esters"
+              "title": "Methods 17A The Normal Distribution"
             }
           },
           {
-            "id": "55af928352867d6f",
+            "id": "49e6972e2957f33d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths Methods/Year 12/Notes/MethodsUnit4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Organic Compounds and nitrogen"
-            }
-          },
-          {
-            "id": "db58bf7ff675f4a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Amine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amine"
-            }
-          },
-          {
-            "id": "0978244b1326155c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Nitrile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nitrile"
-            }
-          },
-          {
-            "id": "a13ea2e6fe5ab72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/16-06-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16-06-2025"
-            }
-          },
-          {
-            "id": "128b6335fb4f3421",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Amide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amide"
+              "icon": "lucide-file-text",
+              "title": "MethodsUnit4"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "55d782f68d4e0dd2",
@@ -270,15 +212,22 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "a13ea2e6fe5ab72c",
+  "active": "a042ca027febe345",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
+    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587} 1.png",
+    "Maths Concepts/Equation for normal distribution Probability Density Function.md",
+    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587}.png",
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
     "Chemistry/Year 12/Notes/Nitrile.md",
+    "Images/Pasted image 20250616133806.png",
+    "Maths Concepts/Probability Density Function.md",
+    "Daily Notes/16-06-2025.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
     "Chemistry/Year 12/Notes/Amine.md",
     "Chemistry/Year 12/Notes/Esters.md",
     "Chemistry/Year 12/Notes/Amide.md",
     "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
-    "Daily Notes/16-06-2025.md",
     "Chemistry/Year 12/Notes/Keytones.md",
     "Chemistry/Year 12/Notes/Primary alcohols.md",
     "Chemistry/Year 12/Notes/Types of alcohols.md",
@@ -295,12 +244,7 @@
     "Maths Methods/Year 12/Notes/methods 15B The graph, expectation and variance of a binomal distribution.md",
     "Maths Methods/Year 12/Notes/16D Properties od mean dna variance.md",
     "Images/16E Cumulative distribution functions 2025-06-13 12.18.44.excalidraw.md",
-    "Images/Methods 16C Measures of spread 2025-06-13 11.23.05.excalidraw.md",
-    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
-    "Daily Notes/13-06-2025.md",
-    "Maths Methods/Year 12/Notes/16E Cumulative distribution functions.md",
     "Images/{58617347-53DD-4D2C-8997-FAE6CA096165}.png",
-    "Chemistry/Year 12/Notes/IUPAC Naming.md",
     "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
     "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
     "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
@@ -311,8 +255,6 @@
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
     "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
-    "Images/{23B3A26C-D7A1-45DF-A224-FB04A11143F3}.png",
-    "Images/{793C044B-2DA6-461C-8693-0E323065B8B1}.png",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",

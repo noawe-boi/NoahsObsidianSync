@@ -1,5 +1,7 @@
 {
   "theme": "moonstone",
   "textFontFamily": "CMU Concrete",
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "cssTheme": "RetroOS 98",
+  "accentColor": ""
 }
