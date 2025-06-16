@@ -1,4 +1,5 @@
 {
   "theme": "moonstone",
-  "textFontFamily": "CMU Concrete"
+  "textFontFamily": "CMU Concrete",
+  "baseFontSize": 21
 }

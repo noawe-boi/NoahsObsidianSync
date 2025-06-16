@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Types of alcohols.md",
+                "file": "Chemistry/Year 12/Notes/Esters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of alcohols"
+              "title": "Esters"
+            }
+          },
+          {
+            "id": "55af928352867d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Organic Compounds and nitrogen"
+            }
+          },
+          {
+            "id": "db58bf7ff675f4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Amine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amine"
+            }
+          },
+          {
+            "id": "128b6335fb4f3421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Amide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amide"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"E(X)=\" -tag:#Excalidraw",
+                "query": "'yl'",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "55d782f68d4e0dd2",
@@ -200,8 +242,16 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "ad0563586bc4ee4a",
+  "active": "128b6335fb4f3421",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Notes/Amine.md",
+    "Chemistry/Year 12/Notes/Amide.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
+    "Chemistry/Year 12/Notes/Esters.md",
+    "Daily Notes/16-06-2025.md",
+    "Chemistry/Year 12/Notes/Keytones.md",
+    "Chemistry/Year 12/Notes/Primary alcohols.md",
+    "Chemistry/Year 12/Notes/Types of alcohols.md",
     "Chemistry/Year 12/Notes/Tertiary Alcohols.md",
     "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
@@ -226,23 +276,15 @@
     "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
     "Images/16E Cumulative distribution functions 2025-06-13 12.13.57.excalidraw.md",
     "Images/16E Cumulative distribution functions 2025-06-13 12.12.43.excalidraw.md",
-    "Maths Concepts/Percentiles.md",
     "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
     "Images/{07A516F7-C080-4F28-8BF5-85B9E7AE8C95}.png",
     "Images/{9B68EB6B-369C-431E-BBDB-7C66AA977D67}.png",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
-    "Maths Concepts/Interquartile range.md",
-    "Maths Concepts/Standard Deviation.md",
-    "Images/Specialist 11D Integration by Substitution 2025-06-13 10.03.25.excalidraw.md",
     "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
     "Images/{23B3A26C-D7A1-45DF-A224-FB04A11143F3}.png",
     "Images/{793C044B-2DA6-461C-8693-0E323065B8B1}.png",
-    "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
-    "Maths Methods/Year 12/Notes/Methods 8A The Chain Rule.md",
-    "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
-    "Images/Specialist 11C Anti Derivatives involving inverse trigonometric functions 2025-06-13 09.07.55.excalidraw.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
     "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
