@@ -10,3 +10,10 @@ C(#N)
 #### Suffix
 'nitrile'
 (as in 4-methylpentan===nitrile===)
+
+#### Example Nitriles
+$CH_3CH_2CH_2C\equiv N$
+```smiles
+CCCC#N
+```
+butane-nitrile $\rightarrow$ butanitrile
