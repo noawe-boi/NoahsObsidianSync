@@ -1,9 +1,3 @@
----
-tags:
-  - notes
-  - chem
-  - topic
----
 
 ### Organic molecules
 #### What are organic molecules

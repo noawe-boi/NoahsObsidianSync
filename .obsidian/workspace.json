@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "56494a0ef1080492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "86f03a1c13eb2548",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,46 +255,47 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "83fe0147f3c74869",
+  "active": "56494a0ef1080492",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Notes/Dispersion Forces.md",
+    "conflict-files-obsidian-git.md",
+    "Unfiltered/The Fundamental Forces.md",
+    "Unfiltered/Guage Bosons.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11F Using trigonometric identities for integration.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
+    "Physics/Year 12/Notes/Electromagnetic Forces.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+    "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
+    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
+    "Maths Concepts/Z Score.md",
+    "Maths Concepts/Standard Distribution.md",
+    "Maths Concepts/Equation for normal distribution Probability Density Function.md",
+    "Maths Concepts/Bell curve.md",
+    "Images/{FA4E221D-340B-47D2-960C-2F37A2C2C716}.png",
+    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
+    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587}.png",
+    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587} 1.png",
+    "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
+    "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
+    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
+    "Images/{6DF5E7D4-406A-4A92-A8B2-787A8A227F9C}.png",
+    "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
+    "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
+    "Images/Specialist 11F Using trigonometric identities for integration 2025-06-17 09.53.38.excalidraw.md",
+    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
+    "Images/Methods 17B Standardisation 2025-06-17 14.41.48.excalidraw.md",
+    "Daily Notes/17-06-2025.md",
+    "Daily Notes/16-06-2025.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
+    "Chemistry/Year 12/Notes/Nitrile.md",
+    "Chemistry/Year 12/Notes/Amine.md",
+    "Chemistry/Year 12/Notes/Amide.md",
     "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
     "Chemistry/Year 12/Notes/Functional Groups.md",
-    "Images/Pasted image 20250617170626.png",
     "Chemistry/Year 12/Notes/Homologus Series.md",
-    "Chemistry/Year 12/Notes/Alcohol.md",
-    "Images/Pasted image 20250617164614.png",
-    "Chemistry/Year 12/Notes/Keytones.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
-    "Chemistry/Year 12/Notes/IUPAC Naming.md",
-    "Personal Notes/2024 Projects.md",
-    "Maths Concepts/Probability Density Function.md",
-    "Unfiltered/Senior Assassin Video.md",
-    "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
-    "conflict-files-obsidian-git.md",
-    "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Unfiltered/Untitled.md",
-    "Unfiltered/Untitled 3.md",
-    "Unfiltered/Untitled 2.md",
-    "Unfiltered/Untitled 1.md",
-    "Unfiltered/Physics IA3 2025.md",
-    "Unfiltered/Hydroxyl.md",
-    "Unfiltered/Elementary particles.md",
-    "Unfiltered/Carboxyl.md",
-    "Unfiltered/Antimatter.md",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
-    "Specialist Maths/Year 12/Notes/Specialist 11D Integration by Substitution.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
-    "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
-    "Physics/Year 12/Notes/Up Quark.md",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
-    "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
-    "Images/{EAD4591F-31C0-4EFC-A6E7-C053261D0D09}.png",
-    "Images/{E2927AF5-0189-410F-86B4-FB82A7FF988A}.png",
-    "Images/{D3202D9A-5130-46F9-820E-32FBAA53BF46}.png",
-    "Images/{CA02DAAB-A3CF-41AF-A1C7-322E97F3F226}.png",
-    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}_0.png",
-    "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}.png",
-    "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
     "Recording 20250603134811.m4a",
     "Unfiltered/gitkey.pub",
     "Unfiltered/Recording 20250603134811.m4a",
@@ -289,7 +304,6 @@
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
     "Physics/Year 12/Notes",
     "Unfiltered",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)",
-    "Chemistry/Year 12/Assignments/IA2/Results/lu54818evi3k.tmp"
+    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)"
   ]
 }

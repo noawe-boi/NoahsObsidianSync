@@ -2,10 +2,10 @@
 tags:
   - chem
 ---
-#### Funcional Groups
+#### Functional Groups
 ##### Hydroxyl group
 ![[Hydroxyl]]
-#### Cabonyl group
+#### Carbonyl group
 ![[Carbonyl]]
-##### Carboxyl gourp
+##### Carboxyl group
 ![[Carboxyl]]

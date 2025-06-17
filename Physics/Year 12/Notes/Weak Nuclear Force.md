@@ -5,4 +5,4 @@ tags:
   - subtopic
 ---
 ### What is it?
-- Involved in radioactive decay
+responsible for radioactive decay of atoms. 

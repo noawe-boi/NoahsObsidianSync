@@ -396,8 +396,8 @@
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
-          "thinning": 0.3,
-          "smoothing": 0.5,
+          "thinning": 0.8,
+          "smoothing": 0.1,
           "streamline": 0.5,
           "easing": "easeOutSine",
           "start": {
@@ -409,7 +409,8 @@
             "cap": true,
             "taper": 0,
             "easing": "linear"
-          }
+          },
+          "simulatePressure": false
         }
       },
       "strokeColor": "#000000",

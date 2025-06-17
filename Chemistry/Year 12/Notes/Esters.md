@@ -13,3 +13,22 @@ Can form from [[Primary alcohols]], [[Secondary Alcohols]], but not [[Tertiary A
 3. count the number of carbons attached to the oxygen.
 4. Name the main chain.
 5. Add the suffix 'yl'
+
+### Example
+#### Methyl-ethan-oate
+```smiles
+CC(=O)OC
+```
+- Two carbons in the first carbon chain. We are gonna consider this its own little thing.
+	- Consider the alkane name - ethane. This is an ester, therefore we add 'oate' to the end.
+-  Consider the $CH_3$ group, this is methyl
+- Therefore this is methyl ethanoate
+
+
+
+
+
+
+
+
+
