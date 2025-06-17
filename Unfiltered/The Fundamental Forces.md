@@ -5,6 +5,6 @@
 ![[Weak Nuclear Force]]
 
 ### Electromagnet forces
-![[Electromagnetic Forces]]
+![[Electromagnetic Force]]
 
 ### Gravity

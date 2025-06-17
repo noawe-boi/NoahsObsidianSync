@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Notes/The Standard model.md",
+                "file": "Daily Notes/18-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Standard model"
+              "title": "18-06-2025"
+            }
+          },
+          {
+            "id": "4f3b23f6571e0fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Year 12/Notes/Gluon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gluon"
+            }
+          },
+          {
+            "id": "83de289b074f4b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unfiltered/Gauge Bosons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gauge Bosons"
+            }
+          },
+          {
+            "id": "8e82e362a7c02fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Year 12/Notes/Hadron.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hadron"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +241,20 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "d8d2c2a2409d3bcf",
+  "active": "83de289b074f4b48",
   "lastOpenFiles": [
+    "Physics/Year 12/Notes/Leptons.md",
+    "Physics/Year 12/Notes/The Standard model.md",
+    "Physics/Year 12/Notes/Electromagnetic Force.md",
+    "Physics/Year 12/Notes/Gluon.md",
+    "Physics/Year 12/Notes/Baryon.md",
+    "Physics/Year 12/Notes/Meson.md",
+    "Daily Notes/18-06-2025.md",
+    "Physics/Year 12/Notes/Hadron.md",
+    "Unfiltered/Gauge Bosons.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+    "Unfiltered/Physics IA3 2025.md",
+    "Unfiltered/Elementary particles.md",
     "Images/Pasted image 20250617172255.png",
     "Images/Pasted image 20250617170626.png",
     "Images/Pasted image 20250617164614.png",
@@ -212,8 +267,6 @@
     "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
     "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
     "Maths Concepts/Bell curve.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
-    "Unfiltered/Guage Bosons.md",
     "Maths Concepts/Standard Distribution.md",
     "Maths Concepts/Z Score.md",
     "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
@@ -224,22 +277,12 @@
     "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
     "Daily Notes/16-06-2025.md",
     "Daily Notes/17-06-2025.md",
-    "Unfiltered/The Fundamental Forces.md",
-    "Physics/Year 12/Notes/Electromagnetic Forces.md",
-    "Physics/Year 12/Notes/Weak Nuclear Force.md",
-    "Physics/Year 12/Notes/The Standard model.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
-    "Images/Specialist 11F Using trigonometric identities for integration 2025-06-17 09.53.38.excalidraw.md",
     "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
-    "Specialist Maths/Year 12/Notes/Specialist 11F Using trigonometric identities for integration.md",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
     "Images/{32DBAC0E-BD31-4435-B673-5F185FF128CB}.png",
     "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
     "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
-    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
-    "Images/{148C9E0C-4274-461A-B74D-6E55AB78463E}.png",
-    "Maths Concepts/Equation for normal distribution Probability Density Function.md",
     "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
