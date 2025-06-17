@@ -8,41 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a042ca027febe345",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SpecialistUnit2"
-            }
-          },
-          {
-            "id": "dc6a08b3c11841b6",
+            "id": "fd62b6d037bca1a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
+                "file": "Unfiltered/Guage Bosons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specialist 11E Definite integrals by substitution"
+              "title": "Guage Bosons"
             }
           },
           {
-            "id": "fa8f3cf60b2391fe",
+            "id": "59510e8387228ed9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md"
+                "file": "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw"
+              "icon": "lucide-file",
+              "title": "Organic Compounds and nitrogen"
+            }
+          },
+          {
+            "id": "99d318bb0864d401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Amine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amine"
+            }
+          },
+          {
+            "id": "425ce12a668399c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Year 12/Notes/Electromagnetic Forces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electromagnetic Forces"
+            }
+          },
+          {
+            "id": "d0768da8201631cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Year 12/Notes/Weak Nuclear Force.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weak Nuclear Force"
             }
           }
         ],
@@ -99,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,17 +152,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods 13D The area of a triangle.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Chemistry/Year 12/Notes/Amine.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Methods 13D The area of a triangle"
+              "title": "Backlinks for Amine"
             }
           },
           {
@@ -183,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods 13D The area of a triangle.md",
+                "file": "Chemistry/Year 12/Notes/Amine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Methods 13D The area of a triangle"
+              "title": "Outline of Amine"
             }
           },
           {
@@ -202,7 +233,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,13 +257,29 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "fa8f3cf60b2391fe",
+  "active": "99d318bb0864d401",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
+    "Daily Notes/16-06-2025.md",
+    "Daily Notes/17-06-2025.md",
+    "Unfiltered/The Fundamental Forces.md",
+    "Physics/Year 12/Notes/Electromagnetic Forces.md",
+    "Physics/Year 12/Notes/Weak Nuclear Force.md",
+    "Unfiltered/Guage Bosons.md",
+    "Physics/Year 12/Notes/The Standard model.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
+    "Images/Specialist 11F Using trigonometric identities for integration 2025-06-17 09.53.38.excalidraw.md",
+    "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
+    "Specialist Maths/Year 12/Notes/Specialist 11F Using trigonometric identities for integration.md",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
+    "Images/{32DBAC0E-BD31-4435-B673-5F185FF128CB}.png",
+    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
+    "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
+    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
     "Images/{148C9E0C-4274-461A-B74D-6E55AB78463E}.png",
     "Images/{FA4E221D-340B-47D2-960C-2F37A2C2C716}.png",
-    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
-    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
     "Images/{6DF5E7D4-406A-4A92-A8B2-787A8A227F9C}.png",
     "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
     "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587} 1.png",
@@ -239,33 +287,17 @@
     "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587}.png",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
     "Chemistry/Year 12/Notes/Nitrile.md",
-    "Images/Pasted image 20250616133806.png",
     "Maths Concepts/Probability Density Function.md",
-    "Daily Notes/16-06-2025.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
     "Chemistry/Year 12/Notes/Amine.md",
     "Chemistry/Year 12/Notes/Esters.md",
     "Chemistry/Year 12/Notes/Amide.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
     "Chemistry/Year 12/Notes/Keytones.md",
     "Chemistry/Year 12/Notes/Primary alcohols.md",
     "Chemistry/Year 12/Notes/Types of alcohols.md",
     "Chemistry/Year 12/Notes/Tertiary Alcohols.md",
     "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Excalidraw/Methods 16C.md",
-    "Maths Concepts/Variance.md",
-    "Maths Concepts/Measure of spread formula.md",
-    "Maths Methods/Year 12/Notes/Methods 16C Measures of spread.md",
-    "Images/{88CC4FFD-CB5E-4C85-AF07-C5CAF7688B0E}.png",
-    "Maths Concepts/Mean or expected value.md",
-    "Maths Methods/Year 12/Notes/Methods 16B Mean and median for a continiously random variable.md",
-    "Maths Methods/Year 12/Notes/methods 15B The graph, expectation and variance of a binomal distribution.md",
-    "Images/{58617347-53DD-4D2C-8997-FAE6CA096165}.png",
-    "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
-    "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
     "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
-    "Images/{55241E02-5795-40D2-8835-856C714E816C}.png",
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",

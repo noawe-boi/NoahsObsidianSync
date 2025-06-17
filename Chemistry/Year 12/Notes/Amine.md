@@ -6,7 +6,7 @@ tags:
 Organic compounds containing the amino functional group.
 #### Suffix
 'amine'
-O### Primary, Secondary, Tertiary
+### Primary, Secondary, Tertiary
 Determined b the number of [[Alkyl]] groups bonded to the nitrogen atom.
 
 ### Naming Amines
