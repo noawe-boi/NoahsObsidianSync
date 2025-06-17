@@ -4,67 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "152da000a30ee685",
+        "id": "a8c4d34c853514b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba6b39a822388da",
+            "id": "3267a588c2c810b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
+                "file": "Chemistry/Year 12/Notes/Functional Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 16A Indroduction to continuous random variables"
+              "title": "Functional Groups"
             }
           },
           {
-            "id": "fe4b15776391606c",
+            "id": "c3a7d8a9f3490e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unfiltered/Senior Assassin Video.md",
+                "file": "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Senior Assassin Video"
+              "title": "Size and Organic Molecules"
             }
           },
           {
-            "id": "938c250ff05c1cb1",
+            "id": "83fe0147f3c74869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/IUPAC Naming.md",
+                "file": "Chemistry/Year 12/Notes/Dispersion Forces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IUPAC Naming"
+              "title": "Dispersion Forces"
             }
           },
           {
-            "id": "899cb535859bab27",
+            "id": "86f03a1c13eb2548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Concepts/Probability Density Function.md",
+                "file": "Chemistry/Year 12/Notes/Homologus Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability Density Function"
+              "title": "Homologus Series"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,8 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e57394f63ae8436a",
@@ -242,14 +241,23 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "899cb535859bab27",
+  "active": "83fe0147f3c74869",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
+    "Chemistry/Year 12/Notes/Functional Groups.md",
+    "Images/Pasted image 20250617170626.png",
+    "Chemistry/Year 12/Notes/Homologus Series.md",
+    "Chemistry/Year 12/Notes/Alcohol.md",
+    "Images/Pasted image 20250617164614.png",
+    "Chemistry/Year 12/Notes/Keytones.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and oxygen.md",
     "Chemistry/Year 12/Notes/IUPAC Naming.md",
+    "Personal Notes/2024 Projects.md",
+    "Maths Concepts/Probability Density Function.md",
     "Unfiltered/Senior Assassin Video.md",
     "Maths Methods/Year 12/Notes/Methods 16A Indroduction to continuous random variables.md",
     "conflict-files-obsidian-git.md",
     "Chemistry/Year 12/Notes/Chemistry Organic Chemistry.md",
-    "Maths Concepts/Probability Density Function.md",
     "Unfiltered/Untitled.md",
     "Unfiltered/Untitled 3.md",
     "Unfiltered/Untitled 2.md",
@@ -264,13 +272,6 @@
     "Specialist Maths/Year 12/Notes/Specialist 11C Anti Derivatives involving inverse trigonometric functions.md",
     "Specialist Maths/Year 12/Notes/Integrals of inverse trig.md",
     "Physics/Year 12/Notes/Up Quark.md",
-    "Physics/Year 12/Notes/Top Quark.md",
-    "Physics/Year 12/Notes/Strange Quark.md",
-    "Physics/Year 12/Notes/Quark.md",
-    "Physics/Year 12/Notes/Meson.md",
-    "Physics/Year 12/Notes/Hadron.md",
-    "Physics/Year 12/Notes/Flavors of quarks.md",
-    "Physics/Year 12/Notes/Down Quark.md",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
     "Images/{F6675166-6E67-4067-99B3-6304C3E473B2}.png",
     "Images/{EAD4591F-31C0-4EFC-A6E7-C053261D0D09}.png",
@@ -280,8 +281,6 @@
     "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}_0.png",
     "Images/{C4FA73B5-644D-4490-BF7A-39981BA70C2F}.png",
     "Images/{BC142C7D-43C5-498B-AFAA-E068D58C3C91}.png",
-    "Images/{B8B7E2F7-23F6-45DE-A07E-790E31DC53A2}.png",
-    "Images/{9CD3E182-97C0-4F61-B775-5B32D92CC31A}.png",
     "Recording 20250603134811.m4a",
     "Unfiltered/gitkey.pub",
     "Unfiltered/Recording 20250603134811.m4a",

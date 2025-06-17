@@ -25,6 +25,11 @@ Linear molecule $\implies$ stronger dispersion forces $\because$ more surface ar
 
 ![[Pasted image 20241019145830.png]]
 
-
+### Effects of dispersion forces
+Dispersion forces affect a molecules:
+- Boiling point
+- Melting point
+- State at room temp
+Yeah pretty much all the same thing ngl
 
 
