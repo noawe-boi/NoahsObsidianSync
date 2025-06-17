@@ -1,100 +1,71 @@
 {
   "main": {
-    "id": "add52bbe37970694",
+    "id": "69f360e7e4bc0751",
     "type": "split",
     "children": [
       {
-        "id": "a8c4d34c853514b4",
+        "id": "f8415b9f56b13fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "3267a588c2c810b4",
+            "id": "d8d2c2a2409d3bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Functional Groups.md",
+                "file": "Physics/Year 12/Notes/The Standard model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional Groups"
-            }
-          },
-          {
-            "id": "c3a7d8a9f3490e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Size and Organic Molecules"
-            }
-          },
-          {
-            "id": "86f03a1c13eb2548",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Homologus Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homologus Series"
+              "title": "The Standard model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "947445a76e56b523",
+    "id": "fea7e0b1283446bd",
     "type": "split",
     "children": [
       {
-        "id": "66d990d7a11d6792",
+        "id": "2c97a90a51de90cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9aecfddddd081bce",
+            "id": "0f2563546948421d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
-                "autoReveal": true
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "a9fd939c2330e9f4",
+            "id": "c738260447fb4d9f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "'yl'",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "bfc720cc9b7e781b",
+            "id": "54d38bfee573fc7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,51 +78,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "e57394f63ae8436a",
+    "id": "55d782f68d4e0dd2",
     "type": "split",
     "children": [
       {
-        "id": "1be33416ae6a22d2",
+        "id": "4add3381dfd4e5df",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc6d8aa8a139d7d",
+            "id": "4caffd3a421e40ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pgfplot.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pgfplot"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "22f7cbca90f425ef",
+            "id": "77afacabc248446e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pgfplot.md",
+                "file": "Methods 13D The area of a triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pgfplot"
+              "title": "Outgoing links from Methods 13D The area of a triangle"
             }
           },
           {
-            "id": "553b08042e40f443",
+            "id": "11c049500df98f03",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "c3548772d3a5c8ae",
+            "id": "728ffc1fea5683fe",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,22 +151,21 @@
             }
           },
           {
-            "id": "843642270218aad0",
+            "id": "9fae3b0c1d23e538",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "pgfplot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pgfplot"
+              "title": "Outline"
             }
           },
           {
-            "id": "642620b8a7d6e9fd",
+            "id": "9e6fc8da88fdd9c4",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -204,7 +174,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,55 +198,56 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "c3a7d8a9f3490e2a",
+  "active": "d8d2c2a2409d3bcf",
   "lastOpenFiles": [
     "Images/Pasted image 20250617172255.png",
-    "Chemistry/Year 12/Notes/Functional Groups.md",
+    "Images/Pasted image 20250617170626.png",
+    "Images/Pasted image 20250617164614.png",
     "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
+    "Chemistry/Year 12/Notes/Homologus Series.md",
     "Chemistry/Year 12/Notes/Dispersion Forces.md",
-    "conflict-files-obsidian-git.md",
-    "Unfiltered/The Fundamental Forces.md",
-    "Unfiltered/Guage Bosons.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11F Using trigonometric identities for integration.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
-    "Physics/Year 12/Notes/Electromagnetic Forces.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
-    "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
-    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
-    "Maths Concepts/Z Score.md",
-    "Maths Concepts/Standard Distribution.md",
-    "Maths Concepts/Equation for normal distribution Probability Density Function.md",
-    "Maths Concepts/Bell curve.md",
-    "Images/{FA4E221D-340B-47D2-960C-2F37A2C2C716}.png",
-    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
-    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587}.png",
-    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587} 1.png",
-    "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
-    "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
-    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
-    "Images/{6DF5E7D4-406A-4A92-A8B2-787A8A227F9C}.png",
-    "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
-    "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
-    "Images/Specialist 11F Using trigonometric identities for integration 2025-06-17 09.53.38.excalidraw.md",
-    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
-    "Images/Methods 17B Standardisation 2025-06-17 14.41.48.excalidraw.md",
-    "Daily Notes/17-06-2025.md",
-    "Daily Notes/16-06-2025.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
-    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
-    "Chemistry/Year 12/Notes/Nitrile.md",
-    "Chemistry/Year 12/Notes/Amine.md",
-    "Chemistry/Year 12/Notes/Amide.md",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
-    "Recording 20250603134811.m4a",
-    "Unfiltered/gitkey.pub",
-    "Unfiltered/Recording 20250603134811.m4a",
-    "Unfiltered/Recording 20250604093637.m4a",
-    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
+    "Images/Methods 17B Standardisation 2025-06-17 14.41.48.excalidraw.md",
+    "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
+    "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
+    "Maths Concepts/Bell curve.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+    "Unfiltered/Guage Bosons.md",
+    "Maths Concepts/Standard Distribution.md",
+    "Maths Concepts/Z Score.md",
+    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf.crdownload",
+    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
+    "Chemistry/Year 12/Notes/Amine.md",
+    "Chemistry/Year 12/Notes/Organic Compounds and Halogens (Haloalkanes).md",
+    "Daily Notes/16-06-2025.md",
+    "Daily Notes/17-06-2025.md",
+    "Unfiltered/The Fundamental Forces.md",
+    "Physics/Year 12/Notes/Electromagnetic Forces.md",
+    "Physics/Year 12/Notes/Weak Nuclear Force.md",
+    "Physics/Year 12/Notes/The Standard model.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
+    "Images/Specialist 11F Using trigonometric identities for integration 2025-06-17 09.53.38.excalidraw.md",
+    "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
+    "Specialist Maths/Year 12/Notes/Specialist 11F Using trigonometric identities for integration.md",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
+    "Images/{32DBAC0E-BD31-4435-B673-5F185FF128CB}.png",
+    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
+    "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
+    "Images/Specialist 11E Definite integrals by substitution 2025-06-17 09.04.24.excalidraw.md",
+    "Images/{148C9E0C-4274-461A-B74D-6E55AB78463E}.png",
+    "Maths Concepts/Equation for normal distribution Probability Density Function.md",
+    "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
+    "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
+    "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
-    "Physics/Year 12/Notes",
-    "Unfiltered",
-    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)"
+    "Unfiltered/English Year 12 FA2 Canvas.canvas",
+    "English Year 12 FA2 Canvas.canvas"
   ]
 }
