@@ -12,12 +12,7 @@ tags:
 ![[Probability Density Function]]
 
 ### Big ideas and concepts
-#### Bell curve
-![[Pasted image 20250616133806.png|600]]
-##### Changing mean
-Moves curve left or right.
-##### Changing s.d
-Changes the width (and height) or the curve.
+![[Bell curve]]
 ### Vocab and definitions
 
 ![[Equation for normal distribution Probability Density Function]]
