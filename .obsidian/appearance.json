@@ -1,13 +1,4 @@
 {
-  "theme": "moonstone",
-<<<<<<< HEAD
   "cssTheme": "RetroOS 98",
-  "textFontFamily": "CMU Concrete",
-  "baseFontSize": 22
-=======
-  "textFontFamily": "CMU Concrete",
-  "baseFontSize": 21,
-  "cssTheme": "RetroOS 98",
-  "accentColor": ""
->>>>>>> origin/main
+  "textFontFamily": "CMU Concrete"
 }
