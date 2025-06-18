@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,11 +297,11 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "b7475707100ef559",
+  "active": "4f3b23f6571e0fac",
   "lastOpenFiles": [
+    "Physics/Year 12/Notes/Photon.md",
     "Physics/Year 12/Notes/Gluon.md",
     "Physics/Year 12/Notes/Boson.md",
-    "Physics/Year 12/Notes/Photon.md",
     "Physics/Year 12/Notes/Hadron.md",
     "Physics/Year 12/Notes/Mediate.md",
     "Physics/Year 12/Notes/Leptons.md",
