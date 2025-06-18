@@ -1,100 +1,86 @@
 {
   "main": {
-    "id": "69f360e7e4bc0751",
+    "id": "add52bbe37970694",
     "type": "split",
     "children": [
       {
-        "id": "f8415b9f56b13fc3",
+        "id": "a8c4d34c853514b4",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d2c2a2409d3bcf",
+            "id": "3267a588c2c810b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/18-06-2025.md",
+                "file": "Chemistry/Year 12/Notes/Functional Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18-06-2025"
+              "title": "Functional Groups"
             }
           },
           {
-            "id": "b566df5a63a8db33",
+            "id": "c3a7d8a9f3490e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Polyfunctional Compounds.md",
+                "file": "Chemistry/Year 12/Notes/Alkane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polyfunctional Compounds"
-            }
-          },
-          {
-            "id": "2a6ba620e926c718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/18-06-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18-06-2025"
+              "title": "Alkane"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fea7e0b1283446bd",
+    "id": "947445a76e56b523",
     "type": "split",
     "children": [
       {
-        "id": "2c97a90a51de90cd",
+        "id": "66d990d7a11d6792",
         "type": "tabs",
         "children": [
           {
-            "id": "0f2563546948421d",
+            "id": "9aecfddddd081bce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "c738260447fb4d9f",
+            "id": "a9fd939c2330e9f4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "'yl'",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "54d38bfee573fc7d",
+            "id": "bfc720cc9b7e781b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,51 +93,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "55d782f68d4e0dd2",
+    "id": "e57394f63ae8436a",
     "type": "split",
     "children": [
       {
-        "id": "4add3381dfd4e5df",
+        "id": "1be33416ae6a22d2",
         "type": "tabs",
         "children": [
           {
-            "id": "4caffd3a421e40ab",
+            "id": "5cc6d8aa8a139d7d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "pgfplot.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for pgfplot"
             }
           },
           {
-            "id": "77afacabc248446e",
+            "id": "22f7cbca90f425ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods 13D The area of a triangle.md",
+                "file": "pgfplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Methods 13D The area of a triangle"
+              "title": "Outgoing links from pgfplot"
             }
           },
           {
-            "id": "11c049500df98f03",
+            "id": "553b08042e40f443",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +152,7 @@
             }
           },
           {
-            "id": "728ffc1fea5683fe",
+            "id": "c3548772d3a5c8ae",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,21 +166,22 @@
             }
           },
           {
-            "id": "9fae3b0c1d23e538",
+            "id": "843642270218aad0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "pgfplot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of pgfplot"
             }
           },
           {
-            "id": "9e6fc8da88fdd9c4",
+            "id": "642620b8a7d6e9fd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -203,8 +190,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,56 +213,55 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "2a6ba620e926c718",
+  "active": "c3a7d8a9f3490e2a",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Notes/Esters.md",
-    "Images/Polyfunctional Compounds 2025-06-18 13.50.45.excalidraw.md",
-    "Chemistry/Year 12/Notes/Polyfunctional Compounds.md",
-    "Daily Notes/18-06-2025.md",
-    "English/Year 12/ExcerCises/English 18-06-2025.md",
-    "Physics/Year 12/Notes/Gluon.md",
     "Physics/Year 12/Notes/Photon.md",
-    "Physics/Year 12/Notes/Boson.md",
-    "Physics/Year 12/Notes/Hadron.md",
     "Physics/Year 12/Notes/Mediate.md",
     "Physics/Year 12/Notes/Leptons.md",
+    "Physics/Year 12/Notes/Gluon.md",
     "Physics/Year 12/Notes/Gauge Bosons.md",
-    "Physics/Year 12/Notes/The Standard model.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
-    "Physics/Year 12/Notes/Antimatter.md",
     "Physics/Year 12/Notes/Electromagnetic Force.md",
-    "Physics/Year 12/Notes/Baryon.md",
-    "Physics/Year 12/Notes/Meson.md",
-    "Unfiltered/Physics IA3 2025.md",
-    "Unfiltered/Elementary particles.md",
-    "Images/Pasted image 20250617172255.png",
-    "Images/Pasted image 20250617170626.png",
-    "Images/Pasted image 20250617164614.png",
+    "Physics/Year 12/Notes/Boson.md",
+    "Physics/Year 12/Notes/Antimatter.md",
+    "Images/Polyfunctional Compounds 2025-06-18 13.50.45.excalidraw.md",
+    "English/Year 12/ExcerCises/English 18-06-2025.md",
+    "Daily Notes/18-06-2025.md",
+    "Chemistry/Year 12/Notes/Polyfunctional Compounds.md",
+    "Chemistry/Year 12/Notes/Alkene.md",
+    "Chemistry/Year 12/Notes/Alkane.md",
     "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
     "Chemistry/Year 12/Notes/Homologus Series.md",
+    "Images/Pasted image 20250617172255.png",
+    "Chemistry/Year 12/Notes/Functional Groups.md",
     "Chemistry/Year 12/Notes/Dispersion Forces.md",
-    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
-    "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
-    "Images/Methods 17B Standardisation 2025-06-17 14.41.48.excalidraw.md",
-    "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
-    "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
-    "Maths Concepts/Bell curve.md",
+    "conflict-files-obsidian-git.md",
+    "Unfiltered/The Fundamental Forces.md",
+    "Unfiltered/Guage Bosons.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11F Using trigonometric identities for integration.md",
+    "Specialist Maths/Year 12/Notes/Specialist 11E Definite integrals by substitution.md",
+    "Physics/Year 12/Notes/Electromagnetic Forces.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf.crdownload",
+    "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
+    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
+    "Images/{FA4E221D-340B-47D2-960C-2F37A2C2C716}.png",
+    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
+    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587}.png",
+    "Images/{B8F69AC3-05F2-40B7-8ABC-7FBB407A6587} 1.png",
+    "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
+    "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
+    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
+    "Images/{6DF5E7D4-406A-4A92-A8B2-787A8A227F9C}.png",
     "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
-    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
-    "Images/{32DBAC0E-BD31-4435-B673-5F185FF128CB}.png",
-    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
-    "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
-    "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
-    "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/Bertoni_2024_J._Phys._Energy_6_025004.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/Unconfirmed 895088.crdownload",
-    "Physics/Year 12/Assignments/IA3/Provided Documents/2025 Yr12 Phys IA3 Task Sheet.pdf",
-    "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Recording 20250603134811.m4a",
+    "Unfiltered/gitkey.pub",
+    "Unfiltered/Recording 20250603134811.m4a",
+    "Unfiltered/Recording 20250604093637.m4a",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
-    "English Year 12 FA2 Canvas.canvas"
+    "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas",
+    "Physics/Year 12/Notes",
+    "Unfiltered",
+    "Chemistry/Year 12/Assignments/IA2/LaTeX/ChemistryIA2.synctex(busy)"
   ]
 }
