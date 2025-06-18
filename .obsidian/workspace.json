@@ -22,105 +22,35 @@
             }
           },
           {
-            "id": "4f3b23f6571e0fac",
+            "id": "b566df5a63a8db33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Notes/Gluon.md",
+                "file": "Chemistry/Year 12/Notes/Polyfunctional Compounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gluon"
+              "title": "Polyfunctional Compounds"
             }
           },
           {
-            "id": "83de289b074f4b48",
+            "id": "2a6ba620e926c718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Notes/Gluon.md",
+                "file": "Daily Notes/18-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gluon"
-            }
-          },
-          {
-            "id": "2e97ae142dc5bcba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 12/Notes/Boson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boson"
-            }
-          },
-          {
-            "id": "b7475707100ef559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 12/Notes/Photon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Photon"
-            }
-          },
-          {
-            "id": "8c6b659fec054a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 12/Notes/Hadron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hadron"
-            }
-          },
-          {
-            "id": "51db65d19ad20c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 12/Notes/Mediate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mediate"
-            }
-          },
-          {
-            "id": "104efb56a164a12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Year 12/Notes/Leptons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leptons"
+              "title": "18-06-2025"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,17 +227,21 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "4f3b23f6571e0fac",
+  "active": "2a6ba620e926c718",
   "lastOpenFiles": [
-    "Physics/Year 12/Notes/Photon.md",
+    "Chemistry/Year 12/Notes/Esters.md",
+    "Images/Polyfunctional Compounds 2025-06-18 13.50.45.excalidraw.md",
+    "Chemistry/Year 12/Notes/Polyfunctional Compounds.md",
+    "Daily Notes/18-06-2025.md",
+    "English/Year 12/ExcerCises/English 18-06-2025.md",
     "Physics/Year 12/Notes/Gluon.md",
+    "Physics/Year 12/Notes/Photon.md",
     "Physics/Year 12/Notes/Boson.md",
     "Physics/Year 12/Notes/Hadron.md",
     "Physics/Year 12/Notes/Mediate.md",
     "Physics/Year 12/Notes/Leptons.md",
     "Physics/Year 12/Notes/Gauge Bosons.md",
     "Physics/Year 12/Notes/The Standard model.md",
-    "Daily Notes/18-06-2025.md",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
     "Physics/Year 12/Notes/Antimatter.md",
     "Physics/Year 12/Notes/Electromagnetic Force.md",
@@ -327,12 +261,8 @@
     "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
     "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
     "Maths Concepts/Bell curve.md",
-    "Maths Concepts/Standard Distribution.md",
-    "Maths Concepts/Z Score.md",
-    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf.crdownload",
-    "Chemistry/Year 12/Notes/Organic Compounds and nitrogen.md",
     "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
