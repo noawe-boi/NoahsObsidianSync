@@ -7,3 +7,5 @@ Molecules that have the same molecular formula, but different structural formula
 	e.g. Butane ($C_4H_{10}$) can be drawn in two ways
 ![[Pasted image 20250609093832.png]]
 
+#### Double bonds
+- Double bonds add rigidity to molecules, therefore increasing the probability of isomers occuring. 
