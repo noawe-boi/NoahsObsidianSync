@@ -4,9 +4,7 @@ tags:
   - notes
   - topic
 ---
-Consider $y=uv$, where $u$ and $v$ are functions of $x$ 
-$$\frac{dy}{dx} = u\frac{dv}{dx} \times v\frac{du}{dx}$$
-
+[[The product rule]]
 ## Examples
 ### Example 14
 ![[Methods 8F Example 14]]

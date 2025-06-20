@@ -8,77 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8d2c2a2409d3bcf",
+            "id": "953d92b4f64dbe9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+                "file": "Maths Methods/Year 12/Notes/Methods 17C Determining normal probabilities..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics IA3 2025 Planning"
+              "title": "Methods 17C Determining normal probabilities."
             }
           },
           {
-            "id": "8a9ae11f5be88c29",
+            "id": "b3d0eee666282e71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Structural Formulas.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Methods 17C Determining normal probabilities. 2025-06-20 11.19.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Structural Formulas"
+              "icon": "excalidraw-icon",
+              "title": "Methods 17C Determining normal probabilities. 2025-06-20 11.19.14.excalidraw"
             }
           },
           {
-            "id": "beb5b41bcad795a3",
+            "id": "05108e5464bf7305",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Isomer.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths Methods/Year 12/Notes/MethodsUnit4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Isomer"
-            }
-          },
-          {
-            "id": "d4990749411e6000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Keytones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keytones"
-            }
-          },
-          {
-            "id": "b566df5a63a8db33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Year 12/Notes/Polyfunctional Compounds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polyfunctional Compounds"
+              "icon": "lucide-file-text",
+              "title": "MethodsUnit4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +209,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
@@ -255,8 +222,33 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "beb5b41bcad795a3",
+  "active": "953d92b4f64dbe9d",
   "lastOpenFiles": [
+    "Images/Methods 17C Determining normal probabilities. 2025-06-20 11.19.14.excalidraw.md",
+    "Images/{B03587A2-887B-496A-BD8A-ED5B0F137118}.png",
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Maths Methods/Year 12/Notes/Methods 17C Determining normal probabilities..md",
+    "Images/{29ED2D39-4569-4B3B-9C21-56203DDEDD97}.png",
+    "Images/{1990144F-D914-424C-ADF6-FCB4D888C2A3}.png",
+    "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
+    "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
+    "Images/Specialist 11I Further techniques and misc excercises 2025-06-20 10.08.37.excalidraw.md",
+    "Images/{AEF11C04-628B-45BB-A905-D8067D7299B1}.png",
+    "Unfiltered/Specialist 11I Further techniques and misc excercises.md",
+    "Images/Specialist 11H Integration by parts 2025-06-20 09.21.50.excalidraw.md",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Specialist Maths/Year 12/Notes/Specialist 11H Integration by parts.md",
+    "Images/{A09901AF-4AB7-43BA-8674-1088DF11013C}.png",
+    "Images/{74DACA78-195C-4BA3-A4E6-3706A5933AFB}.png",
+    "Images/{FDF1F839-F592-446C-B31A-57B56F060368}.png",
+    "Images/{A1D27B97-8651-4A38-8C8B-41847193BB47}.png",
+    "Images/{C7EBB7C9-D096-4E4E-85CE-CFB5A0ECB160}.png",
+    "Images/{355A6D41-2274-4E11-8D72-CA8C489BA2AB}.png",
+    "Maths Concepts/Integration by parts formula.md",
+    "Chemistry/Year 12/Notes/Isomer.md",
+    "Maths Methods/Year 12/Notes/Methods 8F The Product Rule.md",
+    "Maths Concepts/The product rule.md",
+    "Maths Concepts/Splitting integrals addition.md",
     "Images/Structural Formulas 2025-06-19 12.06.23.excalidraw.md",
     "Chemistry/Year 12/Notes/Structural Formulas.md",
     "Chemistry/Year 12/Notes/Keytones.md",
@@ -270,34 +262,8 @@
     "Images/Polyfunctional Compounds 2025-06-18 13.50.45.excalidraw.md",
     "English/Year 12/ExcerCises/English 18-06-2025.md",
     "Physics/Year 12/Notes/Gluon.md",
-    "Physics/Year 12/Notes/Photon.md",
-    "Physics/Year 12/Notes/Boson.md",
-    "Physics/Year 12/Notes/Hadron.md",
-    "Physics/Year 12/Notes/Mediate.md",
-    "Physics/Year 12/Notes/Leptons.md",
-    "Physics/Year 12/Notes/Gauge Bosons.md",
-    "Physics/Year 12/Notes/The Standard model.md",
-    "Physics/Year 12/Notes/Antimatter.md",
-    "Physics/Year 12/Notes/Electromagnetic Force.md",
-    "Physics/Year 12/Notes/Baryon.md",
-    "Physics/Year 12/Notes/Meson.md",
-    "Unfiltered/Physics IA3 2025.md",
-    "Unfiltered/Elementary particles.md",
-    "Images/Pasted image 20250617172255.png",
-    "Images/Pasted image 20250617170626.png",
-    "Images/Pasted image 20250617164614.png",
-    "Chemistry/Year 12/Notes/Size and Organic Molecules.md",
-    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
-    "Images/{90A95FA9-FF28-42F4-B71B-DEC7223BA9AB}.png",
-    "Images/{B44341A4-9DAB-457F-86B2-42EBC829C534}.png",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf.crdownload",
-    "Images/{64038C25-064C-4FFD-89AA-2195AD1C994C}.png",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
-    "Images/{78962597-3940-43D0-B72D-17F9FCCEDBAA}.png",
-    "Images/{32DBAC0E-BD31-4435-B673-5F185FF128CB}.png",
-    "Images/{D07DFC57-466D-4675-9167-7E59AE7024BF}.png",
-    "Images/{4A518F50-A53A-4685-986A-C53F3CECAFDA}.png",
     "Maths Methods/Year 12/Notes/Unconfirmed 703226.crdownload",
     "Specialist Maths/Year 12/Notes/SpecialistUnit4.pdf",
     "Specialist Maths/Year 12/Notes/Unconfirmed 453958.crdownload",
