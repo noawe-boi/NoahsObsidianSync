@@ -29,3 +29,5 @@ $$=\dot{x(t)}i+\dot{y(t)}k+\dot{z(t)}k$$
 ##### Then second derivative is
 $$\ddot{r}(t)=\ddot{x(t)}i+\ddot{y(t)}k+\ddot{z(t)}k$$
 
+### Examples
+![[Specialist 8C Position vs Time and Vector Calculus 2025-06-24 09.11.34.excalidraw]]
