@@ -3,11 +3,11 @@ tags:
   - chem
 ---
 ### What are amines?
-Organic compounds containing the amino functional group.
+Organic compounds containing the [[Amino]] functional group.
 #### Suffix
 'amine'
 ### Primary, Secondary, Tertiary
-Determined b the number of [[Alkyl]] groups bonded to the nitrogen atom.
+Determined by the number of [[Alkyl]] groups bonded to the nitrogen atom.
 
 ### Naming Amines
 1. Identify the alkyl group

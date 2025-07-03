@@ -48,6 +48,20 @@
             }
           },
           {
+            "id": "7f8113c7c309c929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "092b05d20f17ae68",
             "type": "leaf",
             "state": {
@@ -116,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,14 +307,30 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "c2c9beefc7ae7734",
+  "active": "7f8113c7c309c929",
   "lastOpenFiles": [
+    "Images/17E The normal approxmation of the binomial distribution 2025-06-24 14.39.57.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Pasted image 20250618172904.png",
+    "Images/Pasted image 20250618172847.png",
+    "Images/Pasted Image 20250618181302_997.png",
+    "Images/Pasted Image 20250618181016_243.png",
+    "Images/Pasted Image 20250618180803_515.png",
+    "Images/Pasted Image 20250618180101_758.png",
+    "Images/Pasted Image 20250618175111_102.png",
+    "Images/Pasted Image 20250618175101_394.png",
+    "Images/Pasted Image 20250618174234_740.png",
+    "Images/Pasted Image 20250618173241_090.png",
+    "Excalidraw/Chemistry Chapter 9 Review.md",
+    "Daily Notes/25-06-2025.md",
+    "Daily Notes/01-07-2025.md",
+    "Chemistry/Year 12/Notes/Carboxyl.md",
+    "Chemistry/Year 12/Notes/Carbonyl.md",
+    "Chemistry/Year 12/Notes/Amino.md",
     "Maths Concepts/Binomial Distribution.md",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
     "Maths Methods/Year 12/Notes/17E The normal approxmation of the binomial distribution.md",
     "Maths Concepts/How do we know when a distribution is sufficiently large.md",
-    "Images/17E The normal approxmation of the binomial distribution 2025-06-24 14.39.57.excalidraw.md",
-    "Images/{BB2B5051-889C-42DA-B412-2379A88060C4}.png",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
     "Maths Methods/Year 12/Notes/Methods 15C Finding the sample size.md",
     "Maths Methods/Year 12/Notes/methods 15B The graph, expectation and variance of a binomal distribution.md",
@@ -309,31 +339,16 @@
     "Unfiltered/ADF Meeting Notes.md",
     "Images/vector differentiation diagram.md",
     "Images/Specialist 8D Velocity and acceleration for motion along a curve 2025-06-24 09.52.24.excalidraw.md",
-    "Images/{3D802BE7-F77B-4146-9BFB-999597EF5B9D}.png",
     "Images/Specialist 8C Position vs Time and Vector Calculus 2025-06-24 09.11.34.excalidraw.md",
     "Specialist Maths/Year 12/Notes/Specialist 8C Position vs Time and Vector Calculus.md",
     "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
-    "Images/{EEC22A01-BC0A-415D-936C-C5F1A1AEB630}.png",
     "Specialist Maths/Year 12/Notes/Specialist 8D Velocity and acceleration for motion along a curve.md",
-    "Images/{FC00EA41-1788-4D91-9097-183779EC2969}.png",
-    "Images/{C056B6C9-62E0-4ABE-B711-FDE603BF7675}.png",
-    "Images/{CE67008D-FEE1-43D7-95F8-F0B146E1F9C1}.png",
-    "Images/{FA0C8350-D65D-4B99-8568-FFD2E3AF530D}.png",
     "Maths Methods/Year 12/Notes/17D Solving problems using the normal distribution.md",
     "Images/17D Solving problems using the normal distribution 2025-06-20 12.05.32.excalidraw.md",
-    "Images/{082309D7-30DC-48C7-A966-0C9F18F1C3D9}.png",
-    "Images/{40385D50-D126-4762-8569-E4E1350FC312}.png",
     "Maths Methods/Year 12/Notes/Methods 17C Determining normal probabilities..md",
     "Images/Methods 17C Determining normal probabilities. 2025-06-20 11.19.14.excalidraw.md",
-    "Images/{B03587A2-887B-496A-BD8A-ED5B0F137118}.png",
     "Maths Methods/Year 12/Notes/Methods 17A The Normal Distribution.md",
     "Maths Methods/Year 12/Notes/Methods 17B Standardisation.md",
-    "Images/Specialist 11I Further techniques and misc excercises 2025-06-20 10.08.37.excalidraw.md",
-    "Unfiltered/Specialist 11I Further techniques and misc excercises.md",
-    "Images/Specialist 11H Integration by parts 2025-06-20 09.21.50.excalidraw.md",
-    "Specialist Maths/Year 12/Notes/Specialist 11H Integration by parts.md",
-    "Maths Concepts/Integration by parts formula.md",
-    "Chemistry/Year 12/Notes/Isomer.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/energies-16-03612-v2.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf.crdownload",

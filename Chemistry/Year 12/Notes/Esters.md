@@ -6,6 +6,8 @@ tags:
 "What happens if we join the first part from [[Alcohol]], and the second part from acid."
 The ester functional group contains a [[Carbonyl]] group attached to an oxygen that is linked to another carbon
 
+
+
 Can form from [[Primary alcohols]], [[Secondary Alcohols]], but not [[Tertiary Alcohols]] as it is too hard to 'get to' the functional group of it
 ### Naming esters
 1. Assign the carbon in the functional group as "carbon 1"
