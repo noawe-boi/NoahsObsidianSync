@@ -26,7 +26,7 @@ Remember to check normality
 ![[How do we know when a distribution is sufficiently large]]
 Use normal distribution to approximate 
 - $\mu=np$
-- $\sigma = \sqrt{np(1-p)}$
+- $\sigma = \sqrt{np(1-p)}$tk
 ### Examples
 ![[17E The normal approxmation of the binomial distribution 2025-06-24 14.39.57.excalidraw]]
 
