@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.27)  11 JUL 2025 17:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.27)  11 JUL 2025 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -92,17 +92,17 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  606 strings out of 475171
  10849 string characters out of 5767095
- 399963 words of memory out of 5000000
+ 400963 words of memory out of 5000000
  23670 multiletter control sequences out of 15000+600000
  560790 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 49i,8n,52p,225b,189s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 49i,8n,52p,281b,191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfr
 m1000.pfb>
-Output written on cv_2.pdf (1 page, 60296 bytes).
+Output written on cv_2.pdf (1 page, 60972 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
