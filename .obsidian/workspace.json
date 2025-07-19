@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/18-07-2025.md",
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18-07-2025"
+              "title": "Physics IA3 2025 Planning"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/18-07-2025.md",
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18-07-2025"
+              "title": "Outgoing links from Physics IA3 2025 Planning"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/18-07-2025.md",
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 18-07-2025"
+              "title": "Outline of Physics IA3 2025 Planning"
             }
           },
           {
@@ -216,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,11 +240,14 @@
   },
   "active": "11adfb002eea7a0f",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
-    "Daily Notes/18-07-2025.md",
+    "Images/Pasted image 20250719154933.png",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/energies-16-03612-v2.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+    "Images/Pasted image 20250719153351.png",
+    "Images/Pasted image 20250719153350.png",
     "Unfiltered/Physics IA3 2025.md",
+    "Daily Notes/18-07-2025.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
     "Daily Notes/12-07-2025.md",
     "Unfiltered/Chemistry IA3.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
@@ -262,8 +264,6 @@
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/extension-foundation-logo-300x86.png",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/extension-foundation-logo-768x219.png",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/cropped-psudigester-1-768x460.jpg",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/nifa-color-lockup-4x-1024x95.png",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/CooperativeExtension-768x226.jpg",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/view.js",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/jquery.scrollTo.js",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/complianz.min.js",
@@ -286,7 +286,6 @@
     "Maths Concepts/The product rule.md",
     "Maths Concepts/Splitting integrals addition.md",
     "Maths Concepts/Integration by parts formula.md",
-    "Maths Concepts/How do we know when a distribution is sufficiently large.md",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
   ]

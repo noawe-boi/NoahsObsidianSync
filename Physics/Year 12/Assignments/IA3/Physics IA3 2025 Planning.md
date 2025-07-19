@@ -5,6 +5,10 @@ In the future, nuclear energy is the best possible energy source for Australia.
 
 
 #### Comparing Energy Sources
+**Talk about Australia net zero goal.** 
+
+
+
 Clearly in the future, green energy is going to be Australia's main energy source. Fossil fuel sources are being phased out so there is no use mentioning them. 
 
 Nuclear will be compared to existing green energy sources.
@@ -37,37 +41,57 @@ Currently, solar energy is Australia's most abundant and fastest growing renewab
 
 - Sustainability
 	- Environment
+		- Waste Disposal
 	- Cost
 	- Scalability
-
-- Land Usage
-- Waste Disposal
+		- Infrastructure development time
+		- Resource availability
+		- Land usage
 - Reliability
 
+##### Cost
+The cost per unit of energy produced should be considered. Cost of living is already a major issue in some parts of Australia. Lower costs associated with production will lead to lower consumer energy prices.
+https://www.skynews.com.au/business/energy/australian-households-continue-to-financially-struggle-to-pay-off-their-energy-bills-as-the-costofliving-crisis-worsens/news-story/854599def1031ade38b3b42247f5452e
+##### Reliability
+Reliability is one of the most important factors in energy generation. If one technology demonstrates a increased reliability, this is a significant advantage.
+##### Scalability
+In order for a power generation technology to be competitive, it must have the ability to scale quickly and at reasonable cost. Australia urgently needs to scale carbon neutral energy to meet demand if it is to reach its target of net zero greenhouse gas emissions by 2050.
+https://www.dcceew.gov.au/climate-change/emissions-reduction/net-zero
+##### Environmental
+While both energy sources require large scale mining and refinery in order to manufacture their energy generation technologies, there are stark differences in the quantity of materials required per unit of energy generated. This will impact net CO2 emissions per unit of energy, a key factor assessed when considering Australias net zero target.
 
-Clearly since we are comparing renewable, their emissions are already going to be very low. Comparison of waste products could be warranted, possibly against unit of energy generated. 
-The cost per unit of energy produced should be considered. 
-There are significant differences in land usage between these generation technologies, and the amount of energy that can be produced per unit of land should be investigated. 
-Reliability is one of the most important factors in energy generation. If one technology shows significant increase in reliability, this is a significant advantage.
-#### Best for environment? (lots of talk recently about renewable/sustainable energy)
+![[Pasted image 20250719153351.png]]
+![[Pasted image 20250719154933.png]]
+https://environmentalprogress.org/big-news/2017/6/21/are-we-headed-for-a-solar-waste-crisis?
+https://nuclear-energy.net/blog/comparison-between-nuclear-and-solar-energy?utm_source=chatgpt.com
 
-[[Nuclear Energy Greenhouse Gas emissions.pdf]]
-page 19:
-**While these greenhouse gas emissions are expectedly lower than those of fossil technologies (typically 600– 1200 g CO2-e/kWh), they are higher than reported figures**
-
-This one has figures about CO2 per kWh
-[[energies-16-03612-v2.pdf]]
-#### Refinery
-
-#### Jobs
-
+### Research question
+Does Nuclear energy compete with, or surpass Solar PV in terms of cost, reliability, scalability, and net environmental impact.
+### Body
 #### Cost
 This paper compares different energy generation technologies based on cost per $kWh$. 
 [[GenCost2024-25ConsultDraft_20241205.pdf]]
 
 This one has cost comparisons
 [[energies-16-03612-v2.pdf]] 
-#### Waste disposal
+
+#### Reliability
+
+
+#### Scalability
+
+
+
+#### Environment
+[[Nuclear Energy Greenhouse Gas emissions.pdf]]
+page 19:
+**While these greenhouse gas emissions are expectedly lower than those of fossil technologies (typically 600– 1200 g CO2-e/kWh), they are higher than reported figures**
+
+This one has figures about CO2 per kWh
+[[energies-16-03612-v2.pdf]]
+
+
+
 
 
 
