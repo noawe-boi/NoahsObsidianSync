@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8029a8054ce13775",
+        "id": "5116701062baa136",
         "type": "tabs",
         "children": [
           {
-            "id": "980e38e0c173dcde",
+            "id": "cd48bbbe4840cd5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,6 +191,38 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "980e38e0c173dcde",
-  "lastOpenFiles": []
+  "active": "cd48bbbe4840cd5f",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Unfiltered/huge comparison.pdf.md",
+    "Unfiltered/[[.md",
+    "Unfiltered/Untitled 4.md",
+    "Unfiltered/Sam's Marketplace Post.md",
+    "Unfiltered/Chemistry IA3.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-16-03612-v2.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.epub",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+    "Images/Pasted image 20250721004927.png",
+    "Images/Pasted image 20250720233918.png",
+    "Images/Pasted image 20250720221927.png",
+    "Images/Pasted image 20250720220546.png",
+    "Images/Pasted image 20250719154933.png",
+    "Images/Pasted image 20250719153351.png",
+    "Images/Pasted image 20250719153350.png",
+    "Images/Pasted image 20250708151954.png",
+    "Images/Pasted image 20250706193057.png",
+    "Images/Pasted image 20250706191739.png",
+    "Daily Notes/20-07-2025.md",
+    "Daily Notes/18-07-2025.md",
+    "Daily Notes/12-07-2025.md",
+    "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+    "Chemistry/Year 12/Assignments/IA3/Task Sheet/Task Sheet.odt"
+  ]
 }
