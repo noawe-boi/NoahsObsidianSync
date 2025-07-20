@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11adfb002eea7a0f",
+            "id": "1474693278706d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,35 @@
             }
           },
           {
-            "id": "9c5c77d789df942d",
+            "id": "328f0c64ce0f70c6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Cost/energies-16-03612-v2.pdf"
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
+                "page": 5,
+                "left": -634,
+                "top": 281,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
-              "title": "energies-16-03612-v2"
+              "title": "energies-13-00252-v2"
+            }
+          },
+          {
+            "id": "e3e659d0ef12ee8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
+                "page": 5,
+                "left": -4,
+                "top": 390,
+                "zoom": 3.8629140096358667
+              },
+              "icon": "lucide-file-text",
+              "title": "energies-13-00252-v2"
             }
           },
           {
@@ -129,25 +149,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cc6d8aa8a139d7d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Unfiltered/Chemistry IA3.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Chemistry IA3"
-            }
-          },
-          {
             "id": "22f7cbca90f425ef",
             "type": "leaf",
             "state": {
@@ -159,6 +160,25 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Physics IA3 2025 Planning"
+            }
+          },
+          {
+            "id": "5cc6d8aa8a139d7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Physics IA3 2025 Planning"
             }
           },
           {
@@ -215,12 +235,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 667.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,27 +254,40 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "janitor:Janitor: scan vault": false,
-      "edge-tts:Read note aloud": false
+      "edge-tts:Read note aloud": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "11adfb002eea7a0f",
+  "active": "1474693278706d81",
   "lastOpenFiles": [
-    "Images/Pasted image 20250719154933.png",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/energies-16-03612-v2.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.epub",
+    "Unfiltered/[[.md",
+    "Daily Notes/20-07-2025.md",
+    "Excalidraw/Ionisation energies diagram.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-16-03612-v2.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Unfiltered/Untitled 4.md",
+    "Annotations",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
+    "Daily Notes/18-07-2025.md",
+    "Unfiltered/Physics IA3 2025.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
+    "Untitled.canvas",
+    "Unfiltered/energies 13.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/energies-16-03612-v2.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+    "Images/Pasted image 20250719154933.png",
     "Images/Pasted image 20250719153351.png",
     "Images/Pasted image 20250719153350.png",
-    "Unfiltered/Physics IA3 2025.md",
-    "Daily Notes/18-07-2025.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
     "Daily Notes/12-07-2025.md",
     "Unfiltered/Chemistry IA3.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
-    "Chemistry/Year 12/Assignments/IA3/Sources/costofproduction.pdf",
-    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
     "Unfiltered/Sam's Marketplace Post.md",
-    "Chemistry/Year 12/Assignments/IA3/Sources/High Efficiency Cracking.pdf",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy.html",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/extension-foundation-logo-1024x292.png",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/cropped-psudigester-1-1024x613.jpg",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/extension-foundation-logo-1536x438.png",
@@ -263,11 +295,6 @@
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/CooperativeExtension-1024x302.jpg",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/extension-foundation-logo-300x86.png",
     "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/extension-foundation-logo-768x219.png",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/cropped-psudigester-1-768x460.jpg",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/view.js",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/jquery.scrollTo.js",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/complianz.min.js",
-    "Chemistry/Year 12/Assignments/IA3/Sources/Algae for Biofuel Production – Farm Energy_files/navigation.js",
     "Unfiltered/huge comparison.pdf.md",
     "Daily Notes/01-07-2025.md",
     "Chemistry/Year 11/Assignments/chemistry ia3.md",
@@ -281,11 +308,6 @@
     "Specialist Maths/Year 12/Notes/Specialist 8C Position vs Time and Vector Calculus.md",
     "Specialist Maths/Year 12/Notes/Specialist 11H Integration by parts.md",
     "Maths Methods/Year 12/Notes/Methods 17C Determining normal probabilities..md",
-    "Maths Methods/Year 12/Notes/17E The normal approxmation of the binomial distribution.md",
-    "Maths Methods/Year 12/Notes/17D Solving problems using the normal distribution.md",
-    "Maths Concepts/The product rule.md",
-    "Maths Concepts/Splitting integrals addition.md",
-    "Maths Concepts/Integration by parts formula.md",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
   ]

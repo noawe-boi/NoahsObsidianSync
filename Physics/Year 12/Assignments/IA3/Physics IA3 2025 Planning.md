@@ -1,4 +1,5 @@
-### Claim
+### 
+Claim
 In the future, nuclear energy is the best possible energy source for Australia.
 
 ### Developing Research question
@@ -83,12 +84,37 @@ This one has cost comparisons
 
 
 #### Environment
+
+##### Solar
+###### Stages of panel lifespan
+> [!PDF] [[energies-13-00252-v2.pdf#page=5&selection=128,62,133,107&color=yellow|energies-13-00252-v2, p.5]]
+> 
+>> The major contributors in terms of CO2eq (concerning only silicon module manufacturing phase) were the mc-Si and ingot manufacturing processes, due to the electricity required for the purification of mc-Si and for the crystallization process
+> 
+###### Life cycle emissions throughout stages
+> [!PDF] [[energies-13-00252-v2.pdf#page=5&selection=110,1,128,62&color=yellow|energies-13-00252-v2, p.5]]
+> > The system boundaries were defined as pre-manufacturing, manufacturing, use and disposal stages. The authors considered two scenarios for the PV efficiency: a base scenario (efficiency: sc-Si 15.95%; mc-Si 14.91%) and a best scenario (efficiency: sc-Si 27.60%; mc-Si 20.40%). The results related to GWP in the base scenario showed that sc-Si and mc-Si systems emit 41.8 g CO2eq and 31.5 g CO2eq, respectively. The best efficiency case could reduce the GWP of the sc-Si and mc-Si systems by 34.3% and 20%
+> 
+
+
+
+
 [[Nuclear Energy Greenhouse Gas emissions.pdf]]
 page 19:
 **While these greenhouse gas emissions are expectedly lower than those of fossil technologies (typically 600– 1200 g CO2-e/kWh), they are higher than reported figures**
 
 This one has figures about CO2 per kWh
 [[energies-16-03612-v2.pdf]]
+
+
+
+page 1: 
+	Average US Solar: 22-49 g CO2-eq./kWh - Avg: 46.5
+	Nuclear: 16-55 g CO2-eq./kWh - Avg: 43.5
+	Therefore nuclear energy shows less g/CO2 per KWH
+		However, this paper uses outdated information, assuming that panels are only ~12% efficient
+
+
 
 
 
