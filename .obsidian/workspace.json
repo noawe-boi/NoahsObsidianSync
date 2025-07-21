@@ -25,16 +25,14 @@
             "id": "a909df764b50904c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-                "page": 1,
-                "left": 14,
-                "top": 37,
-                "zoom": 1.85
+                "file": "Daily Notes/21-07-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AAES42023083_R2最终确定版"
+              "icon": "lucide-file",
+              "title": "21-07-2025"
             }
           },
           {
@@ -83,7 +81,8 @@
               "title": "biovasoline production"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+                "file": "Daily Notes/21-07-2025.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Physics IA3 2025 Planning-Evidence"
+              "title": "Backlinks for 21-07-2025"
             }
           },
           {
@@ -219,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+                "file": "Daily Notes/21-07-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physics IA3 2025 Planning-Evidence"
+              "title": "Outline of 21-07-2025"
             }
           },
           {
@@ -264,9 +263,10 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "cd48bbbe4840cd5f",
+  "active": "a909df764b50904c",
   "lastOpenFiles": [
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+    "Daily Notes/21-07-2025.md",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
     "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
