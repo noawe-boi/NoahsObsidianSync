@@ -67,8 +67,7 @@ While both energy sources require large scale mining and refinery in order to ma
 ![[Pasted image 20250719153351.png]]
 ![[Pasted image 20250719154933.png]]
 https://environmentalprogress.org/big-news/2017/6/21/are-we-headed-for-a-solar-waste-crisis?
-https://nuclear-energy.net/blog/comparison-between-nuclear-and-solar-energy?utm_source=chatgpt.com
-
+https://nuclear-energy.net/blog/comparison-between-nuclear-and-solar-energy
 ### Research question
 Does Nuclear energy compete with, or surpass Solar PV in terms of cost, reliability, scalability, and net environmental impact.
 ### Body
@@ -120,44 +119,60 @@ Nuclear SMR (Small Modular Reactor) were predicted to fluctuate
 ![[Pasted image 20250721004927.png]]
 
 ```tikz
-\usepackage{pgfplots}
-\begin{document}
-\begin{tikzpicture}
 
-    \begin{axis}
-        \addplot coordinates {
-        (2024, 400)
-        (2030, 285)
-	    (2040, 189) 
-	    (2050, 186)
-        
-        
-        };
-		\addplot coordinates{
-		(2025, 155)
-		(2030, 150)
-		(2040, 145)
-		(2050, 142)
-		};
-		\addplot coordinates{
-		(2025, 43)
-		(2030, 35)
-		(2040, 22)
-		(2050, 19)
-		};
-\legend{Nuclear SMR, Nuclear Large Scale, Solar PV}
-    \end{axis}
-\end{tikzpicture}
+\usepackage{pgfplots}
+
+
+\begin{document}
+
+		\begin{tikzpicture}
+			
+			\begin{axis}[
+				width=0.7\paperwidth,
+				height=0.3\paperwidth,
+				xmin=2024, 
+				xmax=2050,
+				xtick={2024, 2030, 2040, 2050},
+	 /pgf/number format/.cd,
+	use comma,
+	1000 sep={}]
+				\addplot coordinates {
+					(2024, 400)
+					(2030, 285)
+					(2040, 189) 
+					(2050, 186)
+					
+					
+				};
+				\addplot coordinates{
+					(2024, 155)
+					(2030, 150)
+					(2040, 145)
+					(2050, 142)
+				};
+				\addplot coordinates{
+					(2024, 43)
+					(2030, 35)
+					(2040, 22)
+					(2050, 19)
+				};
+				\legend{Nuclear SMR, Nuclear Large Scale, Solar PV}
+			\end{axis}
+		\end{tikzpicture}
+
 \end{document}
 ```
 ##### Disposal Costs
 
-#### Reliability
+#### Reliability and sustainability
 
 
-The prevalence and recent advancements of battery energy storage technology increases the reliability and scalability of solar PV significantly. Conventional storage technologies such as pumped storage hydropower (https://www.energy.gov/eere/water/pumped-storage-hydropower), or supplemental technologies such as wind, are usually required due to peak power generation occurring only when weather and time of day is optimal. 
+The prevalence and recent advancements of battery energy storage technology increases the reliability and scalability of solar significantly. Conventional storage technologies such as pumped storage hydropower (https://www.energy.gov/eere/water/pumped-storage-hydropower), or supplemental technologies such as wind, are usually required due to peak power generation occurring only when weather and time of day is optimal. 
 
-While this technology is beneficial, 
+Despite it's wide adoption, mostly due to its lower upfront cost compared to the aforementioned supplemental technologies, battery storage technology introduces a number of failure points due to its complex and decentralised nature. While the viability of energy storage systems is out of scope, the components that interface with these systems, and the grid, are integral parts of solar PV systems. Therefore the reliability of the system as a whole must also consider these components.
+
+
+
 **Analysis of a modelled grid connected PV system with on site battery storage**
 
 *What is reliability?*
@@ -253,20 +268,14 @@ Average US Nuclear: 16-55 g CO2-eq./kWh - Avg: 43.5 - **NOT CONSIDERING AUSTRALI
 > 
 
 
+### Discussion
+#### Quality of evidence
 
 
+#### Extrapolation/Summary of credible findings
 
 
+#### Improvements and extentions
 
 
-
-
-
-
-
-
-
-
-
-
-
+## Conclusion
