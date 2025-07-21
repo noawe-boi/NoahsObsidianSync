@@ -152,29 +152,12 @@ Nuclear SMR (Small Modular Reactor) were predicted to fluctuate
 ```
 ##### Disposal Costs
 
-
-
-
-
-```tikz
-
-\usepackage{pgfplots}
-\begin{document}
-\begin{tikzpicture}
-    \begin{axis}
-        \addplot coordinates {
-        (1, 2)
-        (1, 4)
-        };
-    \end{axis}
-\end{tikzpicture}
-\end{document}
-```
-
-
-
 #### Reliability
 
+
+The prevalence and recent advancements of battery energy storage technology increases the reliability and scalability of solar PV significantly. Conventional storage technologies such as pumped storage hydropower (https://www.energy.gov/eere/water/pumped-storage-hydropower), or supplemental technologies such as wind, are usually required due to peak power generation occurring only when weather and time of day is optimal. 
+
+While this technology is beneficial, 
 **Analysis of a modelled grid connected PV system with on site battery storage**
 
 *What is reliability?*
