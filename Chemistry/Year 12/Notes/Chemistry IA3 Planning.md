@@ -36,19 +36,41 @@ https://www.sciencedirect.com/science/article/abs/pii/B9780444632890000016
 ##### Well what is biogasoline?
 Very low production at the moment, may not be cost effective without advancements in the industry.
 ### Research question
-Assuming 
+How do does the collection and cracking processes differ between synthesis of gasoline and biogasoline, and how do the final products differ.  
 
 ## Categories of comparison
 ### Synthesis process and emissions during it
+
+biofuel:
+algae -> pyrolysis/cracking (Converts it into hydrocarbons) -> Biogasoline 
+
+#### Starting products (Chemical make up)
+Bio oil is extracted from algal biomass using pyrolyis 
+Pyrolysis is decomposing a material by heating it in an inert enviroment, where combustion cannot occur. (https://www.ars.usda.gov/northeast-area/wyndmoor-pa/eastern-regional-research-center/docs/biomass-pyrolysis-research-1/what-is-pyrolysis/)
+
+##### Table Comparing bio-oil to crude oil
+https://task34.ieabioenergy.com/bio-oil/#:~:text=Biomass%20pyrolysis%20oil%20contains%20several,phenols%2C%20anhydrosugars%20and%20other%20oligosaccharides.
+
+
+
+#### Cracking (Transformation)
+
+***pyrolysis of alkanes is also named as cracking**.*
+https://byjus.com/chemistry/pyrolysis-of-hydrocarbons-alkanes/#:~:text=%E2%80%9CPyrolysis%20is%20defined%20as%20the,is%20also%20named%20as%20cracking.
+
+
+
 Talk about catalytic cracking (distillation) https://www.eia.gov/energyexplained/oil-and-petroleum-products/refining-crude-oil-the-refining-process.php
 
 Both conventional and 'bio' gasoline are produced via distillation of oils. 
-##### [[gasolinelifecycle.pdf]]
+
 ##### General cracking of crude oil
+[[gasolinelifecycle.pdf]]
 ![[Pasted image 20250706193057.png]]
 
-##### [[general analysis of algae fuels (short).pdf]]
-##### Cool flow chart showing production steps
+
+##### Cracking of bio oil
+[[general analysis of algae fuels (short).pdf]]
 
 ![[Pasted image 20250706191314.png]]
 
@@ -59,17 +81,26 @@ Both conventional and 'bio' gasoline are produced via distillation of oils.
 ##### [[biovasoline production.pdf]]
 Page 3: Graphs showing how higher temperature results in better yield during the process. More energy is therefore required to 'upgrade' materials. 
 
-Page 5: The total hydrocarbon contents in the
-oil phase at 400 °C/1 MPa, 400 °C/2 MPa, and 400 °C/3 MPa
-were above 97%
+> [!PDF|yellow] [[biovasoline production.pdf#page=5&selection=50,24,52,14&color=yellow|biovasoline production, p.713]]
+> > The total hydrocarbon contents in the oil phase at 400 °C/1 MPa, 400 °C/2 MPa, and 400 °C/3 MPa were above 97%
+> 
+> 
 
 Page 2: Describes how the addition of ethanol improves cracking performance 
+#### Upgrading hydrocarbons
+
 
 ##### [[indianpaper.pdf]]
 Page "26": Makes good points about how algae does not compete with traditional agriculture.
 
 #### Carbon "neutral"
 CO2 absorbed is actually just re-emitted when it is burnt, however this is still better than just releasing carbon with fossil fuels. 
+
+
+
+
+
+
 ### Energy content/Chemical Make up (and vehicle compatibility)
 #### [[biogasolne.pdf]]
 Page 7: Fuel comparison based on many factors
@@ -77,6 +108,20 @@ page 8: Table comparing caloric values and energy within we well as physical pro
 ![[Pasted image 20250708151954.png]]
 ##### [[indianpaper.pdf]]
 This paper does not even distinguish between regular gasoline and biogasoline. It seems their makeup is similar enough that the deviation in combustion characteristics is smaller than that of different regular gasoline blends.
+
+
+### Cost
+[[https://doi.org/10.1016/j.biteb.2021.100901]]
+For biogasoline, this paper claims that in the best case, it costs about 6 USD/GGE (Gallon gasoline equivalent)
+So for the same amount of energy in one gallon of gasoline, it costs 6 USD rather than 3.167 USD (Currently)
+https://gasprices.aaa.com/
+
+This is currently roughly double the average cost of fuel in the US, and this is just production cost
+
+
+
+```
+
 ### Burning Emissions
 
 #### [[PIIS2405844021004850.pdf]]
@@ -88,12 +133,4 @@ Page 155: Massive comparison of emissions for many types of fuels.
 #### [[biogasolne.pdf]]
 Page 7: Exaust temp based on factors 
 Page 8: Emissions comparison based on many factors
-
-
-### Cost
-[[https://doi.org/10.1016/j.biteb.2021.100901]]
-For biogasoline, this paper claims that in the best case, it costs about 6 USD/GGE (Gallon gasoline equivalent)
-So for the same amount of energy in one gallon of gasoline, it costs 6 USD rather than 3.167 USD (Currently)
-https://gasprices.aaa.com/
-
-This is currently roughly double the average cost of fuel in the US, and this is just production cost
+```

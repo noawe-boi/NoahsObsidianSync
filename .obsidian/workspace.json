@@ -13,12 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+                "file": "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics IA3 2025 Planning-Evidence"
+              "title": "Chemistry IA3 Planning"
+            }
+          },
+          {
+            "id": "d4643df210f47d64",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
+                "page": 5,
+                "left": -118,
+                "top": 474,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "biovasoline production"
+            }
+          },
+          {
+            "id": "56ec0fea0336dc1d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
+                "page": 5,
+                "left": -9,
+                "top": 192,
+                "zoom": 1.6878151260504204
+              },
+              "icon": "lucide-file-text",
+              "title": "biovasoline production"
             }
           }
         ]
@@ -78,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "735f2895a4eb7ff1",
@@ -94,8 +127,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
-                "collapseAll": false,
+                "file": "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Physics IA3 2025 Planning-Evidence"
+              "title": "Backlinks for Chemistry IA3 Planning"
             }
           },
           {
@@ -156,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+                "file": "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physics IA3 2025 Planning-Evidence"
+              "title": "Outline of Chemistry IA3 Planning"
             }
           },
           {
@@ -175,12 +208,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +236,10 @@
   },
   "active": "cd48bbbe4840cd5f",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
+    "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+    "Chemistry/Year 12/Assignments/IA3/Sources/indianpaper.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "conflict-files-obsidian-git.md",
     "Unfiltered/huge comparison.pdf.md",
     "Unfiltered/[[.md",
@@ -217,8 +254,6 @@
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.epub",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Images/Pasted image 20250721004927.png",
     "Images/Pasted image 20250720233918.png",
     "Images/Pasted image 20250720221927.png",
@@ -231,8 +266,6 @@
     "Images/Pasted image 20250706191739.png",
     "Daily Notes/20-07-2025.md",
     "Daily Notes/18-07-2025.md",
-    "Daily Notes/12-07-2025.md",
-    "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
-    "Chemistry/Year 12/Assignments/IA3/Task Sheet/Task Sheet.odt"
+    "Daily Notes/12-07-2025.md"
   ]
 }
