@@ -1,3 +1,6 @@
+# Note for Mr Hassen
+A lot of missing stuff at the moment as I have gathered all my sources in a separate document so that you don't have to sift through them to find the actual content. Probably going to scrap the entire environmental section as I have gathered sources, but now think that scalability is a greater concern. rationale section is pretty barebones too. 
+
 # Claim
 
 In the future, nuclear energy is the best possible energy source for Australia.
@@ -9,18 +12,14 @@ In the future, nuclear energy is the best possible energy source for Australia.
 **Talk about Australia net zero goal.**
 
 Clearly in the future, green energy is going to be Australia's main energy source. Fossil fuel sources are being phased out so there is no use mentioning them.
-
+barebones
 Nuclear will be compared to existing green energy sources.  
 **Which energy source?**
 
 - Solar (PV)
-    
 - Hydro
-    
 - Wind
-    
 - Biomass
-    
 - Biogas
     
 
@@ -76,6 +75,7 @@ Currently, solar energy is Australia's most abundant and fastest growing renewab
         - Land usage
             
 - Reliability
+    
 
 ### Cost
 
@@ -172,14 +172,10 @@ First generation panels are currently the dominant technology due to their low c
 
 _Uranium Mining for fuel_
 
-![Pasted image 20250720220546.png]
 
 ### Final waste products / Decommissioning
 
 #### Solar
-
-![[Pasted image 20250719153351.png]] 
-![[Pasted image 20250719154933.png]]
 
 #### Nuclear
 
