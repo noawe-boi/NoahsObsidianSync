@@ -181,7 +181,10 @@ As the system continued to operate, the failure rate of individual components in
 Overall is was found that the systems power reliability was 80%, meaning ===80% of the time, the PV grid connected system is expected to perform at it's rated output.===
 
 #### Scalability
-
+> [!PDF|yellow] [[s10098-022-02307-z.pdf#page=2&selection=66,0,73,37&color=yellow|s10098-022-02307-z, p.2]]
+> > Our novel perspective compares the three sustainable technologies, not on the basis of past achievements, but with respect to replication, the ability to scale up quickly and ubiquitously, using current best commercial practices, to decarbonize the electricity sector
+> 
+> 
 
 
 #### Environment
