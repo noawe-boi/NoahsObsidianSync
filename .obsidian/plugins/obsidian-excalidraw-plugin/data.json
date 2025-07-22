@@ -372,6 +372,17 @@
         "value": "#e0e0e0",
         "description": "Base dark-gray used for mixing with the accent color to generate the palette dark-gray"
       }
+    },
+    "Downloaded/Scribble Helper": {
+      "Default action": {
+        "value": "Text",
+        "valueset": [
+          "Text",
+          "Sticky",
+          "Wrap"
+        ],
+        "description": "What type of element should CTRL/CMD+ENTER create. TEXT: A regular text element. STICKY: A sticky note with border color and background color (using the current setting of the canvas). STICKY: A sticky note with transparent border and background color."
+      }
     }
   },
   "defaultTrayMode": true,
@@ -419,8 +430,8 @@
     {
       "type": "highlighter",
       "freedrawOnly": true,
-      "strokeColor": "#7aff7d",
-      "backgroundColor": "#73f176",
+      "strokeColor": "#7affc6",
+      "backgroundColor": "#7affc6",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "roughness": null,
