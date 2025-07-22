@@ -8,84 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdabaa5352709f74",
+            "id": "702ad006a9c0c358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+                "file": "Maths Methods/Year 12/Notes/Methods 18B The exact distribution of a sample population.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics IA3 2025 Planning-Evidence"
+              "title": "Methods 18B The exact distribution of a sample population"
             }
           },
           {
-            "id": "1bed13354b1cb504",
+            "id": "baf4a31c46cb6a85",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw"
+            }
+          },
+          {
+            "id": "a0133c8e3d1cc72e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
-                "page": 30,
-                "left": -159,
-                "top": 147,
-                "zoom": 1.83
+                "file": "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+                "page": 112,
+                "left": -6,
+                "top": 617,
+                "zoom": 2.757964372828739
               },
               "icon": "lucide-file-text",
-              "title": "energies-13-00252-v2"
-            }
-          },
-          {
-            "id": "80f65e0857228d5a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
-                "page": 7,
-                "left": -372,
-                "top": 695,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "energies-13-00252-v2"
-            }
-          },
-          {
-            "id": "29b13b147a26481e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
-                "page": 9,
-                "left": -42,
-                "top": 802,
-                "zoom": 2.11
-              },
-              "icon": "lucide-file-text",
-              "title": "energies-13-00252-v2"
-            }
-          },
-          {
-            "id": "2643592fe77d0ea6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-                "page": 9,
-                "left": -15,
-                "top": 300,
-                "zoom": 2.68
-              },
-              "icon": "lucide-file-text",
-              "title": "AAES42023083_R2最终确定版"
+              "title": "MethodsUnit4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,10 +232,21 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "bdabaa5352709f74",
+  "active": "baf4a31c46cb6a85",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/Environmental influence assessment of China’s multi-crystalline silicon (multi-Si) photovoltaic modules considering recycling process _ Research Institute for Sustainability.pdf",
+    "Images/{84FC1BA8-27EB-44DA-9450-CBDE7F958C93}.png",
+    "Maths Methods/Year 12/Notes/Methods 18B The exact distribution of a sample population.md",
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Images/Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw.md",
+    "Images/{DDEB01FF-AB96-4E72-9105-908656793A5C}.png",
+    "Images/{EDFECEB8-9CC4-4B08-8CCB-589E35BA3B85}.png",
+    "Images/{5C20C0B3-8BB1-465E-B30C-7A721FF62001}.png",
+    "Images/{5BDF64AD-C6A5-4231-8B4C-C32B70607C5E}.png",
+    "Images/{620B9AEF-BA1B-4A68-ADB1-FF33A2227E9E}.png",
+    "Properties of large populations.md",
+    "Binomial probability.md",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/Environmental influence assessment of China’s multi-crystalline silicon (multi-Si) photovoltaic modules considering recycling process _ Research Institute for Sustainability.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/EOL Source.url",
     "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/New shortcut.lnk",
     "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/GREENH~1/EOL",
@@ -279,8 +255,6 @@
     "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
     "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
     "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
-    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
-    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/EOL",
     "Physics/YEAR12~1/ASSIGN~1/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Daily Notes/22-07-2025.md",
     "Images/{67879F6F-BC0D-4569-B3BF-A861ABC03560}.png",
@@ -290,14 +264,9 @@
     "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
     "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md",
     "Images/{95450D72-9BAC-4768-BCD1-9C132F2B3CDD}.png",
-    "Images/{F84F11E2-2990-4E77-A287-D015BE65D4A4}.png",
     "Specialist Maths/Year 12/Notes/Specialist 12A The fundamental theorem of calculus.md",
     "Images/Specialist 12A The fundamental theorem of calculus 2025-07-22 09.14.02.excalidraw.md",
     "Daily Notes/21-07-2025.md",
-    "Images/{B5963E7A-775B-438D-9B96-86D9AC402467}.png",
-    "Images/{8F54B992-659E-4DCE-895B-00893800C85E}.png",
-    "Images/{651AD720-AAC8-49C4-9C9D-184DBBD15443}.png",
-    "Images/{DD5C7A5B-FF63-4A3C-B5FB-8BB8E4C16AF3}.png",
     "Properties of definite integrals.md",
     "Maths Concepts/The fundamental theorem of calculus.md",
     "conflict-files-obsidian-git.md",
@@ -310,10 +279,6 @@
     "Sample.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
     "Unfiltered/huge comparison.pdf.md",
-    "Unfiltered/[[.md",
-    "Unfiltered/Untitled 4.md",
-    "Unfiltered/Sam's Marketplace Post.md",
-    "Unfiltered/Chemistry IA3.md",
-    "Daily Notes/20-07-2025.md"
+    "Unfiltered/[[.md"
   ]
 }
