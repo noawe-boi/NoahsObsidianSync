@@ -22,15 +22,63 @@
             }
           },
           {
+            "id": "1bed13354b1cb504",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
+                "page": 30,
+                "left": -159,
+                "top": 147,
+                "zoom": 1.83
+              },
+              "icon": "lucide-file-text",
+              "title": "energies-13-00252-v2"
+            }
+          },
+          {
+            "id": "80f65e0857228d5a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
+                "page": 7,
+                "left": -372,
+                "top": 695,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "energies-13-00252-v2"
+            }
+          },
+          {
+            "id": "29b13b147a26481e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-13-00252-v2.pdf",
+                "page": 9,
+                "left": -42,
+                "top": 802,
+                "zoom": 2.11
+              },
+              "icon": "lucide-file-text",
+              "title": "energies-13-00252-v2"
+            }
+          },
+          {
             "id": "2643592fe77d0ea6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-                "page": 7,
-                "left": 26,
-                "top": 585,
+                "page": 9,
+                "left": -15,
+                "top": 300,
                 "zoom": 2.68
               },
               "icon": "lucide-file-text",
@@ -221,16 +269,25 @@
   },
   "active": "bdabaa5352709f74",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/Environmental influence assessment of China’s multi-crystalline silicon (multi-Si) photovoltaic modules considering recycling process _ Research Institute for Sustainability.pdf",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/EOL Source.url",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/New shortcut.lnk",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/GREENH~1/EOL",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Reliability/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/Nuclear-energy-generation-s-impact-on-the-CO2-emissions_2024_Science-of-The-.pdf",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/Nuclear Energy Greenhouse Gas emissions.pdf",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Sources/Greenhouse gas emissiosn/EOL",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Daily Notes/22-07-2025.md",
     "Images/{67879F6F-BC0D-4569-B3BF-A861ABC03560}.png",
     "Images/{C5E69762-0A37-40DE-969C-5D8A56BB01A1} 1.png",
     "Images/{C5E69762-0A37-40DE-969C-5D8A56BB01A1}.png",
     "Images/{9C987821-28E7-40EE-A7E7-C7F3BB30E1C3}.png",
     "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md",
     "Images/{95450D72-9BAC-4768-BCD1-9C132F2B3CDD}.png",
     "Images/{F84F11E2-2990-4E77-A287-D015BE65D4A4}.png",
@@ -243,7 +300,6 @@
     "Images/{DD5C7A5B-FF63-4A3C-B5FB-8BB8E4C16AF3}.png",
     "Properties of definite integrals.md",
     "Maths Concepts/The fundamental theorem of calculus.md",
-    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
     "conflict-files-obsidian-git.md",
     "Images/18A Populations and samples 2025-07-21 13.42.30.excalidraw.md",
     "Maths Methods/Year 12/Notes/18A Populations and samples.md",
@@ -253,18 +309,11 @@
     "Maths Concepts/Simple random sample of size n.md",
     "Sample.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
-    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
-    "Chemistry/Year 12/Assignments/IA3/Sources/indianpaper.pdf",
     "Unfiltered/huge comparison.pdf.md",
     "Unfiltered/[[.md",
     "Unfiltered/Untitled 4.md",
     "Unfiltered/Sam's Marketplace Post.md",
     "Unfiltered/Chemistry IA3.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Nuclear Energy Greenhouse Gas emissions.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/energies-16-03612-v2.pdf",
-    "Daily Notes/20-07-2025.md",
-    "Daily Notes/18-07-2025.md"
+    "Daily Notes/20-07-2025.md"
   ]
 }
