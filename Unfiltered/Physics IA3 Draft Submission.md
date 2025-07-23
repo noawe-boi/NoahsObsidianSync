@@ -1,4 +1,4 @@
-# Note for Mr Hassen
+**# Note for Mr Hassen
 A lot of missing stuff at the moment as I have gathered all my sources in a separate document so that you don't have to sift through them to find the actual content. Probably going to scrap the entire environmental section as I have gathered sources, but now think that scalability is a greater concern. rationale section is pretty barebones too. 
 
 # Claim

@@ -15,21 +15,18 @@ Explore the chemical synthesis of a biofuel produced from agae and its compariso
 
 #### Why are algal fuels being investigated?
 
-Third Generation 
-		- Derived from aquatic biomass - rather than food or inedible agriculture
-		- Do not compete with land based agriculture
-		- Produce less waste products than their predecessors 
-		- Requires significant water
+Algal fuels are considered 'Third Generation' biofuels, developed to improve the viability of biomass derived fuels at large scale. Third generation fuels are derived from aquatic biomass, and therefore do not compete with traditional land based agriculture. Another advantage is reduced waste products due to lack of cellulose and fibrous materials. These fuels require more water than their predecessors, but can grow in high salinity environments, like the ocean. 
+
 https://www.sciencedirect.com/science/article/abs/pii/B9780444632890000016
 [[indianpaper.pdf]]
 
-
-
 #### What fuels are created by algae
-- Biogasoline
-	- Touted as a 'drop in replacement' for gasoline. 
+While third generation fuel sources can processed into ethanol, similarly to maize or sugar cane, their high oil and lipid content allows them to be refined into previously impractical fuel options. 
+Biogasoline is one of these, and is touted as a 'drop in replacement' for unleaded gasoline. 
+
+
 ##### Well what is biogasoline?
-Very low production at the moment, may not be cost effective without advancements in the industry.
+Very low production at the moment, may not be cost effective without advancements in the industry.cx
 ### Research question
 How do does the collection and cracking processes differ between synthesis of gasoline and biogasoline, and how do the final products differ.  
 
@@ -45,6 +42,26 @@ Pyrolysis is decomposing a material by heating it in an inert enviroment, where 
 
 ##### Table Comparing bio-oil to crude oil
 https://task34.ieabioenergy.com/bio-oil/#:~:text=Biomass%20pyrolysis%20oil%20contains%20several,phenols%2C%20anhydrosugars%20and%20other%20oligosaccharides.
+
+
+
+
+**Pyrolysis Oil**
+
+- Produced through pyrolysis, a thermochemical process that heats organic materials to 400–800°C in the absence of oxygen.
+- The process breaks down complex molecules into smaller ones, resulting in a liquid known as pyrolysis oil or bio-oil.
+- Contains a high proportion of oxygenated compounds such as acids, aldehydes, and phenols.
+- Chemically unstable due to its composition.
+- Has a lower energy density compared to crude oil because of its high oxygen content.
+
+**Crude Oil**
+
+- Formed naturally over geological time from the decomposition of organic matter under high pressure and temperature.
+- Extracted from underground reservoirs through drilling.
+- Composed primarily of hydrocarbons.
+- More chemically stable than pyrolysis oil.
+- Has a higher energy density due to its lower oxygen content.
+https://kindle-tech.com/faqs/is-pyrolysis-oil-the-same-as-crude-oil
 
 
 
