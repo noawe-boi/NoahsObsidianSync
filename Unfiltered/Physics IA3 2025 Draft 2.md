@@ -179,104 +179,25 @@ As the system continued to operate, the failure rate of individual components in
 
 Overall is was found that the systems power reliability was 80%, meaning ==80% of the time, the system is expected to perform at it's rated output.==
 
+### Why is it reliable? 
+
+> [!PDF|yellow] [[s10098-022-02307-z.pdf#page=6&selection=121,2,127,39&color=yellow|s10098-022-02307-z, p.6]]
+> > alable. Reliability is another strong point of PV thanks to its modular plug&play (P&P) architecture. Indeed, a defective unit, whether a panel, power converter or control equipment, may be replaced by a new one within hours by an employee who does not require an advanced training or education and this, simply using a motorized vehicle.
+> 
+> 
+
+
+
+
+
 #### Scalability
 > [!PDF|yellow] [[s10098-022-02307-z.pdf#page=2&selection=66,0,73,37&color=yellow|s10098-022-02307-z, p.2]]
 > > Our novel perspective compares the three sustainable technologies, not on the basis of past achievements, but with respect to replication, the ability to scale up quickly and ubiquitously, using current best commercial practices, to decarbonize the electricity sector
 > 
 > 
 
-
-#### Environment
-
-
-##### Stages of lifespan
-###### Solar
-> [!PDF|blue] [[energies-13-00252-v2.pdf#page=5&selection=110,1,111,57&color=yellow|energies-13-00252-v2, p.5]]
-> > The system boundaries were defined as pre-manufacturing, manufacturing, use and disposal stages
->
-
-###### Nuclear
-
-> [!PDF|yellow] [[Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf#page=7&selection=0,0,4,83&color=yellow|Policies+toward+net-zero+Benchmarking+the+economic, p.7]]
-> > The Nuclear-fuel Cycle The nuclear-fuel cycle consists of mining/milling uranium ores, fuel conversion, enrichment, and fabrication, along with nuclear power plant (NPP) construction/decommission, operation, reprocessing, and ultimately, waste disposal.
-
-
-*Nuclear Decay
-> [!PDF|255, 208, 0] [[Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf#page=7&annotation=899R|Policies+toward+net-zero+Benchmarking+the+economic, p.7]]
-> > In the reactor, the 235U isotope fissions producing heat. Half of the plutonium that is converted from 238U undergoes fission, generating about 30% of energy output from the reactor. One-third of the spent fuel is replaced with fresh fuel every 12 to 18 months. Constructing a nuclear power station requires a large amount of concrete, steel, copper, and aluminum, as well as diesel fuel for machinery. Decommissioning also entails significant amounts of energy. Spent fuels that are highly radioactive and continue to generate heat are stored in pools or dry storage casks at the reactor site for further reprocessing or disposal in the future (the United States does not reprocess fuel)
-> 
-> 
-###### Comparison/both
-
-
-> [!PDF|yellow] [[Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf#page=1&selection=47,14,56,28&color=yellow|Policies+toward+net-zero+Benchmarking+the+economic, p.1]]
-> > e conclude, instead, that lifetime GHG emissions from solar- and nuclearfuel-cycles in the United States are comparable under actual production conditions and average solar irradiation, viz., 22-49 g CO2-eq./kWh (average U.S.), 17-39 g CO2eq./kWh (South West) for solar electric, and 16-55 g CO2-eq./kWh for nuclear energy.
-
-Average US Solar: 22-49 g CO2-eq./kWh - Avg: 46.5
-Average US Nuclear: 16-55 g CO2-eq./kWh - Avg: 43.5 - **NOT CONSIDERING AUSTRALIAN URANIUM CONCENTRATIONS**
-- Therefore nuclear energy shows less g/CO2 per KWH
-	However, this paper uses outdated information, assuming that panels are only ~12% efficient
-
-
-##### Life cycle emissions as co2 per unit of energy/Operation
-###### Solar
-
-First generation panels are currently the dominant technology due to their low cost and resilience. Within the first generation there are two dominant technologies, single crystal silicon (sc-Si), and multi crystal silicon (mc-Si)
-https://austrasolarpower.com.au/increased-accessibility-of-solar-pv-systems/#:~:text=The%20cost%20of%20thin%2Dfilm,blend%20cost%2Deffectiveness%20with%20efficiency.&text=The%20black%20back%20sheet%20behind,less%20efficient%20at%20conducting%20electricity.
-
-
-> [!PDF|yellow] [[energies-13-00252-v2.pdf#page=7&selection=122,0,133,3&color=yellow|energies-13-00252-v2, p.7]]
-> > GWP (Global Warming Potential): 1.84 × 10+3 kg CO2eq
-
-> [!PDF|yellow] [[energies-13-00252-v2.pdf#page=9&selection=73,70,77,18&color=yellow|energies-13-00252-v2, p.9]]
-> > GHG emissions were 30.2, 29.2, and 20.9 g CO2eq/kWhe, respectively
-
-
-
-
-
-
-> [!PDF] [[energies-13-00252-v2.pdf#page=5&selection=110,1,128,62&color=yellow|energies-13-00252-v2, p.5]]
-> >The authors considered two scenarios for the PV efficiency: a base scenario (efficiency: sc-Si 15.95%; mc-Si 14.91%) and a best scenario (efficiency: sc-Si 27.60%; mc-Si 20.40%). The results related to GWP in the base scenario showed that sc-Si and mc-Si systems emit 41.8 g CO2eq and 31.5 g CO2eq, respectively. The best efficiency case could reduce the GWP of the sc-Si and mc-Si systems by 34.3% and 20%
-
-> [!PDF|yellow] [[energies-13-00252-v2.pdf#page=6&selection=50,84,52,13&color=yellow|energies-13-00252-v2, p.6]]
-> > The authors did not take into account the end-of-life (EoL), due to a lack of accurate data in China about the disposal phase and BOS
-
-###### Nuclear
-*Uranium Mining for fuel*
-> [!PDF|yellow] [[Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf#page=10&selection=10,0,24,10&color=yellow|Policies+toward+net-zero+Benchmarking+the+economic, p.10]]
-> > The baseline GHG factor for mining and milling in the U.S. nuclear-fuel cycle is estimated to be 1.7 g CO2-eq./kWh, calculated from the estimated energy consumption to explore for, mine, and mill uranium, and the1987-1990 average uranium-ore grade of 0.2% U3O8 (DeLucchi, 1991). Energy usage for mining and milling ores increases considerably with low-grade ores (Chapman and Roberts, 1983). In Figure 5, we show GHG emissions under a “best-case” scenario with Canadian uranium (12.7% U), and “worst-case” GHG emissions with uranium concentrations typical of Australian ores (0.05% U).
-> 
->
-
-![[Pasted image 20250720220546.png]]
-
-
-
-##### Final waste products/Decomissioning
-###### Solar
-
-
-![[Pasted image 20250719153351.png]]
-![[Pasted image 20250719154933.png]]
-https://environmentalprogress.org/big-news/2017/6/21/are-we-headed-for-a-solar-waste-crisis?
-https://nuclear-energy.net/blog/comparison-between-nuclear-and-solar-energy
-
-> [!PDF|yellow] [[energies-13-00252-v2.pdf#page=9&selection=0,5,15,63&color=yellow|energies-13-00252-v2, p.9]]
-> > ies 2020, 13, 252 9 of 38 Huang et al. [ 35 ] considered the life cycle environmental impacts of an mc-PV system in China, with a particular focus on decommissioning and recycling phases
-
-SEE EOL SOURCE 
-
-
-
-
-
-
-###### Nuclear
-
-*Fuel Rods*
-> [!PDF|yellow] [[Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Policies+toward+net-zero+Benchmarking+the+economic.pdf#page=8&selection=0,0,6,40&color=yellow|Policies+toward+net-zero+Benchmarking+the+economic, p.8]]
-> >Spent fuel rods for disposal are encapsulated in corrosion-resistant metals, such as copper or stainless steel. Most countries plan to use stable rock structures deep underground for permanent disposal. Since the 1950s, depleted UF6 has been stored in steel cylinders for future disposal or recycling (ANL, 1999)
+> [!PDF|yellow] [[s10098-022-02307-z.pdf#page=9&selection=92,50,100,33&color=yellow|s10098-022-02307-z, p.9]]
+> > here is indeed every indication that the already considerable cost gap between nuclear and RES (about 12$/W vs. 4$/W) will continue to widen. Even if one accounts for the intermittent nature of wind and solar and their need for a dispatchable back-up source of power (possibly fossil based), the levelized cost increase is still moderate; all the more so if one adopts a continental perspective instead of one limited to an imaginary islanded country.
 > 
 > 
 

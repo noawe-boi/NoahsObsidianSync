@@ -6,13 +6,8 @@ Explore the chemical synthesis of a biofuel produced from algae and its comparis
 
 ### Bio-fuel
 Bio-gasoline
-
-
 ### Existing Fuel Source
 Petroleum
-
-
-
 ## Background
 Explore the chemical synthesis of a biofuel produced from agae and its comparison with existing fuel sources
 
@@ -113,7 +108,7 @@ This paper does not even distinguish between regular gasoline and biogasoline. I
 ### Cost
 [[https://doi.org/10.1016/j.biteb.2021.100901]]
 For biogasoline, this paper claims that in the best case, it costs about 6 USD/GGE (Gallon gasoline equivalent)
-So for the same amount of energy in one gallon of gasoline, it costs 6 USD rather than 3.167 USD (Currently)
+So for the same amount of energy in one gallon of gasoline, it costs 6 USD rather than 3.167 USD (20/7/2025)
 https://gasprices.aaa.com/
 
 This is currently roughly double the average cost of fuel in the US, and this is just production cost
