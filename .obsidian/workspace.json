@@ -1,14 +1,36 @@
 {
   "main": {
-    "id": "add52bbe37970694",
+    "id": "92f937dc356dc0da",
     "type": "split",
     "children": [
       {
-        "id": "4b09cdccfdd7d92a",
+        "id": "244cf1b30c5deb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "5d792c1c372d9bb6",
+            "id": "61cff1e76819efd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Chemistry/Year 12/Assignments/IA3/Sources/curent status and future applications.pdf",
+                "page": 4,
+                "left": 34,
+                "top": 454,
+                "zoom": 2.96
+              },
+              "icon": "lucide-file-text",
+              "title": "curent status and future applications"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d72c3ffcd5f2ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "639b2a6f0c39244b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,38 +42,6 @@
               "icon": "lucide-file",
               "title": "Chemistry IA3 Planning"
             }
-          },
-          {
-            "id": "681747c26b1ce0ed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
-                "page": 2,
-                "left": -4,
-                "top": 614,
-                "zoom": 3.9668067226890766
-              },
-              "icon": "lucide-file-text",
-              "title": "biovasoline production"
-            }
-          },
-          {
-            "id": "ed653eb3bd51531d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 685,
-                "zoom": 3.966806722689076
-              },
-              "icon": "lucide-file-text",
-              "title": "biovasoline production"
-            }
           }
         ]
       }
@@ -59,28 +49,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "947445a76e56b523",
+    "id": "2ce2fdfc3aebe88a",
     "type": "split",
     "children": [
       {
-        "id": "66d990d7a11d6792",
+        "id": "bc5d90096f266174",
         "type": "tabs",
         "children": [
           {
-            "id": "9aecfddddd081bce",
+            "id": "b3e36745808fdf8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
-                "autoReveal": true
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "a9fd939c2330e9f4",
+            "id": "46f8012b2be1a550",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -97,7 +87,7 @@
             }
           },
           {
-            "id": "bfc720cc9b7e781b",
+            "id": "f7dac8ef909750a5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,8 +96,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,15 +104,34 @@
     "collapsed": true
   },
   "right": {
-    "id": "e57394f63ae8436a",
+    "id": "735f2895a4eb7ff1",
     "type": "split",
     "children": [
       {
-        "id": "1be33416ae6a22d2",
+        "id": "b11525d9c65ce9da",
         "type": "tabs",
         "children": [
           {
-            "id": "22f7cbca90f425ef",
+            "id": "3b1bd3271698c2a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/21-07-2025.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 21-07-2025"
+            }
+          },
+          {
+            "id": "8ed3ac87e4eca701",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -137,26 +145,7 @@
             }
           },
           {
-            "id": "5cc6d8aa8a139d7d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Physics IA3 2025 Planning"
-            }
-          },
-          {
-            "id": "553b08042e40f443",
+            "id": "5273c1673dcc867a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,7 +160,7 @@
             }
           },
           {
-            "id": "c3548772d3a5c8ae",
+            "id": "1859d9ca02584740",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,22 +174,22 @@
             }
           },
           {
-            "id": "843642270218aad0",
+            "id": "01cce11b5b8c66e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+                "file": "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chemistry IA3 Planning"
+              "title": "Outline of SpecialistUnit2"
             }
           },
           {
-            "id": "642620b8a7d6e9fd",
+            "id": "741716f07e0cbff6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -214,11 +203,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -227,63 +220,57 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "janitor:Janitor: scan vault": false,
-      "edge-tts:Read note aloud": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "edge-tts:Read note aloud": false
     }
   },
-  "active": "5d792c1c372d9bb6",
+  "active": "639b2a6f0c39244b",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
+    "Chemistry/Year 12/Assignments/IA3/Sources/curent status and future applications.pdf",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
-    "Unfiltered/Physics IA3 Draft Submission.md",
-    "Unfiltered/Physics IA3 2025 Draft 2.md",
-    "Physics/Year 12/Notes/Physics 14.1 Conservation in interactions.md",
-    "Physics/Year 12/Notes/Lepton.md",
-    "Physics/Year 12/Notes/Lepton Number.md",
-    "Physics/Year 12/Notes/Baryon Number.md",
-    "Images/{FC15DAC6-57C3-48E2-9967-F8ED29E22C8F}.png",
-    "Images/{BA737D63-EEBC-493D-B110-DEF3746D011D}.png",
-    "Images/{91A4645F-3B3C-4C1B-83F8-F5F4F43E7B97}.png",
-    "Images/{66E79D60-68B7-4CC8-9C2F-64FAC8779BE7}.png",
-    "Images/{47C7E678-72DF-4B44-A079-91ED999B1B8F}.png",
-    "Images/{441E064A-9A38-421F-A1DA-4E1A445669C6}.png",
-    "Images/{385FDF53-FB62-4B70-84A1-6910A6EAD0D8}.png",
-    "Images/{09F4B01D-61FE-4A40-91E3-9DEF5044BF89}.png",
-    "Images/Lepton Number 2025-07-23 09.35.56.excalidraw.md",
-    "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
+    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline Cracking with catalyst.pdf",
     "Daily Notes/23-07-2025.md",
+    "Chemistry/Year 12/Assignments/IA3/Sources/biogasolne.pdf",
     "Chemistry/Year 12/Assignments/IA3/Sources/W187.pdf",
-    "Images/Pasted image 20250722192343.png",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+    "Unfiltered/Physics IA3 2025 Draft 2.md",
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Scalability",
-    "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
-    "Specialist Maths/Year 12/Notes/Specialist 12A The fundamental theorem of calculus.md",
-    "Properties of large populations.md",
-    "Properties of definite integrals.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/EOL Source.url",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL",
-    "Maths Methods/Year 12/Notes/Methods 18B The exact distribution of a sample population.md",
-    "Maths Concepts/The fundamental theorem of calculus.md",
-    "Images/{F84F11E2-2990-4E77-A287-D015BE65D4A4}.png",
-    "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md",
-    "Images/Specialist 12A The fundamental theorem of calculus 2025-07-22 09.14.02.excalidraw.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Images/Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw.md",
-    "Daily Notes/22-07-2025.md",
+    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
+    "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
+    "Physics/Year 12/Notes/Baryon Number.md",
+    "Images/Lepton Number 2025-07-23 09.35.56.excalidraw.md",
+    "Physics/Year 12/Notes/Lepton Number.md",
+    "Physics/Year 12/Notes/Physics 14.1 Conservation in interactions.md",
+    "Physics/Year 12/Notes/Baryon.md",
+    "Images/{09F4B01D-61FE-4A40-91E3-9DEF5044BF89}.png",
+    "Images/{385FDF53-FB62-4B70-84A1-6910A6EAD0D8}.png",
+    "Images/{66E79D60-68B7-4CC8-9C2F-64FAC8779BE7}.png",
+    "Images/{BA737D63-EEBC-493D-B110-DEF3746D011D}.png",
+    "Images/{441E064A-9A38-421F-A1DA-4E1A445669C6}.png",
+    "Images/{FC15DAC6-57C3-48E2-9967-F8ED29E22C8F}.png",
+    "Images/{91A4645F-3B3C-4C1B-83F8-F5F4F43E7B97}.png",
+    "Images/{47C7E678-72DF-4B44-A079-91ED999B1B8F}.png",
+    "Physics/Year 12/Notes/Lepton.md",
+    "conflict-files-obsidian-git.md",
+    "Unfiltered/Physics IA3 Draft Submission.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability",
+    "Images/Pasted image 20250722192343.png",
+    "Maths Methods/Year 12/Notes/Methods 18B The exact distribution of a sample population.md",
+    "Images/{84FC1BA8-27EB-44DA-9450-CBDE7F958C93}.png",
+    "Properties of large populations.md",
     "Binomial probability.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
-    "Sample.md",
-    "Maths Methods/Year 12/Notes/18A Populations and samples.md",
-    "Maths Concepts/Simple random sample of size n.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Nuclear Energy Greenhouse Gas emissions.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-    "Untitled.canvas",
-    "Unfiltered/English Year 12 FA2 Canvas.canvas",
-    "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/Environmental influence assessment of China’s multi-crystalline silicon (multi-Si) photovoltaic modules considering recycling process _ Research Institute for Sustainability.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/EOL Source.url",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/New shortcut.lnk",
+    "Physics/YEAR12~1/ASSIGN~1/IA3/Physics IA3 2025 Planning-Evidence.md",
+    "Daily Notes/22-07-2025.md",
+    "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
+    "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md",
+    "Specialist Maths/Year 12/Notes/Specialist 12A The fundamental theorem of calculus.md",
+    "Images/Specialist 12A The fundamental theorem of calculus 2025-07-22 09.14.02.excalidraw.md",
+    "Daily Notes/21-07-2025.md",
+    "Properties of definite integrals.md"
   ]
 }

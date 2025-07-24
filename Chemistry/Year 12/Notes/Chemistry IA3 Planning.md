@@ -26,7 +26,7 @@ Biogasoline is one of these, and is touted as a 'drop in replacement' for unlead
 
 
 ##### Well what is biogasoline?
-Very low production at the moment, may not be cost effective without advancements in the industry.cx
+Very low production at the moment, may not be cost effective without advancements in the industry. 
 ### Research question
 How do does the collection and cracking processes differ between synthesis of gasoline and biogasoline, and how do the final products differ.  
 
@@ -37,9 +37,26 @@ biofuel:
 algae -> pyrolysis/cracking (Converts it into hydrocarbons) -> Biogasoline 
 
 #### Starting products (Chemical make up)
+##### Bio Oil
+###### How is it produced
+[[curent status and future applications.pdf]]
+
+While natural cultivation was used initially due to its low capital cost, artificial cultivation is more viable for fuel production on industrial scale. Environmental conditions are controlled using closed loop systems and key consumables, notably $CO_2$, water, and nutrients, are dispersed throughout the system as as required. The system itself can take the form of either 'raceways' or tube, however both fundamentally do the same thing; circulate algae from storage into a light rich environment so that photosynthesis occurs, then back into storage. Photosynthesis allows the algae to 'capture' the carbon from the $CO_2$ bubbled into the system, or from the open air, while simultaneously releasing the oxygen attached to it. As the algae grows and reproduces, carbon will accumulate in the system in the form of glucose, and within the oils that algae produce to store energy long term. 
+
+Dried algal biomass has a high content of these oils, and has potential to be fermeted, pyrolysed, or processed in a number of other ways. Pyrolysis is currently a prominsing technique 
+
+
+
+
+###### Processing/Synthesis
 Bio oil is extracted from algal biomass using pyrolyis 
 Pyrolysis is decomposing a material by heating it in an inert enviroment, where combustion cannot occur. (https://www.ars.usda.gov/northeast-area/wyndmoor-pa/eastern-regional-research-center/docs/biomass-pyrolysis-research-1/what-is-pyrolysis/)
 
+##### Crude oil
+###### How is it produced?
+**Briefly explain how it is pumped out from the ground and non renewable**
+
+###### Proccessing/Refinery
 ##### Table Comparing bio-oil to crude oil
 https://task34.ieabioenergy.com/bio-oil/#:~:text=Biomass%20pyrolysis%20oil%20contains%20several,phenols%2C%20anhydrosugars%20and%20other%20oligosaccharides.
 
