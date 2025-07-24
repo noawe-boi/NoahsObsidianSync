@@ -138,7 +138,7 @@ This is much more expensive than large scale solar PV, which currently has a cap
 **Analysis of a modelled grid connected PV system with on site battery storage**
 
 *What is reliability?*
-Reliability is defined as, "The ability of a system of device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers. Power reliability is a more specific term that refers to an entire system's ability to deliver power to consumers with sufficient quantity, and compliance with specifications. 
+Reliability is defined as, "The ability of a system of device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers. Power reliability is a more specific term and is discussed as a percantage. Power reliability is considered probabilistic, with a power reliability of $x\%$ meaning at any given time, there is an $x\%$ chance that the system will be operating at maximum capacity.  
 
 > [!PDF|yellow] [[AAES42023083_R2最终确定版.pdf#page=2&selection=0,22,26,58&color=yellow|AAES42023083_R2最终确定版, p.2]]
 > > Additionally, reliability is defined by Institute of Electrical and Electronics Engineers (IEEE) as the ability of a system or device to carry out its desired function under predefined circumstances for a certain amount of time. Power reliability is the extent to which the operation of a bulk system’s components results in the delivery of power to consumers within recognized criteria and in the required amount [8].
@@ -164,7 +164,7 @@ Chongqing University in China aimed to investigate the power reliability of a la
 > > FMEA analyzes each system’s subcomponent individually with the goal of identifying the different failure modes that can impact each part, as well as their causes and effects on both the part and the system as a whole.
 
 
-![[Pasted image 20250720233918.png]]
+
 
 
 > [!PDF|yellow] [[AAES42023083_R2最终确定版.pdf#page=7&selection=247,21,250,27&color=yellow|AAES42023083_R2最终确定版, p.7]]
@@ -172,14 +172,60 @@ Chongqing University in China aimed to investigate the power reliability of a la
 
 ![[{9C987821-28E7-40EE-A7E7-C7F3BB30E1C3}.png]]
 
-As the system continued to operate, the failure rate of individual components increased linearly. It is inferred that eventually every piece of equipment would need to be replaced. 
+As the system continued to operate, the failure rate of individual components increased linearly. It is inferred that eventually every piece of equipment would need to be replaced in a manner similar to the ship of Theseus. 
 
 > [!PDF|yellow] [[AAES42023083_R2最终确定版.pdf#page=7&selection=100,11,100,57&color=yellow|AAES42023083_R2最终确定版, p.7]]
 > > In other words, the system is reliable by 80%.
 
-Overall is was found that the systems power reliability was 80%, meaning ==80% of the time, the system is expected to perform at it's rated output.==
+Overall is was found that the systems power reliability was 80%, meaning ==80% of the time, the system is expected to perform at it's rated output.== 
+
+
+
+
+> [!PDF|yellow] [[energies-12-01213.pdf#page=14&selection=86,0,87,6&color=yellow|energies-12-01213, p.14]]
+> > Reliability after 1 Year of Operation (in %)
+![[Pasted image 20250724165026.png]]
+
+
+Another study by Li, J. et al. considered the scale of solar infrastructure in relation to power reliability on a similar single component basis over multiple time frames. It was found that even after only one year, the power reliability of the system could be as low as $0.1219\%$ for a $2500 kW$ maximum output. 
+
+
+```tikz
+\usepackage{pgfplots}
+\begin{document}
+	\begin{tikzpicture}
+		\begin{axis}[ymax=100, ymin=0, xlabel=Power kW, ylabel=Power reilability $(\%)$]
+			\addplot coordinates {
+				(100, 71.8)
+				(200, 54.5)
+				(500, 23.9)
+				(1000, 7.6)
+				(2000, 0.48)
+				(2500, 0.12) 
+			};
+		\end{axis}
+	\end{tikzpicture}
+\end{document}
+```
+
+
+> [!PDF|yellow] [[energies-12-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
+> > Table 7. Sub-assembly availability of the PV systems (in %).
+
+This study also considers availability, or the average output of the system over time in respect to its rated output. 
+
+
+![[Pasted image 20250724173952.png]]
+
 
 ### Why is it reliable? 
+A reliability of 80% seems low in comparison to Nuclear energy's 
+
+> [!PDF|yellow] [[energies-12-01213.pdf#page=5&selection=209,79,211,104&color=yellow|energies-12-01213, p.5]]
+> > When the sub-assemblies connected in series, the overall system will be interrupted in case of failure of one sub-assembly. On the other hand, all subassemblies must fail in order to interrupt the overall system in the parallel system.
+
+
+
 
 > [!PDF|yellow] [[s10098-022-02307-z.pdf#page=6&selection=121,2,127,39&color=yellow|s10098-022-02307-z, p.6]]
 > > alable. Reliability is another strong point of PV thanks to its modular plug&play (P&P) architecture. Indeed, a defective unit, whether a panel, power converter or control equipment, may be replaced by a new one within hours by an employee who does not require an advanced training or education and this, simply using a motorized vehicle.
