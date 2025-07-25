@@ -13,58 +13,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/25-07-2025.md",
+                "file": "Unfiltered/Physics IA3 2025 Draft 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-07-2025"
+              "title": "Physics IA3 2025 Draft 2"
             }
           },
           {
-            "id": "380b9988a9c899ff",
+            "id": "ff060c2266ae7285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods 18C Appriximating the distribution of a sample population"
+              "title": "Physics IA3 2025 Planning-Evidence"
             }
           },
           {
-            "id": "4f8bcee59d121625",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw"
-            }
-          },
-          {
-            "id": "58c83a3b12338da7",
+            "id": "9a27a64a30526586",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Maths Methods/Year 12/Formula Sheet/MethodsFormulaSheet.pdf",
-                "page": 1,
-                "left": -36,
-                "top": 402,
-                "zoom": 1.83
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+                "page": 11,
+                "left": -9,
+                "top": 475,
+                "zoom": 1.7449888791081787
               },
               "icon": "lucide-file-text",
-              "title": "MethodsFormulaSheet"
+              "title": "energies-12-01213"
+            }
+          },
+          {
+            "id": "a758a0a526806af4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+                "page": 1,
+                "left": -130,
+                "top": 419,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "AAES42023083_R2最终确定版"
+            }
+          },
+          {
+            "id": "e7f0a8e89d9f3ddc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
+                "page": 1,
+                "left": -130,
+                "top": 388,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "s10098-022-02307-z"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,21 +265,28 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "4f8bcee59d121625",
+  "active": "ff060c2266ae7285",
   "lastOpenFiles": [
+    "Unfiltered/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
+    "Images/{9DE5CE3D-B2FF-412C-BC85-82AB23851F58}.png",
+    "Unfiltered/Physics IA3 Draft Submission.md",
+    "Daily Notes/25-07-2025.md",
+    "Images/Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw.md",
     "Maths Methods/Year 12/Formula Sheet/MethodsFormulaSheet.pdf",
     "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
     "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
     "Maths Methods/Year 12/Formula Sheet/Unconfirmed 222742.crdownload",
     "Maths Methods/Year 12/Formula Sheet",
     "Maths Methods/Year 12/New folder",
-    "Images/Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw.md",
     "Maths Methods/Year 12/Notes/Methods 17C Determining normal probabilities..md",
     "Properties of large populations.md",
     "Unfiltered/Untitled 6.md",
     "Unfiltered/Untitled 5.md",
     "Images/{32BF3A33-988C-46D2-82DA-CF251E8CF3AB}.png",
-    "Daily Notes/25-07-2025.md",
     "Images/{109A23B9-8810-4C54-8389-0E18E420E5A9}.png",
     "Maths Concepts/Normality in a distribution.md",
     "Maths Concepts/Requirements for normality in a distribution.md",
@@ -273,24 +300,17 @@
     "Specialist Maths/Year 12/Formula Sheet/SpecialistFormulaSheet.pdf",
     "Images/Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw.md",
     "Specialist Maths/Year 12/Formula Sheet/Unconfirmed 407253.crdownload",
-    "Specialist Maths/Year 12/Formula Sheet",
-    "Specialist Maths/Year 12/New folder",
     "Images/{68FAF7DC-1D15-445B-9486-C4B3B8A4B840}.png",
-    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
     "Images/{9E582A8D-D07B-4C1E-B3F7-1DF7EC562A05}.png",
     "Images/{F62E2521-88C1-4FE7-9532-7B7EDBCA5B18}.png",
     "Volume of a solid of revolution.md",
     "Specialist Maths/Year 12/Notes/Specialist 12D Volumes of solids of revolution.md",
     "Images/{B31D80AD-5870-4DDD-93F9-CF249D2403F1}.png",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
-    "Unfiltered/Physics IA3 2025 Draft 2.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Images/Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw.md",
     "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
-    "Physics/Year 12/Notes/Baryon Number.md",
     "Images/{09F4B01D-61FE-4A40-91E3-9DEF5044BF89}.png",
     "Images/{385FDF53-FB62-4B70-84A1-6910A6EAD0D8}.png",
-    "Images/{66E79D60-68B7-4CC8-9C2F-64FAC8779BE7}.png",
-    "Images/{BA737D63-EEBC-493D-B110-DEF3746D011D}.png"
+    "Images/{66E79D60-68B7-4CC8-9C2F-64FAC8779BE7}.png"
   ]
 }

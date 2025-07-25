@@ -1,14 +1,8 @@
 ### Claim
 In the future, nuclear energy is the best possible energy source for Australia.
-
 ### Developing Research question
-
-
 #### Comparing Energy Sources
 **Talk about Australia net zero goal.** 
-
-
-
 Clearly in the future, green energy is going to be Australia's main energy source. Fossil fuel sources are being phased out so there is no use mentioning them. 
 
 Nuclear will be compared to existing green energy sources.
@@ -94,10 +88,14 @@ The CSIRO's GenCost report calculated, and predicted LCOE's for a number of tech
 				height=0.3\paperwidth,
 				xmin=2024, 
 				xmax=2050,
+				xlabel=Year,
+				ylabel=Cost per kW, 	
 				xtick={2024, 2030, 2040, 2050},
 	 /pgf/number format/.cd,
 	use comma,
-	1000 sep={}]
+	1000 sep={}
+
+	]
 				\addplot coordinates {
 					(2024, 400)
 					(2030, 285)
@@ -178,6 +176,8 @@ As the system continued to operate, the failure rate of individual components in
 > > In other words, the system is reliable by 80%.
 
 Overall is was found that the systems power reliability was 80%, meaning ==80% of the time, the system is expected to perform at it's rated output.==
+
+A further study by 
 
 ### Why is it reliable? 
 

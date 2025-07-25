@@ -150,7 +150,10 @@ The prevalence and recent advancements of battery energy storage technology incr
 
 
 
-Despite it's wide adoption, mostly due to its lower upfront cost compared to the aforementioned supplemental technologies, battery storage technology introduces a number of failure points due to its complex and decentralized nature. Batteries and battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. This is an issue because Solar PV is highly dependent on storage technologies.
+Despite it's wide adoption, mostly due to its lower upfront cost compared to the aforementioned supplemental technologies, battery storage technology introduces a number of failure points due to its complex and decentralized nature. Batteries and battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Furthermore, solar energy systems are often serial, or linear. If a single 'link', or component, in the 'chain', or system, the entire system can be incapable of providing power.  
+
+
+
 
 > [!PDF|255, 208, 0] [[AAES42023083_R2最终确定版.pdf#page=2&annotation=310R|AAES42023083_R2最终确定版, p.2]]
 > > Inverter failure can occur due to a variety of factors, including age, design flaws, or electrical faults. Battery degradation is another common issue, as batteries can lose capacity over time due to repeated charge and discharge cycles. Also, the mass adoption and proliferation of GCPVS could create enormous stress on the electric grid.
