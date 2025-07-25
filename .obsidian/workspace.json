@@ -4,46 +4,97 @@
     "type": "split",
     "children": [
       {
-        "id": "244cf1b30c5deb1f",
+        "id": "116fb20c0119fe1e",
         "type": "tabs",
         "children": [
           {
-            "id": "61cff1e76819efd9",
+            "id": "00c9a357cbeb783f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Chemistry/Year 12/Assignments/IA3/Sources/curent status and future applications.pdf",
-                "page": 4,
-                "left": 34,
-                "top": 454,
-                "zoom": 2.96
+                "file": "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+                "page": 133,
+                "left": -4,
+                "top": 34,
+                "zoom": 2.8
               },
               "icon": "lucide-file-text",
-              "title": "curent status and future applications"
+              "title": "SpecialistUnit2"
             }
-          }
-        ]
-      },
-      {
-        "id": "5d72c3ffcd5f2ec7",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "639b2a6f0c39244b",
+            "id": "5df306d899f353e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw"
+            }
+          },
+          {
+            "id": "cadfca3233fd3849",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Specialist Maths/Year 12/Formula Sheet/SpecialistFormulaSheet.pdf",
+                "page": 3,
+                "left": -6,
+                "top": 560,
+                "zoom": 2.757964372828739
+              },
+              "icon": "lucide-file-text",
+              "title": "SpecialistFormulaSheet"
+            }
+          },
+          {
+            "id": "52f81d941806e643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+                "file": "Daily Notes/25-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry IA3 Planning"
+              "title": "25-07-2025"
+            }
+          },
+          {
+            "id": "a76a40bd3c5046db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Specialist Maths/Year 12/Notes/Specialist 12D Volumes of solids of revolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Specialist 12D Volumes of solids of revolution"
+            }
+          },
+          {
+            "id": "424aaf637571dafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volume of a solid of revolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volume of a solid of revolution"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,10 +276,23 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "639b2a6f0c39244b",
+  "active": "52f81d941806e643",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Assignments/IA3/Sources/curent status and future applications.pdf",
+    "Specialist Maths/Year 12/Formula Sheet/SpecialistFormulaSheet.pdf",
+    "Daily Notes/25-07-2025.md",
+    "Images/Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw.md",
+    "Specialist Maths/Year 12/Formula Sheet/Unconfirmed 407253.crdownload",
+    "Specialist Maths/Year 12/Formula Sheet",
+    "Specialist Maths/Year 12/New folder",
+    "Images/{68FAF7DC-1D15-445B-9486-C4B3B8A4B840}.png",
+    "Specialist Maths/Year 12/Notes/SpecialistUnit2.pdf",
+    "Images/{9E582A8D-D07B-4C1E-B3F7-1DF7EC562A05}.png",
+    "Images/{F62E2521-88C1-4FE7-9532-7B7EDBCA5B18}.png",
+    "Volume of a solid of revolution.md",
+    "Specialist Maths/Year 12/Notes/Specialist 12D Volumes of solids of revolution.md",
+    "Images/{B31D80AD-5870-4DDD-93F9-CF249D2403F1}.png",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+    "Chemistry/Year 12/Assignments/IA3/Sources/curent status and future applications.pdf",
     "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline Cracking with catalyst.pdf",
     "Daily Notes/23-07-2025.md",
     "Chemistry/Year 12/Assignments/IA3/Sources/biogasolne.pdf",
@@ -237,7 +301,6 @@
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Images/Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw.md",
-    "Maths Methods/Year 12/Notes/MethodsUnit4.pdf",
     "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
     "Physics/Year 12/Notes/Baryon Number.md",
     "Images/Lepton Number 2025-07-23 09.35.56.excalidraw.md",
@@ -250,27 +313,15 @@
     "Images/{BA737D63-EEBC-493D-B110-DEF3746D011D}.png",
     "Images/{441E064A-9A38-421F-A1DA-4E1A445669C6}.png",
     "Images/{FC15DAC6-57C3-48E2-9967-F8ED29E22C8F}.png",
-    "Images/{91A4645F-3B3C-4C1B-83F8-F5F4F43E7B97}.png",
-    "Images/{47C7E678-72DF-4B44-A079-91ED999B1B8F}.png",
     "Physics/Year 12/Notes/Lepton.md",
     "conflict-files-obsidian-git.md",
     "Unfiltered/Physics IA3 Draft Submission.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Scalability",
-    "Images/Pasted image 20250722192343.png",
     "Maths Methods/Year 12/Notes/Methods 18B The exact distribution of a sample population.md",
-    "Images/{84FC1BA8-27EB-44DA-9450-CBDE7F958C93}.png",
     "Properties of large populations.md",
     "Binomial probability.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/Environmental influence assessment of China’s multi-crystalline silicon (multi-Si) photovoltaic modules considering recycling process _ Research Institute for Sustainability.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/EOL Source.url",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/New shortcut.lnk",
     "Physics/YEAR12~1/ASSIGN~1/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Daily Notes/22-07-2025.md",
     "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
-    "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md",
-    "Specialist Maths/Year 12/Notes/Specialist 12A The fundamental theorem of calculus.md",
-    "Images/Specialist 12A The fundamental theorem of calculus 2025-07-22 09.14.02.excalidraw.md",
-    "Daily Notes/21-07-2025.md",
-    "Properties of definite integrals.md"
+    "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md"
   ]
 }
