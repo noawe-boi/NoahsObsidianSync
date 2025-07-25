@@ -150,7 +150,7 @@ The prevalence and recent advancements of battery energy storage technology incr
 
 
 
-Despite it's wide adoption, mostly due to its lower upfront cost compared to the aforementioned supplemental technologies, battery storage technology introduces a number of failure points due to its complex and decentralized nature. Batteries and battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Furthermore, solar energy systems are often serial, or linear. If a single 'link', or component, in the 'chain', or system, the entire system can be incapable of providing power.  
+Despite it's wide adoption, mostly due to its lower upfront cost compared to the aforementioned supplemental technologies, battery storage technology introduces a number of failure points due to its complex and decentralized nature. Batteries and battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Furthermore, solar energy systems are often serial, or linear. If a single 'link', or component, in the 'chain', or system, the entire system can be incapable of providing power. p 
 
 
 
