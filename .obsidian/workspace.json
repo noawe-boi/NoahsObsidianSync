@@ -8,70 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "773e914b7b501978",
+            "id": "e3da03ee706fa8da",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
-                "page": 11,
-                "left": -10,
-                "top": 561,
-                "zoom": 1.545921555715332
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/Time Dependent Failure Rate For Nuclear.pdf",
+                "page": 1,
+                "left": -180,
+                "top": 661,
+                "zoom": 2.5
               },
               "icon": "lucide-file-text",
-              "title": "energies-12-01213"
+              "title": "Time Dependent Failure Rate For Nuclear"
             }
           },
           {
-            "id": "ce041e83e2542818",
+            "id": "7cc49de3e8feded5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics IA3 2025 Draft 2"
+            }
+          },
+          {
+            "id": "a5c634b3616569a1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-                "page": 4,
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+                "page": 15,
                 "left": -658,
-                "top": 442,
+                "top": 626,
                 "zoom": 1.25
               },
               "icon": "lucide-file-text",
-              "title": "AAES42023083_R2最终确定版"
-            }
-          },
-          {
-            "id": "3554069885689760",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
-                "page": 11,
-                "left": -162,
-                "top": 634,
-                "zoom": 2.6
-              },
-              "icon": "lucide-file-text",
-              "title": "energies-12-01213"
-            }
-          },
-          {
-            "id": "d9c80e65f193e0b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
-                "page": 8,
-                "left": -658,
-                "top": 740,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "s10098-022-02307-z"
+              "title": "GenCost2024-25ConsultDraft_20241205"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of energies-12-01213"
+              "title": "Outline of Physics IA3 2025 Draft 2"
             }
           },
           {
@@ -253,8 +236,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "773e914b7b501978",
+  "active": "7cc49de3e8feded5",
   "lastOpenFiles": [
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Time Dependent Failure Rate For Nuclear.pdf",
+    "Daily Notes/22-07-2025.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/1-s2.0-S0951832023000364-main.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Nuclear",
+    "Physics/Year 12/Assignments/IA3/Sources/Brook et al 2014 - Sust Mat Tech.pdf",
+    "Daily Notes/23-07-2025.md",
+    "Daily Notes/25-07-2025.md",
+    "Daily Notes/26-07-2025.md",
+    "Daily Notes/27-07-2025.md",
+    "Study Inspo/20250629_171105.jpg",
+    "Study Inspo/20250625_125311.jpg",
+    "Study Inspo",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Unfiltered/Physics IA3 2025 Draft 2.md",
     "Volume of a solid of revolution.md",
     "Unfiltered/Untitled 6.md",
     "Unfiltered/Untitled 5.md",
@@ -263,7 +262,6 @@
     "Specialist Maths/Year 12/Formula Sheet",
     "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
     "Maths Methods/Year 12/Formula Sheet/MethodsFormulaSheet.pdf",
-    "Maths Methods/Year 12/Formula Sheet",
     "Maths Concepts/Requirements for normality in a distribution.md",
     "Maths Concepts/Normality in a distribution.md",
     "Images/{F62E2521-88C1-4FE7-9532-7B7EDBCA5B18}.png",
@@ -275,19 +273,8 @@
     "Images/{109A23B9-8810-4C54-8389-0E18E420E5A9}.png",
     "Images/Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw.md",
     "Images/Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw.md",
-    "Daily Notes/25-07-2025.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
-    "Unfiltered/Physics IA3 2025 Draft 2.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
     "Images/Pasted image 20250724173952.png",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
-    "Images/Pasted image 20250724165026.png",
-    "Images/Pasted image 20250724165022.png",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/1-s2.0-S0038092X23006734-main.pdf",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
-    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline Cracking with catalyst.pdf",
-    "Chemistry/Year 12/Assignments/IA3/Sources/biovasoline production.pdf",
     "Unfiltered/Physics IA3 Draft Submission.md",
     "Physics/Year 12/Notes/Physics 14.1 Conservation in interactions.md",
     "Physics/Year 12/Notes/Lepton.md",
@@ -295,11 +282,7 @@
     "Physics/Year 12/Notes/Baryon Number.md",
     "Images/Lepton Number 2025-07-23 09.35.56.excalidraw.md",
     "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
-    "Daily Notes/23-07-2025.md",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
-    "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
-    "Specialist Maths/Year 12/Notes/Specialist 12A The fundamental theorem of calculus.md",
-    "Properties of large populations.md",
     "Untitled.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
