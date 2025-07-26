@@ -27,7 +27,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf"
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+                "page": 11,
+                "left": -4,
+                "top": 545,
+                "zoom": 3.9649675108689086
               },
               "icon": "lucide-file-text",
               "title": "energies-12-01213"
@@ -81,8 +85,7 @@
               "title": "s10098-022-02307-z"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+                "file": "Unfiltered/Physics IA3 2025 Draft 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of energies-12-01213"
+              "title": "Outline of Physics IA3 2025 Draft 2"
             }
           },
           {
@@ -264,10 +267,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "773e914b7b501978",
+  "active": "5d792c1c372d9bb6",
   "lastOpenFiles": [
-    "Unfiltered/Physics IA3 2025 Draft 2.md",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Unfiltered/Physics IA3 2025 Draft 2.md",
     "Images/Pasted image 20250724173952.png",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
