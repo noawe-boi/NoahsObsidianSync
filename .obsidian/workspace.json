@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d792c1c372d9bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unfiltered/Physics IA3 2025 Draft 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physics IA3 2025 Draft 2"
-            }
-          },
-          {
             "id": "773e914b7b501978",
             "type": "leaf",
             "state": {
@@ -29,9 +15,9 @@
               "state": {
                 "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
                 "page": 11,
-                "left": -4,
-                "top": 545,
-                "zoom": 3.9649675108689086
+                "left": -10,
+                "top": 561,
+                "zoom": 1.545921555715332
               },
               "icon": "lucide-file-text",
               "title": "energies-12-01213"
@@ -222,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unfiltered/Physics IA3 2025 Draft 2.md",
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physics IA3 2025 Draft 2"
+              "title": "Outline of energies-12-01213"
             }
           },
           {
@@ -267,10 +253,32 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5d792c1c372d9bb6",
+  "active": "773e914b7b501978",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Volume of a solid of revolution.md",
+    "Unfiltered/Untitled 6.md",
+    "Unfiltered/Untitled 5.md",
+    "Specialist Maths/Year 12/Notes/Specialist 12D Volumes of solids of revolution.md",
+    "Specialist Maths/Year 12/Formula Sheet/SpecialistFormulaSheet.pdf",
+    "Specialist Maths/Year 12/Formula Sheet",
+    "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
+    "Maths Methods/Year 12/Formula Sheet/MethodsFormulaSheet.pdf",
+    "Maths Methods/Year 12/Formula Sheet",
+    "Maths Concepts/Requirements for normality in a distribution.md",
+    "Maths Concepts/Normality in a distribution.md",
+    "Images/{F62E2521-88C1-4FE7-9532-7B7EDBCA5B18}.png",
+    "Images/{B31D80AD-5870-4DDD-93F9-CF249D2403F1}.png",
+    "Images/{9E582A8D-D07B-4C1E-B3F7-1DF7EC562A05}.png",
+    "Images/{9DE5CE3D-B2FF-412C-BC85-82AB23851F58}.png",
+    "Images/{68FAF7DC-1D15-445B-9486-C4B3B8A4B840}.png",
+    "Images/{32BF3A33-988C-46D2-82DA-CF251E8CF3AB}.png",
+    "Images/{109A23B9-8810-4C54-8389-0E18E420E5A9}.png",
+    "Images/Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw.md",
+    "Images/Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw.md",
+    "Daily Notes/25-07-2025.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
     "Unfiltered/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
     "Images/Pasted image 20250724173952.png",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
@@ -285,35 +293,13 @@
     "Physics/Year 12/Notes/Lepton.md",
     "Physics/Year 12/Notes/Lepton Number.md",
     "Physics/Year 12/Notes/Baryon Number.md",
-    "Images/{FC15DAC6-57C3-48E2-9967-F8ED29E22C8F}.png",
-    "Images/{BA737D63-EEBC-493D-B110-DEF3746D011D}.png",
-    "Images/{91A4645F-3B3C-4C1B-83F8-F5F4F43E7B97}.png",
-    "Images/{66E79D60-68B7-4CC8-9C2F-64FAC8779BE7}.png",
-    "Images/{47C7E678-72DF-4B44-A079-91ED999B1B8F}.png",
-    "Images/{441E064A-9A38-421F-A1DA-4E1A445669C6}.png",
-    "Images/{385FDF53-FB62-4B70-84A1-6910A6EAD0D8}.png",
     "Images/Lepton Number 2025-07-23 09.35.56.excalidraw.md",
     "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
     "Daily Notes/23-07-2025.md",
-    "Chemistry/Year 12/Assignments/IA3/Sources/W187.pdf",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Scalability",
     "Specialist Maths/Year 12/Notes/Speicalist 12B Area of a reigon between two curves.md",
     "Specialist Maths/Year 12/Notes/Specialist 12A The fundamental theorem of calculus.md",
     "Properties of large populations.md",
-    "Properties of definite integrals.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL/EOL Source.url",
-    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/EOL",
-    "Maths Methods/Year 12/Notes/Methods 18B The exact distribution of a sample population.md",
-    "Maths Concepts/The fundamental theorem of calculus.md",
-    "Images/Speicalist 12B Area of a reigon between two curves 2025-07-22 09.53.25.excalidraw.md",
-    "Images/Specialist 12A The fundamental theorem of calculus 2025-07-22 09.14.02.excalidraw.md",
-    "Images/Methods 18B The exact distribution of a sample population 2025-07-22 14.36.26.excalidraw.md",
-    "Daily Notes/22-07-2025.md",
-    "Binomial probability.md",
-    "Sample.md",
-    "Maths Methods/Year 12/Notes/18A Populations and samples.md",
-    "Maths Concepts/Simple random sample of size n.md",
     "Untitled.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
