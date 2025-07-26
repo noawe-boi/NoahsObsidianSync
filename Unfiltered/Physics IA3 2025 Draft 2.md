@@ -215,8 +215,6 @@ Another study by Li, J. et al. considered the scale of solar infrastructure in r
 This study also considers availability, or the average output of the system over time in respect to its rated output. 
 
 
-![[Pasted image 20250724173952.png]]
-
 
 ### Why is it reliable? 
 A reliability of 80% seems low in comparison to Nuclear energy's 
