@@ -123,7 +123,7 @@ The CSIRO's GenCost report calculated, and predicted LCOE's for a number of tech
 
 
 
-While the cost per megawatt hour of small modular, large scale nuclear configurations is precited to trend downwards between now and 2050, the cost of solar PV remains an average of $3.8$ times less expensive than the cheapest running nuclear options. 
+While the cost per megawatt hour of small modular, large scale nuclear configurations is precited to trend downwards between now and 2050, the capital cost of solar PV remains an average of $3.8$ times less expensive than the cheapest running nuclear options. 
 ##### Capital costs
 This is likely due to higher capital, or setup, costs for nuclear options. Nuclear SMR installations share many capital costs with large scale nuclear, but do not benefit from economies of scale. While they are expected to reduce in cost the most over the next $\approx 15$ years, we will consider large scale for this comparison. Assuming mature nuclear technology is viable for construction, the cost of said large scale installations is currently $\approx \$9000/kW$ in energy generation capacity, and is expected to be as low as $\approx \$ 8000 /kW$ by 2050. 
 This is much more expensive than large scale solar PV, which currently has a capital cost of $\approx\$1500/kW$, and is expected to be to $\approx \$700/kW$ by 2050. 
@@ -217,7 +217,7 @@ $$
 > [!PDF|yellow] [[energies-12-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
 > > Table 7. Sub-assembly availability of the PV systems (in %).
 
-Table X further illustrates this point, with the uptime of the system with respect to total system running decreasing as capacity increases. The main contributor to the lowering availability was the inverter modules, which were over $5\%$ less reliable than the next closest liability, PV modules. While PV modules can be easily replaced due to their modular "Plug and play" nature, inverters are more complex and require more effort to replace, therefore leading to their lower availability. 
+Table X further illustrates this point, with the uptime of the system with respect to total system running decreasing as capacity increases. The main contributor to the lowering availability was the inverter modules, which were over $5\%$ less reliable than the next closest liability, PV modules. While PV modules can be easily replaced due to their modular "Plug and play" nature, inverters are more complex and require more time to replace, therefore leading to their lower availability. 
 
 
 > [!PDF|yellow] [[s10098-022-02307-z.pdf#page=6&selection=121,2,127,39&color=yellow|s10098-022-02307-z, p.6]]
@@ -249,26 +249,38 @@ In the time period 2015-2016 the average availability of all inverters was $92.4
 ##### Limitations
 
 
+> [!PDF|yellow] [[ReliabilityOfLargeScale.pdf#page=21&selection=4,0,5,13&color=yellow|ReliabilityOfLargeScale, p.21]]
+> > Figure 6. System availability versus system size shows negative trend. P50 (red) and P90 (black) quantile values shown.
+![[Pasted image 20250728070312.png]]
+> 
 
 
-Nuclear infastructure faces many of the same challenges in reliability and longevity as solar PV. 
+Nuclear infrastructure faces many of the same challenges in reliability and longevity as solar PV. 
 
 IAEA's Power Reactor Information System (PRIS) is a database of statistics regarding the construction, operation, and capacity of global nuclear energy infrastructure. Extrapolating availability from their public dataset gives a global average of $82.3\%$ (excluding South Africa). 
 
 https://pris.iaea.org/PRIS/WorldStatistics/ThreeYrsEnergyAvailabilityFactor.aspx
 
-This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore both restorative and preventative maintenance must be carried out with greater frequency and meticulousness. For a 1000 $MW$ reactor, repair timelines range from 9, to 80 days depending on the severity of the fault. This has a significant impact on the overall availability of the system. Furthermore, while solar installations have the ability to degrade 'gracefully', maintaining partial functionality even with the loss of some system components, nuclear plants must maintain full operational capabilities so that safety is not compromised. 
-
+This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore both restorative and preventative maintenance must be carried out with greater frequency and meticulousness. 
+For a 1000 $MW$ reactor, repair timelines range from 9, to 80 days depending on the severity of the fault. This has a significant impact on the overall availability of the system. Furthermore, while solar installations have the ability to degrade 'gracefully', maintaining partial functionality even with the loss of some system components, nuclear plants must maintain full operational capabilities so that safety is not compromised.
 > [!PDF|yellow] [[ReliabilityPredictionForNuclearPower.pdf#page=5&selection=0,0,3,58&color=yellow|ReliabilityPredictionForNuclearPower, p. 5]]
 > > For example, for a 1000 MW nuclear power unit, it takes 70 to 80 days to conduct A class repair in the rules of DL/ T838, while it takes 35 to 50 days, 26 to 30 days and 9 to 15 days, respectively to perform B, C, and D class repair.
 > 
 > 
+Furthermore, the output of nuclear facilities is larger than the solar PV infrastructure discussed by a factor of 10000. Considering the trends observed in equivalent availability factor as scale increases, solar PV is predicted to have a much lower $E_{AF}$ at the same scale as nuclear
+
+#### Scalability
+
+Furthermore, the capacity of the nuclear plants evaluated are usually many times the capacity of the solar PV systems. Currently, the smallest SMR plants output between 1 and 10 $MW$, however, it is not uncommon for larger scale nuclear plants output as much as 1000 $MW$. Considering the trend observed in figure X, solar PV systems larger than $\approx$ 2000 $kW$ (2 $MW$) have worse equivalent availability than the average nuclear plant. It is not unreasonable to infer that solar may not be viable at scale. 
+
+[[small_modular_reactors_cop26_flyer.pdf]]
 
 [[ReliabilityPredictionForNuclearPower.pdf]]
 
 
-#### Scalability
-##### Reliability at scale
+It should also be considered the material and time required to 
+
+
 
 ##### Required and waste materials. 
 

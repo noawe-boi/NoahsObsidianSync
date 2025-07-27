@@ -6,7 +6,7 @@
       {
         "id": "4b09cdccfdd7d92a",
         "type": "tabs",
-        "dimension": 42.45709123757904,
+        "dimension": 42.457091237579036,
         "children": [
           {
             "id": "716b4dafbbfbb38c",
@@ -31,39 +31,71 @@
               "type": "pdf",
               "state": {
                 "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForNuclearPower.pdf",
-                "page": 6,
-                "left": -4,
-                "top": 355,
-                "zoom": 2.216198868732825
+                "page": 7,
+                "left": -9,
+                "top": 70,
+                "zoom": 1.6378956988019004
               },
               "icon": "lucide-file-text",
               "title": "ReliabilityPredictionForNuclearPower"
             }
+          },
+          {
+            "id": "4a2fde7fd89a0dae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
+                "page": 4,
+                "left": -9,
+                "top": 749,
+                "zoom": 1.6378956988019004
+              },
+              "icon": "lucide-file-text",
+              "title": "s10098-022-02307-z"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "da3f7da404967007",
         "type": "tabs",
-        "dimension": 57.54290876242097,
+        "dimension": 57.542908762420964,
         "children": [
           {
-            "id": "7cc49de3e8feded5",
+            "id": "6dbcb6193a2b70f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Methods/Year 12/Notes/18A Populations and samples.md",
+                "file": "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18A Populations and samples"
+              "title": "Physics IA3 2025 Draft 2"
             }
           },
           {
-            "id": "6dbcb6193a2b70f1",
+            "id": "58db042345a50ea6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityOfLargeScale.pdf",
+                "page": 20,
+                "left": -7,
+                "top": 95,
+                "zoom": 2.1862745098039214
+              },
+              "icon": "lucide-file-text",
+              "title": "ReliabilityOfLargeScale"
+            }
+          },
+          {
+            "id": "f5a77e7b898fc2a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -274,17 +306,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7cc49de3e8feded5",
+  "active": "6dbcb6193a2b70f1",
   "lastOpenFiles": [
+    "Images/Pasted image 20250728070312.png",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityOfLargeScale.pdf",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
+    "Images/Pasted image 20250728070033.png",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/small_modular_reactors_cop26_flyer.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/171371.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/pdf",
+    "Daily Notes/28-07-2025.md",
     "Maths Methods/Year 12/Notes/18A Populations and samples.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForNuclearPower.pdf",
     "Maths Concepts/Simple random sample of size n.md",
     "Maths Concepts/Population.md",
     "Sample.md",
     "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
-    "Daily Notes/28-07-2025.md",
     "Images/Pasted image 20250727182339.png",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForNuclearPower.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/Wear out of reactor.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForSolar.pdf",
     "Images/Pasted image 20250727182249.png",
@@ -295,12 +334,7 @@
     "Unfiltered/energies-13-01213.pdf.md",
     "Daily Notes/23-07-2025.md",
     "Daily Notes/25-07-2025.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
     "Daily Notes/22-07-2025.md",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/1-s2.0-S0951832023000364-main.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Nuclear",
-    "Physics/Year 12/Assignments/IA3/Sources/Brook et al 2014 - Sust Mat Tech.pdf",
     "Daily Notes/26-07-2025.md",
     "Study Inspo/20250629_171105.jpg",
     "Study Inspo/20250625_125311.jpg",
@@ -315,13 +349,11 @@
     "Images/{9E582A8D-D07B-4C1E-B3F7-1DF7EC562A05}.png",
     "Images/{9DE5CE3D-B2FF-412C-BC85-82AB23851F58}.png",
     "Images/{68FAF7DC-1D15-445B-9486-C4B3B8A4B840}.png",
-    "Images/{32BF3A33-988C-46D2-82DA-CF251E8CF3AB}.png",
     "Images/Specialist 12D Volumes of solids of revolution 2025-07-25 09.24.21.excalidraw.md",
     "Images/Methods 18C Appriximating the distribution of a sample population 2025-07-25 11.23.36.excalidraw.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
     "Unfiltered/Physics IA3 Draft Submission.md",
     "Physics/Year 12/Notes/Physics 14.1 Conservation in interactions.md",
-    "Physics/Year 12/Notes/Lepton.md",
     "Untitled.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
