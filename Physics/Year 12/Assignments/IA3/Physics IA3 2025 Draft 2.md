@@ -140,6 +140,12 @@ Where:
 - Mean downtime is the time it takes for operations to resume after a failure occurs. 
 [[AAES42023083_R2最终确定版.pdf]]
 
+
+
+
+
+
+
 Components such as batteries, battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Components and systems are arranged in both parallel and series arrangements throughout the infrastructure. Therefore, the impact of  a single component failing can have consequences raging from imperceptible to catastrophic.  
 
 > [!PDF|yellow] [[energies-12-01213.pdf#page=5&selection=209,79,211,104&color=yellow|energies-12-01213, p.5]]
@@ -232,7 +238,7 @@ Availability factor of a PV power plant: evaluation based on generation and inve
 > > Table 7. Sub-assembly availability of the PV systems (in %).
 
 
-In the time period 2015-2016 the average availability factor of the inverter was $92.44\%$. This correlates strongly with the findings of the previously mentioned study. 
+In the time period 2015-2016 the average availability of all inverters was $92.44\%$. This correlates strongly with the findings of the previously mentioned study. 
 
 
 > [!PDF|yellow] [[ReliabilityPredictionForSolar.pdf#page=6&selection=19,0,19,52&color=yellow|ReliabilityPredictionForSolar, p.76]]
@@ -240,17 +246,31 @@ In the time period 2015-2016 the average availability factor of the inverter was
 > 
 > 
 
-IAEA's Power Reactor Information System (PRIS) is a database of statistics regarding the construction, operation, and capacity of global nuclear energy infrastructure. Extrapolating availability from this gives a global average of $82.3\%$ (excluding South Africa). 
+##### Limitations
+
+
+
+
+Nuclear infastructure faces many of the same challenges in reliability and longevity as solar PV. 
+
+IAEA's Power Reactor Information System (PRIS) is a database of statistics regarding the construction, operation, and capacity of global nuclear energy infrastructure. Extrapolating availability from their public dataset gives a global average of $82.3\%$ (excluding South Africa). 
 
 https://pris.iaea.org/PRIS/WorldStatistics/ThreeYrsEnergyAvailabilityFactor.aspx
 
-This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore both restorative and preventative maintenance must be carried out with greater frequency and meticulousness.
+This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore both restorative and preventative maintenance must be carried out with greater frequency and meticulousness. For a 1000 $MW$ reactor, repair timelines range from 9, to 80 days depending on the severity of the fault. This has a significant impact on the overall availability of the system. Furthermore, while solar installations have the ability to degrade 'gracefully', maintaining partial functionality even with the loss of some system components, nuclear plants must maintain full operational capabilities so that safety is not compromised. 
+
+> [!PDF|yellow] [[ReliabilityPredictionForNuclearPower.pdf#page=5&selection=0,0,3,58&color=yellow|ReliabilityPredictionForNuclearPower, p. 5]]
+> > For example, for a 1000 MW nuclear power unit, it takes 70 to 80 days to conduct A class repair in the rules of DL/ T838, while it takes 35 to 50 days, 26 to 30 days and 9 to 15 days, respectively to perform B, C, and D class repair.
+> 
+> 
 
 [[ReliabilityPredictionForNuclearPower.pdf]]
 
 
 #### Scalability
+##### Reliability at scale
 
+##### Required and waste materials. 
 
 
 
