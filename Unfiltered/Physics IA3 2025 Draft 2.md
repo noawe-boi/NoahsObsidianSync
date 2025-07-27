@@ -207,8 +207,7 @@ Another study by Li, J. et al. considered the scale of solar infrastructure in r
 ```
 
 
-> [!PDF|yellow] [[energies-12-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
-> > Table 7. Sub-assembly availability of the PV systems (in %).
+
 
 This study also considers availability, or the average output of the system over time in respect to its rated output. 
 

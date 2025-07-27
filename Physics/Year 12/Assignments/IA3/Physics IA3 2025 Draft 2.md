@@ -55,8 +55,6 @@ Reliability is one of the most important factors in energy generation. Critical 
 ##### Scalability
 In order for a power generation technology to be competitive, it must have the ability to scale quickly and at reasonable cost. Australia urgently needs to scale carbon neutral energy to meet demand if it is to reach its target of net zero greenhouse gas emissions by 2050. 
 https://www.dcceew.gov.au/climate-change/emissions-reduction/net-zero
-##### Environmental
-While both energy sources require large scale mining and refinery in order to manufacture their energy generation technologies, there are stark differences in the quantity and type of materials required per installation. This will impact net CO2 emissions per unit of energy, a key factor assessed when considering Australia's net zero target.
 
 ### Research question
 Is Nuclear energy more sustainable than Solar PV in terms of cost, reliability and scalability.
@@ -133,43 +131,23 @@ This is much more expensive than large scale solar PV, which currently has a cap
 > [!PDF|yellow] [[GenCost2024-25ConsultDraft_20241205.pdf#page=75&selection=6,0,10,8&color=yellow|GenCost2024-25ConsultDraft_20241205, p.75]]
 > > Apx Table B.1 Current and projected generation technology capital costs under the Current policies scenario
 #### Reliability
-**Analysis of a modelled grid connected PV system with on site battery storage**
-
 *What is reliability?*
-Reliability is defined as, "The ability of a system of device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers. Power reliability is a more specific term and is discussed as a percantage. Power reliability is considered probabilistic, with a power reliability of $x\%$ meaning at any given time, there is an $x\%$ chance that the system will be operating at maximum capacity.  
-
+Reliability is defined as "The ability of a system or device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers. In the context of power generation we consider this probabilistically: there is an $x\%$ chance that the system will operate without faults for $y$ years.
+Availability is also a key factor in assessing a systems usefulness. It is expressed as a fraction that describes a component or systems operating time in respect to its total lifetime.
+$$\textrm{Availability} (A) = \frac{\textrm{Mean time to failure}}{\textrm {Mean time to failure + Mean downtime}}$$
+Where:
+- Mean time to failure is the amount of time the system operates for on average before a failure occurs
+- Mean downtime is the time it takes for operations to resume after a failure occurs. 
 [[AAES42023083_R2最终确定版.pdf]]
 
+Components such as batteries, battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Components and systems are arranged in both parallel and series arrangements throughout the infrastructure. Therefore, the impact of  a single component failing can have consequences raging from imperceptible to catastrophic.  
 
+> [!PDF|yellow] [[energies-12-01213.pdf#page=5&selection=209,79,211,104&color=yellow|energies-12-01213, p.5]]
+> > When the sub-assemblies connected in series, the overall system will be interrupted in case of failure of one sub-assembly. On the other hand, all subassemblies must fail in order to interrupt the overall system in the parallel system. 
 
-Chongqing University in China aimed to investigate the power reliability of a large scale PV system by analysing the expected rate of failure of devices over time and factoring in response, diagnosis and repair timelines. 
+Availability factor of a PV power plant: evaluation based on generation and inverter running periods by Li, J. et al. considered the scale of solar infrastructure in relation to reliability on a similar single component basis. Time frames ranging from 1 to 20 years were considered, as well as real world failure rates of common and critical components. Additionally, various capacity systems were investigated, ranging from 100 to 2500 $kW$, in order to consider the effect of system complexity. 
 
-Components such as batteries, battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Components and systems are arranged in both parallel and series arrangements throughout the infrastructure. This causes the loss of any constituent to have a varying and granular impact on operations. 
-
-
-> [!PDF|yellow] [[AAES42023083_R2最终确定版.pdf#page=7&selection=247,21,250,27&color=yellow|AAES42023083_R2最终确定版, p.7]]
-> > Figure 5 Failure rate for each month
-
-![[{9C987821-28E7-40EE-A7E7-C7F3BB30E1C3}.png]]
-
-As the system continued to operate, the failure rate of individual components increased linearly. It is inferred that eventually every piece of equipment would need to be replaced in a manner similar to the ship of Theseus.
-
-> [!PDF|yellow] [[AAES42023083_R2最终确定版.pdf#page=7&selection=100,11,100,57&color=yellow|AAES42023083_R2最终确定版, p.7]]
-> > In other words, the system is reliable by 80%.
-
-Overall is was found that the systems power reliability was 80%, meaning ==80% of the time, the system was expected to perform at it's rated output.== 
-
-
-
-
-> [!PDF|yellow] [[energies-12-01213.pdf#page=14&selection=86,0,87,6&color=yellow|energies-12-01213, p.14]]
-> > Reliability after 1 Year of Operation (in %)
-![[Pasted image 20250724165026.png]]
-
-
-Another study by Li, J. et al. considered the scale of solar infrastructure in relation to power reliability on a similar single component basis over multiple time frames. 
-
-By considering the formula $A_\textrm{system} = \prod_{i=1}^n A_i$, where $A_i$ is each sub‐assembly’s up time fraction
+By considering the formula $A_\textrm{system} = \prod_{i=1}^n A_i$, where $A_i$ is each sub‐assembly’s up time fraction, the availability of the system as a whole can be found. 
 $$
 \begin{table}[h]
     \centering
@@ -233,15 +211,7 @@ $$
 > [!PDF|yellow] [[energies-12-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
 > > Table 7. Sub-assembly availability of the PV systems (in %).
 
-
-
-
-
-
-> [!PDF|yellow] [[energies-12-01213.pdf#page=5&selection=209,79,211,104&color=yellow|energies-12-01213, p.5]]
-> > When the sub-assemblies connected in series, the overall system will be interrupted in case of failure of one sub-assembly. On the other hand, all subassemblies must fail in order to interrupt the overall system in the parallel system.
-
-
+Table X further illustrates this point, with the uptime of the system with respect to total system running decreasing as capacity increases. The main contributor to the lowering availability was the inverter modules, which were over $5\%$ less reliable than the next closest liability, PV modules. While PV modules can be easily replaced due to their modular "Plug and play" nature, inverters are more complex and require more effort to replace, therefore leading to their lower availability. 
 
 
 > [!PDF|yellow] [[s10098-022-02307-z.pdf#page=6&selection=121,2,127,39&color=yellow|s10098-022-02307-z, p.6]]
@@ -249,20 +219,40 @@ $$
 > 
 > 
 
+##### Limitations
+Study does not provide direct availability figures. Calculations are required which may introduce error. 
 
 
+
+
+Availability factor of a PV power plant: evaluation based on generation and inverter running periods by Kumar, N. M., et al. considered inverter uptime in a 1000 $kW$ plant. Considering the high availability of all other components (excluding the low impact PV modules), inverter failure is one of the most common and impactful faults in solar PV systems.
+
+
+> [!PDF|yellow] [[energies-13-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
+> > Table 7. Sub-assembly availability of the PV systems (in %).
+
+
+In the time period 2015-2016 the average availability factor of the inverter was $92.44\%$. This correlates strongly with the findings of the previously mentioned study. 
+
+
+> [!PDF|yellow] [[ReliabilityPredictionForSolar.pdf#page=6&selection=19,0,19,52&color=yellow|ReliabilityPredictionForSolar, p.76]]
+> > Table 3. Summary of the availability factor results.
+> 
+> 
+
+IAEA's Power Reactor Information System (PRIS) is a database of statistics regarding the construction, operation, and capacity of global nuclear energy infrastructure. Extrapolating availability from this gives a global average of $82.3\%$ (excluding South Africa). 
+
+https://pris.iaea.org/PRIS/WorldStatistics/ThreeYrsEnergyAvailabilityFactor.aspx
+
+This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore both restorative and preventative maintenance must be carried out with greater frequency and meticulousness.
+
+[[ReliabilityPredictionForNuclearPower.pdf]]
 
 
 #### Scalability
-> [!PDF|yellow] [[s10098-022-02307-z.pdf#page=2&selection=66,0,73,37&color=yellow|s10098-022-02307-z, p.2]]
-> > Our novel perspective compares the three sustainable technologies, not on the basis of past achievements, but with respect to replication, the ability to scale up quickly and ubiquitously, using current best commercial practices, to decarbonize the electricity sector
-> 
-> 
 
-> [!PDF|yellow] [[s10098-022-02307-z.pdf#page=9&selection=92,50,100,33&color=yellow|s10098-022-02307-z, p.9]]
-> > here is indeed every indication that the already considerable cost gap between nuclear and RES (about 12$/W vs. 4$/W) will continue to widen. Even if one accounts for the intermittent nature of wind and solar and their need for a dispatchable back-up source of power (possibly fossil based), the levelized cost increase is still moderate; all the more so if one adopts a continental perspective instead of one limited to an imaginary islanded country.
-> 
-> 
+
+
 
 
 ### Discussion

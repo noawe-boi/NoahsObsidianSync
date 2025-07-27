@@ -6,23 +6,48 @@
       {
         "id": "4b09cdccfdd7d92a",
         "type": "tabs",
+        "dimension": 49.22118380062305,
         "children": [
           {
-            "id": "e3da03ee706fa8da",
+            "id": "716b4dafbbfbb38c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/Time Dependent Failure Rate For Nuclear.pdf",
-                "page": 1,
-                "left": -180,
-                "top": 661,
-                "zoom": 2.5
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForSolar.pdf",
+                "page": 6,
+                "left": -4,
+                "top": 729,
+                "zoom": 2.2627385843322583
               },
               "icon": "lucide-file-text",
-              "title": "Time Dependent Failure Rate For Nuclear"
+              "title": "ReliabilityPredictionForSolar"
             }
           },
+          {
+            "id": "6dbcb6193a2b70f1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForNuclearPower.pdf",
+                "page": 3,
+                "left": -91,
+                "top": 515,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "ReliabilityPredictionForNuclearPower"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "da3f7da404967007",
+        "type": "tabs",
+        "dimension": 50.77881619937694,
+        "children": [
           {
             "id": "7cc49de3e8feded5",
             "type": "leaf",
@@ -38,23 +63,22 @@
             }
           },
           {
-            "id": "a5c634b3616569a1",
+            "id": "b1bcabec03d9d463",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
-                "page": 15,
-                "left": -658,
-                "top": 626,
-                "zoom": 1.25
+                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+                "page": 11,
+                "left": -4,
+                "top": 771,
+                "zoom": 2
               },
               "icon": "lucide-file-text",
-              "title": "GenCost2024-25ConsultDraft_20241205"
+              "title": "energies-12-01213"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -238,30 +262,31 @@
   },
   "active": "7cc49de3e8feded5",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForNuclearPower.pdf",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
+    "Unfiltered/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForSolar.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/Time Dependent Failure Rate For Nuclear.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/Wear out of reactor.pdf",
+    "Unfiltered/energies-13-01213.pdf.md",
+    "Daily Notes/23-07-2025.md",
+    "Daily Notes/25-07-2025.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/AAES42023083_R2最终确定版.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
     "Daily Notes/22-07-2025.md",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/1-s2.0-S0951832023000364-main.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/Nuclear",
     "Physics/Year 12/Assignments/IA3/Sources/Brook et al 2014 - Sust Mat Tech.pdf",
-    "Daily Notes/23-07-2025.md",
-    "Daily Notes/25-07-2025.md",
     "Daily Notes/26-07-2025.md",
     "Daily Notes/27-07-2025.md",
     "Study Inspo/20250629_171105.jpg",
     "Study Inspo/20250625_125311.jpg",
-    "Study Inspo",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
-    "Unfiltered/Physics IA3 2025 Draft 2.md",
     "Volume of a solid of revolution.md",
     "Unfiltered/Untitled 6.md",
     "Unfiltered/Untitled 5.md",
     "Specialist Maths/Year 12/Notes/Specialist 12D Volumes of solids of revolution.md",
-    "Specialist Maths/Year 12/Formula Sheet/SpecialistFormulaSheet.pdf",
-    "Specialist Maths/Year 12/Formula Sheet",
     "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
-    "Maths Methods/Year 12/Formula Sheet/MethodsFormulaSheet.pdf",
     "Maths Concepts/Requirements for normality in a distribution.md",
     "Maths Concepts/Normality in a distribution.md",
     "Images/{F62E2521-88C1-4FE7-9532-7B7EDBCA5B18}.png",
@@ -282,7 +307,6 @@
     "Physics/Year 12/Notes/Baryon Number.md",
     "Images/Lepton Number 2025-07-23 09.35.56.excalidraw.md",
     "Images/Baryon Number 2025-07-23 09.17.08.excalidraw.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Planning-Evidence.md",
     "Untitled.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
