@@ -3,7 +3,7 @@ tags:
   - chem
 ---
 ### Types of alcohols
-![[Primary alcohols]]
+![[Primary alcohol]]
 
 ![[Secondary Alcohols]]
 

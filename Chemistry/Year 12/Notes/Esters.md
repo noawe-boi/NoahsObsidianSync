@@ -8,7 +8,7 @@ The ester functional group contains a [[Carbonyl]] group attached to an oxygen t
 
 
 
-Can form from [[Primary alcohols]], [[Secondary Alcohols]], but not [[Tertiary Alcohols]] as it is too hard to 'get to' the functional group of it
+Can form from [[Primary alcohol]], [[Secondary Alcohols]], but not [[Tertiary Alcohols]] as it is too hard to 'get to' the functional group of it
 ### Naming esters
 1. Assign the carbon in the functional group as "carbon 1"
 2. Count the number of carbons in the chain attached to the [[Carbonyl]] group, name the chain add add the suffix 'oate'

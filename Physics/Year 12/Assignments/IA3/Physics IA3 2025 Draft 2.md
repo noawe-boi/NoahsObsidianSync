@@ -132,8 +132,8 @@ This is much more expensive than large scale solar PV, which currently has a cap
 > > Apx Table B.1 Current and projected generation technology capital costs under the Current policies scenario
 #### Reliability
 *What is reliability?*
-Reliability is defined as "The ability of a system or device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers. In the context of power generation we consider this probabilistically: there is an $x\%$ chance that the system will operate without faults for $y$ years.
-Availability is also a key factor in assessing a systems usefulness. It is expressed as a fraction that describes a component or systems operating time in respect to its total lifetime.
+Reliability is defined as "The ability of a system or device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers.
+Availability is also a key factor in assessing a systems reliability. It is expressed as a fraction that describes a component or systems operating time in respect to its total lifetime.
 $$\textrm{Availability} (A) = \frac{\textrm{Mean time to failure}}{\textrm {Mean time to failure + Mean downtime}}$$
 Where:
 - Mean time to failure is the amount of time the system operates for on average before a failure occurs
@@ -141,105 +141,33 @@ Where:
 [[AAES42023083_R2最终确定版.pdf]]
 
 
-
-
-
-
-
 Components such as batteries, battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Components and systems are arranged in both parallel and series arrangements throughout the infrastructure. Therefore, the impact of  a single component failing can have consequences raging from imperceptible to catastrophic.  
 
 > [!PDF|yellow] [[energies-12-01213.pdf#page=5&selection=209,79,211,104&color=yellow|energies-12-01213, p.5]]
 > > When the sub-assemblies connected in series, the overall system will be interrupted in case of failure of one sub-assembly. On the other hand, all subassemblies must fail in order to interrupt the overall system in the parallel system. 
 
-Availability factor of a PV power plant: evaluation based on generation and inverter running periods by Li, J. et al. considered the scale of solar infrastructure in relation to reliability on a similar single component basis. Time frames ranging from 1 to 20 years were considered, as well as real world failure rates of common and critical components. Additionally, various capacity systems were investigated, ranging from 100 to 2500 $kW$, in order to consider the effect of system complexity. 
+> [!PDF|yellow] [[ReliabilityOfLargeScale.pdf#page=21&selection=4,0,5,13&color=yellow|ReliabilityOfLargeScale, p.21]]
+> > Figure 6. System availability versus system size shows negative trend. P50 (red) and P90 (black) quantile values shown.
+![[Pasted image 20250728070312.png]]
+> 
 
-By considering the formula $A_\textrm{system} = \prod_{i=1}^n A_i$, where $A_i$ is each sub‐assembly’s up time fraction, the availability of the system as a whole can be found. 
-$$
-\begin{table}[h]
-    \centering
-    \begin{tabular}{r r}
-        \toprule
-        \textbf{System Size (kW)} & \textbf{Overall Availability (\%)} \\
-        \midrule
-        100   & 98.65 \\
-        200   & 97.43 \\
-        500   & 93.90 \\
-        1000  & 89.30 \\
-        1500  & 84.28 \\
-        2000  & 79.68 \\
-        2500  & 75.48 \\
-        \bottomrule
-    \end{tabular}
-    \caption{Overall availability for various PV system sizes.}
-    \label{tab:availability}
-\end{table}
-$$
+Availability and Performance Loss Factors for U.S. PV Fleet Systems by Chris Deline et al. considered availability data from large scale systems up to $\approx$ 10 $MW$. Figure X suggests the median availability (P50) decreases as system capacity grows. Even as the system capacity surpassed 10 $MW$ median availability remained at $\approx 98\%$. 
+
+##### Limitations
 
 
-```tikz
-\usepackage{pgfplots}
-\begin{document}
-\begin{tikzpicture}
-  \begin{axis}[
-    width=0.8\textwidth,
-    height=0.5\textwidth,
-    xlabel={System Size (kW)},
-    ylabel={Overall Availability (\%)},
-    xmin=0, xmax=2600,
-    ymin=70, ymax=100,
-    grid=both,
-    legend style={
-      at={(0.5,-0.15)},
-      anchor=north,
-      legend columns=1,
-    },
-    legend cell align={left},
-  ]
-    \addplot[
-      mark=*,
-      thick
-    ] coordinates {
-      (100,98.65)
-      (200,97.43)
-      (500,93.90)
-      (1000,89.30)
-      (1500,84.28)
-      (2000,79.68)
-      (2500,75.48)
-    };
-  \end{axis}
-\end{tikzpicture}
 
-\end{document}
-```
+"Availability factor of a PV power plant: evaluation based on generation and inverter running periods" by Kumar, N. M., et al. considered inverter uptime in a 1000 $kW$ plant. 
 
+The main contributor to the lowering availability was the inverter modules, which were estimated to be only $\approx 80\%$ available in a 2500 $kW$ system. However, often there are many inverters operating in parallel, and the "Plug and play" nature of these components allow repairs to be completed quickly with minimal tools. This is also the case with many other less integral components, which resulted in minimal impact on reliability. 
 
 > [!PDF|yellow] [[energies-12-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
 > > Table 7. Sub-assembly availability of the PV systems (in %).
 
-Table X further illustrates this point, with the uptime of the system with respect to total system running decreasing as capacity increases. The main contributor to the lowering availability was the inverter modules, which were over $5\%$ less reliable than the next closest liability, PV modules. While PV modules can be easily replaced due to their modular "Plug and play" nature, inverters are more complex and require more time to replace, therefore leading to their lower availability. 
-
-
-> [!PDF|yellow] [[s10098-022-02307-z.pdf#page=6&selection=121,2,127,39&color=yellow|s10098-022-02307-z, p.6]]
-> > alable. Reliability is another strong point of PV thanks to its modular plug&play (P&P) architecture. Indeed, a defective unit, whether a panel, power converter or control equipment, may be replaced by a new one within hours by an employee who does not require an advanced training or education and this, simply using a motorized vehicle.
-> 
-> 
-
 ##### Limitations
-Study does not provide direct availability figures. Calculations are required which may introduce error. 
-
-
-
-
-Availability factor of a PV power plant: evaluation based on generation and inverter running periods by Kumar, N. M., et al. considered inverter uptime in a 1000 $kW$ plant. Considering the high availability of all other components (excluding the low impact PV modules), inverter failure is one of the most common and impactful faults in solar PV systems.
-
-
-> [!PDF|yellow] [[energies-13-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
-> > Table 7. Sub-assembly availability of the PV systems (in %).
-
+System availability is affected by all components in the series from the PV modules to the grid. While considering a single component alone, the entire system's availability cannot be propperly guaged 
 
 In the time period 2015-2016 the average availability of all inverters was $92.44\%$. This correlates strongly with the findings of the previously mentioned study. 
-
 
 > [!PDF|yellow] [[ReliabilityPredictionForSolar.pdf#page=6&selection=19,0,19,52&color=yellow|ReliabilityPredictionForSolar, p.76]]
 > > Table 3. Summary of the availability factor results.
@@ -249,11 +177,6 @@ In the time period 2015-2016 the average availability of all inverters was $92.4
 ##### Limitations
 
 
-> [!PDF|yellow] [[ReliabilityOfLargeScale.pdf#page=21&selection=4,0,5,13&color=yellow|ReliabilityOfLargeScale, p.21]]
-> > Figure 6. System availability versus system size shows negative trend. P50 (red) and P90 (black) quantile values shown.
-![[Pasted image 20250728070312.png]]
-> 
-
 
 Nuclear infrastructure faces many of the same challenges in reliability and longevity as solar PV. 
 
@@ -261,7 +184,8 @@ IAEA's Power Reactor Information System (PRIS) is a database of statistics regar
 
 https://pris.iaea.org/PRIS/WorldStatistics/ThreeYrsEnergyAvailabilityFactor.aspx
 
-This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore both restorative and preventative maintenance must be carried out with greater frequency and meticulousness. 
+This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore  more time is spend on both restorative and preventative maintenance as it must be carried out with greater frequency and meticulousness. 
+
 For a 1000 $MW$ reactor, repair timelines range from 9, to 80 days depending on the severity of the fault. This has a significant impact on the overall availability of the system. Furthermore, while solar installations have the ability to degrade 'gracefully', maintaining partial functionality even with the loss of some system components, nuclear plants must maintain full operational capabilities so that safety is not compromised.
 > [!PDF|yellow] [[ReliabilityPredictionForNuclearPower.pdf#page=5&selection=0,0,3,58&color=yellow|ReliabilityPredictionForNuclearPower, p. 5]]
 > > For example, for a 1000 MW nuclear power unit, it takes 70 to 80 days to conduct A class repair in the rules of DL/ T838, while it takes 35 to 50 days, 26 to 30 days and 9 to 15 days, respectively to perform B, C, and D class repair.
@@ -277,16 +201,8 @@ Furthermore, the capacity of the nuclear plants evaluated are usually many times
 
 [[ReliabilityPredictionForNuclearPower.pdf]]
 
-
 It should also be considered the material and time required to 
-
-
-
 ##### Required and waste materials. 
-
-
-
-
 ### Discussion
 #### Quality of evidence
 
