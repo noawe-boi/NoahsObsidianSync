@@ -67,72 +67,11 @@ Since the sum of these costs are recuperated over the lifespan of the infrastruc
 
 The CSIRO's GenCost report calculated, and predicted LCOE's for a number of technologies from the years 2024, to 2050, allowing for direct comparison of said technologies.
 
-> [!PDF|note] [[GenCost2024-25ConsultDraft_20241205.pdf#page=13&selection=0,5,6,74&color=note|GenCost2024-25ConsultDraft_20241205, p.13]]
-> > xii | CSIRO Australia’s National Science Agency ES Figure 0-2 Calculated LCOE by technology and category for 2024 and 2030
-
-
-
-```tikz
-
-\usepackage{pgfplots}
-
-
-\begin{document}
-
-		\begin{tikzpicture}
-			
-			\begin{axis}[
-				width=0.7\paperwidth,
-				height=0.3\paperwidth,
-				xmin=2024, 
-				xmax=2050,
-				xlabel=Year,
-				ylabel=Cost per kWh, 	
-				xtick={2024, 2030, 2040, 2050},
-	 /pgf/number format/.cd,
-	use comma,
-	1000 sep={}
-
-	]
-				\addplot coordinates {
-					(2024, 0.400)
-					(2030, 0.285)
-					(2040, 0.189) 
-					(2050, 0.186)
-					
-					
-				};
-				\addplot coordinates{
-					(2024, 0.155)
-					(2030, 0.150)
-					(2040, 0.145)
-					(2050, 0.142)
-				};
-				\addplot coordinates{
-					(2024, 0.43)
-					(2030, 0.35)
-					(2040, 0.22)
-					(2050, 0.19)
-				};
-				\legend{Nuclear SMR, Nuclear Large Scale, Solar PV}
-			\end{axis}
-		\end{tikzpicture}
-
-\end{document}
-```
-
 Clearly solar PV demonstrates the lowest LOCE. While the gap between solar PV and nuclear facilities is predicted to get close, solar is consistently predicted to be the cheapest option.
 
 ##### Capital costs
 This is likely due to higher capital, or setup, costs for nuclear options. 
 The U.S Department of energy's "Capital Cost Estimates For Utility Scale Electricity Generating Plants" further breaks down these capital costs. The largest cost contributors for a 2234 $MW$ mechanical and electrical system procurement and construction, which account for $\approx 47\%$ capital costs. Financing was estimated to increase capital cost by $\approx 30\%$ due to the large, and long term loans required for construction. The cost of large scale nuclear in Australia is currently predicted to be $\approx \$9000/kW$ in capacity, and is expected to be as low as $\approx \$ 8000 /kW$ by 2050.
-
-> [!PDF|yellow] [[GenCost2024-25ConsultDraft_20241205.pdf#page=75&selection=6,0,10,8&color=yellow|GenCost2024-25ConsultDraft_20241205, p.75]]
-> > Apx Table B.1 Current and projected generation technology capital costs under the Current policies scenario
-
-
-> [!PDF|yellow] [[capcost_assumption_nuclear.pdf#page=81&selection=9,0,13,38&color=yellow|capcost_assumption_nuclear, p.81]]
-> > TABLE 12-1 – BASE PLANT SITE CAPITAL COST ESTIMATE FOR NUCLEAR
 
 The cost of uranium fuel in America was 0.46 cents/$kWh$ in 2021. Australia is one of the largest uranium producing countries in the world, so acquiring fuel locally should hypothetically decrease this cost further. It is unlikely this will decrease LOCE significantly though. The cost of fuel is a minor contributor to cost in comparison to startup. It is estimated that $60\%$ of LOCE is attributed to capital costs.  
 
@@ -143,18 +82,18 @@ Solar PV installations are generally less expensive, and take less time to const
 Solar PV's 'fuel' is sunlight, which is a free resource. While land usage scales with capacity, solar PV installations generally are have lower owner costs with respect to the total cost of the installation. Owner costs cover development, property, and other miscellaneous factors.
 https://world-nuclear.org/information-library/country-profiles/countries-a-f/australia
 
-> [!PDF|yellow] [[Economics of Nuclear Power - World Nuclear Association.pdf#page=11&selection=73,6,73,29&color=yellow|Economics of Nuclear Power - World Nuclear Association, p.11]]
-> > fuel cost = 0.46 ¢/kWh.
-> 
-> 
 
-> [!PDF|yellow] [[GenCost2024-25ConsultDraft_20241205.pdf#page=75&selection=6,0,10,8&color=yellow|GenCost2024-25ConsultDraft_20241205, p.75]]
-> > Apx Table B.1 Current and projected generation technology capital costs under the Current policies scenario
 
-> [!PDF|yellow] [[capcost_assumption_nuclear.pdf#page=96&selection=2,1,6,44&color=yellow|capcost_assumption_nuclear, p.96]]
-> > ABLE 15-3 – BASE PLANT SITE CAPITAL COST ESTIMATE FOR PV
-> 
-> 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -171,14 +110,6 @@ Where:
 
 Components such as batteries, battery management systems, inverters, and panels degrade over their lifespans due to factors such as temperature, humidity, and solar radiation. Components and systems are arranged in both parallel and series arrangements throughout the infrastructure. Therefore, the impact of  a single component failing can have consequences raging from imperceptible to catastrophic.  
 
-> [!PDF|yellow] [[energies-12-01213.pdf#page=5&selection=209,79,211,104&color=yellow|energies-12-01213, p.5]]
-> > When the sub-assemblies connected in series, the overall system will be interrupted in case of failure of one sub-assembly. On the other hand, all subassemblies must fail in order to interrupt the overall system in the parallel system. 
-
-> [!PDF|yellow] [[ReliabilityOfLargeScale.pdf#page=21&selection=4,0,5,13&color=yellow|ReliabilityOfLargeScale, p.21]]
-> > Figure 6. System availability versus system size shows negative trend. P50 (red) and P90 (black) quantile values shown.
-![[Pasted image 20250728070312.png]]
-> 
-
 Availability and Performance Loss Factors for U.S. PV Fleet Systems by Chris Deline et al. considered availability data from large scale systems up to $\approx$ 10 $MW$. Figure X suggests the median availability (P50) decreases as system capacity grows. Even as the system capacity surpassed 10 $MW$ median availability remained at $\approx 98\%$. 
 
 ##### Limitations
@@ -189,18 +120,14 @@ Availability and Performance Loss Factors for U.S. PV Fleet Systems by Chris Del
 
 The main contributor to the lowering availability was the inverter modules, which were estimated to be only $\approx 80\%$ available in a 2500 $kW$ system. However, often there are many inverters operating in parallel, and the "Plug and play" nature of these components allow repairs to be completed quickly with minimal tools. This is also the case with many other less integral components, which resulted in minimal impact on reliability. 
 
-> [!PDF|yellow] [[energies-12-01213.pdf#page=11&selection=311,0,313,51&color=yellow|energies-12-01213, p.11]]
-> > Table 7. Sub-assembly availability of the PV systems (in %).
+
 
 ##### Limitations
 System availability is affected by all components in the series from the PV modules to the grid. While considering a single component alone, the entire system's availability cannot be propperly guaged 
 
 In the time period 2015-2016 the average availability of all inverters was $92.44\%$. This correlates strongly with the findings of the previously mentioned study. 
 
-> [!PDF|yellow] [[ReliabilityPredictionForSolar.pdf#page=6&selection=19,0,19,52&color=yellow|ReliabilityPredictionForSolar, p.76]]
-> > Table 3. Summary of the availability factor results.
-> 
-> 
+
 
 ##### Limitations
 
@@ -215,8 +142,7 @@ https://pris.iaea.org/PRIS/WorldStatistics/ThreeYrsEnergyAvailabilityFactor.aspx
 This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore  more time is spend on both restorative and preventative maintenance as it must be carried out with greater frequency and meticulousness. 
 
 For a 1000 $MW$ reactor, repair timelines range from 9, to 80 days depending on the severity of the fault. This has a significant impact on the overall availability of the system. Furthermore, while solar installations have the ability to degrade 'gracefully', maintaining partial functionality even with the loss of some system components, nuclear plants must maintain full operational capabilities so that safety is not compromised.
-> [!PDF|yellow] [[ReliabilityPredictionForNuclearPower.pdf#page=5&selection=0,0,3,58&color=yellow|ReliabilityPredictionForNuclearPower, p. 5]]
-> > For example, for a 1000 MW nuclear power unit, it takes 70 to 80 days to conduct A class repair in the rules of DL/ T838, while it takes 35 to 50 days, 26 to 30 days and 9 to 15 days, respectively to perform B, C, and D class repair.
+
 
 
 
