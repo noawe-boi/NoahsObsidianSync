@@ -6,7 +6,7 @@
       {
         "id": "4b09cdccfdd7d92a",
         "type": "tabs",
-        "dimension": 48.50467289719626,
+        "dimension": 48.504672897196265,
         "children": [
           {
             "id": "716b4dafbbfbb38c",
@@ -64,9 +64,9 @@
               "state": {
                 "file": "Physics/Year 12/Assignments/IA3/Sources/Cost/capcost_assumption_nuclear.pdf",
                 "page": 95,
-                "left": 38,
-                "top": 324,
-                "zoom": 2
+                "left": -12,
+                "top": 359,
+                "zoom": 0.6887254901960785
               },
               "icon": "lucide-file-text",
               "title": "capcost_assumption_nuclear"
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "d847a26fcb81ea73",
+            "id": "c33a5154a9b6dbef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,55 +139,8 @@
               "icon": "lucide-file",
               "title": "Physics IA3 word count test"
             }
-          },
-          {
-            "id": "58db042345a50ea6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityOfLargeScale.pdf",
-                "page": 20,
-                "left": -7,
-                "top": 95,
-                "zoom": 2.1862745098039214
-              },
-              "icon": "lucide-file-text",
-              "title": "ReliabilityOfLargeScale"
-            }
-          },
-          {
-            "id": "f5a77e7b898fc2a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/28-07-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "28-07-2025"
-            }
-          },
-          {
-            "id": "b1bcabec03d9d463",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Reliability/energies-12-01213.pdf",
-                "page": 11,
-                "left": -4,
-                "top": 771,
-                "zoom": 2
-              },
-              "icon": "lucide-file-text",
-              "title": "energies-12-01213"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -369,14 +322,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d847a26fcb81ea73",
+  "active": "6dbcb6193a2b70f1",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/Spent Fuel Measurements.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Scalability/Radioactive Waste Management - World Nuclear Association.pdf",
+    "Physics/Year 12/Assignments/IA3/Sources/Greenhouse gas emissiosn/Spent Fuel Measurements.pdf",
     "Unfiltered/Physics IA3 word count test.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForSolar.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/capcost_assumption_nuclear.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForNuclearPower.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/Economics of Nuclear Power - World Nuclear Association.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityPredictionForSolar.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/s10098-022-02307-z.pdf",
     "Daily Notes/28-07-2025.md",
     "Unfiltered/Physics IA3 2025 Draft 1.5.md",
@@ -402,13 +358,10 @@
     "Images/Pasted image 20250728070312.png",
     "Physics/Year 12/Assignments/IA3/Sources/Reliability/ReliabilityOfLargeScale.pdf",
     "Images/Pasted image 20250728070033.png",
-    "Physics/Year 12/Assignments/IA3/Sources/Scalability/small_modular_reactors_cop26_flyer.pdf",
-    "Physics/Year 12/Assignments/IA3/Sources/Scalability/171371.pdf",
     "Maths Methods/Year 12/Notes/18A Populations and samples.md",
     "Maths Concepts/Simple random sample of size n.md",
     "Maths Concepts/Population.md",
     "Sample.md",
-    "Maths Methods/Year 12/Notes/Methods 18C Appriximating the distribution of a sample population.md",
     "Images/Pasted image 20250727182339.png",
     "Images/Pasted image 20250727182249.png",
     "Study Inspo/20250629_171105.jpg",
