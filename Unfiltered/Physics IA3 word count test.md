@@ -20,9 +20,9 @@ Energy generation requires investment at many stages during a piece of infrastru
 ##### Reliability
 Critical sectors like healthcare and agriculture rely heavily on the grid, in addition to the millions of Australians who have improved quality of life because of it. If one technology demonstrates a increased reliability, this is a significant advantage.
 ##### Scalability
-Looking towards the future, the waste product of each technology must be considered. These will accumulate during generation, and at the End Of Life (EOL) period of a piece of infrastructures lifespan. If one technology shows significant advantages and becomes the dominant power generation infrastructure, the long term impact of it's materials and processes must be considered, just as they were in the case of fossil fuels (DCCEEW, 2025).
+Looking towards the future, the waste product of each technology must be considered. These will accumulate during generation, and at the End Of Life (EOL) period of infrastructures lifespan. If one technology shows significant advantages and becomes the dominant power generation infrastructure, the long term impact of it's materials and processes must be considered, just as they were in the case of fossil fuels (DCCEEW, 2025).
 ### Research question
-Is nuclear energy more sustainable than Solar Photovoltaic (PV) in terms of cost, reliability and long term waste production?
+Is Nuclear Energy more sustainable than Solar Photovoltaic (PV) in terms of cost, reliability and long term waste production?
 
 
 #### Cost 
@@ -81,17 +81,16 @@ The CSIRO's GenCost report calculated, and predicted LCOE's for a number of tech
 
 \end{document}
 ```
-**Figure 1:** *Calculated LCOE by technology and category for 2024 and 2030 (AUD)* (Graham et al., 2024).
+**Figure 1:** *Calculated LCOE by technology and category for 2024 to 2050 (AUD)* (Graham et al., 2024).
 
-Clearly solar PV demonstrates the lowest LCOE, which is currently 0.16 $\$/kWh$. The closest nuclear technology to this is large scale nuclear, which is currently priced at 0.40 $\$/kWh$. While the gap between solar PV and nuclear facilities is predicted to shrink, solar is consistently predicted to be the cheapest option for the foreseeable future. 
+Clearly solar PV demonstrates the lowest LCOE, being 0.16 $\$/kWh$. The closest nuclear technology to this is large scale nuclear, which is currently has costs of 0.40 $\$/kWh$. While the gap between solar PV and nuclear facilities is predicted to shrink, solar is consistently predicted to be the cheapest option for the foreseeable future. 
 
 ##### Capital costs
 This is likely due to higher capital, or setup, costs for nuclear options. 
 The U.S Department of energy's "*Capital Cost Estimates For Utility Scale Electricity Generating Plants*" further breaks down these capital costs. Financing was estimated to increase capital cost by an additional $\approx 30\%$ due to the large magnitude, long term, and high risk loans required for construction 
 (Leidos Engineering, LLC, 2016). The cost of large scale nuclear in Australia is currently predicted to be $\approx \$9000/kW$ in capacity, and is expected to be as low as $\approx \$ 8000 /kW$ by 2050 (Graham et al., 2024).
 
-The cost of uranium fuel in America was 0.46 cents/$kWh$ in 2021. Australia is one of the largest uranium producing countries in the world, so acquiring fuel locally should hypothetically decrease this cost further, however, the cost of fuel is a only minor contributor to LOCE cost in comparison to startup. It is estimated that $60\%$ of LCOE is attributed to capital costs.
-(World Nuclear Association, 2020)
+The cost of uranium fuel in America was 0.46 cents/$kWh$ in 2021 (Leidos Engineering, LLC, 2016). Australia is one of the largest uranium producing countries in the world, so acquiring fuel locally should hypothetically decrease this cost further, however, the cost of fuel is a only minor contributor to LOCE. It is estimated that $60\%$ of LCOE is attributed to capital costs (World Nuclear Association, 2020).
 
 The largest capital costs in solar PV systems are the mechanical and electrical systems, and equipment. The procurement and instillation of these components account for $\approx 80\%$ of capital costs (Leidos Engineering, LLC, 2016). 
 Solar PV installations are generally less expensive, and take less time to construct. This translates to lower financing fees, and an overall lower LCOE. The current capital cost of large scale solar PV in Australia is $\approx\$1500/kW$, and is expected to be $\approx \$700/kW$ by 2050 (Graham et al., 2024).
