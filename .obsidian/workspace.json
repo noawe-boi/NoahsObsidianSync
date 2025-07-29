@@ -4,65 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4b09cdccfdd7d92a",
-        "type": "tabs",
-        "dimension": 48.50467289719627,
-        "children": [
-          {
-            "id": "0ea43962a7d9abf2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Cost/capcost_assumption_nuclear.pdf",
-                "page": 80,
-                "left": -10,
-                "top": 9,
-                "zoom": 1.6335784313725492
-              },
-              "icon": "lucide-file-text",
-              "title": "capcost_assumption_nuclear"
-            }
-          },
-          {
-            "id": "43de2c8849637083",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Actually used sources/Radioactive Waste Management - World Nuclear Association.pdf",
-                "page": 8,
-                "left": -33,
-                "top": 700,
-                "zoom": 1.88003355704698
-              },
-              "icon": "lucide-file-text",
-              "title": "Radioactive Waste Management - World Nuclear Association"
-            }
-          },
-          {
-            "id": "e6c82944fec29949",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/Year 12/Assignments/IA3/Sources/Scalability/Spent Fuel Measurements.pdf",
-                "page": 527,
-                "left": -9,
-                "top": 183,
-                "zoom": 1.6794730511561027
-              },
-              "icon": "lucide-file-text",
-              "title": "Spent Fuel Measurements"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "da3f7da404967007",
         "type": "tabs",
-        "dimension": 51.49532710280373,
         "children": [
           {
             "id": "c33a5154a9b6dbef",
@@ -92,8 +35,7 @@
               "title": "Physics IA3 Draft 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,8 +218,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "983f158ae80bb3dd",
+  "active": "c33a5154a9b6dbef",
   "lastOpenFiles": [
+    "Images/Pasted image 20250729194759.png",
+    "Unfiltered/Physics IA3 Draft 3.md",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
     "Physics/Year 12/Assignments/IA3/Actually used sources/Radioactive Waste Management - World Nuclear Association.pdf",
     "Daily Notes/29-07-2025.md",
@@ -285,7 +229,6 @@
     "Images/Pasted image 20250729182349.png",
     "Images/Pasted image 20250729182346.png",
     "Images/Pasted image 20250729182339.png",
-    "Unfiltered/Physics IA3 Draft 3.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/capcost_assumption_nuclear.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/Spent Fuel Measurements.pdf",
     "Images/Pasted image 20250729163514.png",
