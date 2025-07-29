@@ -79,14 +79,25 @@ The CSIRO's GenCost report calculated, and predicted LCOE's for a number of tech
 ```
 **Figure 1:** *Calculated LCOE by technology and category for 2024 to 2050 (AUD)* (Graham et al., 2024).
 
+##### Limitations
+These predictions are based on current policies and discounts applied to renewable infrastructures
+
 Clearly solar PV demonstrates the lowest LCOE, being 0.16 $\$/kWh$ (as shown in Figure 1). The closest nuclear technology to this is large scale nuclear, which is currently has costs of 0.40 $\$/kWh$. While the gap between solar PV and nuclear facilities is predicted to shrink, solar is consistently predicted to be the cheapest option for the foreseeable future. This is likely due to higher capital, or setup, costs for nuclear infrastructure
 ##### Capital costs
-![[{DAAF901C-5442-4AD5-8B55-970D45E2861D}.png]] 
+![[{DAAF901C-5442-4AD5-8B55-970D45E2861D}.png|600]] 
 **Figure 3:** *Capital cost estimates for Advanced Nuclear* (Leidos Engineering, LLC, 2016).
 
 The U.S Department of energy's "*Capital Cost Estimates For Utility Scale Electricity Generating Plants*" further breaks down these capital costs. 
 
-Financing was estimated to increase capital cost by an additional $\approx 30\%$ due to the large magnitude, long term, and high risk loans required for construction (Leidos Engineering, LLC, 2016). 
+While fresh fuel is benign, as fission has not yet been initiated, spent fuel requires specialised equipment and procedures to be safely handled. Spent fuel poses not just a hazard to people, but the plant. If fresh fuel is not isolated from spent, it can induce fission and begin a chain reaction. 
+
+
+![[Pasted image 20250729163514.png|600]]
+**Figure 4:** *Diagram of nuclear fission, or splitting of the atom* (Linquip Team, 2023).
+
+When neutron induced fission occurs, a neutron transmutates an atom from a stable isotope, to an unstable isotope, causing it to split and eject additional neutrons, as well as other nuclei. The splitting of the atom produces heat, and the ejected neutrons continue the reaction.  
+
+Neutron counters are placed throughout the plant in order to detect radiation contamination, and thick shielding is utilised to prevent neutrons or other radiation from penetrating through containment vessels, or into other sections of the plant (World Nuclear Association, 2022). This results in $38\%$ of total costs being associated with engineering, materials and construction (excluding any mechanical or electrical equipment)  (Leidos Engineering, LLC, 2016). 
 
 The cost of large scale nuclear in Australia is currently predicted to be $\approx \$9000/kW$ in capacity, and is expected to be as low as $\approx \$ 8000 /kW$ by 2050 (Graham et al., 2024).
 
@@ -94,15 +105,14 @@ The cost of uranium fuel in America was 0.46 cents/$kWh$ in 2021 (Leidos Enginee
 
 The largest capital costs in solar PV systems are the mechanical and electrical systems, and equipment. The procurement and instillation of these components account for $\approx 80\%$ of capital costs (Leidos Engineering, LLC, 2016). 
 
-![[{EC5509A5-77D0-476E-BA7F-BCDE9FEC13C2} 1.png]]
-**Figure 4:** *Capital cost estimates for Advanced Solar PV (with tracking)* (Leidos Engineering, LLC, 2016).
+![[{EC5509A5-77D0-476E-BA7F-BCDE9FEC13C2} 1.png|600]]
+**Figure 5:** *Capital cost estimates for Advanced Solar PV (with tracking)* (Leidos Engineering, LLC, 2016).
 
 Solar PV installations are generally less expensive, and take less time to construct. This translates to lower financing fees, and an overall lower LCOE. The current capital cost of large scale solar PV in Australia is $\approx\$1500/kW$, and is expected to be $\approx \$700/kW$ by 2050 (Graham et al., 2024).
 
 Solar PV's 'fuel' is sunlight, which is a free resource. While land usage scales with capacity, solar PV installations generally are have lower owner costs with respect to the total cost of the installation. Owner costs cover development, property, and other miscellaneous factors (World Nuclear Association, 2024).
 
 #### Reliability
-*What is reliability?*
 Reliability is defined as "The ability of a system or device to carry out it's desired function under predefined circumstances for a certain amount of time" by the Institute of Electrical and Electronics Engineers (Obatola, 2024).
 Availability is also a key factor in assessing a systems reliability. It is expressed as a fraction that describes a component or systems operating time in respect to its total lifetime. (Sayed et al., 2019)
 $$\textrm{Availability} (A) = \frac{\textrm{Mean time to failure}}{\textrm {Mean time to failure + Mean downtime}}$$
@@ -116,6 +126,8 @@ Where:
 
 "*Availability and Performance Loss Factors for U.S. PV Fleet Systems*" by Chris Deline et al. considered availability data from large scale solar PV systems up to $\approx$ 10 $MW$ (10000 $kW$). Figure 4 suggests the median availability (P50) decreases as system capacity grows, however, even as the system capacity surpassed 10 $MW$ median availability remained at $\approx 98\%$ (Deline et al., 2024).
 ##### Limitations
+It should be considered though that climate of America varies significantly from Australia in terms of temperature and humidity. This will affect the rate at which systems degrade and fail, therefore the applicability of this data is limited. 
+
 
 "*Availability factor of a PV power plant: evaluation based on generation and inverter running period*s" by Kumar, N. M., et al. considered inverter uptime in a 1000 $kW$ plant.
 
@@ -134,9 +146,9 @@ IAEA's Power Reactor Information System (PRIS) is a database of statistics regar
 
 This is significantly lower than solar PV systems, which seems unlikely due to solar PV relying on occasional daylight to function. However nuclear plants must abide by more stringent safety protocols, therefore more time is spent on both restorative and preventative maintenance as it must be carried out with greater frequency and meticulousness.
 
-Furthermore, the output of nuclear facilities is larger than the solar PV infrastructure discussed by a factor of a minimum of 100 times. Considering the decreasing trend observed in availability factor as scale increases, solar PV is hypothesised to have a lower $E_{AF}$ at the same scale as nuclear.
 ##### Limitations
 
+It should be considered that the output of nuclear facilities is larger relative to solar PV infrastructure discussed by a factor of at least 100 times. Considering the decreasing trend observed in availability factor as scale increases, solar PV is hypothesised to have a lower $E_{AF}$ at the same scale as nuclear.
 
 
 
@@ -149,7 +161,7 @@ This is well below the internationally accepted limits of 50g of $CO_2$ (or equi
 
 Waste generated by nuclear plants is much higher in density. A 1000 $MW$ reactor creates roughly 10 $cm^3$ of waste per $kWh$, however due to the chaotic and heterogeneous nature of nuclear reasons, the composition of nuclear waste varies.
 
-What remains constant though is the hazard and lifetime of spent fuel. Fission products such as strontium-90, and cesium-137 have half lives of $\approx 30$ years (World Nuclear Association, 2022). Throughout its lifetime, waste will emit alpha, beta, and gamma, with the latter having the highest potential to cause harm due to its high penetrating power. To minimise potential for irradiation, spent fuel spends 1-50 years in a specialised pool.
+What remains constant though is the hazard and lifetime of spent fuel. Fission products such as strontium-90, and cesium-137 have half lives of $\approx 30$ years (World Nuclear Association, 2022). Throughout its lifetime, waste will emit alpha, beta, and gamma, with the latter having the highest potential to cause harm due to its high penetrating power. To minimise potential for irradiation, spent fuel spends up to 50 years in a shielded pool where they continue to undergo fission in a controlled environment.
 Due to the density of the water and the inverse square law, the spent fuel is able to decay and release heat without causing harm before being sealed in a steel and concrete containment vessel. Overall this produces 110 $g$ of $CO_2$ (equivalent)/$kWh$.
 ##### Limitations
 
@@ -158,14 +170,12 @@ Due to the density of the water and the inverse square law, the spent fuel is ab
 
 
 ### Discussion
-#### Quality of evidence
-
-
 #### Extrapolation/Summary of credible findings
 
 
 #### Improvements and extensions
-
+- Monolithic infrastructure vs Distributed 
+- Solar with supplemental technologies (such as wind)
 
 ## Conclusion
 
