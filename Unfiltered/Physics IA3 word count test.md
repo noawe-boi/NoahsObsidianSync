@@ -83,7 +83,7 @@ The CSIRO's GenCost report calculated, and predicted LCOE's for a number of tech
 ```
 **Figure 1:** *Calculated LCOE by technology and category for 2024 to 2050 (AUD)* (Graham et al., 2024).
 
-Clearly solar PV demonstrates the lowest LCOE, being 0.16 $\$/kWh$. The closest nuclear technology to this is large scale nuclear, which is currently has costs of 0.40 $\$/kWh$. While the gap between solar PV and nuclear facilities is predicted to shrink, solar is consistently predicted to be the cheapest option for the foreseeable future. 
+Clearly solar PV demonstrates the lowest LCOE, being 0.16 $\$/kWh$ (as shown in Figure 1). The closest nuclear technology to this is large scale nuclear, which is currently has costs of 0.40 $\$/kWh$. While the gap between solar PV and nuclear facilities is predicted to shrink, solar is consistently predicted to be the cheapest option for the foreseeable future. 
 
 ##### Capital costs
 This is likely due to higher capital, or setup, costs for nuclear options. 
@@ -114,11 +114,6 @@ Where:
 
 "*Availability and Performance Loss Factors for U.S. PV Fleet Systems*" by Chris Deline et al. considered availability data from large scale solar PV systems up to $\approx$ 10 $MW$ (10000 $kW$). Figure 2 suggests the median availability (P50) decreases as system capacity grows, however, even as the system capacity surpassed 10 $MW$ median availability remained at $\approx 98\%$ (Deline et al., 2024).
 ##### Limitations
-
-
-
-
-
 
 "*Availability factor of a PV power plant: evaluation based on generation and inverter running period*s" by Kumar, N. M., et al. considered inverter uptime in a 1000 $kW$ plant.
 
