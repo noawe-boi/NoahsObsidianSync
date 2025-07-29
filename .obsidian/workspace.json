@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Physics/Year 12/Assignments/IA3/Actually used sources/Radioactive Waste Management - World Nuclear Association.pdf",
-                "page": 2,
-                "left": -4,
-                "top": 824,
+                "page": 8,
+                "left": -33,
+                "top": 700,
                 "zoom": 1.88003355704698
               },
               "icon": "lucide-file-text",
@@ -56,7 +56,8 @@
               "title": "Spent Fuel Measurements"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "da3f7da404967007",
@@ -69,6 +70,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily Notes/29-07-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29-07-2025"
+            }
+          },
+          {
+            "id": "983f158ae80bb3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Unfiltered/Physics IA3 Draft 3.md",
                 "mode": "source",
                 "source": false
@@ -77,7 +92,8 @@
               "title": "Physics IA3 Draft 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 586.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,11 +276,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c33a5154a9b6dbef",
+  "active": "983f158ae80bb3dd",
   "lastOpenFiles": [
-    "Physics/Year 12/Assignments/IA3/Sources/Cost/capcost_assumption_nuclear.pdf",
-    "Unfiltered/Physics IA3 Draft 3.md",
+    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
     "Physics/Year 12/Assignments/IA3/Actually used sources/Radioactive Waste Management - World Nuclear Association.pdf",
+    "Daily Notes/29-07-2025.md",
+    "Images/Pasted image 20250729182447.png",
+    "Images/Pasted image 20250729182349.png",
+    "Images/Pasted image 20250729182346.png",
+    "Images/Pasted image 20250729182339.png",
+    "Unfiltered/Physics IA3 Draft 3.md",
+    "Physics/Year 12/Assignments/IA3/Sources/Cost/capcost_assumption_nuclear.pdf",
     "Physics/Year 12/Assignments/IA3/Sources/Scalability/Spent Fuel Measurements.pdf",
     "Images/Pasted image 20250729163514.png",
     "Images/Pasted image 20250729163511.png",
@@ -279,14 +302,11 @@
     "Images/{EC5509A5-77D0-476E-BA7F-BCDE9FEC13C2} 1.png",
     "Images/{DAAF901C-5442-4AD5-8B55-970D45E2861D}.png",
     "Images/{61751635-4651-4207-8510-76AAB7AB7E18}.png",
-    "Images/{4D39EEED-3DFF-4F8B-A0D6-E9D416105259}.png",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.55.40.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.54.00.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.52.40.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.48.40.excalidraw.md",
-    "Daily Notes/29-07-2025.md",
     "Unfiltered/Physics IA3 word count test.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
     "Daily Notes/28-07-2025.md",
     "Unfiltered/Physics IA3 2025 Draft 1.5.md",
     "Point Estimate.md",
@@ -303,9 +323,6 @@
     "Chemistry/Year 12/Notes/Organic reactions and reaction pathways.md",
     "Chemistry/Year 12/Notes/Hydrohalogenation.md",
     "Chemistry/Year 12/Notes/Hydrogenation.md",
-    "Images/Pasted image 20250728070312.png",
-    "Images/Pasted image 20250728070033.png",
-    "Images/Pasted image 20250727182339.png",
     "Untitled.canvas",
     "Unfiltered/English Year 12 FA2 Canvas.canvas",
     "Unfiltered/Intro to the Internet of Things (IoT) Competency Assessment.canvas"
