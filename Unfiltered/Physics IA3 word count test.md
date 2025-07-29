@@ -86,8 +86,8 @@ The CSIRO's GenCost report calculated, and predicted LCOE's for a number of tech
 Clearly solar PV demonstrates the lowest LCOE, being 0.16 $\$/kWh$ (as shown in Figure 1). The closest nuclear technology to this is large scale nuclear, which is currently has costs of 0.40 $\$/kWh$. While the gap between solar PV and nuclear facilities is predicted to shrink, solar is consistently predicted to be the cheapest option for the foreseeable future. 
 
 ##### Capital costs
-This is likely due to higher capital, or setup, costs for nuclear options. 
-The U.S Department of energy's "*Capital Cost Estimates For Utility Scale Electricity Generating Plants*" further breaks down these capital costs. Financing was estimated to increase capital cost by an additional $\approx 30\%$ due to the large magnitude, long term, and high risk loans required for construction 
+This is likely due to higher capital, or setup, costs for nuclear infrastructure. 
+The U.S Department of energy's "*Capital Cost Estimates For Utility Scale Electricity Generating Plants*" further breaks down these capital costs.  Financing was estimated to increase capital cost by an additional $\approx 30\%$ due to the large magnitude, long term, and high risk loans required for construction 
 (Leidos Engineering, LLC, 2016). The cost of large scale nuclear in Australia is currently predicted to be $\approx \$9000/kW$ in capacity, and is expected to be as low as $\approx \$ 8000 /kW$ by 2050 (Graham et al., 2024).
 
 The cost of uranium fuel in America was 0.46 cents/$kWh$ in 2021 (Leidos Engineering, LLC, 2016). Australia is one of the largest uranium producing countries in the world, so acquiring fuel locally should hypothetically decrease this cost further, however, the cost of fuel is a only minor contributor to LOCE. It is estimated that $60\%$ of LCOE is attributed to capital costs (World Nuclear Association, 2020).
@@ -105,8 +105,6 @@ $$\textrm{Availability} (A) = \frac{\textrm{Mean time to failure}}{\textrm {Mean
 Where:
 - Mean time to failure is the amount of time the system operates for on average before a failure occurs
 - Mean downtime is the time it takes for operations to resume after a failure occurs.
-
-
 
 ![[Pasted image 20250728070312.png|700]]
 
