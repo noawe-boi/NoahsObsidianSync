@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\frac{f'(x)}{f(x)}",
+                "query": ".png|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "735f2895a4eb7ff1",
@@ -278,6 +277,7 @@
   },
   "active": "380077a3f4e2c643",
   "lastOpenFiles": [
+    "Unfiltered/Physics IA3 word count test.html",
     "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
     "Unfiltered/Physics IA3 word count test.md",
     "Daily Notes/29-07-2025.md",
