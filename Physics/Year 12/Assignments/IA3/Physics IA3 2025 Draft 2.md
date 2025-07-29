@@ -5,14 +5,6 @@ In the future, nuclear energy is the best possible energy source for Australia.
 **Talk about Australia net zero goal.** 
 Clearly in the future, green energy is going to be Australia's main energy source. Fossil fuel sources are being phased out so there is no use mentioning them. 
 
-Nuclear will be compared to existing green energy sources.
-**Which energy source?**
-- Solar (PV)
-- Hydro
-- Wind
-- Biomass 
-- Biogas
-
 https://www.energy.gov.au/energy-data/australian-energy-statistics/renewables
 Some of these , such as hydroelectric energy, do not directly compete with Nuclear energy. Scope of comparison should be limited to the most abundant energy sources that directly compete with nuclear.
 From 2022-2023, the amount of energy generated from these has been 
@@ -30,22 +22,7 @@ From 2022-2023, the amount of energy generated from these has been
 	https://powerzone.clarkpublicutilities.com/learn-about-renewable-energy/biomass-energy/
 
 Currently, solar energy is Australia's most abundant and fastest growing renewable energy source. Therefore it will be the basis of this comparison. 
-
 #### What does 'best' mean. 
-
-- Sustainability
-	- Environment
-		- Waste Disposal
-	- Cost
-		- Setup Costs
-		- Maintenance costs
-		- Demolition costs
-	- Scalability
-		- Infrastructure development time
-		- Resource availability
-		- Land usage
-- Reliability
-
 ##### Cost
 Energy generation requires investment at many stages during a piece of infrastructures life cycle. For a technology to be competitive, it's initial capital requirements must be low enough for the risk of construction to be deemed acceptable. Furthermore, its operational costs must be low enough for it to offer reasonable pricing to consumers.
 The cost per unit of energy produced should be considered as cost of living is already a major issue in some parts of Australia. High infrastructure establishment and operating costs will translate to higher prices for consumers.  
@@ -180,10 +157,6 @@ Where:
 Availability and Performance Loss Factors for U.S. PV Fleet Systems by Chris Deline et al. considered availability data from large scale solar PV systems up to $\approx$ 10 $MW$. Figure X suggests the median availability (P50) decreases as system capacity grows, however, even as the system capacity surpassed 10 $MW$ median availability remained at $\approx 98\%$. 
 
 ##### Limitations
-
-
-
-
 "Availability factor of a PV power plant: evaluation based on generation and inverter running periods" by Kumar, N. M., et al. considered inverter uptime in a 1000 $kW$ plant. 
 
 The main contributor to the lowering availability was considered inverter modules, at $\approx 92\%$ available in a 1000 $kW$ system. Often there are many inverters operating in parallel, and the "Plug and play" nature of these components allow repairs to be completed quickly with minimal tools. This is also the case with many other less integral components, which results in relativity high availability for the entire system.
@@ -194,17 +167,12 @@ The main contributor to the lowering availability was considered inverter module
 ##### Limitations
 System availability is affected by all components in the series from the PV modules to the grid. While considering a single component alone, the entire system's availability cannot be properly gauged 
 
-
-
 > [!PDF|yellow] [[ReliabilityPredictionForSolar.pdf#page=6&selection=19,0,19,52&color=yellow|ReliabilityPredictionForSolar, p.76]]
 > > Table 3. Summary of the availability factor results.
 > 
 > 
 
 ##### Limitations
-
-
-
 Nuclear infrastructure faces many of the same challenges in reliability and longevity as solar PV. 
 
 IAEA's Power Reactor Information System (PRIS) is a database of statistics regarding the construction, operation, and capacity of global nuclear energy infrastructure. Extrapolating availability from their public dataset gives a global median of $85.05\%$ (excluding South Africa). 
@@ -240,7 +208,7 @@ What remains constant though is the hazard and lifetime of spent fuel. Fission p
 
 [[Radioactive Waste Management - World Nuclear Association.pdf]]
 
-Due to the density of the water and the inverse square law, the spent fuel is able to decay and release heat without causing harm before being sealed in a steel and concrete containment vessel. Overall this produced 110 $g$ of $CO_2$ (equivalent)/$kWh$. 
+Due to the density of the water and the inverse square law, the spent fuel is able to decay and release heat without causing harm before being sealed in a steel and concrete containment vessel. Overall this produces 110 $g$ of $CO_2$ (equivalent)/$kWh$. 
 
 ### Discussion
 #### Quality of evidence
@@ -253,3 +221,45 @@ Due to the density of the water and the inverse square law, the spent fuel is ab
 
 
 ## Conclusion
+
+
+## References
+
+Australian Government (2023). _Renewables_. [online] Energy.gov.au. Available at: https://www.energy.gov.au/energy-data/australian-energy-statistics/renewables.
+
+Barnard, M. (2025). _Solar Panel Waste is Tiny—Coal & Gas Emit Hundreds Of Times Mass Per MWh - CleanTechnica_. [online] CleanTechnica. Available at: https://cleantechnica.com/2025/04/19/solar-panel-waste-is-tiny-coal-gas-emit-hundreds-of-times-mass-per-mwh/.
+
+Clark Public Utilities PowerZone. (n.d.). _Biomass Energy - How Do We Make Energy From Waste?_ [online] Available at: https://powerzone.clarkpublicutilities.com/learn-about-renewable-energy/biomass-energy/.
+
+DCCEEW (2025). _Net Zero_. [online] Department of Climate Change, Energy, the Environment and Water. Available at: https://www.dcceew.gov.au/climate-change/emissions-reduction/net-zero.
+
+EcoTree. (2022). _How much CO2 does a tree absorb? Let’s get carbon curious!_ [online] Available at: https://ecotree.green/en/how-much-co2-does-a-tree-absorb.
+
+EIA (2024). _Biomass Explained_. [online] US Energy Information Administration. Available at: https://www.eia.gov/energyexplained/biomass/.
+
+Iaea.org. (2022). _PRIS - Last three years factors - Energy Availability_. [online] Available at: https://pris.iaea.org/PRIS/WorldStatistics/ThreeYrsEnergyAvailabilityFactor.aspx [Accessed 29 Jul. 2025].
+
+Potts, P. (2024). _Record number of Aussies struggling to pay energy bills amid rising power prices_. [online] Sky News. Available at: https://www.skynews.com.au/business/energy/australian-households-continue-to-financially-struggle-to-pay-off-their-energy-bills-as-the-costofliving-crisis-worsens/news-story/854599def1031ade38b3b42247f5452e.
+
+World Nuclear Association (2024). _Australia’s Uranium - World Nuclear Association_. [online] world-nuclear.org. Available at: https://world-nuclear.org/information-library/country-profiles/countries-a-f/australia.
+
+
+Deline, C., Muller, M., White, R., Perry, K., Springer, M., Deceglie, M., & Jordan, D. (2024). Availability and performance loss factors for U.S. PV fleet systems (NREL/TP-5K00-88769). National Renewable Energy Laboratory. https://www.nrel.gov/docs/fy24osti/88769.pdf
+
+Graham, P., Hayward, J., & Foster, J. (2024). GenCost 2024-25: Consultation draft. CSIRO.
+
+Kumar, N. M., Dasari, S., & Reddy, J. B. (2018). Availability factor of a PV power plant: Evaluation based on generation and inverter running periods. _Energy Procedia, 147_, 71–77. https://doi.org/10.1016/j.egypro.2018.07.035
+
+Leidos Engineering, LLC. (2016). EOP III TASK 10388, SUBTASK 4 and TASK 10687, SUBTASK 2.3.1 – Review of power plant cost and performance assumptions for NEMS: Technology documentation report: FINAL - REVISED*. Energy Information Administration Office of Electricity, Coal, Nuclear, and Renewables Analysis.
+
+Nuclear Energy Agency. (2021). *Small modular reactors COP26 flyer*. OECD Nuclear Energy Agency.
+
+Obatola, S. O. (2024). *Reliability overview of grid-connected solar PV system: A review*. _Archives of Advanced Engineering Science, 00_(00), 1–9. https://doi.org/10.47852/bonviewAAES42023083
+
+Sayed, A., El-Shimy, M., El-Metwally, M., & Elshahed, M. (2019). *Reliability, availability and maintainability analysis for grid-connected solar photovoltaic systems*. _Energies, 12_(7), 1213. https://doi.org/10.3390/en12071213
+
+Shi, J., & Wang, Y. (2016). *Reliability prediction and its validation for nuclear power units in service*. _Frontiers in Energy, 10_(3), 425–431. https://doi.org/10.1007/s11708-016-0425-7
+
+World Nuclear Association. (2020). *Economics of nuclear power*. Retrieved from https://www.world-nuclear.org/
+
+World Nuclear Association. (2022, January 25). *Radioactive waste management*. Retrieved from https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/radioactive-waste-management
