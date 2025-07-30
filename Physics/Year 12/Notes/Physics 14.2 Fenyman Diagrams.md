@@ -32,12 +32,4 @@ e.g. positron travelling at constant speed
 ![[Physics 14.2 Fenyman Diagrams 2025-07-29 13.55.40.excalidraw]]
 e.g. $W^+$ boson
 
-#### Particle interactions
-##### Vertex
-The point at which particle interact. 
-At this point they will emit or absorb new particles; deflecting one another or changing type 
-![[{4D39EEED-3DFF-4F8B-A0D6-E9D416105259}.png]]
-
-##### Vertex location and direction
-For external particles (real particles), if the particle is incoming, the vertex is on the right, and if it is outgoing the vertex is on the left. It is not always shown with a dot. The lines are drawn horizontally here to save space.
-![[{61751635-4651-4207-8510-76AAB7AB7E18}.png]]
+![[Particle interactions]]

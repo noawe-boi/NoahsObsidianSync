@@ -6,6 +6,7 @@ tags:
 [[Organic Chemsitry]] is about breaking strong covalent bonds. 
 #### Types of reactions
 - [[Addition Reactions]]
+- [[Elimination Reaction]]
 - [[Oxidation Reactions]]
 - [[Reduction Reactions]]
 - [[Condensation Reactions]]

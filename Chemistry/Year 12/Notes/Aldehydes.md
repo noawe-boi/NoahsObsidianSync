@@ -7,6 +7,7 @@ tags:
 $RCHO$
 #### Functional Groups
 aldehydes have a [[Carbonyl]] group on the end of the main chain (carbon number 1)
+	This is a double bond oxygen on the end of the chain
 #### Naming aldehydes
 
 1. Identify the main chain

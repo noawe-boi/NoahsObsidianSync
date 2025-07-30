@@ -15,3 +15,6 @@ tags:
 
 ### [[Hydration]]
 ![[Hydration]]
+
+### [[Polymerization]]
+![[Polymerization]]
