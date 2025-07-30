@@ -36,6 +36,48 @@
             }
           },
           {
+            "id": "abd472ab4068db53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Oxidation Reactions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oxidation Reactions"
+            }
+          },
+          {
+            "id": "9475f1b6284d70b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Elimination Reaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elimination Reaction"
+            }
+          },
+          {
+            "id": "85dfc552e49cc192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Addition Reactions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Addition Reactions"
+            }
+          },
+          {
             "id": "cb224811bb67b2f9",
             "type": "leaf",
             "state": {
@@ -64,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -304,21 +346,21 @@
   },
   "active": "cb224811bb67b2f9",
   "lastOpenFiles": [
-    "Chemistry/Year 12/Notes/Carboxylic Acid.md",
-    "Chemistry/Year 12/Notes/Oxidation Reactions.md",
     "Chemistry/Year 12/Notes/Organic reactions and reaction pathways.md",
+    "Chemistry/Year 12/Notes/Elimination Reaction.md",
+    "Chemistry/Year 12/Notes/Addition Reactions.md",
+    "Chemistry/Year 12/Notes/Organic Reaction Pathways Diagram.md",
+    "Chemistry/Year 12/Notes/Oxidation Reactions.md",
+    "Chemistry/Year 12/Notes/Carboxylic Acid.md",
     "Chemistry/Year 12/Notes/Aldehydes.md",
     "Chemistry/Year 12/Notes/Carbonyl.md",
-    "Chemistry/Year 12/Notes/Elimination Reaction.md",
     "Dehydration.md",
     "Types of elimination reactions.md",
-    "Chemistry/Year 12/Notes/Organic Reaction Pathways Diagram.md",
     "Physics/Year 12/Notes/Physics 14.2 Fenyman Diagrams.md",
     "Images/{D41A0749-9F45-4061-8855-645634A55CFB}.png",
     "Images/Pasted image 20250730134743.png",
     "Chemistry/Year 12/Notes/Types of addition reactions.md",
     "Chemistry/Year 12/Notes/Polymerization.md",
-    "Chemistry/Year 12/Notes/Addition Reactions.md",
     "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
     "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md",
     "Images/{1C3CA5B7-04A1-4089-8C21-177CD3D2816D}.png",
