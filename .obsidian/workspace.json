@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Notes/Physics 14.2 Fenyman Diagrams.md",
+                "file": "Chemistry/Year 12/Notes/Organic Reaction Pathways Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics 14.2 Fenyman Diagrams"
+              "title": "Organic Reaction Pathways Diagram"
             }
           },
           {
@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md",
+                "file": "Chemistry/Year 12/Notes/Organic reactions and reaction pathways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.3 Symmertry in particle interactions"
+              "title": "Organic reactions and reaction pathways"
+            }
+          },
+          {
+            "id": "cb224811bb67b2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Oxidation Reactions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oxidation Reactions"
+            }
+          },
+          {
+            "id": "2ab716b3a1ff236c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Year 12/Notes/Carboxylic Acid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carboxylic Acid"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,12 +302,27 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "f3d962b11aae5428",
+  "active": "cb224811bb67b2f9",
   "lastOpenFiles": [
+    "Chemistry/Year 12/Notes/Carboxylic Acid.md",
+    "Chemistry/Year 12/Notes/Oxidation Reactions.md",
+    "Chemistry/Year 12/Notes/Organic reactions and reaction pathways.md",
+    "Chemistry/Year 12/Notes/Aldehydes.md",
+    "Chemistry/Year 12/Notes/Carbonyl.md",
+    "Chemistry/Year 12/Notes/Elimination Reaction.md",
+    "Dehydration.md",
+    "Types of elimination reactions.md",
+    "Chemistry/Year 12/Notes/Organic Reaction Pathways Diagram.md",
+    "Physics/Year 12/Notes/Physics 14.2 Fenyman Diagrams.md",
+    "Images/{D41A0749-9F45-4061-8855-645634A55CFB}.png",
+    "Images/Pasted image 20250730134743.png",
+    "Chemistry/Year 12/Notes/Types of addition reactions.md",
+    "Chemistry/Year 12/Notes/Polymerization.md",
+    "Chemistry/Year 12/Notes/Addition Reactions.md",
+    "Chemistry/Year 12/Notes/Chemistry IA3 Planning.md",
+    "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md",
     "Images/{1C3CA5B7-04A1-4089-8C21-177CD3D2816D}.png",
     "Particle interactions.md",
-    "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md",
-    "Physics/Year 12/Notes/Physics 14.2 Fenyman Diagrams.md",
     "Images/{AD3A710F-0A7F-416F-AEEB-B77E0B6D84FD} 2.png",
     "Images/{AD3A710F-0A7F-416F-AEEB-B77E0B6D84FD} 1.png",
     "Images/{AD3A710F-0A7F-416F-AEEB-B77E0B6D84FD}.png",
@@ -296,31 +339,16 @@
     "Physics/Year 12/Assignments/IA3/Physics IA3 Finaldocx.pdf",
     "Images/Pasted image 20250729194759.png",
     "Images/Pasted image 20250729182447.png",
-    "Images/Pasted image 20250729182349.png",
-    "Images/Pasted image 20250729182346.png",
-    "Images/Pasted image 20250729182339.png",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.48.40.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.52.40.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.54.00.excalidraw.md",
-    "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.55.40.excalidraw.md",
-    "Physics/Year 12/Notes/Lepton Number.md",
-    "Physics/Year 12/Notes/Baryon Number.md",
-    "Unfiltered/Elementary particles.md",
-    "Physics/Year 12/Notes/Meson.md",
-    "Physics/Year 12/Notes/Baryon.md",
-    "Physics/Year 12/Assignments/IA3/Physics IA3 2025 Draft 2.md",
     "Unfiltered/Physics IA3 word count test.html",
-    "Daily Notes/29-07-2025.md",
     "Physics/Year 12/Assignments/IA3/Sources/Cost/GenCost2024-25ConsultDraft_20241205.pdf",
-    "Specialist Maths/Year 12/Notes/Specialist 4G Geometric Proofs.md",
     "Physics/Year 12/Assignments/IA3/Actually used sources/Radioactive Waste Management - World Nuclear Association.pdf",
     "Physics/Year 12/Assignments/IA3/Actually used sources/small_modular_reactors_cop26_flyer.pdf",
     "Physics/Year 12/Assignments/IA3/Actually used sources/ReliabilityPredictionForNuclearPower.pdf",
     "Physics/Year 12/Assignments/IA3/Actually used sources/ReliabilityPredictionForSolar.pdf",
     "Physics/Year 12/Assignments/IA3/Actually used sources/ReliabilityOfLargeScale.pdf",
-    "Physics/Year 12/Assignments/IA3/Actually used sources/energies-12-01213.pdf",
-    "Excalidraw/Specialist 4G Geometric Proofs 2025-05-09 09.19.35.excalidraw.md",
-    "Maths Methods/Year 12/Notes/Methods 8D Derivatives of Logarithms.md",
-    "Maths Methods/Year 12/Notes/Methods 9F Further anti-differentiation further techniques.md"
+    "Physics/Year 12/Assignments/IA3/Actually used sources/energies-12-01213.pdf"
   ]
 }

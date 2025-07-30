@@ -9,3 +9,6 @@ When atoms are added across a double or triple bond
 ![[Types of addition reactions]]
 
 #### Hydration
+
+
+

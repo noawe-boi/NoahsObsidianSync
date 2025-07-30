@@ -2,7 +2,7 @@
 tags:
   - chem
 ---
-### What are [[Carboxylic Acids]]
+### What is [[Carboxylic Acid]]
 Organic compound that have a carboxyl functional group.
 ===It should be emphasised that this is an ACID!===
 #### The main chain

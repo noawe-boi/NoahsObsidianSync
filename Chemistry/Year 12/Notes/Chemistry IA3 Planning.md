@@ -149,6 +149,10 @@ This is currently roughly double the average cost of fuel in the US, and this is
 
 
 
+
+
+
+
 ```
 
 ### Burning Emissions
