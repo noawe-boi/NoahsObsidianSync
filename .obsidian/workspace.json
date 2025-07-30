@@ -34,80 +34,6 @@
               "icon": "lucide-file",
               "title": "14.3 Symmertry in particle interactions"
             }
-          },
-          {
-            "id": "6b8881c72a70d994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Particle interactions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Particle interactions"
-            }
-          },
-          {
-            "id": "a9bcd305ef606e14",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.40.42.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics 14.2 Fenyman Diagrams 2025-07-30 09.40.42.excalidraw"
-            }
-          },
-          {
-            "id": "2d8d376e962acb2c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.26.16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics 14.2 Fenyman Diagrams 2025-07-30 09.26.16.excalidraw"
-            }
-          },
-          {
-            "id": "f49be47e2c8e7a0d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.14.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics 14.2 Fenyman Diagrams 2025-07-30 09.14.40.excalidraw"
-            }
-          },
-          {
-            "id": "5d4f3631e0f5883a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.10.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics 14.2 Fenyman Diagrams 2025-07-30 09.10.55.excalidraw"
-            }
-          },
-          {
-            "id": "febc5c7728a16930",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.03.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Physics 14.2 Fenyman Diagrams 2025-07-30 09.03.11.excalidraw"
-            }
           }
         ],
         "currentTab": 1
@@ -265,9 +191,21 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "ee63191257b6c96a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 14.3 Symmertry in particle interactions"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "b178d470dc95dd6e",
@@ -314,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,11 +276,13 @@
   },
   "active": "f3d962b11aae5428",
   "lastOpenFiles": [
+    "Images/{1C3CA5B7-04A1-4089-8C21-177CD3D2816D}.png",
+    "Particle interactions.md",
+    "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md",
+    "Physics/Year 12/Notes/Physics 14.2 Fenyman Diagrams.md",
+    "Images/{AD3A710F-0A7F-416F-AEEB-B77E0B6D84FD} 2.png",
     "Images/{AD3A710F-0A7F-416F-AEEB-B77E0B6D84FD} 1.png",
     "Images/{AD3A710F-0A7F-416F-AEEB-B77E0B6D84FD}.png",
-    "Physics/Year 12/Notes/Physics 14.2 Fenyman Diagrams.md",
-    "Physics/Year 12/Notes/14.3 Symmertry in particle interactions.md",
-    "Particle interactions.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.40.42.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-30 09.26.16.excalidraw.md",
     "Unfiltered/Antineutrino.md",
@@ -358,8 +299,6 @@
     "Images/Pasted image 20250729182349.png",
     "Images/Pasted image 20250729182346.png",
     "Images/Pasted image 20250729182339.png",
-    "Images/Pasted image 20250729163514.png",
-    "Images/Pasted image 20250729163511.png",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.48.40.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.52.40.excalidraw.md",
     "Images/Physics 14.2 Fenyman Diagrams 2025-07-29 13.54.00.excalidraw.md",
