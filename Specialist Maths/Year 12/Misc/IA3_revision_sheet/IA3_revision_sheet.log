@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.27)  30 JUL 2025 18:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.27)  30 JUL 2025 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,86 +618,62 @@ LaTeX Warning: No \author given.
 <cat.png, id=4, 738.76pt x 554.07pt>
 File: cat.png Graphic file (type png)
 <use cat.png>
-Package pdftex.def Info: cat.png  used on input line 23.
+Package pdftex.def Info: cat.png  used on input line 24.
 (pdftex.def)             Requested size: 478.00812pt x 358.50954pt.
 
 
 [1
 
+
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/cm-super/cm-super-t1.enc} <./cat.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--65
+Underfull \hbox (badness 10000) in paragraph at lines 39--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--84
+Underfull \hbox (badness 10000) in paragraph at lines 80--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--84
+Underfull \hbox (badness 10000) in paragraph at lines 80--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--84
+Underfull \hbox (badness 10000) in paragraph at lines 80--86
 
  []
 
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 85--110
+Underfull \hbox (badness 10000) in paragraph at lines 87--112
 
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--177
+Underfull \hbox (badness 10000) in paragraph at lines 127--154
 
  []
 
 
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 178--201
+Underfull \hbox (badness 10000) in paragraph at lines 177--203
 
  []
 
@@ -710,13 +686,13 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 23752 strings out of 475171
- 611099 string characters out of 5767095
- 1114551 words of memory out of 5000000
- 46377 multiletter control sequences out of 15000+600000
+ 23754 strings out of 475171
+ 611155 string characters out of 5767095
+ 1115551 words of memory out of 5000000
+ 46379 multiletter control sequences out of 15000+600000
  575114 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 99i,11n,105p,731b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,105p,731b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -726,7 +702,7 @@ share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-di
 st/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/
 public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super
 /sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on IA3_revision_sheet.pdf (5 pages, 188751 bytes).
+Output written on IA3_revision_sheet.pdf (5 pages, 190802 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
