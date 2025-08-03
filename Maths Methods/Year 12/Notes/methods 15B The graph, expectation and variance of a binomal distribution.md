@@ -8,7 +8,7 @@ tags:
 #### Expected values
 For a given trial for a variable, we have 
 $$E(x)=P$$
-$$\textrm{Var}(x)=1-p$$
+$$\textrm{Var}(x)=p(1-p)$$
 
 ### Big ideas and concepts
 #### Number of successes
