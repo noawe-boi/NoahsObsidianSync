@@ -15,3 +15,5 @@ Hydrogen is added across a double or triple bond, increasing level of saturation
 - hydrogen gas
 - metal catalyst ($Pt, Pd, Ni$)
 
+#### Reduction of nitriles
+Nitriles can be reduced to primary amines with lithium aluminium hydride ($LiAlH_4$) in the presence of water. You can also use hydrogen gas and a metal catalyst such as palladium, platinum or nickel to reduce nitriles – the same reagents used to reduce alkenes. This reaction also requires a high temperature and pressure.
