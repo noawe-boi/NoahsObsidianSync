@@ -28,6 +28,5 @@ not possible :(
 
 
 ### Oxidation of alkanes and alchols by combustion
-Complete combustion reactions are oxidation reactions that burn fuel to produce $CO_2$ and $H_20$
+![[Combustion of Alkanes and Alcohols]]
 
-#### Formula
