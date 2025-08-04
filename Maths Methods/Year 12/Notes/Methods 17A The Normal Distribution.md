@@ -14,7 +14,6 @@ tags:
 ### Big ideas and concepts
 ![[Bell curve]]
 ### Vocab and definitions
-
 ![[Equation for normal distribution Probability Density Function]]
 
 
