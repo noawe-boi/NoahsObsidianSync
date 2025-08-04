@@ -33,7 +33,7 @@ We are gonna subtract 1 from both sides then multiply both sides by $-1$. (when 
 
 $Pr(x=0)<0.05$
 $\therefore (0.52)^n<0.05$ 
-$Pr(x=x)=(^n _x ) p^x (1-p)^{nx}$
+$Pr(x=x)=(^n _x ) p^x (1-p)^{n-x}$
 Consider $Pr(x=0)=(^n_0)p^0(1-p)^0=1(1-p)^n$
 Take $\ln$ of both sides
 $\ln(0.52^n)<\ln(0.05)$
@@ -42,7 +42,7 @@ $n\cdot\ln(0.52)<\ln(0.52)$
 $\therefore n>\frac{\ln(0.05)}{\ln(0.52)}\approx 4.58114546\ldots$
 $\therefore n>4.58114546\ldots$
 $\therefore$ at least 5 games 
-
+o
 ##### b)
 We require $Pr(x\geq2) > 0.95$
 $\therefore Pr(x=0)+Pr(x=1)<0.05$

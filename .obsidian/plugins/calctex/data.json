@@ -3,7 +3,7 @@
   "approxCalculationTriggerString": "\\approx",
   "approxDecimalPrecision": 10,
   "completionTriggerKey": "Tab",
-  "multiplicationSymbol": "*",
-  "groupSeparator": ",",
+  "multiplicationSymbol": "\\cdot",
+  "groupSeparator": "",
   "decimalSeparator": "."
 }
