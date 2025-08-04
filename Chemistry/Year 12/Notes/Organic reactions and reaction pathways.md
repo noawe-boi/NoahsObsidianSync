@@ -27,10 +27,7 @@ Nothing happens, the hydrocarbon is saturated
 The bromine has reacted and added a bond, indicated that the hydrocarbon is unsaturated. 
 
 ### Markinovinokov's Rule
-For the preivous examples, the [[Alkene]]s were symmetrical.
-	i.e. it didnt matter which carbon atoms gets the hydrogen atom and which gets the halogen
-In asymetrical [[Alkene]]s, it is no longer random. 
-	Hyrdogen atoms are more liekly to bond with a carbon atom with mor ehydrogens, halogens are more likely to bond with carbon atoms with fewer hyrdogens
+![[Markinovinokov's Rule]]
 
 #### The rich get richer, and the poor get poorer
 i.e. 
