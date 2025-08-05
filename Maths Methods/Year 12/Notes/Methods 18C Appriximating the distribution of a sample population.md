@@ -23,7 +23,7 @@ When a sample is 'sufficiently large' the sample proportion will have an approxi
 You should try and get the sample size to be as close to the population size as possible
 
 ### Vocab and definition
-![[Requirements for normality in a distribution]]
+![[Requirements for normality in a distribution - checking for normality]]
 
 ![[Normality in a distribution]]
 
