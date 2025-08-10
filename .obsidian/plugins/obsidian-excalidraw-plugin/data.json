@@ -499,13 +499,13 @@
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": false,
+        "constantPressure": true,
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
           "smoothing": 0,
-          "thinning": 0.4,
-          "streamline": 0.2,
+          "thinning": 0,
+          "streamline": 0,
           "easing": "easeOutQuad",
           "start": {
             "taper": 0,
