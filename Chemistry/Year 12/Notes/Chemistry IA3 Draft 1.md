@@ -30,17 +30,16 @@ Biogasoline is one of these, and is touted as a 'drop in replacement' for unlead
 ### Research question
 How do does the collection and cracking processes differ between synthesis of gasoline and biogasoline, and how do the final products  
 ## Categories of comparison
-### Synthesis process and emissions during it
-
-biofuel:
-algae -> pyrolysis/cracking (Converts it into hydrocarbons) -> Biogasoline 
-
-#### Starting products (Chemical make up)
+### Synthesis process 
 ##### Crude oil
 ###### How is it produced?
-Our current crude oil reserves are the result of organic matter pyrolysing underground over "millions of years". Oil is pumped from "wells", stored in, and sold by the barrel. While the product collected is heterogenous, and contains a huge variety of unusable hydrocarbons, further pyrolysis under controlled conditions and in the presence of a catalyst permits controlled restructuring of the crude product, into useful and refined fuels. 
+Our current crude oil reserves are the result of organic matter pyrolysing underground over "millions of years". 
 https://energyeducation.ca/encyclopedia/Oil_formation
-The current supply of oil located on earth is finite, as production of new crude oil is not viable. 
+Pyrolysis the process of breaking down longer "heavy" hydrocarbon chains, into smaller, "lighter" products. In this case, the long molecules that make up the organic matter are broken down into more simple chains. Excess oxygen, nitrogen, and hydrogen form by products such as $H_2O$ (water), $NH_3$ (ammonia), $CO$ (carbon monoxide) and $CO_2$ (carbon dioxide). 
+https://www.aip.com.au/resources/refining-petroleum#:~:text=The%20oil%20combined%20with%20the%20hydrogen%20then,of%20some%20methane%2C%20ethane%2C%20propane%20and%20butanes.
+Oil is pumped from "wells", stored in, and sold by the barrel. 
+https://energyeducation.ca/encyclopedia/Oil_formation
+While the product collected is heterogenous, and contains a huge variety of unusable hydrocarbons, further pyrolysis under controlled conditions and in the presence of a catalyst permits controlled restructuring of the crude product, into useful and refined fuels. These products can then be separated through fractional distillation.
 
 https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from-in-depth.php
 ##### Bio Oil
@@ -58,20 +57,14 @@ As the algae grows and reproduces, carbon will accumulate in the system in the f
 ```smiles
 [R]CC(=O)O
 ```
-
-
-
 ###### Processing/Synthesis
-Bio oil is extracted from algal biomass using pyrolyis 
-Pyrolysis is decomposing a material by heating it in an inert enviroment, where combustion cannot occur. (https://www.ars.usda.gov/northeast-area/wyndmoor-pa/eastern-regional-research-center/docs/biomass-pyrolysis-research-1/what-is-pyrolysis/)
+Bio oil is extracted from algal biomass using pyrolysis 
+Pyrolysis is decomposing a material by heating it in an inert environment, where combustion cannot occur. (https://www.ars.usda.gov/northeast-area/wyndmoor-pa/eastern-regional-research-center/docs/biomass-pyrolysis-research-1/what-is-pyrolysis/)
 
-**Briefly explain how it is pumped out from the ground and non renewable**
 
 ###### Proccessing/Refinery
 ##### Table Comparing bio-oil to crude oil
 https://task34.ieabioenergy.com/bio-oil/#:~:text=Biomass%20pyrolysis%20oil%20contains%20several,phenols%2C%20anhydrosugars%20and%20other%20oligosaccharides.
-
-
 
 
 **Pyrolysis Oil**
