@@ -3,18 +3,6 @@ tags:
   - chem
 ---
 
-## Note for Mr Sonter
-Hey Mr Sonter, 
-
-Don't expect this to be coherent, its mostly just gathered sources. 
-I believe I mentioned to you in class that I have been putting this assignment off due to impending maths exams, and the physics IA3 I just submitted yesterday. 
-
-That is to say, I'm not concerned if you don't have much to say about this. I understand there is not much to provide feedback on. 
-
-Kind regards, Noah
-
-
-
 ## Claim
 Explore the chemical synthesis of a biofuel produced from algae and its comparisons with existing fuel sources
 
@@ -48,14 +36,28 @@ biofuel:
 algae -> pyrolysis/cracking (Converts it into hydrocarbons) -> Biogasoline 
 
 #### Starting products (Chemical make up)
+##### Crude oil
+###### How is it produced?
+Our current crude oil reserves are the result of organic matter pyrolysing underground over "millions of years". Oil is pumped from "wells", stored in, and sold by the barrel. While the product collected is heterogenous, and contains a huge variety of unusable hydrocarbons, further pyrolysis under controlled conditions and in the presence of a catalyst permits controlled restructuring of the crude product, into useful and refined fuels. 
+https://energyeducation.ca/encyclopedia/Oil_formation
+The current supply of oil located on earth is finite, as production of new crude oil is not viable. 
+
+https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from-in-depth.php
 ##### Bio Oil
 ###### How is it produced
 [[curent status and future applications.pdf]]
 
-While natural cultivation was used initially due to its low capital cost, artificial cultivation is more viable for fuel production on industrial scale. Environmental conditions are controlled using closed loop systems and key consumables, notably $CO_2$, water, and nutrients, are dispersed throughout the system as as required. The system itself can take the form of either 'raceways' or tube, however both fundamentally do the same thing; circulate algae from storage into a light rich environment so that photosynthesis occurs, then back into storage. Photosynthesis allows the algae to 'capture' the carbon from the $CO_2$ bubbled into the system, or from the open air, while simultaneously releasing the oxygen attached to it. As the algae grows and reproduces, carbon will accumulate in the system in the form of glucose, and within the oils that algae produce to store energy long term. 
+While natural cultivation was used initially due to its low capital cost, artificial cultivation is more viable for fuel production on industrial scale. Environmental conditions are controlled using closed loop systems and key consumables, notably $CO_2$, water, and nutrients, are dispersed throughout the system as as required. The system itself can take the form of either 'raceways' or tubes, however both fundamentally do the same thing; circulate algae from storage into a light rich environment so that photosynthesis occurs, then back into storage. Photosynthesis allows the algae to 'capture' the carbon from the $CO_2$ bubbled into the system, or from the open air, while simultaneously releasing the oxygen attached to the carbon.
 
-Dried algal biomass has a high content of these oils, and has potential to be fermented, pyrolysed, or processed in a number of other ways. Pyrolysis is currently a promising technique 
+The oils produced by certain species of algae contain high content of lipid's, which within themselves contain fatty acids. Fatty acids are long hydrocarbon chains with a carboxyl group at one end.
 
+https://courses.lumenlearning.com/suny-nutrition/chapter/2-32-fatty-acids/#:~:text=Fatty%20acids%20differ%20in%20their,(i.e.%209%2C%2019).
+
+As the algae grows and reproduces, carbon will accumulate in the system in the form of glucose, and within the oils that algae produce to store energy long term. 
+
+```smiles
+[R]CC(=O)O
+```
 
 
 
@@ -63,8 +65,6 @@ Dried algal biomass has a high content of these oils, and has potential to be fe
 Bio oil is extracted from algal biomass using pyrolyis 
 Pyrolysis is decomposing a material by heating it in an inert enviroment, where combustion cannot occur. (https://www.ars.usda.gov/northeast-area/wyndmoor-pa/eastern-regional-research-center/docs/biomass-pyrolysis-research-1/what-is-pyrolysis/)
 
-##### Crude oil
-###### How is it produced?
 **Briefly explain how it is pumped out from the ground and non renewable**
 
 ###### Proccessing/Refinery
@@ -95,8 +95,7 @@ https://kindle-tech.com/faqs/is-pyrolysis-oil-the-same-as-crude-oil
 
 #### Cracking (Transformation)
 
-***pyrolysis of alkanes is also named as cracking**.*
-https://byjus.com/chemistry/pyrolysis-of-hydrocarbons-alkanes/#:~:text=%E2%80%9CPyrolysis%20is%20defined%20as%20the,is%20also%20named%20as%20cracking.
+
 
 
 
@@ -164,17 +163,11 @@ This is currently roughly double the average cost of fuel in the US, and this is
 
 
 
-```
 
 ### Burning Emissions
-
-#### [[PIIS2405844021004850.pdf]]
-Page 8: The CO2 emissions drop as more ethanol is added. 
-
 #### [[huge comparison.pdf]]
 Page 155: Massive comparison of emissions for many types of fuels. 
 
 #### [[biogasolne.pdf]]
 Page 7: Exaust temp based on factors 
 Page 8: Emissions comparison based on many factors
-```

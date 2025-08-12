@@ -12,6 +12,9 @@ Consider Ethyne
 Formula: $C_2H_2$
 Structure: $C-C\equiv C-H$
 ===There is a triple bond between the two carbon atoms in the middle===
+```smiles
+CC#C
+```
 
 ![[Isomers of Alkynes]]
 #### Functional Group

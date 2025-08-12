@@ -16,6 +16,5 @@ Pretty much fats
 - Many contain [[Fatty Acid]]
 	![[Fatty Acid]]
 - Melting point decreases as level of unsaturation (double bonds) increases 
-- 
 
 
