@@ -48,7 +48,7 @@ Think about sin/cos as denominator
 
 ##### Sec
 ![[Specialist 7.3 Reciprocal trigonometric functions 2025-05-20 09.57.06.excalidraw]]
-
+- Everywhere $y=0$ there is an asymptote
 
 ### procedures
 - Determine transformations of underlying trig functions

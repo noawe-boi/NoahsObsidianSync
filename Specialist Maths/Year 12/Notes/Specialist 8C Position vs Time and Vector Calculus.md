@@ -25,7 +25,7 @@ $r(t)=x(t)i+y(t)j+z(t)k$
 	Where $i, k, k$ are unit vectors
 ##### Then first derivative is: $$\dot{r}(t)=\frac{dx}{dx}i+\frac{dx}{dy}j+\frac{dx}{dt}k$$ 
 
-$$=\dot{x(t)}i+\dot{y(t)}k+\dot{z(t)}k$$
+$$[=\dot{x(t)}i+\dot{y(t)}k+\dot{z(t)}k]()$$
 ##### Then second derivative is
 $$\ddot{r}(t)=\ddot{x(t)}i+\ddot{y(t)}k+\ddot{z(t)}k$$
 
