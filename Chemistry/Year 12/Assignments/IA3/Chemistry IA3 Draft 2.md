@@ -132,18 +132,9 @@ It should be mentioned that while the carbon released from combustion of biogaso
 
 ![[Pasted image 20250814081941.png]]
 [[huge comparison.pdf]]
+Considering the previously cited study by Ge et al., and *Biogasoline options for conventional spark-ignition cars* by Aakko-Saksa et al., a clear trend can be observed. 
+When percentage of biogasoline $\leq 10\%$, $NO_x$ emissions are reduced. As biogasoline fraction increases so that biogasoline content $\geq 15\%$, $NO_x$ emissions increase to match, or exceed under high load as shown in figure X, the emissions of gasoline. 
 
-> [!PDF|yellow] [[biogasolne.pdf#page=9&selection=16,10,34,32&color=yellow|biogasolne, p.9]]
-> > Delayed ignition and fuel: air mixture accumulation is caused by low octane index which also releases heat at the start of the combustion itself. These factors induce NOX emission.. The SO2 emission trends for BioG blends and gasoline are shown in Fig. 8d. At low engine speeds, the SO2 emission was low from 1000 rpm to 2000 rpm. It is convincing that, BioG blends showed low SO2 levels compared to commercial Gasoline.
-> 
-> 
-#### [[huge comparison.pdf]]
-Page 155: Massive comparison of emissions for many types of fuels. 
-
-#### [[biogasolne.pdf]]
-Page 7: Exaust temp based on factors 
-Page 8: Emissions comparison based on many factors
-![[Pasted image 20250814065356.png]]
 
 
 ### Limitations
