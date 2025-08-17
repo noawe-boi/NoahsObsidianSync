@@ -8,3 +8,4 @@ Polysaccharides are complex sugars made up of many monosaccharides (sometimes hu
 ### Types of [[Polysaccharide]]
 ![[Glycogen]]
 
+
