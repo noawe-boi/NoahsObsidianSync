@@ -9,7 +9,7 @@ tags:
 **'Stored Energy'** due to its position relative to another object or field
 
 ### Examples of potential energy
-![[{0EC16140-B36C-4131-9B4A-104668E20D2E}.png | 500]]
+![[{0EC16140-B36C-4131-9B4A-104668E20D2E}.original| 500]]
 ## ![[12 Physics Gravitational Potential Energy]]
 
 

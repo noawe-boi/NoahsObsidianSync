@@ -8,4 +8,4 @@ $$\textrm{More Molecules} \implies \textrm{More Dispersion Forces}$$
 
 ![[Pasted image 20250617172255.png]]
 
-![[Dispersion Forces]]
+![[Dispersion Force]]

@@ -14,12 +14,9 @@ tags:
 6. Put the side groups in alphabetical order
 7. Separate letters and numbers with a dash
 8. Separate multiple numbers with a comma 
-
-### Examples
-![[
-
 ## Cyclic
 - Add **cyclo** as prefix
 - Assign starting carbon as the one closest to a branch 
 
 
+![[Pasted image 20250817105027.png]]
