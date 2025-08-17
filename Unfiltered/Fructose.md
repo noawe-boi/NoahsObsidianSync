@@ -1,0 +1,1 @@
+Fructose is found in fruit and is a simple ketose
