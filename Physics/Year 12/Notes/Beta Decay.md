@@ -12,11 +12,9 @@ A [[Beta Particle]]
 ![[Beta Particle]]
 ### Process of decay
 #### Beta positive
-- Takes a proton, turns it into a neutron and a [[Neutrino]], ejects electron and $V_e$.
-
+Takes one proton and changes it into a neutron. Ejects a [[Positron]] and $V_e$ ([[Neutrino]])
 #### Beta negative
-- Takes a proton, turns it into a electron and an [[Antineutrino]], ejects electron particle and $\bar{V}_e$ 
-
+Takes one neutron and changes it into a proton. Ejects an electron and $\bar V_e$ ([[Antineutrino]])
 ### Effect of this
 - Parent loses
 	- One electron

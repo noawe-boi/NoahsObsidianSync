@@ -9,7 +9,7 @@ tags:
 ### Big ideas and concepts
 ![[Fractions with compound denominators]]
 
-### Vocab and definitionsm
+### Vocab and definitions
 ![[Partial Fractions]]
 
 ### Procedures
