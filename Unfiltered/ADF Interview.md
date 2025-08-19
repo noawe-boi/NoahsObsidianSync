@@ -19,17 +19,37 @@ Business atire/suit
 	What I expect for my future career
 	What is expected of me
 
+### Additional areas of examination
+- Leadership positions you may have held
+- School appointments
+- Leadership camps
+- Public speaking
+- Community involvement
+- Team sports participation
+- General knowledge and understanding of current ADF operations – read national newspapers; read
+Defence newspapers (online)
+- Self-confidence
+- Maturity
+- How you plan to balance your current civilian employment or studies with your new commitments,
+particularly whilst undertaking training (Reserve candidates only)
+
+
+
 
 # Notes
 ## Initial training
 ### Both
 #### New Entry Officers' course 
 ##### Duration
- 18 weeks
+ 15 weeks
 ##### Location 
 HMAS Creswell, Jervis Bay, NSW
 
+Roughly 11 hours south from here. Right next to jervis bay airfield. Pretty close to sanctuary point. No towns particularly close to it, but you could drive about half an hour to one. There is a fire bregade, national park headquarters, Australia post and a supermarket nearby.
+
 ##### Material
+Both classroom, and practical. 
+
 - Physical Fitness
 	General fitness training, adventure training, navy swim test. 
 - Military life
@@ -42,6 +62,12 @@ HMAS Creswell, Jervis Bay, NSW
 	High functioning teams training, Military resilience training
 - Personal development
 	Leadership and management (including practical exercises), effective oral and written communication methods.
+
+##### Schedule
+First 4 weeks: 0530-2200
+
+On the last week, there will be a graduation parade.
+
 ##### Challenges I will face, and how I will overcome them
 Adapting to the new environment/being away from home
 	I have not experienced changes in my environment and lifestyle to this degree in my life. While my transition to senior high school did require me to make major changes to how I spend my time, and develop discipline in my studies, my general environment did not change. I feel independent enough to travel alone, as I have done to visit family in newcastle, and have spend weeks away from my family at a time at STEM competitions and school trips. I believe that for anyone my age, major changes like this are imminent. Some of my previous friends, who graduated last year or finished in grade 10, have to face the transition into university, or trade. I don't see why this would be any different. As long as I know what is expected of me, and have a clear idea of the future, I do not think this will be detrimental to my success in the ADF. I am nowhere near the first in my family to leave home for extended periods such as this. I have a little brother who I feel can fill my shoes pretty well. I think my parents will miss me, but keeping contact with them while adjusting, as I have done in the past while away, should help both of us transition. 
