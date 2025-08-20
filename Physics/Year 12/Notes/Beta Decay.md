@@ -9,7 +9,6 @@ tags:
 
 ### What is ejected
 A [[Beta Particle]]
-![[Beta Particle]]
 ### Process of decay
 #### Beta positive
 Takes one proton and changes it into a neutron. Ejects a [[Positron]] and $V_e$ ([[Neutrino]])
