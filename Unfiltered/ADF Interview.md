@@ -78,6 +78,25 @@ Embracing the new culture
 Finding new mates
 	While I have spent my education hanging around with the same group of people, I think it will be difficult initially difficult to find a group, or break the ice with new people. However, during my time in STEM competitions, I have had success in this, and found many people I could relate to, and share common ground with. During my ADF testing, I had some good chats with the other candidates. I think structured environments, such as that STEM competition, and the waiting room, allow people to find common ground with one another, and thus break the ice and become comfortable around one another. Thus I believe I will be able to overcome this challenge. 
 
+
+### Conditions of service
+I am expected to 
+#### Be willing to be deployed near warzones or dangerous areas of conflict
+- Perform search and rescue missions, and natural disaster relief
+- Serve at sea
+- Be subject to military law, in addition to military law.
+	Military law is a law system that caters to offences that are specifically military related. 
+	Offenses will be prosecuted in respect to a military discipline system, separate to that of civilians 
+		As part of the DFDA, **the Military Discipline System consists of the three levels:**
+		- Discipline Officer Scheme: Lowest level of disciplinary action available. Enables commanders to deal	with minor disciplinary offences in a simple, quick and fair manner.
+		- Summary Authorities: Mid-level disciplinary action. Enables commanding officers and officers appointed as superior summary authorities to deal with more serious disciplinary offences.
+		- Defence Force Magistrate and Courts Martial proceedings: Highest level of disciplinary action under the DFDA.
+- Provide unrestricted service
+	I must be available at all times, and be able to move or deployed across Australia and overseas whenever needed
+	may be required to work long hours, shift work, irregular hours or a combination of these. 
+- Defence members do not have penalty rates or overtime as a condition of service.
+- Period of service
+	Your Gap Year experience will commence at the start of the year and will conclude 12 months later. Subsequent periods of service in the Regular or Reserve ADF may be offered subject to the requirements of the ADF and your suitability for further service. You may request discharge at any time by providing 21 days’ notice.
 # Post meeting
 ## Medical assessment
 
