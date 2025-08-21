@@ -28,7 +28,7 @@ Kepler's second law or orbit states that:
 The square of the period of The motion over the radius of the motion cubed is constant (Also known as Kepler's ratio).
 
 Kepler's third law of motion states that:
-	$\frac{T^2}{r^2} =\text{some constant}$
+	$\frac{T^2}{r^3} =\text{A constant on the formula sheet}$
 
 This also means that:
 	If you increase the distance from the orbiting body, you increase the time it takes for a revolution to occur
