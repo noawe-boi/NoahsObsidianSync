@@ -35,7 +35,7 @@ Defence newspapers (online)
 
 
 # Notes
-## Initial training
+## Initial military training
 ### Both
 #### New Entry Officers' course 
 https://youtu.be/BZO5IchGBDs?si=LA3bZzD5klUzA5BW 
@@ -77,6 +77,24 @@ Embracing the new culture
 **TODO**
 Finding new mates
 	While I have spent my education hanging around with the same group of people, I think it will be difficult initially difficult to find a group, or break the ice with new people. However, during my time in STEM competitions, I have had success in this, and found many people I could relate to, and share common ground with. During my ADF testing, I had some good chats with the other candidates. I think structured environments, such as that STEM competition, and the waiting room, allow people to find common ground with one another, and thus break the ice and become comfortable around one another. Thus I believe I will be able to overcome this challenge. 
+
+## Initial Employment training
+**Cannot find any good information about this**
+## Service Knowledge
+### ADF (still focusing on navy)
+#### Current conflicts
+
+#### Past conflicts
+
+#### Domestic operations/tasks
+
+
+### Navy
+#### Base locations
+
+#### Assets and equipment/Use cases
+
+#### Why the navy?
 
 # Post meeting
 ## Medical assessment
