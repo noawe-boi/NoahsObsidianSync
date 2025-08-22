@@ -7,6 +7,7 @@ tags:
 ## Required documents
 - Photo ID
 - School Report card/SEQTA
+- All documents in candidate hub
 ## Dress code
 Business atire/suit
 
@@ -40,10 +41,10 @@ Defence newspapers (online)
 #### New Entry Officers' course 
 https://youtu.be/BZO5IchGBDs?si=LA3bZzD5klUzA5BW 
 ##### Duration
- 15 weeks
+ 18 weeks
 ##### Location 
 
-The Royal Australian Naval College at HMAS Creswell is situated 35 km south-east of Nowra.def Jervis Bay, NSW
+The Royal Australian Naval College at HMAS Creswell is situated 35 km south-east of Nowra. Jervis Bay, NSW
 
 Roughly 11 hours south from here. Right next to jervis bay airfield. Pretty close to sanctuary point. No towns particularly close to it, but you could drive about half an hour to one. There is a fire bregade, national park headquarters, Australia post and a supermarket nearby.
 
@@ -63,6 +64,8 @@ Both classroom, and practical.
 - Personal development
 	Leadership and management (including practical exercises), effective oral and written communication methods.
 
+
+
 ##### Schedule
 First 4 weeks: 0530-2200
 
@@ -77,6 +80,8 @@ Embracing the new culture
 **TODO**
 Finding new mates
 	While I have spent my education hanging around with the same group of people, I think it will be difficult initially difficult to find a group, or break the ice with new people. However, during my time in STEM competitions, I have had success in this, and found many people I could relate to, and share common ground with. During my ADF testing, I had some good chats with the other candidates. I think structured environments, such as that STEM competition, and the waiting room, allow people to find common ground with one another, and thus break the ice and become comfortable around one another. Thus I believe I will be able to overcome this challenge. 
+
+
 
 ## Initial Employment training
 **Cannot find any good information about this**
@@ -115,6 +120,8 @@ I am expected to
 - Defence members do not have penalty rates or overtime as a condition of service.
 - Period of service
 	Your Gap Year experience will commence at the start of the year and will conclude 12 months later. Subsequent periods of service in the Regular or Reserve ADF may be offered subject to the requirements of the ADF and your suitability for further service. You may request discharge at any time by providing 21 days’ notice.
+- Zero tollerance for alcohol and drugs while in service
+
 
 ### Leadership
 ![[My leadership style]]
