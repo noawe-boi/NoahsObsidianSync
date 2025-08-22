@@ -26,3 +26,13 @@ tags:
 
 ### Examples
 ![[Specialist 6.3 Rational functions 2025-08-22 09.17.26.excalidraw]]
+## 6.3.3 Oblique asymptotes 
+### Foundational concepts
+#### Asymptotes
+Approached but never reached
+### Big ideas and concepts
+#### Rational functions
+ A rational function it the form $y=\frac{ax^2 + bx + c}{dx+e}$ (which cannot be simplified), will have an *oblique asymptote* **instead of a horizontal one**. 
+ The equation of the asymptote is the quotient when written after the polynomial long division
+### Examples
+![[Specialist 6.3 Rational functions 2025-08-22 10.03.02.excalidraw]]
