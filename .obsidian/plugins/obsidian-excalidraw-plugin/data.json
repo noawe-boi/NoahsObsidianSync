@@ -1,4 +1,5 @@
 {
+  "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -21,7 +22,9 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
+  "cropSuffix": "",
   "cropPrefix": "cropped_",
+  "annotateSuffix": "",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVG",
@@ -52,6 +55,9 @@
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
+  "zoomStep": 0.05,
+  "zoomMin": 0.1,
+  "zoomMax": 30,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
   "parseTODO": false,
@@ -100,7 +106,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.10.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.14.3",
     "libraryItems": [
       {
         "id": "Ggy0-N6n0-hMMxx_vOr9E",
@@ -372,10 +378,21 @@
         "value": "#e0e0e0",
         "description": "Base dark-gray used for mixing with the accent color to generate the palette dark-gray"
       }
+    },
+    "Downloaded/Scribble Helper": {
+      "Default action": {
+        "value": "Text",
+        "valueset": [
+          "Text",
+          "Sticky",
+          "Wrap"
+        ],
+        "description": "What type of element should CTRL/CMD+ENTER create. TEXT: A regular text element. STICKY: A sticky note with border color and background color (using the current setting of the canvas). STICKY: A sticky note with transparent border and background color."
+      }
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.10.1",
+  "previousRelease": "2.14.3",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -388,7 +405,7 @@
       "type": "finetip",
       "freedrawOnly": false,
       "fillStyle": "hachure",
-      "strokeWidth": 1,
+      "strokeWidth": 0.5,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
@@ -396,10 +413,10 @@
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
-          "thinning": 0.3,
-          "smoothing": 0.5,
+          "thinning": 0,
+          "smoothing": 0.1,
           "streamline": 0.5,
-          "easing": "easeOutSine",
+          "easing": "easeOutBounce",
           "start": {
             "cap": true,
             "taper": 0,
@@ -409,7 +426,8 @@
             "cap": true,
             "taper": 0,
             "easing": "linear"
-          }
+          },
+          "simulatePressure": false
         }
       },
       "strokeColor": "#000000",
@@ -418,8 +436,8 @@
     {
       "type": "highlighter",
       "freedrawOnly": true,
-      "strokeColor": "#FFC47C",
-      "backgroundColor": "#FFC47C",
+      "strokeColor": "#7affc6",
+      "backgroundColor": "#7affc6",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "roughness": null,
@@ -478,33 +496,34 @@
       }
     },
     {
-      "type": "fountain",
+      "type": "default",
       "freedrawOnly": false,
-      "strokeColor": "#000000",
+      "strokeColor": "#2422bf",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 2,
+      "strokeWidth": 0.5,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": false,
+        "constantPressure": true,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "options": {
-          "smoothing": 0.2,
-          "thinning": 0.6,
-          "streamline": 0.2,
-          "easing": "easeInOutSine",
+          "smoothing": 0,
+          "thinning": 0,
+          "streamline": 0,
+          "easing": "easeOutQuad",
           "start": {
-            "taper": 150,
+            "taper": 0,
             "cap": true,
             "easing": "linear"
           },
           "end": {
-            "taper": 1,
+            "taper": 0,
             "cap": true,
             "easing": "linear"
-          }
+          },
+          "simulatePressure": false
         }
       }
     },
@@ -695,7 +714,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 3,
+  "numberOfCustomPens": 4,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
@@ -705,7 +724,7 @@
   "pdfNumColumns": 1,
   "pdfNumRows": 1,
   "pdfDirection": "right",
-  "pdfImportScale": 0.3,
+  "pdfImportScale": 0.6,
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
@@ -730,6 +749,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
+  "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
@@ -1023,7 +1043,7 @@
     }
   },
   "slidingPanesSupport": false,
-  "areaZoomLimit": 1,
+  "areaZoomLimit": 4,
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "doubleClickLinkOpenViewMode": true,

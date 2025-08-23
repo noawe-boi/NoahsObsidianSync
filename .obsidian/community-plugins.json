@@ -1,7 +1,6 @@
 [
   "calendar",
   "obsidian-git",
-  "obsidian-markdown-formatting-assistant-plugin",
   "markdown-table-editor",
   "obsidian-excalidraw-plugin",
   "obsidian-discordrpc",
@@ -11,5 +10,14 @@
   "edge-tts",
   "tag-wrangler",
   "auto-note-mover",
-  "editor-width-slider"
+  "editor-width-slider",
+  "obsidian-tikzjax",
+  "calctex",
+  "obsidian-desmos",
+  "note-refactor-obsidian",
+  "settings-search",
+  "chem",
+  "pdf-plus",
+  "better-export-pdf",
+  "obsidian-pandoc"
 ]

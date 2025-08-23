@@ -32,5 +32,12 @@
   "showLineNumber": false,
   "tabSize": 4,
   "defaultViewMode": "source",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unfiltered",
+  "userIgnoreFilters": [
+    "Excalidraw/",
+    ".excalidraw"
+  ]
 }
