@@ -9,13 +9,25 @@ tags:
 when a **basic** substance gains a proton, it **forms an acid** called the conjugate acid of a base.
 #### Conjugate bases
 when an **acidic** substance loses a proton, it **forms a base**, called the conjugate base of an acid
-
-
 ### Base pairs
 Each pair will contain one Bronsted Lowry (BL) acid, and one BL base.
 
 ![[Pasted image 20250324100130.png]]
+### How it works (Somewhat Examples)
+#### Forming a conjugate base
+First consider a weak acid, the ammonium ion $(NH_4^+)$. When a proton $(H^+)$ is donated, we are left with $NH_3$. 
+$$NH_4^+ \rightarrow H^+ + NH_3$$
 
+![[Pasted image 20250828060625.png]]
+$NH_4^+$ has now gone from a weak acid, to $NH_3$, a weak base. 
+
+#### Forming a conjugate acid
+Consider a weak base, say the fluoride ion $(F)$. When a proton is donated to the fluoride atom, it converts it to $HF$, which is a weak acid. 
+$$\text{F}^{-} + \text{H}^{+} \rightarrow \text{HF} \nonumber$$
+![[Pasted image 20250828060937.png]]
+
+#### Strength of conjugate pairs
+![[Strength of conjugate pairs]]
 ### Conjugate pairs and $K_a$/$K_b$ ([[Chemistry Strengths of Acids and Bases]])
 
 $$

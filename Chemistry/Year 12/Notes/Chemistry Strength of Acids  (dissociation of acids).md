@@ -4,7 +4,7 @@ tags:
   - chem
   - notes
 ---
-### What is the strength of an acid?
+### What is the strength of an acid? ([[Chemistry Strengths of Acids and Bases]])
 The strength of an acid is given by its degree of ionisation (or dissociation) in an aqueous solution
 ![[Pasted image 20250828052252.png]]
 #### The strength of strong acids

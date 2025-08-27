@@ -9,7 +9,8 @@ Like a special dipole-dipole force that is about 10 times stronger than the aver
 ##  Requirements for formation
 - Hydrogen atom must be covalently bonded with an F, O, or N atom 
 - A lone pair of electrons in one of those F, O, or N atoms in neighbouring molecule
-
+## Solubility
+Stronger interactions between solute particles make the solute harder to dissolve. 
 
 
 ![[Hyrdogen bonding wojack | 1000]]
