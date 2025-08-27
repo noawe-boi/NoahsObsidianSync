@@ -14,5 +14,6 @@ The amine reactant is a weak base because it has a non-bonding pair of electrons
 ### Formula
 $$ \textrm{Carboxylic Acid + Amine} \rightarrow \textrm{Amide + Water}$$
 
+
 ![[Pasted image 20250804095503.png]]
 

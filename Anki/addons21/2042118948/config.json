@@ -1,0 +1,21 @@
+{
+  "paper": {
+    "format": "A4",
+    "orientation": "landscape",
+    "cardsPerRow": 4,
+    "cardsPerCol": 4
+  },
+  "output": {
+    "createHtml": true,
+    "createPdf": true,
+    "path": "download",
+    "filename": "papercard_{deck}_%y%m%d"
+  },
+  "card": {
+    "fontSize": "20px",
+    "padding": "0.8em",
+    "showBorder": true,
+    "skipQuestionOnBack": true,
+    "reverseOrderOnBack": true
+  }
+}

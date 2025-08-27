@@ -16,6 +16,12 @@ Each pair will contain one Bronsted Lowry (BL) acid, and one BL base.
 
 ![[Pasted image 20250324100130.png]]
 
+### Conjugate pairs and $K_a$/$K_b$ ([[Chemistry Strengths of Acids and Bases]])
+
+$$
+
+\begin{align}K_{\mathrm a}  &= \mathrm{\dfrac{[{ B}] [H^+]}{[{ BH^+}]}} \\  &= \mathrm{\dfrac{[{ B}] [H^+]}{[{ BH^+}]}\dfrac{[{ OH^-}]}{[{ OH^-}]}}\\  &= \mathrm{\dfrac{[{ B}]}{[{ BH^+}] [OH^-]}[H^+][OH^-]}\\  &= \dfrac{1}{K_{\mathrm b}}K_{\mathrm w}  \end{align}$$
+
 ## Examples
 
 ### Example 1

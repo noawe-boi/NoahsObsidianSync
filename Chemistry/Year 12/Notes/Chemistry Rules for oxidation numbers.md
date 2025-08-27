@@ -11,18 +11,29 @@ tags:
 	- e.g. $+2$ 
 
 - The oxidation number of hydrogen is +1 
-- The net oxidation number of a molecule is 0
-
-#### Group 1 Elements
-Have an oxidation number of $+1$
-
+- The net oxidation number of a neutral molecule is 0
 #### Free elements ($H_2, O_2, Cu$) 
 (i.e basically all gasses)
 Have an oxidation number of $0$ 
-
 #### Ions
 An ion has an oxiation number equal to the charge on the ion
-e.g. $Al^{3+}$ has an oxidation number of $+3$ 
-
+e.g. $Al^{3+}$ has an oxidation number of +3 
+#### Periodic table overlap
+##### Group 1 elements
+Have an oxidation number of +1
+##### Group 2 elements
+Have an oxidation number of +2
+#### Hydrogen
+##### Hydrogen bonded with non metals
+Oxidation number of +1
+##### Hydrogen bonded with metals (or Boron)
+Oxidation number of -1
+#### Oxygen
+Oxygen usually has an oxidation number of -2
+	Except for when bonded with $F$ or peroxides
 #### Elements in group 7 ($Cl, F, Br$)
 Have an oxidation number of -1
+#### Elements in group 16
+have an oxidation number of -2 
+#### Elements in group 15
+Have an oxidation number of -3.

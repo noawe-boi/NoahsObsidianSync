@@ -8,8 +8,11 @@ tags:
 ## Defining how strength is measured
 ### Define "Strong" and "Weak"
 Stronger $\implies$ Can dissociate or break down into its cation in water more easily. i.e. easier to ionise or dissociate 
+
+![[Pasted image 20250828052252.png]]
+
 ### Strength of acids
-![[Chemistry Strength of Acids]]
+![[Chemistry Strength of Acids  (dissociation of acids)]]
 
 ### Strength of bases
 ![[Chemistry Strength of Bases]]
@@ -45,4 +48,4 @@ Where
 
 
 ## $pK_a$ and $pK_b$
-![[Chemistry pKa and pKb]]
+![[Chemistry pKa and pKb (dissociation)]]
