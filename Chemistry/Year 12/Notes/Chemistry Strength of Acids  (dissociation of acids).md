@@ -6,7 +6,7 @@ tags:
 ---
 ### What is the strength of an acid?
 The strength of an acid is given by its degree of ionisation (or dissociation) in an aqueous solution
-
+![[Pasted image 20250828052252.png]]
 #### The strength of strong acids
 Usually we don't bother finding the $K_a$ of a strong acid, as we assume that $[A]=[H^+]$. i.e) The acid completely dissociates
 
