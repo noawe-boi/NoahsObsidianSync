@@ -5,7 +5,7 @@ tags:
 ---
 ## Definition
 Form between *all* molecules
-Occur instantaneouslyoh
+Occur instantaneously
 an *attractive* force
 
 ## How are they formed?
@@ -23,7 +23,7 @@ Larger molecule $\implies$ Easier to produce a temporary dipole $\because$ More 
 Linear molecule $\implies$ stronger dispersion forces $\because$ more surface area 
 
 
-![[Pasted image 20241019145830.png]]
+![[Pasted image 20241019145830.png|600]]
 
 ### Effects of dispersion forces
 Dispersion forces affect a molecules:

@@ -16,6 +16,7 @@ The purest form of [[Ionising Radiation]]
 
 
 ### Danger level
+VERY HIGH
 #### Ionisation ability
 *VERY HIGH*
 
