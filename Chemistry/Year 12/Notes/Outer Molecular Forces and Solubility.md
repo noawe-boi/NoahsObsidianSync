@@ -25,7 +25,7 @@ Water soluble (because water is a polar molecule)
 #### Non polar molecules
 Form weak dispersion forces
 Insoluble in polar solvents
-soluble in polar solvents 
+soluble in non polar solvents 
 ## ![[Dipole Dipole Forces]]
 
 
