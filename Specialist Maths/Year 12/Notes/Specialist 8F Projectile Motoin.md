@@ -40,7 +40,13 @@ $\frac{u^2}{2g}\sin(\theta)
 ##### range 
 $\frac{u^2}{g}\sin(2\theta)$
 ### Procedures
-When i doubt, sketch it out 
+When i doubt, sketch it out
+
+### Examples
+![[Specialist 8F Projectile Motoin 2025-09-02 09.37.07.excalidraw]]
+
+### Excercise
+![[Specialist 8F Projectile Motoin 2025-09-02 09.58.24.excalidraw]]
 
 ![[Specialist 8F Projectile Motoin 2025-09-02 09.26.59.excalidraw]]
 
