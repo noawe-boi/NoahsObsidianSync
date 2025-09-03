@@ -14,7 +14,7 @@ The energy equivalent of the mass defect is the **binding energy**. The binding 
 ### Binding energy graph 
 
 ![[Pasted image 20250604090735.png]]
-			Fusion $\rightarrow$              $\leftarrow$ Fission
+						Fusion $\rightarrow$              $\leftarrow$ Fission
 Going left: Consider from Uranium 238 to Iron (Fe), You are releasing energy
 
 Going Right: Consider from Hydrogen 2 to Helium 3, if you do fission you are going to lose energy, however if you do fusion you are going to gain a bunch of energy.
