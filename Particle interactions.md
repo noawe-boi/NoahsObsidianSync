@@ -29,7 +29,7 @@ existence of its own
 
 - Sometimes the photon can collapse back into an electron and positron as seen in the diagram. 
 
-Quark flavour changing
+##### Quark flavour changing
 ![[Physics 14.2 Fenyman Diagrams 2025-07-30 09.26.16.excalidraw|800]]
 The difference in charge is balanced by the emission of the boson, which decays into an [[Electron]] and Electron [[Antineutrino]]. 
 
