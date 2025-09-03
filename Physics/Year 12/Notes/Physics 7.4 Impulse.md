@@ -19,6 +19,7 @@ Where:
 #### In force vs time graphs
 ![[Pasted image 20250904073030.png]]
 ##### Formula
+IMPULSE IS AREA UNDER THE GRAPH
 $$I=F_{av}\cdot \Delta t$$
 Where:
 - $I$ is the impulse
