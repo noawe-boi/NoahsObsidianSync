@@ -18,5 +18,5 @@ This is pretty much just
 $\rho = mv \cdot \gamma$ 
 Where:
 $\gamma$ is the lorenz or relativistic factor ($\gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}$)
-t 
+
 
