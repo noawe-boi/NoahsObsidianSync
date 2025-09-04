@@ -44,8 +44,11 @@ $$\begin{bmatrix}
 \end{bmatrix}$$
 If
 - $c=d=0 \implies$ infinite solutions
+	A value of C is not required for a solution, therefore there are infinite
 - $c\neq 0 \implies$ unique solutions
+	There is a single value for $c$ so that $a=b=d$ 
 - $c=0, d\neq 0 \implies$ no solutions
+	There is not valid solution as this equation does not work. 
 #### For infinite solutions
 $$\begin{bmatrix}
 1 & 0 & 0 & | & a\\ 
