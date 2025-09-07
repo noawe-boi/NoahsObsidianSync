@@ -33,8 +33,10 @@ A sphere is every point that is equidistant (*radius*) from a point (center) in 
 
 ### Vocab and defintions
 #### Cartesian eqation of a sphere
-$(x-h)^2+(g-k)^2+(z-l)^2=r^2$
-
+$(x-h)^2+(y-k)^2+(z-l)^2=r^2$
+Where:
+- $r$ is the radius of the sphere
+- Center is at $(i, j, k$)
 #### Vector equation of a sphere
 $|r=\vec{OC}|=a$ 
 
