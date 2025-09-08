@@ -8,8 +8,9 @@ Esters are weak acids because they are in equilibrium with parent carboxylic aci
 ### Requirements
 - Heat
 - Trace amounts of mineral acid catalyst such as sulfuric acid. It is a reversible reaction
+- To prevent the ester from forming back into the reactants, we must heat and condensate the product off as it forms. 
 ### Formula
-$$\textrm{Carboxylic Acid + Alcohol} \rightarrow \textrm{Ester + Water}$$
+$$\textrm{Carboxylic Acid + Alcohol} \rightleftharpoons \textrm{Ester + Water}$$
 
 In general: **(something)-anol + (other thing)-oic acid** $\rightarrow$ **(something)-yl + (other thing)-oate.**
 ![[Pasted image 20250804093025.png]]

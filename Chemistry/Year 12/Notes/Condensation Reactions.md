@@ -11,4 +11,4 @@ When two molecules combine to form a larger molecule, and small by-product (**us
 ![[Esterification]]
 
 #### Condensation Reactions of Amines
-![[Condensation Reactions of Amides]]
+![[Condensation Reactions and synthesis of Amides]]
