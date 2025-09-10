@@ -4,3 +4,4 @@ nid	mid	fields
 1756868809023	1724953946307	Name all members of the family of hadrons	<br>Family of hadrons<br>- Proton<br>&nbsp; &nbsp; [$]uud[/$]<br>- Anti-Proton<br>&nbsp; &nbsp; [$]\bar{u}\bar{u}\bar{d}[/$]<br>- Omega minus<br>- Lambda
 1756870505667	1724953946307	What is the difference between an anti particle and a regular particle	The charge is flipped
 1756947716118	1724953946307	What is&nbsp;[$]t_0[/$]	The time from the moving objects perspective
+1757472096027	1724953946309	Solve for [$]\int \frac{1}{x-3}[/$]	Solve for&nbsp;[$]\frac{d}{dx}\ln(x-3)[/$]	[$]\int \frac{1}{x-3}=\ln(x-3)[/$]
