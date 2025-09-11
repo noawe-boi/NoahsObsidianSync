@@ -2,7 +2,7 @@
   "textFontFamily": "CMU Concrete",
   "cssTheme": "RetroOS 98",
   "theme": "moonstone",
-  "baseFontSize": 20,
+  "baseFontSize": 23,
   "showRibbon": false,
   "enabledCssSnippets": [],
   "baseFontSizeAction": true

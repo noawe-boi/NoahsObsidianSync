@@ -17,7 +17,7 @@ Total area is 1
 Pre calculates integral and lets us sub in our own bounds. 
 ### Vocab and definitions
 #### For PDF
-For pdf $f(x)$
+For pdf $f(t)$
 $\textrm{CDF}=\int^x_{-\infty} f(t) dt$
 
 ### Examples
