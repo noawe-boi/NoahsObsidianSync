@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### Projections
 Sugar molecules can simply just break a bond and reform to take on different isomers when the conditions are correct. Switches between $\alpha$ and $\beta$ projections. 
 ![[Pasted image 20250818091509.png|500]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - maths
+---
 #### Exponential distribution
 
 For $\lambda > 0$, an exponential random variable $X$, with parameter $\lambda$ has a probability density function

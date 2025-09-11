@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### What is it?
 Common [[Monosaccharide]],. Energy source for cellular respiration. 
 Plants synthesise glucose from carbon dioxide and water.

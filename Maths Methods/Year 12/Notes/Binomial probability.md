@@ -1,3 +1,7 @@
+---
+tags:
+  - methods
+---
 
 
 $$Pr (X=x)=(^n_x)p^x(1-p)^{n-x}$$

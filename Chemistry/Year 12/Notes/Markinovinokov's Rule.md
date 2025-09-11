@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### Markinovinokov's Rule
 For the preivous examples, the [[Alkene]]s were symmetrical.
 	i.e. it didnt matter which carbon atoms gets the hydrogen atom and which gets the halogen

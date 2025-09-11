@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### What is it
 
 [[Ester]]ification is a condensation reaction between [[Carboxylic Acid]] and [[Alcohol]] that generates an [[Ester]]

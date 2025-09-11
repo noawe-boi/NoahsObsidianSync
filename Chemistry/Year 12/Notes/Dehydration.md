@@ -1,3 +1,7 @@
+---
+tags:
+  - chem
+---
 ### Dehydration
 Removing water from an alcohol to form a multi bond hydrocarbon. 
 
