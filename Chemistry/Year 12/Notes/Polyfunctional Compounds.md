@@ -2,6 +2,9 @@
 tags:
   - chem
 ---
+A good resource to name polyfunctional compounds
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/32%3A_Appendix/32.00%3A_Appendix_A_-_Nomenclature_of_Polyfunctional_Organic_Compounds
+
 ### What are polyfunctional compounds
 - Many compounds have multiple functional groups present
 	These are called [[Polyfunctional Compounds]]
