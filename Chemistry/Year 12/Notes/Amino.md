@@ -6,4 +6,5 @@ tags:
 ```smiles
 CN
 ```
-- A $NH_2$ attached to a carbon chain 
+A nitrogen atom single bonded to a number of carbon or hydrogen depending on the degree of the atom.
+![[Pasted image 20250920041542.png]]
