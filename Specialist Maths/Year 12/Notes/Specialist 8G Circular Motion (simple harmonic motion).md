@@ -2,7 +2,7 @@
 tags:
   - Specialist
 ---
-### Foundational Concepts
+ ### Foundational Concepts
 #### [[Specialist 8C Position vs Time and Vector Calculus]]
 ![[Specialist 8C Position vs Time and Vector Calculus#Vocab and definitions]]
 ![[Specialist 8G Circular Motion 2025-09-05 09.54.03.excalidraw]]
