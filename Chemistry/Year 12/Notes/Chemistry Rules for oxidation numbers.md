@@ -5,6 +5,12 @@ tags:
   - 12Textbook
   - chem
 ---
+#### Etc
+- You multiply the oxidation number by the number of molecules in the thing
+	Considering $ClO_3^-\rightarrow Cl^-$, We have 3 oxygens in the first one. Therefore oxygen has a number of $-6$, therefore chlorine has a number of $+5$
+- Increasing oxidation number means that has been oxidised, decreasing means reduced.
+	Reduced $\rightarrow$ smaller 
+
 #### General
 
 - Must be written with $\pm$ before number
