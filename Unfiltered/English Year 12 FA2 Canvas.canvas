@@ -1,359 +1,49 @@
 {
-  "nodes": [
-    {
-      "id": "023ec93451ed964e",
-      "type": "text",
-      "text": "The cause of their low quality of life is not because of their disability, but because we cannot as a society adequately care for them ",
-      "x": -635,
-      "y": -240,
-      "width": 613,
-      "height": 241
-    },
-    {
-      "id": "2f87b41d083de815",
-      "type": "text",
-      "text": "First source: Australians with disability 4 times more likely to die early",
-      "x": -635,
-      "y": 40,
-      "width": 645,
-      "height": 106
-    },
-    {
-      "id": "7f3f7d135876b295",
-      "type": "text",
-      "text": "## General Structure ",
-      "x": -536,
-      "y": -740,
-      "width": 400,
-      "height": 63
-    },
-    {
-      "id": "d9c4ad74bdfba195",
-      "type": "text",
-      "text": "Theisis",
-      "x": -635,
-      "y": -316,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "00608d3295b1d399",
-      "type": "text",
-      "text": "**People assume that just because someone is disabled, they cannot experience a high quality of life, or contribute to society**",
-      "x": -1310,
-      "y": -392,
-      "width": 551,
-      "height": 172
-    },
-    {
-      "id": "70f68d043d75483b",
-      "type": "text",
-      "text": "What are disabled people?",
-      "x": -635,
-      "y": -402,
-      "width": 383,
-      "height": 50
-    },
-    {
-      "id": "223853c5287a03b8",
-      "type": "text",
-      "text": "Imagine if you couldn't do stuff and stuff. Maybe say how the word disabled is often associated with negativity",
-      "x": -136,
-      "y": -646,
-      "width": 475,
-      "height": 206
-    },
-    {
-      "id": "a5b5f1be8620e549",
-      "type": "text",
-      "text": "Assumptions associated with word 'disabled'",
-      "x": -136,
-      "y": -412,
-      "width": 427,
-      "height": 121
-    },
-    {
-      "id": "31595bf1dae0aef5",
-      "type": "text",
-      "text": "Does this mean they think disabled people are 'worth less' than 'normal' people",
-      "x": -1614,
-      "y": -646,
-      "width": 608,
-      "height": 144
-    },
-    {
-      "id": "2cbd5307486c4cb0",
-      "type": "text",
-      "text": "causes positive feedback loop",
-      "x": -1160,
-      "y": 20,
-      "width": 322,
-      "height": 97
-    },
-    {
-      "id": "cf59acfb076f6a43",
-      "type": "text",
-      "text": "Link",
-      "x": -635,
-      "y": 180,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "9c4eea0010b510a2",
-      "type": "text",
-      "text": "Seciond Source: Experience of discrimination/Genreal stats",
-      "x": -633,
-      "y": 268,
-      "width": 497,
-      "height": 180
-    },
-    {
-      "id": "b90c48d517364155",
-      "type": "text",
-      "text": "What issues does source suggest cause premature death?",
-      "x": -1400,
-      "y": 180,
-      "width": 629,
-      "height": 115
-    },
-    {
-      "id": "8dec7d7890a860cc",
-      "type": "text",
-      "text": "From a purely statistical point of view - disabled people are less capable than 'normal' people by varying degrees, and therefore worth less, but - from a human point of view - everyone deserves equal treatment",
-      "x": -2260,
-      "y": -392,
-      "width": 711,
-      "height": 223
-    },
-    {
-      "id": "adf9c05622859d12",
-      "type": "text",
-      "text": "While they may not able to live 'normal' lives, the best we can do is support them and help them feel 'normal'",
-      "x": -2182,
-      "y": -76,
-      "width": 556,
-      "height": 232
-    },
-    {
-      "id": "4642f97193c11d24",
-      "type": "text",
-      "text": "Disabled kit getting deported:\nhttps://www.abc.net.au/news/2025-02-06/family-seeks-reunion-with-disabled-son-rejected-for-residency/104868380",
-      "x": -2542,
-      "y": -784,
-      "width": 720,
-      "height": 184
-    },
-    {
-      "id": "8e7d4cd325aa7e4d",
-      "type": "file",
-      "file": "English/Year 12/Assessments/FA2/English Year 12 FA2 Draft 1.md",
-      "x": 800,
-      "y": -880,
-      "width": 1240,
-      "height": 3688
-    },
-    {
-      "id": "82eb746e3dd43b70",
-      "type": "text",
-      "text": "NDIS Exploitation",
-      "x": -638,
-      "y": 560,
-      "width": 253,
-      "height": 85
-    },
-    {
-      "id": "6a36f8be790ccfbc",
-      "type": "text",
-      "text": "\n### Social isolation\nhttps://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination\nPage 173",
-      "x": -665,
-      "y": 2009,
-      "width": 635,
-      "height": 325
-    },
-    {
-      "id": "3b1d48a8a155238e",
-      "type": "text",
-      "text": "### How many face discrimination??\n#### Graph\n![[Pasted image 20250405171244.png]]https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination\n\npage 169\n#### Experience of Discrimination/General Stats\n\nIn 2018, about **1 in 10** (9.6% or **314,000**) people with disability aged 15 and over (living in households) reported experiencing **discrimination due to disability** in the previous 12 months (ABS 2019b). This rate was higher among specific groups:\n\n- **People aged 15–64**:  \n    **1 in 6** (16% or **264,000**) experienced disability discrimination, compared with **3.2%** (or **51,000**) of those aged 65 and over.\n\n- **People with severe or profound disability** (aged 15–64):  \n    **1 in 3** (32% or **105,000**) reported experiencing discrimination, compared to **12%** (or **160,000**) of others with disability in this age group.\n\n- **People living in regional areas** (aged 15–64):\n    \n    - **Inner regional areas**: 19% (or **79,000**)\n        \n    - **Outer regional and remote areas**: 19% (or **32,000**)  \n        Compared to **14%** (or **154,000**) in **Major cities**.\n\n- **People with psychosocial or intellectual disability** (aged 15–64):\n    \n    - **Psychosocial disability**: 29% (or **134,000**)\n        \n    - **Intellectual disability**: 27% (or **53,000**)  e\n        In comparison:\n        \n    - **Sensory and speech disability**: 17% (or **57,000**)\n        \n    - **Physical disability**: 17% (or **189,000**)  \n        (ABS 2019a)\n\nPeople with psychosocial disability also accounted for the highest proportion of disability discrimination complaints received by the **Australian Human Rights Commission (AHRC)** in 2022–23. Of the **1,190 complaints** received (noting that a complainant may have more than one disability type):\n\n- **33%** were from people with **mental health/psychosocial disability**\n- **25%** from people with **physical disability**\n- **24%** from people with **neurological disability** (AHRC 2023)\n\nhttps://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination\npage 170-171",
-      "x": -2128,
-      "y": 1929,
-      "width": 1369,
-      "height": 2830
-    },
-    {
-      "id": "4d304a8551e5de88",
-      "type": "text",
-      "text": "Luke Stuckels seems ot understand that disability support is not just helping disabled people survive, bnut become independent and happy. This is in contrast to the rest of the industry. ",
-      "x": -1356,
-      "y": 521,
-      "width": 541,
-      "height": 249
-    },
-    {
-      "id": "ba3a80a465aa4653",
-      "type": "text",
-      "text": "Disabled people are being treateed like numbers, not people. Many NDIS workers are doing the base minimum to support these people, and some are even using disabled people to financially support themselves through 'farming'",
-      "x": -200,
-      "y": 680,
-      "width": 666,
-      "height": 224
-    },
-    {
-      "id": "f1be9aa851d99ec1",
-      "type": "text",
-      "text": "Discrimination from hospital staff",
-      "x": -2094,
-      "y": 705,
-      "width": 477,
-      "height": 87
-    },
-    {
-      "id": "e2e3b0bf845ba5fa",
-      "type": "text",
-      "text": "Health professionals do not communicate the details of their health to one another, like they would with their regular patients.",
-      "x": -2847,
-      "y": 646,
-      "width": 611,
-      "height": 148
-    },
-    {
-      "id": "985d28b0189237a6",
-      "type": "text",
-      "text": "Inaccessable buldings. ",
-      "x": -2342,
-      "y": 358,
-      "width": 438,
-      "height": 50
-    },
-    {
-      "id": "2145d4cc402771f8",
-      "x": -638,
-      "y": 964,
-      "width": 568,
-      "height": 160,
-      "type": "text",
-      "text": "Woman living in filth dies in hospital \nhttps://www.abc.net.au/news/2024-10-30/major-crime-investigate-death-woman-with-disabilities/104536302"
-    }
-  ],
-  "edges": [
-    {
-      "id": "f8c46f81061277cb",
-      "fromNode": "70f68d043d75483b",
-      "fromSide": "right",
-      "toNode": "223853c5287a03b8",
-      "toSide": "left"
-    },
-    {
-      "id": "fc7659ce89552604",
-      "fromNode": "d9c4ad74bdfba195",
-      "fromSide": "left",
-      "toNode": "00608d3295b1d399",
-      "toSide": "right"
-    },
-    {
-      "id": "03b4e9ea0a3e7aa8",
-      "fromNode": "70f68d043d75483b",
-      "fromSide": "right",
-      "toNode": "a5b5f1be8620e549",
-      "toSide": "left"
-    },
-    {
-      "id": "a03c0bbac901c226",
-      "fromNode": "00608d3295b1d399",
-      "fromSide": "left",
-      "toNode": "31595bf1dae0aef5",
-      "toSide": "bottom"
-    },
-    {
-      "id": "85e92410ca4f9dc8",
-      "fromNode": "2f87b41d083de815",
-      "fromSide": "left",
-      "toNode": "2cbd5307486c4cb0",
-      "toSide": "right"
-    },
-    {
-      "id": "9dbe9b3c6432ae5a",
-      "fromNode": "cf59acfb076f6a43",
-      "fromSide": "left",
-      "toNode": "b90c48d517364155",
-      "toSide": "right"
-    },
-    {
-      "id": "66356f1dcc6ee4fb",
-      "fromNode": "31595bf1dae0aef5",
-      "fromSide": "left",
-      "toNode": "8dec7d7890a860cc",
-      "toSide": "top"
-    },
-    {
-      "id": "52727454058bdf86",
-      "fromNode": "8dec7d7890a860cc",
-      "fromSide": "bottom",
-      "toNode": "adf9c05622859d12",
-      "toSide": "top"
-    },
-    {
-      "id": "1e915e645e5a6055",
-      "fromNode": "8dec7d7890a860cc",
-      "fromSide": "top",
-      "toNode": "4642f97193c11d24",
-      "toSide": "bottom"
-    },
-    {
-      "id": "c40746e2c7ccd921",
-      "fromNode": "82eb746e3dd43b70",
-      "fromSide": "left",
-      "toNode": "4d304a8551e5de88",
-      "toSide": "right"
-    },
-    {
-      "id": "ddb57d3ba50d834f",
-      "fromNode": "82eb746e3dd43b70",
-      "fromSide": "right",
-      "toNode": "ba3a80a465aa4653",
-      "toSide": "left"
-    },
-    {
-      "id": "c0969a4a10be5094",
-      "fromNode": "023ec93451ed964e",
-      "fromSide": "right",
-      "toNode": "ba3a80a465aa4653",
-      "toSide": "top"
-    },
-    {
-      "id": "59ce1522f3fbd1c0",
-      "fromNode": "b90c48d517364155",
-      "fromSide": "left",
-      "toNode": "985d28b0189237a6",
-      "toSide": "right"
-    },
-    {
-      "id": "1fbbbb5eee7e300d",
-      "fromNode": "b90c48d517364155",
-      "fromSide": "left",
-      "toNode": "f1be9aa851d99ec1",
-      "toSide": "right"
-    },
-    {
-      "id": "75634af33e34738a",
-      "fromNode": "f1be9aa851d99ec1",
-      "fromSide": "top",
-      "toNode": "9c4eea0010b510a2",
-      "toSide": "left"
-    },
-    {
-      "id": "e340bee0d4b188e4",
-      "fromNode": "b90c48d517364155",
-      "fromSide": "left",
-      "toNode": "e2e3b0bf845ba5fa",
-      "toSide": "right"
-    },
-    {
-      "id": "5eed8001e9a66dd1",
-      "fromNode": "e2e3b0bf845ba5fa",
-      "fromSide": "bottom",
-      "toNode": "ba3a80a465aa4653",
-      "toSide": "left"
-    }
-  ]
+	"nodes":[
+		{"id":"023ec93451ed964e","type":"text","text":"The cause of their low quality of life is not because of their disability, but because we cannot as a society adequately care for them ","x":-635,"y":-240,"width":613,"height":241},
+		{"id":"2f87b41d083de815","type":"text","text":"First source: Australians with disability 4 times more likely to die early","x":-635,"y":40,"width":645,"height":106},
+		{"id":"7f3f7d135876b295","type":"text","text":"## General Structure ","x":-536,"y":-740,"width":400,"height":63},
+		{"id":"d9c4ad74bdfba195","type":"text","text":"Theisis","x":-635,"y":-316,"width":250,"height":60},
+		{"id":"00608d3295b1d399","type":"text","text":"**People assume that just because someone is disabled, they cannot experience a high quality of life, or contribute to society**","x":-1310,"y":-392,"width":551,"height":172},
+		{"id":"70f68d043d75483b","type":"text","text":"What are disabled people?","x":-635,"y":-402,"width":383,"height":50},
+		{"id":"223853c5287a03b8","type":"text","text":"Imagine if you couldn't do stuff and stuff. Maybe say how the word disabled is often associated with negativity","x":-136,"y":-646,"width":475,"height":206},
+		{"id":"a5b5f1be8620e549","type":"text","text":"Assumptions associated with word 'disabled'","x":-136,"y":-412,"width":427,"height":121},
+		{"id":"31595bf1dae0aef5","type":"text","text":"Does this mean they think disabled people are 'worth less' than 'normal' people","x":-1614,"y":-646,"width":608,"height":144},
+		{"id":"2cbd5307486c4cb0","type":"text","text":"causes positive feedback loop","x":-1160,"y":20,"width":322,"height":97},
+		{"id":"cf59acfb076f6a43","type":"text","text":"Link","x":-635,"y":180,"width":250,"height":60},
+		{"id":"9c4eea0010b510a2","type":"text","text":"Seciond Source: Experience of discrimination/Genreal stats","x":-633,"y":268,"width":497,"height":180},
+		{"id":"b90c48d517364155","type":"text","text":"What issues does source suggest cause premature death?","x":-1400,"y":180,"width":629,"height":115},
+		{"id":"8dec7d7890a860cc","type":"text","text":"From a purely statistical point of view - disabled people are less capable than 'normal' people by varying degrees, and therefore worth less, but - from a human point of view - everyone deserves equal treatment","x":-2260,"y":-392,"width":711,"height":223},
+		{"id":"adf9c05622859d12","type":"text","text":"While they may not able to live 'normal' lives, the best we can do is support them and help them feel 'normal'","x":-2182,"y":-76,"width":556,"height":232},
+		{"id":"4642f97193c11d24","type":"text","text":"Disabled kit getting deported:\nhttps://www.abc.net.au/news/2025-02-06/family-seeks-reunion-with-disabled-son-rejected-for-residency/104868380","x":-2542,"y":-784,"width":720,"height":184},
+		{"id":"8e7d4cd325aa7e4d","type":"file","file":"English/Year 12/ExcerCises/English Year 12 FA2 Draft 1.md","x":800,"y":-880,"width":1240,"height":3688},
+		{"id":"82eb746e3dd43b70","type":"text","text":"NDIS Exploitation","x":-638,"y":560,"width":253,"height":85},
+		{"id":"6a36f8be790ccfbc","type":"text","text":"\n### Social isolation\nhttps://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination\nPage 173","x":-665,"y":2009,"width":635,"height":325},
+		{"id":"3b1d48a8a155238e","type":"text","text":"### How many face discrimination??\n#### Graph\n![[Pasted image 20250405171244.png]]https://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination\n\npage 169\n#### Experience of Discrimination/General Stats\n\nIn 2018, about **1 in 10** (9.6% or **314,000**) people with disability aged 15 and over (living in households) reported experiencing **discrimination due to disability** in the previous 12 months (ABS 2019b). This rate was higher among specific groups:\n\n- **People aged 15–64**:  \n    **1 in 6** (16% or **264,000**) experienced disability discrimination, compared with **3.2%** (or **51,000**) of those aged 65 and over.\n\n- **People with severe or profound disability** (aged 15–64):  \n    **1 in 3** (32% or **105,000**) reported experiencing discrimination, compared to **12%** (or **160,000**) of others with disability in this age group.\n\n- **People living in regional areas** (aged 15–64):\n    \n    - **Inner regional areas**: 19% (or **79,000**)\n        \n    - **Outer regional and remote areas**: 19% (or **32,000**)  \n        Compared to **14%** (or **154,000**) in **Major cities**.\n\n- **People with psychosocial or intellectual disability** (aged 15–64):\n    \n    - **Psychosocial disability**: 29% (or **134,000**)\n        \n    - **Intellectual disability**: 27% (or **53,000**)  e\n        In comparison:\n        \n    - **Sensory and speech disability**: 17% (or **57,000**)\n        \n    - **Physical disability**: 17% (or **189,000**)  \n        (ABS 2019a)\n\nPeople with psychosocial disability also accounted for the highest proportion of disability discrimination complaints received by the **Australian Human Rights Commission (AHRC)** in 2022–23. Of the **1,190 complaints** received (noting that a complainant may have more than one disability type):\n\n- **33%** were from people with **mental health/psychosocial disability**\n- **25%** from people with **physical disability**\n- **24%** from people with **neurological disability** (AHRC 2023)\n\nhttps://www.aihw.gov.au/reports/disability/people-with-disability-in-australia/contents/justice-and-safety/disability-discrimination\npage 170-171","x":-2128,"y":1929,"width":1369,"height":2830},
+		{"id":"4d304a8551e5de88","type":"text","text":"Luke Stuckels seems ot understand that disability support is not just helping disabled people survive, bnut become independent and happy. This is in contrast to the rest of the industry. ","x":-1356,"y":521,"width":541,"height":249},
+		{"id":"ba3a80a465aa4653","type":"text","text":"Disabled people are being treateed like numbers, not people. Many NDIS workers are doing the base minimum to support these people, and some are even using disabled people to financially support themselves through 'farming'","x":-200,"y":680,"width":666,"height":224},
+		{"id":"f1be9aa851d99ec1","type":"text","text":"Discrimination from hospital staff","x":-2094,"y":705,"width":477,"height":87},
+		{"id":"e2e3b0bf845ba5fa","type":"text","text":"Health professionals do not communicate the details of their health to one another, like they would with their regular patients.","x":-2847,"y":646,"width":611,"height":148},
+		{"id":"985d28b0189237a6","type":"text","text":"Inaccessable buldings. ","x":-2342,"y":358,"width":438,"height":50},
+		{"id":"2145d4cc402771f8","x":-638,"y":964,"width":568,"height":160,"type":"text","text":"Woman living in filth dies in hospital \nhttps://www.abc.net.au/news/2024-10-30/major-crime-investigate-death-woman-with-disabilities/104536302"}
+	],
+	"edges":[
+		{"id":"f8c46f81061277cb","fromNode":"70f68d043d75483b","fromSide":"right","toNode":"223853c5287a03b8","toSide":"left"},
+		{"id":"fc7659ce89552604","fromNode":"d9c4ad74bdfba195","fromSide":"left","toNode":"00608d3295b1d399","toSide":"right"},
+		{"id":"03b4e9ea0a3e7aa8","fromNode":"70f68d043d75483b","fromSide":"right","toNode":"a5b5f1be8620e549","toSide":"left"},
+		{"id":"a03c0bbac901c226","fromNode":"00608d3295b1d399","fromSide":"left","toNode":"31595bf1dae0aef5","toSide":"bottom"},
+		{"id":"85e92410ca4f9dc8","fromNode":"2f87b41d083de815","fromSide":"left","toNode":"2cbd5307486c4cb0","toSide":"right"},
+		{"id":"9dbe9b3c6432ae5a","fromNode":"cf59acfb076f6a43","fromSide":"left","toNode":"b90c48d517364155","toSide":"right"},
+		{"id":"66356f1dcc6ee4fb","fromNode":"31595bf1dae0aef5","fromSide":"left","toNode":"8dec7d7890a860cc","toSide":"top"},
+		{"id":"52727454058bdf86","fromNode":"8dec7d7890a860cc","fromSide":"bottom","toNode":"adf9c05622859d12","toSide":"top"},
+		{"id":"1e915e645e5a6055","fromNode":"8dec7d7890a860cc","fromSide":"top","toNode":"4642f97193c11d24","toSide":"bottom"},
+		{"id":"c40746e2c7ccd921","fromNode":"82eb746e3dd43b70","fromSide":"left","toNode":"4d304a8551e5de88","toSide":"right"},
+		{"id":"ddb57d3ba50d834f","fromNode":"82eb746e3dd43b70","fromSide":"right","toNode":"ba3a80a465aa4653","toSide":"left"},
+		{"id":"c0969a4a10be5094","fromNode":"023ec93451ed964e","fromSide":"right","toNode":"ba3a80a465aa4653","toSide":"top"},
+		{"id":"59ce1522f3fbd1c0","fromNode":"b90c48d517364155","fromSide":"left","toNode":"985d28b0189237a6","toSide":"right"},
+		{"id":"1fbbbb5eee7e300d","fromNode":"b90c48d517364155","fromSide":"left","toNode":"f1be9aa851d99ec1","toSide":"right"},
+		{"id":"75634af33e34738a","fromNode":"f1be9aa851d99ec1","fromSide":"top","toNode":"9c4eea0010b510a2","toSide":"left"},
+		{"id":"e340bee0d4b188e4","fromNode":"b90c48d517364155","fromSide":"left","toNode":"e2e3b0bf845ba5fa","toSide":"right"},
+		{"id":"5eed8001e9a66dd1","fromNode":"e2e3b0bf845ba5fa","fromSide":"bottom","toNode":"ba3a80a465aa4653","toSide":"left"}
+	]
 }

@@ -12,7 +12,7 @@ One electron - obviously
 #### Beta negative
 
 ##### What is it?
-- Literally just a regular ass [[electron]]
+- Literally just a regular ass [[Electron]]
 ##### When does it occur
 - Too many neutrons
 ##### Notation

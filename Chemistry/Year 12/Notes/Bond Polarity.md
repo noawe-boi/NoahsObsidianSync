@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Electronegativity
-![[Chemistry/Year 11/Notes/Electronegativity]]
+![[Chemistry/Year 12/Notes/Electronegativity]]
 
 
 ## Bond Polarity

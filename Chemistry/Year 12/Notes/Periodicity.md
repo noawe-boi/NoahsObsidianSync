@@ -15,9 +15,9 @@ The trends we see across the periodic table
 #### Why?
  - Due to types of bonds and structures formed by elements (strong, (solid) lattice structures or weak structres that are easily broken and cause a state change to either a liquid or a gas)
 
-### [[Chemistry/Year 11/Notes/Core charge]]
+### [[Chemistry/Year 12/Notes/Core charge]]
 #### Trend
-![[Chemistry/Year 11/Notes/Core charge]]
+![[Chemistry/Year 12/Notes/Core charge]]
 
 
 
@@ -40,7 +40,7 @@ Electronic Configurations are similar.
 e.g. Group 1 elements all hvae one electron in an S subshell, which explains t their softness,. and high reactivity. 
 ![[Pasted image 20241013125303.png]]
 
-### First [[Ionisation Energy]] and [[Chemistry/Year 11/Notes/Electronegativity]]
+### First [[Ionisation Energy]] and [[Chemistry/Year 12/Notes/Electronegativity]]
 #### Trend
 Decrease as you go down the group
 Increases across a period
