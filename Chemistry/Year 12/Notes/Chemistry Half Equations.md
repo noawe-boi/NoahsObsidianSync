@@ -60,7 +60,10 @@ To consider which reaction will occur, use the **electrochemical series table**
 
 
 ## Under Acidic Conditions
-### Steps
+### Coo l way 
+https://www.youtube.com/watch?v=HGzy_pRyej8&t=78s
+### Atomi Way
+#### Steps
 1. Balance all elements except oxygen and hydrogen
 2. Balance oxygen by adding water molecules
 3. Balance hydrogen by adding hydrogen ions
