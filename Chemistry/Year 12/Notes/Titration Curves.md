@@ -16,6 +16,13 @@ The graph below is an example of a strong acid, reacting with a strong base.
 - As the volume of titrant added approaches $50.0mL$, the equivalence point is reached 
 - As we push past the equivalence point, the solution reaches $pH$ of titrant
 ![[Pasted image 20250827083153.png]]
+
+
+##### Weak acid + weak base
+$pK_a = -\log K_a$
+$K_a = 10^{-pK_a}$
+$K_{a\textrm{ monoprotic acid}} = \frac{[H_3O^+][A^-]}{[HA]}=\frac{[H^+]}{[HA]}$
+
 ### Questions involving titration curves
 ![[Pasted image 20250827090105.png]]
 
