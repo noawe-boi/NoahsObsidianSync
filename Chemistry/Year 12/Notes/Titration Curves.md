@@ -17,8 +17,13 @@ The graph below is an example of a strong acid, reacting with a strong base.
 - As we push past the equivalence point, the solution reaches $pH$ of titrant
 ![[Pasted image 20250827083153.png]]
 
+##### Weak acid + strong base/strong acid + weak base
+Pretty much the same as strong acid/strong base but with a less sudden/steep equivalence point.
+
 
 ##### Weak acid + weak base
+The curve is gonna be all kinds of messed up. The equivalence point must be found using maths instead of visually. 
+
 $pK_a = -\log K_a$
 $K_a = 10^{-pK_a}$
 $K_{a\textrm{ monoprotic acid}} = \frac{[H_3O^+][A^-]}{[HA]}=\frac{[H^+]}{[HA]}$
