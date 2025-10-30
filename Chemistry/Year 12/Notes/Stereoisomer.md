@@ -16,7 +16,7 @@ Where
 ### Determining whether a molecule is chiral 
 Consider this molecule
 ![[Pasted image 20251013064113.png|200]]
-Clearly we have a chiral where each bromine is. However since there is a line of symmetry across each side of the molecule, the molecule is actually [[Achiral]] 
+Clearly we have a chiral centre where each bromine is. However since there is a line of symmetry across each side of the molecule, the molecule is actually [[Achiral]] 
 ![[Pasted image 20251013064226.png|200]]
 
 ### Types of stereo isomers
